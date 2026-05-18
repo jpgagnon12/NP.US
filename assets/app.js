@@ -14,8 +14,30 @@ if (toggle && nav) {
 
 const storageKey = "nationalParkCam.recentParks";
 const nationalParkCamBaseUrl = "https://www.nationalparkcam.com";
+const noCameraParkSlugs = new Set([
+  "badlands-national-park",
+  "biscayne-national-park",
+  "canyonlands-national-park",
+  "capitol-reef-national-park",
+  "carlsbad-caverns-national-park",
+  "congaree-national-park",
+  "cuyahoga-valley-national-park",
+  "death-valley-national-park",
+  "dry-tortugas-national-park",
+  "gates-of-the-arctic-national-park",
+  "gateway-arch-national-park",
+  "great-basin-national-park",
+  "great-sand-dunes-national-park",
+  "hot-springs-national-park",
+  "indiana-dunes-national-park",
+  "kenai-fjords-national-park",
+  "kobuk-valley-national-park",
+]);
 
-const getParkHref = (slug) => `${nationalParkCamBaseUrl}/parks/${slug}.html`;
+const getParkHref = (slug) =>
+  noCameraParkSlugs.has(slug)
+    ? `${pageDepth > 0 ? "" : "parks/"}${slug}.html`
+    : `${nationalParkCamBaseUrl}/parks/${slug}.html`;
 
 const readRecentParks = () => {
   try {
@@ -44,8 +66,10 @@ const renderRecentParks = () => {
   for (const item of items.slice(0, 5)) {
     const link = document.createElement("a");
     link.href = getParkHref(item.slug);
-    link.target = "_blank";
-    link.rel = "noopener";
+    if (!noCameraParkSlugs.has(item.slug)) {
+      link.target = "_blank";
+      link.rel = "noopener";
+    }
     link.textContent = item.shortTitle || item.title;
     if (item.slug === pageSlug) link.setAttribute("aria-current", "page");
     recentNav.append(link);
@@ -59,6 +83,7 @@ if (pageSlug && pageSlug !== "national-park-webcam-home" && pageSlug !== "resour
     .replace("National Park Webcams", "")
     .replace("National Park", "")
     .replace("Webcams", "")
+    .replace("Guide", "")
     .trim();
   const nextRecent = [
     { slug: pageSlug, title: pageTitle, shortTitle: shortTitle || pageTitle },

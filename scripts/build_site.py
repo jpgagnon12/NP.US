@@ -41,7 +41,7 @@ SECTION_TITLES = {
     "Short History of the National Park",
 }
 
-PARK_NAMES = {
+WEBCAM_PARK_NAMES = {
     "acadia-webcam": "Acadia National Park",
     "arches-webcam": "Arches National Park",
     "big-bend-webcam": "Big Bend National Park",
@@ -84,6 +84,31 @@ PARK_NAMES = {
     "yellowstone-webcam": "Yellowstone National Park",
     "yosemite-webcam": "Yosemite National Park",
     "zion-webcam": "Zion National Park",
+}
+
+NO_CAMERA_PARK_NAMES = {
+    "badlands-national-park": "Badlands National Park",
+    "biscayne-national-park": "Biscayne National Park",
+    "canyonlands-national-park": "Canyonlands National Park",
+    "capitol-reef-national-park": "Capitol Reef National Park",
+    "carlsbad-caverns-national-park": "Carlsbad Caverns National Park",
+    "congaree-national-park": "Congaree National Park",
+    "cuyahoga-valley-national-park": "Cuyahoga Valley National Park",
+    "death-valley-national-park": "Death Valley National Park",
+    "dry-tortugas-national-park": "Dry Tortugas National Park",
+    "gates-of-the-arctic-national-park": "Gates of the Arctic National Park and Preserve",
+    "gateway-arch-national-park": "Gateway Arch National Park",
+    "great-basin-national-park": "Great Basin National Park",
+    "great-sand-dunes-national-park": "Great Sand Dunes National Park and Preserve",
+    "hot-springs-national-park": "Hot Springs National Park",
+    "indiana-dunes-national-park": "Indiana Dunes National Park",
+    "kenai-fjords-national-park": "Kenai Fjords National Park",
+    "kobuk-valley-national-park": "Kobuk Valley National Park",
+}
+
+PARK_NAMES = {
+    **WEBCAM_PARK_NAMES,
+    **NO_CAMERA_PARK_NAMES,
 }
 
 PARK_COORDS = {
@@ -129,6 +154,23 @@ PARK_COORDS = {
     "yellowstone-webcam": [44.6, -110.5],
     "yosemite-webcam": [37.8651, -119.5383],
     "zion-webcam": [37.2982, -113.0263],
+    "badlands-national-park": [43.8554, -102.3397],
+    "biscayne-national-park": [25.4824, -80.2083],
+    "canyonlands-national-park": [38.3269, -109.8783],
+    "capitol-reef-national-park": [38.0877, -111.1355],
+    "carlsbad-caverns-national-park": [32.1479, -104.5567],
+    "congaree-national-park": [33.7919, -80.7487],
+    "cuyahoga-valley-national-park": [41.2808, -81.5678],
+    "death-valley-national-park": [36.5323, -116.9325],
+    "dry-tortugas-national-park": [24.6285, -82.8732],
+    "gates-of-the-arctic-national-park": [67.78, -153.3],
+    "gateway-arch-national-park": [38.6247, -90.1848],
+    "great-basin-national-park": [38.9833, -114.3],
+    "great-sand-dunes-national-park": [37.7916, -105.5943],
+    "hot-springs-national-park": [34.5215, -93.0422],
+    "indiana-dunes-national-park": [41.6533, -87.0524],
+    "kenai-fjords-national-park": [59.818, -150.1066],
+    "kobuk-valley-national-park": [67.3356, -159.1281],
 }
 
 PAGE_SOURCE_EMBEDS = {
@@ -245,6 +287,19 @@ def nationalparkcam_park_url(slug):
     return f"{NATIONALPARKCAM_SITE_URL}/parks/{slug}.html"
 
 
+def is_no_camera_page(slug):
+    return slug in NO_CAMERA_PARK_NAMES
+
+
+def page_target_href(page, depth=0, absolute=False):
+    if is_no_camera_page(page["slug"]):
+        if absolute:
+            return sitemap_loc(page)
+        target = page_href(page)
+        return rel_from_page(target, "park-detail") if depth else target
+    return nationalparkcam_park_url(page["slug"])
+
+
 def sitemap_loc(row):
     if row["slug"] == "national-park-webcam-home":
         return f"{SITE_URL}/"
@@ -298,8 +353,10 @@ def load_pages():
             row["link_count"] = int(row["link_count"])
             row["image_count"] = int(row["image_count"])
             row["embed_count"] = int(row.get("embed_count") or 0)
-            if row["slug"] in PARK_NAMES:
-                row["title"] = f"{PARK_NAMES[row['slug']]} Webcams"
+            if row["slug"] in WEBCAM_PARK_NAMES:
+                row["title"] = f"{WEBCAM_PARK_NAMES[row['slug']]} Webcams"
+            elif row["slug"] in NO_CAMERA_PARK_NAMES:
+                row["title"] = f"{NO_CAMERA_PARK_NAMES[row['slug']]} Guide"
             pages.append(row)
     return pages
 
@@ -351,8 +408,10 @@ def parse_markdown(path):
 
 
 def display_title(page, parsed_title):
-    if page["slug"] in PARK_NAMES:
-        return f"{PARK_NAMES[page['slug']]} Webcams"
+    if page["slug"] in WEBCAM_PARK_NAMES:
+        return f"{WEBCAM_PARK_NAMES[page['slug']]} Webcams"
+    if page["slug"] in NO_CAMERA_PARK_NAMES:
+        return f"{NO_CAMERA_PARK_NAMES[page['slug']]} Guide"
     return parsed_title
 
 
@@ -955,6 +1014,7 @@ def short_name(title):
     title = title.replace("National Park Webcams", "")
     title = title.replace("National Park", "")
     title = title.replace("Webcams", "")
+    title = title.replace("Guide", "")
     return re.sub(r"\s+", " ", title).strip(" -.") or title
 
 
@@ -980,11 +1040,14 @@ def related_park_links(current_page, pages, count=4):
     cards = []
     for _, page in related[:count]:
         title = short_name(page["title"])
+        href = page_target_href(page, depth=1)
+        action = "Read park guide" if is_no_camera_page(page["slug"]) else "View on NationalParkCam.com"
+        target_attrs = "" if is_no_camera_page(page["slug"]) else ' target="_blank" rel="noopener"'
         cards.append(
             f"""
-            <a class="related-park-card" href="{html.escape(nationalparkcam_park_url(page['slug']))}" target="_blank" rel="noopener">
+            <a class="related-park-card" href="{html.escape(href)}"{target_attrs}>
               <span>{html.escape(title)}</span>
-              <strong>View on NationalParkCam.com</strong>
+              <strong>{html.escape(action)}</strong>
             </a>
             """
         )
@@ -1052,6 +1115,8 @@ def seo_page_title(title, page_slug):
         return "National Parks Webcams | Live Park Cams, Weather & Maps"
     if page_slug in INFO_PAGE_SLUGS:
         return f"{title} | National Parks Webcams"
+    if is_no_camera_page(page_slug):
+        return f"{short_name(title)} Guide | National Park Visitor Info"
     return f"{short_name(title)} Webcams | Live Cams, Weather & Maps"
 
 
@@ -1144,6 +1209,10 @@ def build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug):
         cam_count = rendered_embed_count(embeds) + len(webcam_sources_by_slug.get(page["slug"], []))
         intro = intro_from_body(body)
         nps = official_nps_summary(res, PARK_NAMES.get(page["slug"], short_name(title)), intro)
+        href = page_target_href(page)
+        target_attrs = "" if is_no_camera_page(page["slug"]) else ' target="_blank" rel="noopener"'
+        aria_action = "Open" if is_no_camera_page(page["slug"]) else "Open on NationalParkCam.com"
+        card_action = "Read park guide" if is_no_camera_page(page["slug"]) else "View live cams on NationalParkCam.com"
         map_count = max(0, len(embeds) - rendered_embed_count(embeds))
         nps_link = (
             f'<a class="official-link" href="{html.escape(nps["url"])}" target="_blank" rel="noopener">Official NPS page</a>'
@@ -1153,11 +1222,11 @@ def build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug):
         cards.append(
             f"""
             <article class="park-card" data-title="{html.escape(title.lower())}">
-              <a href="{html.escape(nationalparkcam_park_url(page['slug']))}" target="_blank" rel="noopener" aria-label="Open {html.escape(title)} on NationalParkCam.com">
+              <a href="{html.escape(href)}"{target_attrs} aria-label="{html.escape(aria_action)} {html.escape(title)}">
                 <div class="park-card-body">
                   <h2>{html.escape(nps["title"])}</h2>
                   <p>{html.escape(nps["description"])}</p>
-                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                  <strong class="card-action">{html.escape(card_action)}</strong>
                 </div>
               </a>
               {nps_link}
@@ -1182,7 +1251,7 @@ def build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug):
                 "slug": page["slug"],
                 "title": short_name(page["title"]),
                 "fullTitle": page["title"],
-                "href": nationalparkcam_park_url(page["slug"]),
+                "href": page_target_href(page),
                 "lat": coords[0],
                 "lng": coords[1],
                 "cams": cam_count,
@@ -1230,7 +1299,7 @@ def build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug):
       <script type="application/json" id="park-map-data">{map_json}</script>
       <div class="section-heading park-grid-heading">
         <div>
-          <span class="eyebrow">All webcam pages</span>
+          <span class="eyebrow">All park pages</span>
           <h2>Park Directory</h2>
         </div>
       </div>
@@ -1253,11 +1322,40 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
     nps = official_nps_summary(resources, PARK_NAMES.get(page["slug"], short_name(title)), intro)
     planning_url = nps["url"] or (links[0]["url"] if links else source)
     nationalparkcam_url = nationalparkcam_park_url(page["slug"])
+    no_camera_page = is_no_camera_page(page["slug"])
     coords = PARK_COORDS.get(page["slug"], ["", ""])
     weather_attrs = f'data-lat="{coords[0]}" data-lng="{coords[1]}"' if coords[0] != "" else ""
     cam_notice = ""
     if page["slug"] == "black-canyon-of-the-gunnison-webcam":
         cam_notice = '<p class="section-note">The Black Canyon webcams are currently inactive. The park map remains available below.</p>'
+    if no_camera_page:
+        primary_cta = f'<a class="button primary" href="{html.escape(NATIONALPARKCAM_SITE_URL)}" target="_blank" rel="noopener">View cameras from other national parks</a>'
+        live_section = f"""
+    <section class="resource-section guide-cta-section" id="park-map">
+      <div class="section-heading">
+        <div><span class="eyebrow">No current camera page</span><h2>Explore nearby live park views</h2></div>
+      </div>
+      <div class="guide-cta-card">
+        <div>
+          <strong>{html.escape(NO_CAMERA_PARK_NAMES[page["slug"]])}</strong>
+          <p>This guide preserves the visitor information and official resource links for the park. For live webcam views, browse NationalParkCam.com and compare cameras from other national parks.</p>
+        </div>
+        <a class="button primary" href="{html.escape(NATIONALPARKCAM_SITE_URL)}" target="_blank" rel="noopener">Open NationalParkCam.com</a>
+      </div>
+      <div class="embed-grid">{render_park_map_card(page["slug"])}</div>
+    </section>
+"""
+    else:
+        primary_cta = f'<a class="button primary" href="{html.escape(nationalparkcam_url)}" target="_blank" rel="noopener">View webcams on NationalParkCam.com</a>'
+        live_section = f"""
+    <section class="resource-section live-first" id="live-cams">
+      <div class="section-heading">
+        <div><h2>Live Cams & Maps</h2></div>
+      </div>
+      {cam_notice}
+      <div class="embed-grid">{render_embed_cards(embeds, webcam_sources, captions, page["slug"])}</div>
+    </section>
+"""
     body_html = f"""
   <main>
     <section class="page-hero">
@@ -1266,18 +1364,12 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
         <h1>{html.escape(title)}</h1>
         <p>{html.escape(hero_intro(title, intro))}</p>
         <div class="page-actions">
-          <a class="button primary" href="{html.escape(nationalparkcam_url)}" target="_blank" rel="noopener">View webcams on NationalParkCam.com</a>
+          {primary_cta}
           <a class="button" href="{html.escape(planning_url)}" target="_blank" rel="noopener">Visit park website</a>
         </div>
       </div>
     </section>
-    <section class="resource-section live-first" id="live-cams">
-      <div class="section-heading">
-        <div><h2>Live Cams & Maps</h2></div>
-      </div>
-      {cam_notice}
-      <div class="embed-grid">{render_embed_cards(embeds, webcam_sources, captions, page["slug"])}</div>
-    </section>
+    {live_section}
     <section class="weather-section" {weather_attrs}>
       <div class="section-heading">
         <div><h2>Weather</h2></div>
