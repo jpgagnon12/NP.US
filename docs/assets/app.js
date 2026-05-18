@@ -94,6 +94,44 @@ if (pageSlug && pageSlug !== "national-park-webcam-home" && pageSlug !== "resour
 
 renderRecentParks();
 
+const heroVideoData = document.querySelector("#hero-video-data");
+const heroVideoIframe = document.querySelector("#hero-video-iframe");
+const heroVideoPark = document.querySelector("#hero-video-park");
+const heroVideoTitle = document.querySelector("#hero-video-title");
+const heroVideoLink = document.querySelector("#hero-video-link");
+
+const withAutoplay = (url) => {
+  try {
+    const nextUrl = new URL(url);
+    nextUrl.searchParams.set("autoplay", "1");
+    nextUrl.searchParams.set("mute", "1");
+    nextUrl.searchParams.set("playsinline", "1");
+    nextUrl.searchParams.set("rel", "0");
+    if (window.location.origin && window.location.origin !== "null") {
+      nextUrl.searchParams.set("origin", window.location.origin);
+    }
+    return nextUrl.toString();
+  } catch {
+    return url;
+  }
+};
+
+if (heroVideoData && heroVideoIframe) {
+  try {
+    const videos = JSON.parse(heroVideoData.textContent || "[]");
+    const video = videos[Math.floor(Math.random() * videos.length)];
+    if (video) {
+      heroVideoIframe.src = withAutoplay(video.url);
+      heroVideoIframe.title = video.label;
+      if (heroVideoPark) heroVideoPark.textContent = video.park;
+      if (heroVideoTitle) heroVideoTitle.textContent = video.label;
+      if (heroVideoLink) heroVideoLink.href = video.href;
+    }
+  } catch {
+    heroVideoIframe.src = withAutoplay(heroVideoIframe.src);
+  }
+}
+
 const search = document.querySelector("#park-search");
 const cards = Array.from(document.querySelectorAll(".park-card"));
 const mapButtons = [];

@@ -216,87 +216,54 @@ h3 {
 }
 
 .hero-streams {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 12px;
   background: #17211d;
-  padding: 12px;
 }
 
-.hero-stream-card {
-  overflow: hidden;
+.hero-video-player {
+  display: grid;
+  gap: 0;
   min-width: 0;
   background: var(--surface);
-  border-radius: 8px;
 }
 
-.hero-stream-card:first-child {
-  grid-column: span 2;
-}
-
-.hero-stream-card a {
-  display: grid;
-  gap: 2px;
-  text-decoration: none;
-}
-
-.hero-stream-card a > span,
-.hero-stream-card strong {
-  margin-inline: 12px;
-}
-
-.hero-stream-card a > span {
-  margin-top: 12px;
-}
-
-.hero-stream-card strong {
-  margin-bottom: 12px;
-}
-
-.hero-stream-thumb {
-  position: relative;
+.hero-video-frame {
   aspect-ratio: 16 / 9;
-  overflow: hidden;
-  background: linear-gradient(135deg, rgba(111, 139, 87, 0.28), rgba(47, 111, 136, 0.24));
+  background: #111;
 }
 
-.hero-stream-thumb img {
+.hero-video-frame iframe {
+  display: block;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  border: 0;
 }
 
-.play-badge {
-  position: absolute;
-  right: 10px;
-  bottom: 10px;
-  display: inline-flex;
-  border-radius: 999px;
-  background: var(--clay);
-  color: white;
-  font-size: 0.7rem;
-  font-weight: 900;
-  padding: 4px 8px;
-  text-transform: uppercase;
+.hero-video-meta {
+  display: grid;
+  gap: 5px;
+  padding: 14px 16px 16px;
 }
 
-.hero-stream-card span {
+.hero-video-meta span {
   color: var(--water);
   font-size: 0.72rem;
   font-weight: 850;
   text-transform: uppercase;
 }
 
-.hero-stream-thumb .play-badge {
-  color: white;
-}
-
-.hero-stream-card strong {
+.hero-video-meta strong {
   overflow: hidden;
   color: var(--ink);
-  font-size: 0.95rem;
+  font-size: 1rem;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+.hero-video-meta a {
+  color: var(--forest);
+  font-size: 0.85rem;
+  font-weight: 850;
+  text-decoration: none;
 }
 
 .hero-photo {
@@ -1155,11 +1122,6 @@ h3 {
     min-height: auto;
   }
 
-  .hero-streams {
-    grid-template-columns: 1fr;
-  }
-
-  .hero-stream-card:first-child,
   .video-card:first-child {
     grid-column: span 1;
   }

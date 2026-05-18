@@ -20,6 +20,22 @@ CUSTOM_DOMAIN = "national-parks.us"
 NATIONALPARKCAM_SITE_URL = "https://www.nationalparkcam.com"
 GOOGLE_ANALYTICS_ID = "G-Y64NX1DFKX"
 INFO_PAGE_SLUGS = {"about", "contact", "privacy-policy"}
+ACTIVE_HERO_YOUTUBE_IDS = {
+    "OteVW3af3BU",
+    "OAJF1Ie1m_Q",
+    "f5Rjm5tiEkU",
+    "OtbWimuJQ_A",
+    "rnTsOesC6hE",
+    "XhBUrjhJm1A",
+    "o4fKtgPVpoU",
+    "6IaMqotNF_s",
+    "Tz5tPqRRv1Y",
+    "FVdmnpJ2kM0",
+    "gXKuUyKt8mc",
+    "C0e8bpZ-5WY",
+    "BWnloy8r0qU",
+    "5LFLhZ_h91A",
+}
 
 
 SECTION_TITLES = {
@@ -945,55 +961,66 @@ def clean_embed_label(label):
 
 
 def popular_streams(resources_by_url, pages):
-    preferred = [
-        "katmai-webcam",
-        "yellowstone-webcam",
-        "yosemite-webcam",
-        "grand-tetons-webcam",
-    ]
-    by_slug = {page["slug"]: page for page in pages}
+    seen_video_ids = set()
     streams = []
-    for slug in preferred:
-        page = by_slug.get(slug)
-        if not page:
-            continue
+    for page in pages:
         for item in resources_by_url[page["url"]]:
-            if item["type"] == "embed" and "youtube.com/embed/" in item["url"]:
-                streams.append(
-                    {
-                        "park": short_name(page["title"]),
-                        "label": clean_embed_label(clean_title(item["label"])),
-                        "url": item["url"],
-                        "href": nationalparkcam_park_url(page["slug"]),
-                    }
-                )
-                break
+            if item["type"] != "embed" or "youtube.com/embed/" not in item["url"]:
+                continue
+            video_id = youtube_id(item["url"])
+            if not video_id or video_id in seen_video_ids or video_id not in ACTIVE_HERO_YOUTUBE_IDS:
+                continue
+            seen_video_ids.add(video_id)
+            streams.append(
+                {
+                    "park": short_name(page["title"]),
+                    "label": clean_embed_label(clean_title(item["label"])),
+                    "url": item["url"],
+                    "href": nationalparkcam_park_url(page["slug"]),
+                }
+            )
     return streams
 
 
+def youtube_autoplay_url(url):
+    parsed = urlparse(url)
+    query = parse_qs(parsed.query)
+    query.update(
+        {
+            "autoplay": ["1"],
+            "mute": ["1"],
+            "playsinline": ["1"],
+            "rel": ["0"],
+        }
+    )
+    return urlunparse(parsed._replace(query=urlencode(query, doseq=True)))
+
+
 def render_popular_streams(streams):
-    cards = []
-    for stream in streams[:4]:
-        video_id = youtube_id(stream["url"])
-        thumbnail = f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg" if video_id else ""
-        alt_text = f"{stream['park']} {stream['label']} video thumbnail"
-        image = (
-            f'<img src="{html.escape(thumbnail)}" alt="{html.escape(alt_text)}" loading="eager" onerror="this.closest(\'.hero-stream-card\').classList.add(\'image-missing\'); this.remove();">'
-            if thumbnail
-            else ""
-        )
-        cards.append(
-            f"""
-            <article class="hero-stream-card">
-              <a href="{html.escape(stream['href'])}" target="_blank" rel="noopener">
-                <div class="hero-stream-thumb">{image}<span class="play-badge">Live</span></div>
-                <span>{html.escape(stream['park'])}</span>
-                <strong>{html.escape(stream['label'])}</strong>
-              </a>
-            </article>
-            """
-        )
-    return "\n".join(cards)
+    if not streams:
+        return ""
+    initial = streams[0]
+    initial_src = youtube_autoplay_url(initial["url"])
+    stream_json = html.escape(json.dumps(streams), quote=False)
+    return f"""
+        <div class="hero-video-player" data-random-hero-video>
+          <script type="application/json" id="hero-video-data">{stream_json}</script>
+          <div class="hero-video-frame">
+            <iframe
+              id="hero-video-iframe"
+              src="{html.escape(initial_src)}"
+              title="{html.escape(initial['label'])}"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen></iframe>
+          </div>
+          <div class="hero-video-meta">
+            <span id="hero-video-park">{html.escape(initial['park'])}</span>
+            <strong id="hero-video-title">{html.escape(initial['label'])}</strong>
+            <a id="hero-video-link" href="{html.escape(initial['href'])}" target="_blank" rel="noopener">View on NationalParkCam.com</a>
+          </div>
+        </div>
+    """
 
 
 def render_nav(pages, current_slug, depth):
@@ -1197,7 +1224,7 @@ def page_shell(title, body, page_slug, pages, description, image="", depth=0):
   </section>
   <footer class="site-footer"></footer>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="{prefix}assets/app.js?v=20260505-gtcr"></script>
+  <script src="{prefix}assets/app.js?v=20260518-live-video-preview"></script>
 </body>
 </html>
 """
