@@ -1273,9 +1273,6 @@ def build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug):
         <span class="eyebrow">Live views, hikes, camping, lodging, and park notes</span>
         <h1>National Park Guide</h1>
         <p>{html.escape(description)}</p>
-        <div class="hero-actions">
-          <a class="button primary" href="#parks">Find live cams</a>
-        </div>
       </div>
       <div class="hero-streams" aria-label="Popular live streams">
         {render_popular_streams(hero_streams)}
@@ -1285,7 +1282,7 @@ def build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug):
       <div class="section-heading">
         <div>
           <span class="eyebrow">Browse by location</span>
-          <h2>Live Cam Map</h2>
+          <h2>Map</h2>
         </div>
         <label class="search-box">
           <span>Search</span>
