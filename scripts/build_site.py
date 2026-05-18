@@ -1040,7 +1040,10 @@ def related_park_links(current_page, pages, count=4):
     cards = []
     for _, page in related[:count]:
         title = short_name(page["title"])
-        href = page_target_href(page, depth=1)
+        if is_no_camera_page(current_page["slug"]) and not is_no_camera_page(page["slug"]):
+            href = NATIONALPARKCAM_SITE_URL
+        else:
+            href = page_target_href(page, depth=1)
         action = "Read park guide" if is_no_camera_page(page["slug"]) else "View on NationalParkCam.com"
         target_attrs = "" if is_no_camera_page(page["slug"]) else ' target="_blank" rel="noopener"'
         cards.append(
@@ -1064,12 +1067,13 @@ def related_park_links(current_page, pages, count=4):
 
 
 def structured_data(title, page_slug, description, canonical_url):
+    site_name = "National Parks Guide" if is_no_camera_page(page_slug) else "National Parks Webcams"
     if page_slug == "national-park-webcam-home":
         graph = [
             {
                 "@context": "https://schema.org",
                 "@type": "WebSite",
-                "name": "National Parks Webcams",
+                "name": site_name,
                 "url": canonical_url,
                 "description": description,
             }
@@ -1084,7 +1088,7 @@ def structured_data(title, page_slug, description, canonical_url):
                 "description": description,
                 "isPartOf": {
                     "@type": "WebSite",
-                    "name": "National Parks Webcams",
+                    "name": site_name,
                     "url": SITE_URL,
                 },
             },
@@ -1146,6 +1150,7 @@ def page_shell(title, body, page_slug, pages, description, image="", depth=0):
     seo_title = seo_page_title(title, page_slug)
     json_ld = structured_data(title, page_slug, description, canonical_url).replace("</", "<\\/")
     data_attrs = f' data-page-slug="{html.escape(page_slug)}" data-page-title="{html.escape(title)}" data-page-depth="{depth}"'
+    brand_label = "National Parks Guide home" if is_no_camera_page(page_slug) else "National Parks Webcams home"
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -1171,7 +1176,7 @@ def page_shell(title, body, page_slug, pages, description, image="", depth=0):
 </head>
 <body{data_attrs}>
   <header class="site-header">
-    <a class="brand" href="{prefix}index.html" aria-label="National Parks Webcams home">
+    <a class="brand" href="{prefix}index.html" aria-label="{html.escape(brand_label)}">
       <img class="brand-logo" src="{prefix}assets/npsLogo.png" alt="National Park Cam logo">
     </a>
     <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
@@ -1338,7 +1343,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
       <div class="guide-cta-card">
         <div>
           <strong>{html.escape(NO_CAMERA_PARK_NAMES[page["slug"]])}</strong>
-          <p>This guide preserves the visitor information and official resource links for the park. For live webcam views, browse NationalParkCam.com and compare cameras from other national parks.</p>
+          <p>This guide preserves the visitor information and official resource links for the park. For live park views, browse NationalParkCam.com and compare cameras from other national parks.</p>
         </div>
         <a class="button primary" href="{html.escape(NATIONALPARKCAM_SITE_URL)}" target="_blank" rel="noopener">Open NationalParkCam.com</a>
       </div>
