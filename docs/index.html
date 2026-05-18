@@ -1,0 +1,600 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>National Parks Webcams | Live Park Cams, Weather &amp; Maps</title>
+  <meta name="description" content="Browse live National Park webcams, weather, maps, hiking notes, lodging, camping, and current park conditions from U.S. national parks.">
+  <meta property="og:title" content="National Parks Webcams | Live Park Cams, Weather &amp; Maps">
+  <meta property="og:description" content="Browse live National Park webcams, weather, maps, hiking notes, lodging, camping, and current park conditions from U.S. national parks.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://national-parks.us">
+  <meta property="og:image" content="https://lh3.googleusercontent.com/docsubipk/AP9E6xXAv2NqmiiDT-ziS351gKEJHKV74i3hHzVdU1XuLnpGuIRlpjV6269jS5sdFVx1DT65f8WXZGsuyNSYL8zzuEnOJWvG6gh3xoYLmC_AxF2IbsbF3thUUfLwlFcBeUGVPbZV08QNaGzBKTjBhMhPmTyu9bcjg7bmT81bsWL8aJal2INIRSa15OA">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="National Parks Webcams | Live Park Cams, Weather &amp; Maps">
+  <meta name="twitter:description" content="Browse live National Park webcams, weather, maps, hiking notes, lodging, camping, and current park conditions from U.S. national parks.">
+  <meta name="twitter:url" content="https://national-parks.us">
+  <meta name="twitter:image" content="https://lh3.googleusercontent.com/docsubipk/AP9E6xXAv2NqmiiDT-ziS351gKEJHKV74i3hHzVdU1XuLnpGuIRlpjV6269jS5sdFVx1DT65f8WXZGsuyNSYL8zzuEnOJWvG6gh3xoYLmC_AxF2IbsbF3thUUfLwlFcBeUGVPbZV08QNaGzBKTjBhMhPmTyu9bcjg7bmT81bsWL8aJal2INIRSa15OA">
+  <link rel="canonical" href="https://national-parks.us">
+  <script type="application/ld+json">[{"@context": "https://schema.org", "@type": "WebSite", "name": "National Parks Webcams", "url": "https://national-parks.us", "description": "Browse live National Park webcams, weather, maps, hiking notes, lodging, camping, and current park conditions from U.S. national parks."}]</script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6SYHNQMD41"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-6SYHNQMD41');
+  </script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body data-page-slug="national-park-webcam-home" data-page-title="National Parks Webcams" data-page-depth="0">
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="National Parks Webcams home">
+      <img class="brand-logo" src="assets/npsLogo.png" alt="National Park Cam logo">
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <div class="header-nav-group">
+      <nav class="recent-parks" id="recent-parks" aria-label="Recently viewed parks"></nav>
+      <nav class="site-nav" id="site-nav"><a href="index.html">Home</a>
+<a href="index.html#parks">Parks</a></nav>
+    </div>
+  </header>
+  
+  <main>
+    <section class="home-hero">
+      <div class="hero-copy">
+        <span class="eyebrow">Live views, hikes, camping, lodging, and park notes</span>
+        <h1>National Parks Webcams</h1>
+        <p>Browse live National Park webcams, weather, maps, hiking notes, lodging, camping, and current park conditions from U.S. national parks.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#parks">Find live cams</a>
+        </div>
+      </div>
+      <div class="hero-streams" aria-label="Popular live streams">
+        
+            <article class="hero-stream-card">
+              <a href="https://www.nationalparkcam.com/parks/katmai-webcam.html" target="_blank" rel="noopener">
+                <div class="hero-stream-thumb"><img src="https://i.ytimg.com/vi/73-EekdVVU8/hqdefault.jpg" alt="Katmai Brooks Falls - Katmai National Park, Alaska 2025 powered by EXPLORE.org video thumbnail" loading="eager" onerror="this.closest('.hero-stream-card').classList.add('image-missing'); this.remove();"><span class="play-badge">Live</span></div>
+                <span>Katmai</span>
+                <strong>Brooks Falls - Katmai National Park, Alaska 2025 powered by EXPLORE.org</strong>
+              </a>
+            </article>
+            
+
+            <article class="hero-stream-card">
+              <a href="https://www.nationalparkcam.com/parks/yellowstone-webcam.html" target="_blank" rel="noopener">
+                <div class="hero-stream-thumb"><img src="https://i.ytimg.com/vi/BWnloy8r0qU/hqdefault.jpg" alt="Yellowstone 🌎 LIVE Yellowstone National Park | Old Faithful | Relaxing Music video thumbnail" loading="eager" onerror="this.closest('.hero-stream-card').classList.add('image-missing'); this.remove();"><span class="play-badge">Live</span></div>
+                <span>Yellowstone</span>
+                <strong>🌎 LIVE Yellowstone National Park | Old Faithful | Relaxing Music</strong>
+              </a>
+            </article>
+            
+
+            <article class="hero-stream-card">
+              <a href="https://www.nationalparkcam.com/parks/yosemite-webcam.html" target="_blank" rel="noopener">
+                <div class="hero-stream-thumb"><img src="https://i.ytimg.com/vi/5LFLhZ_h91A/hqdefault.jpg" alt="Yosemite 🌲 Yosemite Live Webcams | Half Dome, El Capitan, Yosemite Falls, High Sierra. Relaxing Nature Escape video thumbnail" loading="eager" onerror="this.closest('.hero-stream-card').classList.add('image-missing'); this.remove();"><span class="play-badge">Live</span></div>
+                <span>Yosemite</span>
+                <strong>🌲 Yosemite Live Webcams | Half Dome, El Capitan, Yosemite Falls, High Sierra. Relaxing Nature Escape</strong>
+              </a>
+            </article>
+            
+
+            <article class="hero-stream-card">
+              <a href="https://www.nationalparkcam.com/parks/grand-tetons-webcam.html" target="_blank" rel="noopener">
+                <div class="hero-stream-thumb"><img src="https://i.ytimg.com/vi/XhBUrjhJm1A/hqdefault.jpg" alt="Grand Teton Live from Grand Teton National Park video thumbnail" loading="eager" onerror="this.closest('.hero-stream-card').classList.add('image-missing'); this.remove();"><span class="play-badge">Live</span></div>
+                <span>Grand Teton</span>
+                <strong>Live from Grand Teton National Park</strong>
+              </a>
+            </article>
+            
+      </div>
+    </section>
+    <section class="park-browser" id="parks">
+      <div class="section-heading">
+        <div>
+          <span class="eyebrow">Browse by location</span>
+          <h2>Live Cam Map</h2>
+        </div>
+        <label class="search-box">
+          <span>Search</span>
+          <input type="search" id="park-search" placeholder="Yellowstone, Acadia, Zion...">
+        </label>
+      </div>
+      <div class="map-explorer">
+        <div id="webcam-map" class="webcam-map" aria-label="Interactive national park webcam map"></div>
+        <aside class="map-side">
+          <span class="eyebrow">Featured live cams</span>
+          <h3 id="map-active-title">Select a park</h3>
+          <p id="map-active-meta">Choose a marker or a park below to jump straight to its webcam page.</p>
+          <a id="map-active-link" class="button primary" href="#parks" target="_blank" rel="noopener">Open park cams</a>
+          <div class="map-list" id="map-list"></div>
+        </aside>
+      </div>
+      <script type="application/json" id="park-map-data">[{"slug": "acadia-webcam", "title": "Acadia", "fullTitle": "Acadia National Park Webcams", "href": "https://www.nationalparkcam.com/parks/acadia-webcam.html", "lat": 44.3386, "lng": -68.2733, "cams": 6, "embeds": 9, "links": 14}, {"slug": "arches-webcam", "title": "Arches", "fullTitle": "Arches National Park Webcams", "href": "https://www.nationalparkcam.com/parks/arches-webcam.html", "lat": 38.7331, "lng": -109.5925, "cams": 2, "embeds": 7, "links": 11}, {"slug": "big-bend-webcam", "title": "Big Bend", "fullTitle": "Big Bend National Park Webcams", "href": "https://www.nationalparkcam.com/parks/big-bend-webcam.html", "lat": 29.1275, "lng": -103.2425, "cams": 1, "embeds": 4, "links": 18}, {"slug": "black-canyon-of-the-gunnison-webcam", "title": "Black Canyon of the Gunnison", "fullTitle": "Black Canyon of the Gunnison National Park Webcams", "href": "https://www.nationalparkcam.com/parks/black-canyon-of-the-gunnison-webcam.html", "lat": 38.5754, "lng": -107.7416, "cams": 0, "embeds": 5, "links": 9}, {"slug": "bryce-canyon-webcam", "title": "Bryce Canyon", "fullTitle": "Bryce Canyon National Park Webcams", "href": "https://www.nationalparkcam.com/parks/bryce-canyon-webcam.html", "lat": 37.593, "lng": -112.1871, "cams": 2, "embeds": 5, "links": 27}, {"slug": "channel-islands-webcam", "title": "Channel Islands", "fullTitle": "Channel Islands National Park Webcams", "href": "https://www.nationalparkcam.com/parks/channel-islands-webcam.html", "lat": 34.0069, "lng": -119.7785, "cams": 8, "embeds": 9, "links": 6}, {"slug": "colorado-national-monument-webcam", "title": "Colorado National Monument", "fullTitle": "Colorado National Monument Webcams", "href": "https://www.nationalparkcam.com/parks/colorado-national-monument-webcam.html", "lat": 39.0538, "lng": -108.7147, "cams": 1, "embeds": 1, "links": 10}, {"slug": "crater-lake-webcam", "title": "Crater Lake", "fullTitle": "Crater Lake National Park Webcams", "href": "https://www.nationalparkcam.com/parks/crater-lake-webcam.html", "lat": 42.9446, "lng": -122.109, "cams": 3, "embeds": 6, "links": 12}, {"slug": "denali-webcam", "title": "Denali", "fullTitle": "Denali National Park Webcams", "href": "https://www.nationalparkcam.com/parks/denali-webcam.html", "lat": 63.1148, "lng": -151.1926, "cams": 3, "embeds": 7, "links": 8}, {"slug": "dinosaur-national-monument-webcam", "title": "Dinosaur National Monument", "fullTitle": "Dinosaur National Monument Webcams", "href": "https://www.nationalparkcam.com/parks/dinosaur-national-monument-webcam.html", "lat": 40.4416, "lng": -109.3047, "cams": 2, "embeds": 1, "links": 12}, {"slug": "everglades-webcam", "title": "Everglades", "fullTitle": "Everglades National Park Webcams", "href": "https://www.nationalparkcam.com/parks/everglades-webcam.html", "lat": 25.2866, "lng": -80.8987, "cams": 1, "embeds": 4, "links": 13}, {"slug": "florissant-fossil-beds-national-monument-webcam", "title": "Florissant Fossil Beds National Monument", "fullTitle": "Florissant Fossil Beds National Monument Webcams", "href": "https://www.nationalparkcam.com/parks/florissant-fossil-beds-national-monument-webcam.html", "lat": 38.9126, "lng": -105.2803, "cams": 1, "embeds": 1, "links": 10}, {"slug": "glacier-bay-webcam", "title": "Glacier Bay", "fullTitle": "Glacier Bay National Park Webcams", "href": "https://www.nationalparkcam.com/parks/glacier-bay-webcam.html", "lat": 58.6658, "lng": -136.9002, "cams": 2, "embeds": 7, "links": 7}, {"slug": "glacier-webcam", "title": "Glacier", "fullTitle": "Glacier National Park Webcams", "href": "https://www.nationalparkcam.com/parks/glacier-webcam.html", "lat": 48.7596, "lng": -113.787, "cams": 14, "embeds": 17, "links": 38}, {"slug": "grand-canyon-parashant-national-monument-webcam", "title": "Grand Canyon-Parashant National Monument", "fullTitle": "Grand Canyon-Parashant National Monument Webcams", "href": "https://www.nationalparkcam.com/parks/grand-canyon-parashant-national-monument-webcam.html", "lat": 36.3911, "lng": -113.6877, "cams": 14, "embeds": 1, "links": 12}, {"slug": "grand-canyon-webcam", "title": "Grand Canyon", "fullTitle": "Grand Canyon National Park Webcams", "href": "https://www.nationalparkcam.com/parks/grand-canyon-webcam.html", "lat": 36.1069, "lng": -112.1129, "cams": 9, "embeds": 9, "links": 32}, {"slug": "grand-tetons-webcam", "title": "Grand Teton", "fullTitle": "Grand Teton National Park Webcams", "href": "https://www.nationalparkcam.com/parks/grand-tetons-webcam.html", "lat": 43.7904, "lng": -110.6818, "cams": 6, "embeds": 9, "links": 37}, {"slug": "great-smoky-mountains-webcam", "title": "Great Smoky Mountains", "fullTitle": "Great Smoky Mountains National Park Webcams", "href": "https://www.nationalparkcam.com/parks/great-smoky-mountains-webcam.html", "lat": 35.6118, "lng": -83.4895, "cams": 6, "embeds": 9, "links": 19}, {"slug": "guadalupe-mountains-webcam", "title": "Guadalupe Mountains", "fullTitle": "Guadalupe Mountains National Park Webcams", "href": "https://www.nationalparkcam.com/parks/guadalupe-mountains-webcam.html", "lat": 31.923, "lng": -104.87, "cams": 4, "embeds": 6, "links": 12}, {"slug": "haleakala-webcam", "title": "Haleakala", "fullTitle": "Haleakala National Park Webcams", "href": "https://www.nationalparkcam.com/parks/haleakala-webcam.html", "lat": 20.7204, "lng": -156.1552, "cams": 1, "embeds": 4, "links": 11}, {"slug": "hawaii-volcanoes-webcam", "title": "Hawaii Volcanoes", "fullTitle": "Hawaii Volcanoes National Park Webcams", "href": "https://www.nationalparkcam.com/parks/hawaii-volcanoes-webcam.html", "lat": 19.4194, "lng": -155.2885, "cams": 21, "embeds": 23, "links": 35}, {"slug": "isle-royale-national-park-webcam", "title": "Isle Royale", "fullTitle": "Isle Royale National Park Webcams", "href": "https://www.nationalparkcam.com/parks/isle-royale-national-park-webcam.html", "lat": 48.011, "lng": -88.8278, "cams": 10, "embeds": 12, "links": 21}, {"slug": "john-day-fossil-beds-national-monument-webcam", "title": "John Day Fossil Beds National Monument", "fullTitle": "John Day Fossil Beds National Monument Webcams", "href": "https://www.nationalparkcam.com/parks/john-day-fossil-beds-national-monument-webcam.html", "lat": 44.6257, "lng": -119.8811, "cams": 3, "embeds": 1, "links": 15}, {"slug": "joshua-tree-webcam", "title": "Joshua Tree", "fullTitle": "Joshua Tree National Park Webcams", "href": "https://www.nationalparkcam.com/parks/joshua-tree-webcam.html", "lat": 33.8734, "lng": -115.901, "cams": 1, "embeds": 4, "links": 18}, {"slug": "katmai-webcam", "title": "Katmai", "fullTitle": "Katmai National Park Webcams", "href": "https://www.nationalparkcam.com/parks/katmai-webcam.html", "lat": 58.5975, "lng": -154.6939, "cams": 7, "embeds": 11, "links": 10}, {"slug": "kings-canyon-webcam", "title": "Sequoia and Kings Canyon", "fullTitle": "Sequoia and Kings Canyon National Parks Webcams", "href": "https://www.nationalparkcam.com/parks/kings-canyon-webcam.html", "lat": 36.8879, "lng": -118.5551, "cams": 1, "embeds": 4, "links": 27}, {"slug": "lassen-volcano-webcam", "title": "Lassen Volcanic", "fullTitle": "Lassen Volcanic National Park Webcams", "href": "https://www.nationalparkcam.com/parks/lassen-volcano-webcam.html", "lat": 40.4977, "lng": -121.4207, "cams": 1, "embeds": 4, "links": 22}, {"slug": "mammoth-cave-webcam", "title": "Mammoth Cave", "fullTitle": "Mammoth Cave National Park Webcams", "href": "https://www.nationalparkcam.com/parks/mammoth-cave-webcam.html", "lat": 37.1862, "lng": -86.1005, "cams": 1, "embeds": 4, "links": 17}, {"slug": "mount-rainier-webcam", "title": "Mount Rainier", "fullTitle": "Mount Rainier National Park Webcams", "href": "https://www.nationalparkcam.com/parks/mount-rainier-webcam.html", "lat": 46.8523, "lng": -121.7603, "cams": 11, "embeds": 15, "links": 24}, {"slug": "new-river-gorge-webcam", "title": "New River Gorge", "fullTitle": "New River Gorge National Park Webcams", "href": "https://www.nationalparkcam.com/parks/new-river-gorge-webcam.html", "lat": 37.8683, "lng": -80.9996, "cams": 1, "embeds": 4, "links": 22}, {"slug": "north-cascades-webcam", "title": "North Cascades", "fullTitle": "North Cascades National Park Webcams", "href": "https://www.nationalparkcam.com/parks/north-cascades-webcam.html", "lat": 48.7718, "lng": -121.2985, "cams": 1, "embeds": 4, "links": 19}, {"slug": "olympic-webcam", "title": "Olympic", "fullTitle": "Olympic National Park Webcams", "href": "https://www.nationalparkcam.com/parks/olympic-webcam.html", "lat": 47.8021, "lng": -123.6044, "cams": 6, "embeds": 9, "links": 20}, {"slug": "petrified-forest-webcam", "title": "Petrified Forest", "fullTitle": "Petrified Forest National Park Webcams", "href": "https://www.nationalparkcam.com/parks/petrified-forest-webcam.html", "lat": 35.0659, "lng": -109.781, "cams": 1, "embeds": 4, "links": 4}, {"slug": "redwood-national-park", "title": "Redwood", "fullTitle": "Redwood National and State Parks Webcams", "href": "https://www.nationalparkcam.com/parks/redwood-national-park.html", "lat": 41.2132, "lng": -124.0046, "cams": 4, "embeds": 6, "links": 12}, {"slug": "rocky-mountain-webcam", "title": "Rocky Mountain", "fullTitle": "Rocky Mountain National Park Webcams", "href": "https://www.nationalparkcam.com/parks/rocky-mountain-webcam.html", "lat": 40.3428, "lng": -105.6836, "cams": 7, "embeds": 10, "links": 14}, {"slug": "shenandoah-webcam", "title": "Shenandoah", "fullTitle": "Shenandoah National Park Webcams", "href": "https://www.nationalparkcam.com/parks/shenandoah-webcam.html", "lat": 38.5339, "lng": -78.35, "cams": 2, "embeds": 5, "links": 31}, {"slug": "theodore-roosevelt-webcam", "title": "Theodore Roosevelt", "fullTitle": "Theodore Roosevelt National Park Webcams", "href": "https://www.nationalparkcam.com/parks/theodore-roosevelt-webcam.html", "lat": 46.979, "lng": -103.5387, "cams": 1, "embeds": 4, "links": 14}, {"slug": "virgin-islands-webcam", "title": "Virgin Islands", "fullTitle": "Virgin Islands National Park Webcams", "href": "https://www.nationalparkcam.com/parks/virgin-islands-webcam.html", "lat": 18.3424, "lng": -64.7486, "cams": 1, "embeds": 4, "links": 6}, {"slug": "wrangell-st-elias-webcam", "title": "Wrangell-St. Elias", "fullTitle": "Wrangell-St. Elias National Park Webcams", "href": "https://www.nationalparkcam.com/parks/wrangell-st-elias-webcam.html", "lat": 61.7104, "lng": -142.9857, "cams": 3, "embeds": 6, "links": 24}, {"slug": "yellowstone-webcam", "title": "Yellowstone", "fullTitle": "Yellowstone National Park Webcams", "href": "https://www.nationalparkcam.com/parks/yellowstone-webcam.html", "lat": 44.6, "lng": -110.5, "cams": 10, "embeds": 15, "links": 33}, {"slug": "yosemite-webcam", "title": "Yosemite", "fullTitle": "Yosemite National Park Webcams", "href": "https://www.nationalparkcam.com/parks/yosemite-webcam.html", "lat": 37.8651, "lng": -119.5383, "cams": 8, "embeds": 11, "links": 34}, {"slug": "zion-webcam", "title": "Zion", "fullTitle": "Zion National Park Webcams", "href": "https://www.nationalparkcam.com/parks/zion-webcam.html", "lat": 37.2982, "lng": -113.0263, "cams": 1, "embeds": 4, "links": 14}]</script>
+      <div class="section-heading park-grid-heading">
+        <div>
+          <span class="eyebrow">All webcam pages</span>
+          <h2>Park Directory</h2>
+        </div>
+      </div>
+      <div class="park-grid" id="park-grid">
+            <article class="park-card" data-title="acadia national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/acadia-webcam.html" target="_blank" rel="noopener" aria-label="Open Acadia National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Acadia National Park</h2>
+                  <p>View live Acadia National Park webcams with scenic looks at Jordan Pond, McFarland Hill, Schoodic Peninsula, and Bar Harbor on Maine&#x27;s coast.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/acad/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="arches national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/arches-webcam.html" target="_blank" rel="noopener" aria-label="Open Arches National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Arches National Park</h2>
+                  <p>View live Arches National Park webcams with scenic traffic and road views near the park entrance, Highway 191, and Moab, Utah.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/arch/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="big bend national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/big-bend-webcam.html" target="_blank" rel="noopener" aria-label="Open Big Bend National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Big Bend National Park</h2>
+                  <p>View live Big Bend National Park webcams from Panther Junction with scenic looks at the Chisos Mountains and West Texas desert.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/bibe/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="black canyon of the gunnison national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/black-canyon-of-the-gunnison-webcam.html" target="_blank" rel="noopener" aria-label="Open Black Canyon of the Gunnison National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Black Canyon of the Gunnison National Park</h2>
+                  <p>View Black Canyon of the Gunnison National Park webcams with scenic looks toward Gunnison Point, Grizzly Ridge, and the North Rim in western Colorado.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/blca/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="bryce canyon national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/bryce-canyon-webcam.html" target="_blank" rel="noopener" aria-label="Open Bryce Canyon National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Bryce Canyon National Park</h2>
+                  <p>View live Bryce Canyon National Park webcams with scenic looks from Yovimpa Point, State Highway 12, and the hoodoo-filled canyon country of southern Utah.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/brca/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="channel islands national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/channel-islands-webcam.html" target="_blank" rel="noopener" aria-label="Open Channel Islands National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Channel Islands National Park</h2>
+                  <p>View live Channel Islands National Park webcams and videos from Anacapa, Santa Cruz, San Miguel, kelp forests, and wildlife nests off California.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/chis/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="colorado national monument webcams">
+              <a href="https://www.nationalparkcam.com/parks/colorado-national-monument-webcam.html" target="_blank" rel="noopener" aria-label="Open Colorado National Monument Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Colorado National Monument</h2>
+                  <p>View the Colorado National Monument webcam, map, current weather, and visitor notes for Rim Rock Drive, red rock canyons, hiking, camping, and scenic overlooks near Fruita and Grand Junction.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/colm/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="crater lake national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/crater-lake-webcam.html" target="_blank" rel="noopener" aria-label="Open Crater Lake National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Crater Lake National Park</h2>
+                  <p>View live Crater Lake National Park webcams from Rim Village, Sinnott Overlook, Annie Spring Entrance, and Steel Visitor Center in southern Oregon.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/crla/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="denali national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/denali-webcam.html" target="_blank" rel="noopener" aria-label="Open Denali National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Denali National Park</h2>
+                  <p>View live Denali National Park webcams with scenic looks near the Denali Visitor Center, Eielson Visitor Center, Summit Pass, and McKinley Park in Alaska.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/dena/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="dinosaur national monument webcams">
+              <a href="https://www.nationalparkcam.com/parks/dinosaur-national-monument-webcam.html" target="_blank" rel="noopener" aria-label="Open Dinosaur National Monument Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Dinosaur National Monument</h2>
+                  <p>View Dinosaur National Monument webcams, map, current weather, and visitor notes for the Quarry Exhibit Hall, Split Mountain, Green and Yampa river canyons, hiking, camping, rafting, fossils, and petroglyphs.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/dino/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="everglades national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/everglades-webcam.html" target="_blank" rel="noopener" aria-label="Open Everglades National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Everglades National Park</h2>
+                  <p>View live Everglades National Park webcams from the Anhinga Trail and Royal Palm Visitor Center to check South Florida wildlife, weather, and wetland conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/ever/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="florissant fossil beds national monument webcams">
+              <a href="https://www.nationalparkcam.com/parks/florissant-fossil-beds-national-monument-webcam.html" target="_blank" rel="noopener" aria-label="Open Florissant Fossil Beds National Monument Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Florissant Fossil Beds National Monument</h2>
+                  <p>View the Florissant Fossil Beds National Monument webcam, map, current weather, and visitor notes for the Florissant Valley, petrified redwood stumps, fossil exhibits, hiking trails, the Hornbek Homestead, and planning a visit near Florissant, Colorado.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/flfo/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="glacier bay national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/glacier-bay-webcam.html" target="_blank" rel="noopener" aria-label="Open Glacier Bay National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Glacier Bay National Park</h2>
+                  <p>View live Glacier Bay National Park webcams from Bartlett Cove and Lower Glacier Bay to check Alaska coastal weather, marine conditions, and mountain views.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/glba/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="glacier national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/glacier-webcam.html" target="_blank" rel="noopener" aria-label="Open Glacier National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Glacier National Park</h2>
+                  <p>View live Glacier National Park webcams from Apgar, Lake McDonald, Logan Pass, Many Glacier, St. Mary, and the West Entrance to check Montana mountain views, weather, and park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/glac/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="grand canyon-parashant national monument webcams">
+              <a href="https://www.nationalparkcam.com/parks/grand-canyon-parashant-national-monument-webcam.html" target="_blank" rel="noopener" aria-label="Open Grand Canyon-Parashant National Monument Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Grand Canyon-Parashant National Monument</h2>
+                  <p>View Grand Canyon-Parashant National Monument webcams, map, current weather, and visitor notes for remote Grand Canyon overlooks, backcountry roads, camping, dark skies, scenic drives, and travel safety in northwestern Arizona.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/para/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="grand canyon national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/grand-canyon-webcam.html" target="_blank" rel="noopener" aria-label="Open Grand Canyon National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Grand Canyon National Park</h2>
+                  <p>View live Grand Canyon National Park webcams from the South Rim, Bright Angel Trailhead, Kolb Studio, South Entrance, and nearby Arizona road cameras to check canyon views, weather, and travel conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/grca/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="grand teton national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/grand-tetons-webcam.html" target="_blank" rel="noopener" aria-label="Open Grand Teton National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Grand Teton National Park</h2>
+                  <p>View live Grand Teton National Park webcams from the Teton Range, Climbers Ranch, Teton Valley, and Teton Pass to check Wyoming mountain views, weather, and travel conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/grte/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="great smoky mountains national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/great-smoky-mountains-webcam.html" target="_blank" rel="noopener" aria-label="Open Great Smoky Mountains National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Great Smoky Mountains National Park</h2>
+                  <p>View live Great Smoky Mountains National Park webcams from Kuwohi, Look Rock, Newfound Gap, Purchase Knob, Twin Creeks, and LeConte Creek to check mountain views, weather, and park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/grsm/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="guadalupe mountains national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/guadalupe-mountains-webcam.html" target="_blank" rel="noopener" aria-label="Open Guadalupe Mountains National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Guadalupe Mountains National Park</h2>
+                  <p>View live Guadalupe Mountains National Park webcams from Pine Springs Canyon, El Capitan, Dog Canyon, and McKittrick Canyon to check West Texas mountain views, weather, and trail conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://home.nps.gov/gumo/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="haleakala national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/haleakala-webcam.html" target="_blank" rel="noopener" aria-label="Open Haleakala National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Haleakala National Park</h2>
+                  <p>View live Haleakalā National Park webcams from the Puʻuʻulaʻula summit and Haleakalā Crater to check Maui volcanic views, weather, and summit conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/hale/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="hawaii volcanoes national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/hawaii-volcanoes-webcam.html" target="_blank" rel="noopener" aria-label="Open Hawaii Volcanoes National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Hawaii Volcanoes National Park</h2>
+                  <p>View live Hawaiʻi Volcanoes National Park webcams from Kīlauea, Halemaʻumaʻu crater, Mauna Loa, Maunaulu, and Puʻuʻōʻō to check volcanic activity, weather, and summit conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/havo/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="isle royale national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/isle-royale-national-park-webcam.html" target="_blank" rel="noopener" aria-label="Open Isle Royale National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Isle Royale National Park</h2>
+                  <p>View live Isle Royale National Park webcams from Mount Ojibway, Rock Harbor, Windigo, Mott Island, Tobin Harbor, and Lake Superior to check island views, weather, and boating conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/isro/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="john day fossil beds national monument webcams">
+              <a href="https://www.nationalparkcam.com/parks/john-day-fossil-beds-national-monument-webcam.html" target="_blank" rel="noopener" aria-label="Open John Day Fossil Beds National Monument Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>John Day Fossil Beds National Monument</h2>
+                  <p>View John Day Fossil Beds National Monument webcams, map, current weather, and visitor notes for the Sheep Rock, Painted Hills, and Clarno units, hiking trails, fossils, scenic drives, and trip planning in eastern Oregon.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/joda/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="joshua tree national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/joshua-tree-webcam.html" target="_blank" rel="noopener" aria-label="Open Joshua Tree National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Joshua Tree National Park</h2>
+                  <p>View live Joshua Tree National Park webcams from Belle Mountain to check Mojave Desert views, weather, air quality, and current park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/jotr/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="katmai national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/katmai-webcam.html" target="_blank" rel="noopener" aria-label="Open Katmai National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Katmai National Park</h2>
+                  <p>View live Katmai National Park webcams from Brooks Falls, Brooks River, Naknek River, and underwater bear cams to watch Alaska brown bears, salmon, river conditions, and park weather.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/katm/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="sequoia and kings canyon national parks webcams">
+              <a href="https://www.nationalparkcam.com/parks/kings-canyon-webcam.html" target="_blank" rel="noopener" aria-label="Open Sequoia and Kings Canyon National Parks Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Sequoia and Kings Canyon National Parks</h2>
+                  <p>View live Sequoia and Kings Canyon National Parks webcams from the Giant Forest area to check Sierra Nevada mountain views, air quality, weather, and current park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/seki/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="lassen volcanic national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/lassen-volcano-webcam.html" target="_blank" rel="noopener" aria-label="Open Lassen Volcanic National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Lassen Volcanic National Park</h2>
+                  <p>View live Lassen Volcanic National Park webcams from the Kohm Yah-mah-nee Visitor Center to check Lassen Peak area views, weather, snow, and volcanic park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/lavo/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="mammoth cave national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/mammoth-cave-webcam.html" target="_blank" rel="noopener" aria-label="Open Mammoth Cave National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Mammoth Cave National Park</h2>
+                  <p>View live Mammoth Cave National Park webcams from the Green River Valley to check Kentucky park views, air quality, weather, and current conditions above the world&#x27;s longest known cave system.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/maca/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="mount rainier national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/mount-rainier-webcam.html" target="_blank" rel="noopener" aria-label="Open Mount Rainier National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Mount Rainier National Park</h2>
+                  <p>View live Mount Rainier National Park webcams from Paradise, Camp Muir, Sunrise, Longmire, and the air quality camera to check Washington mountain views, weather, snow, and current park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/mora/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="new river gorge national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/new-river-gorge-webcam.html" target="_blank" rel="noopener" aria-label="Open New River Gorge National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>New River Gorge National Park</h2>
+                  <p>View live New River Gorge National Park webcams to check West Virginia gorge views, New River Bridge conditions, weather, river activity, and current park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/neri/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="north cascades national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/north-cascades-webcam.html" target="_blank" rel="noopener" aria-label="Open North Cascades National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>North Cascades National Park</h2>
+                  <p>View live North Cascades National Park webcams to check Washington mountain views, North Cascades Highway conditions, weather, snow, and current park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/noca/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="olympic national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/olympic-webcam.html" target="_blank" rel="noopener" aria-label="Open Olympic National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Olympic National Park</h2>
+                  <p>View live Olympic National Park webcams from Hurricane Ridge, Kalaloch Beach, La Push, and Lake Crescent to check Washington coast, mountain, weather, and park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/olym/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="petrified forest national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/petrified-forest-webcam.html" target="_blank" rel="noopener" aria-label="Open Petrified Forest National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Petrified Forest National Park</h2>
+                  <p>View Petrified Forest National Park webcam information for Kachina Point and the Painted Desert to check Arizona park views, weather, and current inactive camera status.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/pefo/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="redwood national and state parks webcams">
+              <a href="https://www.nationalparkcam.com/parks/redwood-national-park.html" target="_blank" rel="noopener" aria-label="Open Redwood National and State Parks Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Redwood National and State Parks</h2>
+                  <p>View live Redwood National and State Parks webcams from the Thomas Kuchel Visitor Center, Elk Prairie, and Jedediah Smith to check California coast, forest, weather, and park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/redw/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="rocky mountain national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/rocky-mountain-webcam.html" target="_blank" rel="noopener" aria-label="Open Rocky Mountain National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Rocky Mountain National Park</h2>
+                  <p>View live Rocky Mountain National Park webcams from Alpine Visitor Center, Kawuneeche Valley, Longs Peak, and Bear Lake to check Colorado mountain views, weather, snow, and current park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/romo/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="shenandoah national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/shenandoah-webcam.html" target="_blank" rel="noopener" aria-label="Open Shenandoah National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Shenandoah National Park</h2>
+                  <p>View live Shenandoah National Park webcams from the Blue Ridge Mountains and Pinnacles area to check Virginia mountain views, Skyline Drive weather, and current park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/shen/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="theodore roosevelt national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/theodore-roosevelt-webcam.html" target="_blank" rel="noopener" aria-label="Open Theodore Roosevelt National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Theodore Roosevelt National Park</h2>
+                  <p>View live Theodore Roosevelt National Park webcams from Painted Canyon to check North Dakota badlands views, Buck Hill, wildlife, weather, and current park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/thro/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="virgin islands national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/virgin-islands-webcam.html" target="_blank" rel="noopener" aria-label="Open Virgin Islands National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Virgin Islands National Park</h2>
+                  <p>View Virgin Islands National Park webcam information for St. John to check Caribbean island views, beach weather, ocean conditions, and current park updates.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/viis/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="wrangell-st. elias national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/wrangell-st-elias-webcam.html" target="_blank" rel="noopener" aria-label="Open Wrangell-St. Elias National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Wrangell-St. Elias National Park</h2>
+                  <p>View Wrangell-St. Elias National Park webcam information from Kennecott to check Alaska mountain views, Mount Blackburn, seasonal camera status, weather, and current park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/wrst/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="yellowstone national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/yellowstone-webcam.html" target="_blank" rel="noopener" aria-label="Open Yellowstone National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Yellowstone National Park</h2>
+                  <p>View live Yellowstone National Park webcams from Old Faithful, Mammoth Hot Springs, Yellowstone Lake, Mount Washburn, and park entrances to check geysers, roads, weather, and current park conditions.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/yell/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="yosemite national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/yosemite-webcam.html" target="_blank" rel="noopener" aria-label="Open Yosemite National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Yosemite National Park</h2>
+                  <p>View live Yosemite National Park webcams, including Half Dome, Yosemite Falls, El Capitan, Yosemite Valley, and other scenic views from around the park.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/yose/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            
+            <article class="park-card" data-title="zion national park webcams">
+              <a href="https://www.nationalparkcam.com/parks/zion-webcam.html" target="_blank" rel="noopener" aria-label="Open Zion National Park Webcams on NationalParkCam.com">
+                <div class="park-card-body">
+                  <h2>Zion National Park</h2>
+                  <p>View live Zion National Park webcams with scenic looks at the Temples and Towers of the Virgin, Zion Canyon, and red rock cliffs near Springdale, Utah.</p>
+                  <strong class="card-action">View live cams on NationalParkCam.com</strong>
+                </div>
+              </a>
+              <a class="official-link" href="https://www.nps.gov/zion/index.htm" target="_blank" rel="noopener">Official NPS page</a>
+            </article>
+            </div>
+    </section>
+  </main>
+
+  <section class="footer-contact" aria-label="Contact">
+    <p>For questions or comments, email <a href="mailto:npcam012@gmail.com">npcam012@gmail.com</a></p>
+    <nav class="footer-links" aria-label="Site information">
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a href="privacy-policy.html">Privacy Policy</a>
+    </nav>
+  </section>
+  <footer class="site-footer"></footer>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="assets/app.js?v=20260505-gtcr"></script>
+</body>
+</html>
