@@ -1068,7 +1068,7 @@ def related_park_links(current_page, pages, count=4):
 
 
 def structured_data(title, page_slug, description, canonical_url):
-    site_name = "National Parks Guide" if is_no_camera_page(page_slug) else "National Parks Webcams"
+    site_name = "National Parks Guide" if page_slug == "national-park-webcam-home" or is_no_camera_page(page_slug) else "National Parks Webcams"
     if page_slug == "national-park-webcam-home":
         graph = [
             {
@@ -1117,7 +1117,7 @@ def structured_data(title, page_slug, description, canonical_url):
 
 def seo_page_title(title, page_slug):
     if page_slug == "national-park-webcam-home":
-        return "National Parks Webcams | Live Park Cams, Weather & Maps"
+        return "National Park Guide | Park Maps, Weather & Visitor Info"
     if page_slug in INFO_PAGE_SLUGS:
         return f"{title} | National Parks Webcams"
     if is_no_camera_page(page_slug):
@@ -1151,7 +1151,7 @@ def page_shell(title, body, page_slug, pages, description, image="", depth=0):
     seo_title = seo_page_title(title, page_slug)
     json_ld = structured_data(title, page_slug, description, canonical_url).replace("</", "<\\/")
     data_attrs = f' data-page-slug="{html.escape(page_slug)}" data-page-title="{html.escape(title)}" data-page-depth="{depth}"'
-    brand_label = "National Parks Guide home" if is_no_camera_page(page_slug) else "National Parks Webcams home"
+    brand_label = "National Parks Guide home" if page_slug == "national-park-webcam-home" or is_no_camera_page(page_slug) else "National Parks Webcams home"
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -1271,7 +1271,7 @@ def build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug):
     <section class="home-hero">
       <div class="hero-copy">
         <span class="eyebrow">Live views, hikes, camping, lodging, and park notes</span>
-        <h1>National Parks Webcams</h1>
+        <h1>National Park Guide</h1>
         <p>{html.escape(description)}</p>
         <div class="hero-actions">
           <a class="button primary" href="#parks">Find live cams</a>
@@ -1313,7 +1313,7 @@ def build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug):
     </section>
   </main>
 """
-    return page_shell("National Parks Webcams", body, home["slug"], pages, description, hero_image, 0)
+    return page_shell("National Park Guide", body, home["slug"], pages, description, hero_image, 0)
 
 
 def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
