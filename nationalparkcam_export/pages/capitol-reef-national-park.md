@@ -2,11 +2,17 @@
 
 Source: https://www.national-parks.us/capitol-reef-national-park
 
-Capitol Reef National Park combines red-rock scenery with pioneer history and quieter Utah canyon country hiking.
-
 Introduction
 
-Capitol Reef protects the Waterpocket Fold, a long wrinkle in the earth, along with cliffs, domes, canyons, orchards, and historic Fruita landscapes.
+Capitol Reef protects the Waterpocket Fold, a long wrinkle in the earth where tilted rock layers create cliffs, domes, canyons, bridges, and colorful desert walls. The park also preserves the historic Fruita area, where orchards, pioneer buildings, and the Fremont River create a greener contrast to the surrounding sandstone.
+
+Compared with some other Utah parks, Capitol Reef often feels quieter and more spread out. Visitors can focus on the paved Scenic Drive and Fruita area, head into day-hike canyons such as Grand Wash and Capitol Gorge, or plan more remote trips into Cathedral Valley, the Waterpocket District, and backcountry routes.
+
+Hiking and Backpacking
+
+NPS Hiking information covers popular routes including Hickman Bridge, Grand Wash, Cassidy Arch, Capitol Gorge, Cohab Canyon, Chimney Rock, and the Rim Overlook routes. Many trails combine canyon walking with slickrock climbs, exposed viewpoints, and very little shade in warm weather.
+
+Backpacking is available in remote sections of the park, including canyon routes and high-desert terrain beyond the main visitor corridor. Overnight trips require careful water planning, weather awareness, and backcountry permits where required, especially because flash floods and rough roads can change conditions quickly.
 
 Planning Highlights
 
@@ -14,7 +20,7 @@ Explore the Scenic Drive, Grand Wash, Capitol Gorge, Hickman Bridge, Cassidy Arc
 
 Camping and Lodging
 
-Fruita Campground is the main developed campground. Primitive sites and backcountry trips are available, but weather and road conditions can change quickly.
+Use NPS Camping details for Fruita Campground, the main developed campground. Primitive sites and backcountry trips are available, but weather and road conditions can change quickly.
 
 Official Resources
 

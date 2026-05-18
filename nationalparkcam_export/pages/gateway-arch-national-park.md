@@ -2,11 +2,17 @@
 
 Source: https://www.national-parks.us/gateway-arch-national-park
 
-Gateway Arch National Park is a compact urban national park focused on the Arch grounds, museum exhibits, riverfront views, and historic downtown St. Louis.
-
 Introduction
 
-Gateway Arch National Park preserves the St. Louis riverfront, the Gateway Arch, and the Old Courthouse as places tied to westward expansion and civil rights history.
+Gateway Arch National Park preserves the St. Louis riverfront, the Gateway Arch, and the Old Courthouse as places tied to westward expansion, civic identity, architecture, and civil rights history. It is a compact urban national park, so the experience is closer to a museum, monument, and downtown walking visit than a wilderness trip.
+
+The Arch grounds connect the Mississippi River, landscaped park space, underground museum exhibits, tram access to the top of the Arch, and nearby historic downtown St. Louis. Visitors should plan around timed tickets, security screening, museum time, riverfront walking, and the seasonal availability of tours and nearby attractions.
+
+Walking and Historic Sites
+
+Gateway Arch does not have hiking or backpacking in the traditional national park sense. The NPS Things To Do page helps visitors plan walking the Arch grounds, riverfront paths, surrounding downtown connections, the museum, and the Old Courthouse area.
+
+There is no camping in the park. Visitors typically use hotels in St. Louis or regional campgrounds outside the city.
 
 Planning Highlights
 

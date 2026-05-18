@@ -562,6 +562,20 @@ def inline_link_candidates(links):
     for link in links:
         label = clean_title(link["label"]).strip()
         url = link["url"]
+        parsed = urlparse(url)
+        if parsed.netloc.endswith("nps.gov") and parsed.path.endswith("/index.htm"):
+            add_candidate("official NPS page", url)
+            add_candidate("official NPS site", url)
+            add_candidate("current alerts", url)
+        if label.lower() == "maps":
+            add_candidate("park map", url)
+            add_candidate("maps", url)
+            continue
+        if label.lower() in {"recreation.gov", "reservations"}:
+            add_candidate("reservation links", url)
+            add_candidate("reservations", url)
+            add_candidate(label, url)
+            continue
         if label.lower() == "bike":
             add_candidate("Bike riding", url)
             add_candidate("Biking", url)
@@ -735,6 +749,24 @@ def text_to_html(body, inline_links=None):
         )
         out.append(f'<section class="content-section">{heading}{paragraphs}</section>')
     return "\n".join(out)
+
+
+def official_resources_body(body, page, title, links):
+    has_reservations = any(
+        clean_title(link["label"]).strip().lower() in {"recreation.gov", "reservations"} or "recreation.gov" in link["url"]
+        for link in links
+    )
+    replacement = f"Use the official NPS page, park map, and current alerts"
+    if has_reservations:
+        replacement += ", plus reservation links"
+    park_name = NO_CAMERA_PARK_NAMES.get(page["slug"]) or WEBCAM_PARK_NAMES.get(page["slug"]) or title
+    replacement += f" when planning a trip to {park_name}."
+    return [
+        replacement
+        if line.startswith("Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to ")
+        else line
+        for line in body
+    ]
 
 
 def youtube_id(url):
@@ -1349,6 +1381,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
     intro = intro_from_body(body)
     captions = webcam_caption_lines(body)
     article_body = strip_body_lead_for_page(page["slug"], strip_webcam_caption_block(body))
+    article_body = official_resources_body(article_body, page, title, links)
     nps = official_nps_summary(resources, PARK_NAMES.get(page["slug"], short_name(title)), intro)
     planning_url = nps["url"] or (links[0]["url"] if links else source)
     nationalparkcam_url = nationalparkcam_park_url(page["slug"])
@@ -1360,6 +1393,15 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
         cam_notice = '<p class="section-note">The Black Canyon webcams are currently inactive. The park map remains available below.</p>'
     if no_camera_page:
         primary_cta = f'<a class="button primary" href="{html.escape(NATIONALPARKCAM_SITE_URL)}" target="_blank" rel="noopener">View cameras from other national parks</a>'
+        hero_actions = ""
+        bottom_actions = f"""
+    <section class="bottom-page-actions" aria-label="More park resources">
+      <div class="page-actions">
+        {primary_cta}
+        <a class="button" href="{html.escape(planning_url)}" target="_blank" rel="noopener">Visit park website</a>
+      </div>
+    </section>
+"""
         live_section = f"""
     <section class="resource-section guide-cta-section" id="park-map">
       <div class="section-heading">
@@ -1377,6 +1419,12 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
 """
     else:
         primary_cta = f'<a class="button primary" href="{html.escape(nationalparkcam_url)}" target="_blank" rel="noopener">View webcams on NationalParkCam.com</a>'
+        hero_actions = f"""
+        <div class="page-actions">
+          {primary_cta}
+          <a class="button" href="{html.escape(planning_url)}" target="_blank" rel="noopener">Visit park website</a>
+        </div>"""
+        bottom_actions = ""
         live_section = f"""
     <section class="resource-section live-first" id="live-cams">
       <div class="section-heading">
@@ -1393,10 +1441,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
         <a class="back-link" href="../index.html">All parks</a>
         <h1>{html.escape(title)}</h1>
         <p>{html.escape(hero_intro(title, intro))}</p>
-        <div class="page-actions">
-          {primary_cta}
-          <a class="button" href="{html.escape(planning_url)}" target="_blank" rel="noopener">Visit park website</a>
-        </div>
+        {hero_actions}
       </div>
     </section>
     {live_section}
@@ -1419,6 +1464,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
       <article class="page-content">{text_to_html(article_body, inline_link_candidates(links))}</article>
     </div>
     {related_park_links(page, pages)}
+    {bottom_actions}
   </main>
 """
     return page_shell(title, body_html, page["slug"], pages, intro, first_image(resources), 1)

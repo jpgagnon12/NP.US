@@ -2,11 +2,17 @@
 
 Source: https://www.national-parks.us/kobuk-valley-national-park
 
-Kobuk Valley National Park is a remote roadless park where most trips depend on bush flights, river travel, or experienced guided logistics.
-
 Introduction
 
-Kobuk Valley protects Arctic wilderness, the Great Kobuk Sand Dunes, the Kobuk River, and caribou migration routes in northwest Alaska.
+Kobuk Valley protects Arctic wilderness, the Great Kobuk Sand Dunes, the Kobuk River, boreal forest, tundra, and caribou migration routes in northwest Alaska. The park has no roads, developed campgrounds, or maintained trail system, so most trips depend on bush flights, river travel, or experienced guided logistics.
+
+The Great Kobuk Sand Dunes are the most famous landmark, rising unexpectedly within an Arctic landscape. Onion Portage and the Kobuk River are also central to the park's natural and cultural story, especially during caribou migration. Visitors should expect isolation, insects, cold water, bear country, and weather that can alter flights and routes.
+
+Hiking and Backpacking
+
+There are no maintained hiking trails in Kobuk Valley. Hiking usually means route-finding across dunes, tundra, river bars, and low ridges near a basecamp or air taxi drop-off. Even short walks require attention to navigation and the return route.
+
+Backpacking is possible for highly prepared wilderness travelers, but the park's remoteness makes conservative planning essential. NPS Safety guidance is important because visitors need food storage, communication, layered clothing, river judgment, and flexibility for delayed flights or changing weather.
 
 Planning Highlights
 

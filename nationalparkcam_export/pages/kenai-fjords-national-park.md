@@ -2,11 +2,17 @@
 
 Source: https://www.national-parks.us/kenai-fjords-national-park
 
-Kenai Fjords National Park is best experienced by boat, trail, or flightseeing, with Exit Glacier providing the easiest road-accessible park area.
-
 Introduction
 
-Kenai Fjords protects the Harding Icefield, tidewater glaciers, coastal fjords, marine wildlife, and rugged mountains near Seward, Alaska.
+Kenai Fjords protects the Harding Icefield, tidewater glaciers, coastal fjords, marine wildlife, and rugged mountains near Seward, Alaska. Much of the park is best experienced by boat, kayak, or flightseeing, while Exit Glacier provides the easiest road-accessible area for hiking and ranger programs.
+
+The park's glaciers, cliffs, and fjords support whales, sea otters, seals, puffins, seabirds, and other coastal wildlife. Weather can change quickly, and boat tours depend on sea conditions, but a clear day in Kenai Fjords can combine glacier views, wildlife, and mountain scenery in one trip.
+
+Hiking and Backpacking
+
+NPS Hiking information covers the Exit Glacier area, including short trails to glacier viewpoints and the strenuous Harding Icefield Trail. The Harding Icefield Trail gains significant elevation and moves through forest, alpine terrain, and broad icefield views when weather allows.
+
+Backpacking and coastal camping are possible but require planning around tides, weather, boat access, and bear safety. Some visitors use public-use cabins or remote coastal camps, while others focus on day hiking at Exit Glacier and boat-based exploration from Seward.
 
 Planning Highlights
 
@@ -14,7 +20,7 @@ Hike the Harding Icefield Trail, visit Exit Glacier, take a wildlife and glacier
 
 Camping and Lodging
 
-There is no frontcountry campground in the park. Backcountry cabins and coastal camping require planning around weather, tides, and bear safety.
+Use NPS Camping details for backcountry cabins and coastal camping, which require planning around weather, tides, and bear safety. There is no frontcountry campground in the park.
 
 Official Resources
 
@@ -30,5 +36,6 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Maps: https://www.nps.gov/kefj/planyourvisit/maps.htm
 - Things To Do: https://www.nps.gov/kefj/planyourvisit/things2do.htm
 - Exit Glacier: https://www.nps.gov/kefj/planyourvisit/exit-glacier-area.htm
+- Hiking: https://www.nps.gov/kefj/planyourvisit/hiking.htm
 - Camping: https://www.nps.gov/kefj/planyourvisit/camping.htm
 - Wikipedia: https://en.wikipedia.org/wiki/Kenai_Fjords_National_Park

@@ -2,11 +2,17 @@
 
 Source: https://www.national-parks.us/cuyahoga-valley-national-park
 
-Cuyahoga Valley National Park is an accessible Ohio park built around trails, river scenery, historic canal features, and the Cuyahoga Valley Scenic Railroad.
-
 Introduction
 
-Cuyahoga Valley follows the Cuyahoga River between Cleveland and Akron, protecting forests, farms, waterfalls, wetlands, and canal history.
+Cuyahoga Valley follows the Cuyahoga River between Cleveland and Akron, protecting forests, farms, wetlands, waterfalls, canal history, and a surprisingly varied trail network in northeast Ohio. The park is woven into nearby communities, so visitors can combine hikes, scenic drives, historic sites, and gateway towns in a single day.
+
+The Ohio & Erie Canal Towpath Trail anchors much of the park experience, while Brandywine Falls, the Ledges, Beaver Marsh, and river overlooks add more natural stops. The Cuyahoga Valley Scenic Railroad and historic canal features give the park a different rhythm from remote wilderness parks.
+
+Hiking and Backpacking
+
+NPS Hiking information covers popular routes including the Ledges Trail, Brandywine Gorge Loop, Blue Hen Falls, Oak Hill and Plateau trails, and sections of the Towpath Trail. Trails range from easy canal-side paths to rougher forest loops with rock ledges, ravines, and stream crossings.
+
+Backpacking is not a primary activity in Cuyahoga Valley because the park does not have a traditional backcountry camping system. Visitors looking for longer outings usually link day hikes, bike sections of the Towpath, or stay in nearby communities and return for multiple trail days.
 
 Planning Highlights
 

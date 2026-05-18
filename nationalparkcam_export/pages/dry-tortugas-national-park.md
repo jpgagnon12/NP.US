@@ -2,11 +2,17 @@
 
 Source: https://www.national-parks.us/dry-tortugas-national-park
 
-Dry Tortugas National Park is reached by ferry, seaplane, or private boat, making advance planning essential for day trips and overnight camping.
-
 Introduction
 
-Dry Tortugas protects Fort Jefferson, coral reefs, blue water, bird habitat, and remote islands about 70 miles west of Key West.
+Dry Tortugas protects Fort Jefferson, coral reefs, blue water, bird habitat, shipwreck history, and remote islands about 70 miles west of Key West. The park is reached by ferry, seaplane, or private boat, so transportation reservations and weather planning shape almost every visit.
+
+Garden Key and Fort Jefferson are the center of most day trips, with snorkeling around the moat wall, birding, photography, and historic tours all close together. The park has very limited services once visitors arrive, which makes food, water, shade, reef-safe sun protection, and seasickness planning important.
+
+Walking, Snorkeling, and Camping
+
+Dry Tortugas is not a hiking or backpacking park, but visitors can spend hours walking Fort Jefferson, the moat wall, and the shoreline around Garden Key. Snorkeling, swimming, paddling, and birding are the main outdoor activities, with conditions depending on wind, water clarity, and season.
+
+NPS Camping information covers Garden Key, where overnight stays function more like remote island camping than backpacking. Campers must bring all supplies, including water, and be prepared to pack out trash and handle schedule changes caused by weather or transportation.
 
 Planning Highlights
 
@@ -14,7 +20,7 @@ Tour Fort Jefferson, snorkel around the moat wall, watch birds, paddle sheltered
 
 Camping and Lodging
 
-Primitive campsites are available on Garden Key and are reached by ferry or private boat. Campers must bring all supplies and pack out trash.
+Use NPS Camping details for Garden Key sites reached by ferry or private boat. Campers must bring all supplies and pack out trash.
 
 Official Resources
 

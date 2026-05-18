@@ -2,11 +2,17 @@
 
 Source: https://www.national-parks.us/carlsbad-caverns-national-park
 
-Carlsbad Caverns National Park is best known for underground rooms, limestone formations, bat flights, and desert trails above the cave system.
-
 Introduction
 
-Carlsbad Caverns protects more than 100 caves beneath the Chihuahuan Desert, including the immense rooms and formations of Carlsbad Cavern.
+Carlsbad Caverns protects more than 100 known caves beneath the Chihuahuan Desert, including the immense rooms, limestone formations, and underground passages of Carlsbad Cavern. The Big Room and Natural Entrance routes are the center of most visits, while ranger-guided cave tours reveal more specialized parts of the cave system.
+
+The park is also a desert landscape above ground, with rugged canyons, plants adapted to heat and drought, and a seasonal bat flight program that draws visitors near sunset. A good trip usually combines cave reservations with time for overlooks, desert trails, and the visitor center exhibits.
+
+Hiking and Backpacking
+
+Above-ground hikes include desert routes such as the Chihuahuan Desert Nature Trail, Slaughter Canyon area routes, and other trails that show the park's limestone ridges, desert plants, and wide views. Visitors should treat even short hikes as desert hikes, with water, sun protection, and attention to heat.
+
+Backcountry use is limited compared with large wilderness parks, but primitive desert travel is possible in designated areas with proper permits and preparation. Overnight visitors need to plan for no water, rough terrain, and strong temperature swings between day and night.
 
 Planning Highlights
 
