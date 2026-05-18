@@ -1438,7 +1438,6 @@ def main():
     (DIST / "index.html").write_text(build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug), encoding="utf-8")
     info = info_pages()
     sitemap_pages = pages + [{"slug": item["slug"]} for item in info]
-    (DIST / "CNAME").write_text("national-parks.us\n", encoding="utf-8")
     (DIST / "sitemap.xml").write_text(build_sitemap(sitemap_pages), encoding="utf-8")
     (DIST / "robots.txt").write_text(build_robots_txt(), encoding="utf-8")
     for item in info:
