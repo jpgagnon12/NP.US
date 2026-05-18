@@ -18,7 +18,7 @@ ASSETS_OUT = DIST / "assets"
 SITE_URL = "https://national-parks.us"
 CUSTOM_DOMAIN = "national-parks.us"
 NATIONALPARKCAM_SITE_URL = "https://www.nationalparkcam.com"
-GOOGLE_ANALYTICS_ID = "G-6SYHNQMD41"
+GOOGLE_ANALYTICS_ID = "G-Y64NX1DFKX"
 INFO_PAGE_SLUGS = {"about", "contact", "privacy-policy"}
 
 
