@@ -16,6 +16,7 @@ DIST = ROOT / "docs"
 PAGES_OUT = DIST / "parks"
 ASSETS_OUT = DIST / "assets"
 SITE_URL = "https://national-parks.us"
+CUSTOM_DOMAIN = "national-parks.us"
 NATIONALPARKCAM_SITE_URL = "https://www.nationalparkcam.com"
 GOOGLE_ANALYTICS_ID = "G-6SYHNQMD41"
 INFO_PAGE_SLUGS = {"about", "contact", "privacy-policy"}
@@ -1535,6 +1536,7 @@ def main():
     (DIST / "index.html").write_text(build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug), encoding="utf-8")
     info = info_pages()
     sitemap_pages = pages + [{"slug": item["slug"]} for item in info]
+    (DIST / "CNAME").write_text(f"{CUSTOM_DOMAIN}\n", encoding="utf-8")
     (DIST / "sitemap.xml").write_text(build_sitemap(sitemap_pages), encoding="utf-8")
     (DIST / "robots.txt").write_text(build_robots_txt(), encoding="utf-8")
     for item in info:
