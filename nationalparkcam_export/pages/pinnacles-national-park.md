@@ -1,0 +1,44 @@
+# Pinnacles National Park Guide
+
+Source: https://www.national-parks.us/pinnacles-national-park
+
+Introduction
+
+Pinnacles National Park protects about 26,685 acres of volcanic spires, talus caves, chaparral, oak woodlands, canyons, and California condor habitat in central California. The park recorded 348,030 recreation visits in 2025, making it a smaller and more rugged alternative to California's better-known mountain and coastal parks. Visitors come for steep hiking routes, spring wildflowers, cave passages, rock formations, birding, climbing, and the chance to see condors soaring over the High Peaks.
+
+The landscape began far to the south as part of an ancient volcanic field, then moved north along the San Andreas Fault over millions of years. Erosion left the dramatic pinnacles, cliffs, boulders, and cave-like talus passages that define the park today. The east and west entrances do not connect by road inside the park, so planning which side to enter matters before choosing a hike, campground, or scenic stop.
+
+Pinnacles was first protected as Pinnacles National Monument in 1908, when President Theodore Roosevelt used the Antiquities Act to preserve its unusual volcanic formations. It became Pinnacles National Park on January 10, 2013, after years of local and conservation support for stronger recognition of its geologic story, wildlife habitat, and public recreation value.
+
+Hiking and Backpacking
+
+The official NPS Hiking page is the best starting point because trails vary sharply in exposure, grade, cave access, and heat. Popular routes include the High Peaks Trail, Condor Gulch, Bear Gulch Cave Trail, Balconies Cave Trail, Moses Spring, and the Rim Trail. Many hikes are exposed and can be hot, so visitors should carry plenty of water and start early in warm weather.
+
+Backpacking is not a standard activity at Pinnacles because the park does not offer a broad overnight backcountry trail system. Most visitors build a day around linked hikes, cave routes, overlooks, wildlife viewing, and the campground near the east entrance. The NPS Cave Status page is important because Bear Gulch Cave and Balconies Cave can close for flooding, rockfall, bat protection, or seasonal conditions.
+
+Planning Highlights
+
+High Peaks, Bear Gulch Cave, Balconies Cave, Condor Gulch, Moses Spring, spring wildflowers, rock climbing, and California condor viewing are the main draws. Summer heat can be intense, while winter and spring often bring better hiking temperatures and greener hillsides. The east entrance is best for the visitor center, campground, and Bear Gulch area; the west entrance is useful for Balconies and west-side trail access.
+
+Camping and Lodging
+
+Pinnacles Campground is located on the east side of the park and is the main developed overnight option. There is no road through the park to the west entrance, so campers should plan around east-side access. Lodging, restaurants, fuel, and supplies are available in nearby gateway communities such as Soledad, Hollister, King City, and Paicines.
+
+Official Resources
+
+Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to Pinnacles National Park.
+
+## Embeds
+
+- Map, Pinnacles National Park: https://maps-api-ssl.google.com/maps?hl=en-US&ll=36.4915,-121.1972&output=embed&q=36.4915,-121.1972+(Pinnacles+National+Park)&z=11
+
+## Links
+
+- Pinnacles National Park (U.S. National Park Service) Pinnacles protects volcanic spires, talus caves, chaparral, oak woodlands, rare wildlife, and California condor habitat in central California.: https://www.nps.gov/pinn/index.htm
+- Maps: https://www.nps.gov/pinn/planyourvisit/maps.htm
+- Hiking: https://www.nps.gov/pinn/planyourvisit/hiking.htm
+- Camping: https://www.nps.gov/pinn/planyourvisit/camping.htm
+- Cave Status: https://www.nps.gov/pinn/planyourvisit/cave-status.htm
+- California Condors: https://www.nps.gov/pinn/learn/nature/condors.htm
+- History and Culture: https://www.nps.gov/pinn/learn/historyculture/index.htm
+- Wikipedia: https://en.wikipedia.org/wiki/Pinnacles_National_Park

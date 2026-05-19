@@ -123,6 +123,8 @@ NO_CAMERA_PARK_NAMES = {
     "kobuk-valley-national-park": "Kobuk Valley National Park",
     "lake-clark-national-park": "Lake Clark National Park",
     "mesa-verde-national-park": "Mesa Verde National Park",
+    "national-park-of-american-samoa": "National Park of American Samoa",
+    "pinnacles-national-park": "Pinnacles National Park",
 }
 
 PARK_NAMES = {
@@ -165,6 +167,7 @@ PARK_COORDS = {
     "north-cascades-webcam": [48.7718, -121.2985],
     "olympic-webcam": [47.8021, -123.6044],
     "petrified-forest-webcam": [35.0659, -109.781],
+    "pinnacles-national-park": [36.4915, -121.1972],
     "redwood-national-park": [41.2132, -124.0046],
     "rocky-mountain-webcam": [40.3428, -105.6836],
     "shenandoah-webcam": [38.5339, -78.35],
@@ -192,6 +195,15 @@ PARK_COORDS = {
     "kenai-fjords-national-park": [59.818, -150.1066],
     "kobuk-valley-national-park": [67.3356, -159.1281],
     "lake-clark-national-park": [60.4127, -154.3235],
+    "national-park-of-american-samoa": [-14.2583, -170.6833],
+}
+
+WEATHER_COORDS = {
+    "national-park-of-american-samoa": [-14.2756, -170.702],
+}
+
+WEATHER_LOCATION_LABELS = {
+    "national-park-of-american-samoa": "Forecast near Pago Pago, American Samoa",
 }
 
 PAGE_SOURCE_EMBEDS = {
@@ -1073,6 +1085,8 @@ def render_nav(pages, current_slug, depth):
 
 
 def short_name(title):
+    if title.startswith("National Park of American Samoa"):
+        return "American Samoa"
     title = title.replace("National and State Parks Webcams", "")
     title = title.replace("National Parks Webcams", "")
     title = title.replace("National Park Webcams", "")
@@ -1393,7 +1407,9 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
     nationalparkcam_url = nationalparkcam_park_url(page["slug"])
     no_camera_page = is_no_camera_page(page["slug"])
     coords = PARK_COORDS.get(page["slug"], ["", ""])
-    weather_attrs = f'data-lat="{coords[0]}" data-lng="{coords[1]}"' if coords[0] != "" else ""
+    weather_coords = WEATHER_COORDS.get(page["slug"], coords)
+    weather_attrs = f'data-lat="{weather_coords[0]}" data-lng="{weather_coords[1]}"' if weather_coords[0] != "" else ""
+    weather_note = WEATHER_LOCATION_LABELS.get(page["slug"], "")
     cam_notice = ""
     if page["slug"] == "black-canyon-of-the-gunnison-webcam":
         cam_notice = '<p class="section-note">The Black Canyon webcams are currently inactive. The park map remains available below.</p>'
@@ -1453,7 +1469,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
     {live_section}
     <section class="weather-section" {weather_attrs}>
       <div class="section-heading">
-        <div><h2>Weather</h2></div>
+        <div><h2>Weather</h2>{f'<p class="section-note">{html.escape(weather_note)}</p>' if weather_note else ''}</div>
       </div>
       <div class="weather-layout">
         <article class="weather-card">

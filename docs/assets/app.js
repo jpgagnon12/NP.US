@@ -358,6 +358,71 @@ const renderWeatherError = (message) => {
   });
 };
 
+const weatherCodeText = {
+  0: "Clear",
+  1: "Mostly clear",
+  2: "Partly cloudy",
+  3: "Cloudy",
+  45: "Fog",
+  48: "Freezing fog",
+  51: "Light drizzle",
+  53: "Drizzle",
+  55: "Heavy drizzle",
+  61: "Light rain",
+  63: "Rain",
+  65: "Heavy rain",
+  71: "Light snow",
+  73: "Snow",
+  75: "Heavy snow",
+  80: "Light showers",
+  81: "Showers",
+  82: "Heavy showers",
+  95: "Thunderstorms",
+};
+
+const renderOpenMeteoWeather = (lat, lng, hourlyEl, dailyEl) => {
+  const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lng}&temperature_unit=fahrenheit&hourly=temperature_2m,weather_code&daily=temperature_2m_max,weather_code&forecast_days=7&timezone=auto`;
+  return fetch(url)
+    .then((response) => {
+      if (!response.ok) throw new Error("Global forecast unavailable");
+      return response.json();
+    })
+    .then((forecast) => {
+      const hourlyTimes = forecast.hourly?.time || [];
+      const hourlyTemps = forecast.hourly?.temperature_2m || [];
+      const hourlyCodes = forecast.hourly?.weather_code || [];
+      const dailyTimes = forecast.daily?.time || [];
+      const dailyTemps = forecast.daily?.temperature_2m_max || [];
+      const dailyCodes = forecast.daily?.weather_code || [];
+
+      if (hourlyEl) {
+        hourlyEl.replaceChildren(
+          ...hourlyTimes.slice(0, 12).map((timeValue, index) => {
+            const item = document.createElement("div");
+            item.className = "hourly-item";
+            const time = new Date(timeValue);
+            const code = hourlyCodes[index];
+            item.innerHTML = `<span>${time.toLocaleTimeString([], { hour: "numeric" })}</span><strong>${formatTemp(hourlyTemps[index], "F")}</strong><small>${weatherCodeText[code] || "Forecast"}</small>`;
+            return item;
+          })
+        );
+      }
+
+      if (dailyEl) {
+        dailyEl.replaceChildren(
+          ...dailyTimes.slice(0, 7).map((dateValue, index) => {
+            const item = document.createElement("div");
+            item.className = "daily-item";
+            const day = new Date(`${dateValue}T12:00:00`);
+            const code = dailyCodes[index];
+            item.innerHTML = `<strong>${day.toLocaleDateString([], { weekday: "long" })}</strong><span>${formatTemp(dailyTemps[index], "F")}</span><p>${weatherCodeText[code] || "Forecast"}</p>`;
+            return item;
+          })
+        );
+      }
+    });
+};
+
 if (weatherSection) {
   const lat = weatherSection.dataset.lat;
   const lng = weatherSection.dataset.lng;
@@ -402,5 +467,7 @@ if (weatherSection) {
         );
       }
     })
-    .catch(() => renderWeatherError("Weather is temporarily unavailable."));
+    .catch(() =>
+      renderOpenMeteoWeather(lat, lng, hourlyEl, dailyEl).catch(() => renderWeatherError("Weather is temporarily unavailable."))
+    );
 }
