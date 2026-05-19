@@ -1229,6 +1229,8 @@ def page_shell(title, body, page_slug, pages, description, image="", depth=0):
   <meta name="twitter:url" content="{html.escape(canonical_url)}">
   {twitter_image_meta}
   <link rel="canonical" href="{html.escape(canonical_url)}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{prefix}assets/favicon-32x32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{prefix}assets/apple-touch-icon.png">
   <script type="application/ld+json">{json_ld}</script>
 {google_analytics_tag()}
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
@@ -1602,6 +1604,8 @@ def main():
     shutil.copy(ROOT / "assets" / "styles.css", ASSETS_OUT / "styles.css")
     shutil.copy(ROOT / "assets" / "app.js", ASSETS_OUT / "app.js")
     shutil.copy(ROOT / "assets" / "npsLogo.png", ASSETS_OUT / "npsLogo.png")
+    shutil.copy(ROOT / "assets" / "favicon-32x32.png", ASSETS_OUT / "favicon-32x32.png")
+    shutil.copy(ROOT / "assets" / "apple-touch-icon.png", ASSETS_OUT / "apple-touch-icon.png")
 
     (DIST / "index.html").write_text(build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug), encoding="utf-8")
     info = info_pages()
