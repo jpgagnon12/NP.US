@@ -121,6 +121,8 @@ NO_CAMERA_PARK_NAMES = {
     "indiana-dunes-national-park": "Indiana Dunes National Park",
     "kenai-fjords-national-park": "Kenai Fjords National Park",
     "kobuk-valley-national-park": "Kobuk Valley National Park",
+    "lake-clark-national-park": "Lake Clark National Park",
+    "mesa-verde-national-park": "Mesa Verde National Park",
 }
 
 PARK_NAMES = {
@@ -157,6 +159,7 @@ PARK_COORDS = {
     "kings-canyon-webcam": [36.8879, -118.5551],
     "lassen-volcano-webcam": [40.4977, -121.4207],
     "mammoth-cave-webcam": [37.1862, -86.1005],
+    "mesa-verde-national-park": [37.2309, -108.4618],
     "mount-rainier-webcam": [46.8523, -121.7603],
     "new-river-gorge-webcam": [37.8683, -80.9996],
     "north-cascades-webcam": [48.7718, -121.2985],
@@ -188,6 +191,7 @@ PARK_COORDS = {
     "indiana-dunes-national-park": [41.6533, -87.0524],
     "kenai-fjords-national-park": [59.818, -150.1066],
     "kobuk-valley-national-park": [67.3356, -159.1281],
+    "lake-clark-national-park": [60.4127, -154.3235],
 }
 
 PAGE_SOURCE_EMBEDS = {
@@ -563,7 +567,7 @@ def inline_link_candidates(links):
         label = clean_title(link["label"]).strip()
         url = link["url"]
         parsed = urlparse(url)
-        if parsed.netloc.endswith("nps.gov") and parsed.path.endswith("/index.htm"):
+        if parsed.netloc.endswith("nps.gov") and re.fullmatch(r"/[^/]+/index\.htm", parsed.path):
             add_candidate("official NPS page", url)
             add_candidate("official NPS site", url)
             add_candidate("current alerts", url)
