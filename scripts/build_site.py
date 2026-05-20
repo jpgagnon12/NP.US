@@ -125,6 +125,10 @@ NO_CAMERA_PARK_NAMES = {
     "mesa-verde-national-park": "Mesa Verde National Park",
     "national-park-of-american-samoa": "National Park of American Samoa",
     "pinnacles-national-park": "Pinnacles National Park",
+    "saguaro-national-park": "Saguaro National Park",
+    "voyageurs-national-park": "Voyageurs National Park",
+    "white-sands-national-park": "White Sands National Park",
+    "wind-cave-national-park": "Wind Cave National Park",
 }
 
 PARK_NAMES = {
@@ -196,6 +200,10 @@ PARK_COORDS = {
     "kobuk-valley-national-park": [67.3356, -159.1281],
     "lake-clark-national-park": [60.4127, -154.3235],
     "national-park-of-american-samoa": [-14.2583, -170.6833],
+    "saguaro-national-park": [32.25, -110.5],
+    "voyageurs-national-park": [48.5, -92.88],
+    "white-sands-national-park": [32.78, -106.17],
+    "wind-cave-national-park": [43.57, -103.48],
 }
 
 WEATHER_COORDS = {
@@ -586,6 +594,16 @@ def inline_link_candidates(links):
         if label.lower() == "maps":
             add_candidate("park map", url)
             add_candidate("maps", url)
+            continue
+        if label.lower() == "hiking":
+            add_candidate("NPS Hiking page", url)
+            add_candidate("official NPS Hiking page", url)
+            add_candidate(label, url)
+            continue
+        if label.lower() == "camping":
+            add_candidate("NPS Camping page", url)
+            add_candidate("official NPS Camping page", url)
+            add_candidate(label, url)
             continue
         if label.lower() in {"recreation.gov", "reservations"}:
             add_candidate("reservation links", url)
@@ -1456,13 +1474,14 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
       <div class="embed-grid">{render_embed_cards(embeds, webcam_sources, captions, page["slug"])}</div>
     </section>
 """
+    hero_summary = "" if no_camera_page else f"<p>{html.escape(hero_intro(title, intro))}</p>"
     body_html = f"""
   <main>
     <section class="page-hero">
       <div class="page-hero-copy">
         <a class="back-link" href="../index.html">All parks</a>
         <h1>{html.escape(title)}</h1>
-        <p>{html.escape(hero_intro(title, intro))}</p>
+        {hero_summary}
         {hero_actions}
       </div>
     </section>

@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/death-valley-national-park
 
 Introduction
 
-Death Valley is the hottest, driest, and lowest national park, with salt flats, dunes, badlands, mountains, canyons, volcanic craters, and occasional spring wildflower displays. The park is enormous, so travel times, heat, water, fuel, and road conditions are part of the planning, not side details.
+Death Valley National Park protects about 3,422,024 acres of salt flats, dunes, badlands, mountains, canyons, volcanic craters, and desert basins in California and Nevada. The park recorded 1,320,134 recreation visits in 2025, despite being the hottest, driest, and lowest national park in the United States. Because the park is enormous, travel times, heat, water, fuel, and road conditions are part of the planning, not side details.
 
 Badwater Basin sits below sea level, while Telescope Peak rises over 11,000 feet above the valley floor. That vertical range creates very different experiences within one park, from salt flats and desert washes to high mountain viewpoints. Winter and spring are the most comfortable seasons for many visitors, while summer hiking can be dangerous outside the highest elevations.
+
+Death Valley was first protected as a national monument on February 11, 1933, and became a national park on October 31, 1994. Its history includes Timbisha Shoshone homelands, mining, borax transport, desert travel routes, and long-running efforts to protect a vast and extreme desert landscape.
 
 Hiking and Backpacking
 

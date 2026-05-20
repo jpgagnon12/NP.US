@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/dry-tortugas-national-park
 
 Introduction
 
-Dry Tortugas protects Fort Jefferson, coral reefs, blue water, bird habitat, shipwreck history, and remote islands about 70 miles west of Key West. The park is reached by ferry, seaplane, or private boat, so transportation reservations and weather planning shape almost every visit.
+Dry Tortugas National Park protects about 64,701 acres of remote islands, coral reefs, blue water, bird habitat, shipwreck history, and Fort Jefferson about 70 miles west of Key West. The park recorded 89,355 recreation visits in 2025, making it one of the least visited parks in the lower 48 because every trip requires a ferry, seaplane, or private boat. Transportation reservations and weather planning shape almost every visit.
 
 Garden Key and Fort Jefferson are the center of most day trips, with snorkeling around the moat wall, birding, photography, and historic tours all close together. The park has very limited services once visitors arrive, which makes food, water, shade, reef-safe sun protection, and seasickness planning important.
+
+Fort Jefferson was first protected as a national monument in 1935, and the area became Dry Tortugas National Park on October 26, 1992. The park's story connects coastal defense, Civil War imprisonment, maritime navigation, Caribbean bird migration, coral reef protection, and remote island ecology.
 
 Walking, Snorkeling, and Camping
 

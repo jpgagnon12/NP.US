@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/cuyahoga-valley-national-park
 
 Introduction
 
-Cuyahoga Valley follows the Cuyahoga River between Cleveland and Akron, protecting forests, farms, wetlands, waterfalls, canal history, and a surprisingly varied trail network in northeast Ohio. The park is woven into nearby communities, so visitors can combine hikes, scenic drives, historic sites, and gateway towns in a single day.
+Cuyahoga Valley National Park protects about 32,572 acres along the Cuyahoga River between Cleveland and Akron, including forests, farms, wetlands, waterfalls, canal history, and a varied trail network in northeast Ohio. The park recorded 3,025,325 recreation visits in 2025, making it one of the most visited guide-only parks on this site. Because the park is woven into nearby communities, visitors can combine hikes, scenic drives, historic sites, and gateway towns in a single day.
 
 The Ohio & Erie Canal Towpath Trail anchors much of the park experience, while Brandywine Falls, the Ledges, Beaver Marsh, and river overlooks add more natural stops. The Cuyahoga Valley Scenic Railroad and historic canal features give the park a different rhythm from remote wilderness parks.
+
+Cuyahoga Valley was first protected as a national recreation area on December 27, 1974, and became a national park on October 11, 2000. The park preserves river recovery, canal-era transportation, farming landscapes, and a rare large green corridor in a heavily developed region.
 
 Hiking and Backpacking
 

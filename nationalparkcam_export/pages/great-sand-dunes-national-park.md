@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/great-sand-dunes-national-park
 
 Introduction
 
-Great Sand Dunes protects the tallest dunes in North America, backed by wetlands, grasslands, forests, alpine lakes, and the Sangre de Cristo Mountains. The park combines a famous dune field with mountain preserve terrain, seasonal Medano Creek flows, dark skies, and a landscape that changes dramatically with wind, snowmelt, and temperature.
+Great Sand Dunes National Park and Preserve protects about 149,028 acres of dunes, wetlands, grasslands, forests, alpine lakes, and Sangre de Cristo Mountain terrain in southern Colorado. The park recorded 432,498 recreation visits in 2025, with most visitors drawn first to the tallest dunes in North America and the seasonal flow of Medano Creek. The landscape changes dramatically with wind, snowmelt, temperature, and time of day.
 
 Most first-time visitors spend time on the main dune field, where there are no fixed trails and distance is harder than it looks. The park also has forested hikes, alpine routes, four-wheel-drive access along Medano Pass Road, and backcountry zones that feel very different from the busy day-use area.
+
+Great Sand Dunes was first protected as a national monument on March 17, 1932, and became a national park and preserve on September 13, 2004. The park protects a rare meeting of desert-like dunes, mountain watersheds, wetlands, and cultural history tied to Indigenous travel, ranching, and conservation.
 
 Hiking and Backpacking
 

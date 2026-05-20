@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/capitol-reef-national-park
 
 Introduction
 
-Capitol Reef protects the Waterpocket Fold, a long wrinkle in the earth where tilted rock layers create cliffs, domes, canyons, bridges, and colorful desert walls. The park also preserves the historic Fruita area, where orchards, pioneer buildings, and the Fremont River create a greener contrast to the surrounding sandstone.
+Capitol Reef National Park protects about 241,904 acres of cliffs, domes, canyons, bridges, orchards, desert washes, and the Waterpocket Fold, a long wrinkle in the earth where tilted rock layers define the landscape. The park recorded 1,388,476 recreation visits in 2025, making it one of Utah's quieter but increasingly popular canyon-country parks. The Fruita area, Scenic Drive, and nearby trailheads are the easiest starting points for most visitors.
 
 Compared with some other Utah parks, Capitol Reef often feels quieter and more spread out. Visitors can focus on the paved Scenic Drive and Fruita area, head into day-hike canyons such as Grand Wash and Capitol Gorge, or plan more remote trips into Cathedral Valley, the Waterpocket District, and backcountry routes.
+
+Capitol Reef was first protected as a national monument on August 2, 1937, and became a national park on December 18, 1971. The park preserves Fremont culture rock art, pioneer orchards and buildings, and a geologic story that stretches across nearly 100 miles of folded sandstone country.
 
 Hiking and Backpacking
 

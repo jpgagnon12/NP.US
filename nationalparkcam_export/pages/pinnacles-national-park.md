@@ -4,7 +4,7 @@ Source: https://www.national-parks.us/pinnacles-national-park
 
 Introduction
 
-Pinnacles National Park protects about 26,685 acres of volcanic spires, talus caves, chaparral, oak woodlands, canyons, and California condor habitat in central California. The park recorded 348,030 recreation visits in 2025, making it a smaller and more rugged alternative to California's better-known mountain and coastal parks. Visitors come for steep hiking routes, spring wildflowers, cave passages, rock formations, birding, climbing, and the chance to see condors soaring over the High Peaks.
+Pinnacles National Park protects about 26,685 acres of volcanic spires, talus caves, chaparral, oak woodlands, canyons, and California condor habitat in central California. The park recorded 348,030 recreation visits in 2025, making it a smaller and more rugged alternative to California's better-known mountain and coastal parks. Visitors come for steep trail routes, spring wildflowers, cave passages, rock formations, birding, climbing, and the chance to see condors soaring over the High Peaks.
 
 The landscape began far to the south as part of an ancient volcanic field, then moved north along the San Andreas Fault over millions of years. Erosion left the dramatic pinnacles, cliffs, boulders, and cave-like talus passages that define the park today. The east and west entrances do not connect by road inside the park, so planning which side to enter matters before choosing a hike, campground, or scenic stop.
 
@@ -22,7 +22,7 @@ High Peaks, Bear Gulch Cave, Balconies Cave, Condor Gulch, Moses Spring, spring 
 
 Camping and Lodging
 
-Pinnacles Campground is located on the east side of the park and is the main developed overnight option. There is no road through the park to the west entrance, so campers should plan around east-side access. Lodging, restaurants, fuel, and supplies are available in nearby gateway communities such as Soledad, Hollister, King City, and Paicines.
+Pinnacles Campground is located on the east side of the park and is the main developed overnight option; the NPS Camping page has current details. There is no road through the park to the west entrance, so campers should plan around east-side access. Lodging, restaurants, fuel, and supplies are available in nearby gateway communities such as Soledad, Hollister, King City, and Paicines.
 
 Official Resources
 
@@ -36,8 +36,8 @@ Use the official NPS page, park map, current alerts, and reservation links below
 
 - Pinnacles National Park (U.S. National Park Service) Pinnacles protects volcanic spires, talus caves, chaparral, oak woodlands, rare wildlife, and California condor habitat in central California.: https://www.nps.gov/pinn/index.htm
 - Maps: https://www.nps.gov/pinn/planyourvisit/maps.htm
-- Hiking: https://www.nps.gov/pinn/planyourvisit/hiking.htm
-- Camping: https://www.nps.gov/pinn/planyourvisit/camping.htm
+- Hiking: https://www.nps.gov/pinn/planyourvisit/trails.htm
+- Camping: https://www.nps.gov/pinn/planyourvisit/camp.htm
 - Cave Status: https://www.nps.gov/pinn/planyourvisit/cave-status.htm
 - California Condors: https://www.nps.gov/pinn/learn/nature/condors.htm
 - History and Culture: https://www.nps.gov/pinn/learn/historyculture/index.htm

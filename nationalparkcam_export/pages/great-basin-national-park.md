@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/great-basin-national-park
 
 Introduction
 
-Great Basin protects ancient bristlecone pines, Lehman Caves, dark night skies, alpine lakes, sagebrush basins, limestone formations, and Wheeler Peak. The park rises from high desert into mountain terrain, giving visitors a mix of cave tours, scenic drives, stargazing, and high-elevation hiking.
+Great Basin National Park protects about 77,180 acres of ancient bristlecone pines, Lehman Caves, dark night skies, alpine lakes, sagebrush basins, limestone formations, and Wheeler Peak in eastern Nevada. The park recorded 161,210 recreation visits in 2025, making it a quieter high-desert and mountain alternative to many western parks. The park rises from sagebrush valleys into alpine terrain, giving visitors a mix of cave tours, scenic drives, stargazing, and high-elevation hiking.
 
 Lehman Caves is a major draw and requires tour planning, while Wheeler Peak Scenic Drive opens access to cooler forests, alpine lakes, and trailheads when the road is snow-free. Great Basin feels remote compared with many western parks, and that distance is part of its appeal for night skies and quieter trails.
+
+Lehman Caves was first protected as a national monument in 1922, and Great Basin National Park was established on October 27, 1986. The park preserves Basin and Range geology, Indigenous history, mining-era traces, high-elevation ecosystems, and some of the darkest skies in the National Park System.
 
 Hiking and Backpacking
 

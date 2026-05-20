@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/indiana-dunes-national-park
 
 Introduction
 
-Indiana Dunes protects Lake Michigan beaches, dunes, wetlands, oak savannas, prairies, forests, and historic sites along the southern shore of the lake. The park is close to Chicago and northern Indiana communities, but its habitats are surprisingly diverse and can change quickly from beach to dune to woodland.
+Indiana Dunes National Park protects about 15,349 acres of Lake Michigan beaches, dunes, wetlands, oak savannas, prairies, forests, and historic sites along the southern shore of the lake. The park recorded 2,629,497 recreation visits in 2025, reflecting both its strong regional draw and its location near Chicago and northern Indiana communities. Its habitats are surprisingly diverse and can change quickly from beach to dune to woodland.
 
 Visitors come for swimming, birding, hiking, wildflowers, historic farm sites, and lake views. Because the national park is spread across separate units near roads, rail lines, towns, and Indiana Dunes State Park, good planning helps connect the right beaches, trailheads, and parking areas for the season.
+
+Indiana Dunes was first protected as a national lakeshore in 1966 and became a national park on February 15, 2019. The park's story includes Indigenous homelands, conservation advocacy, industrial development, lakefront recreation, and one of the most biodiverse landscapes in the National Park System.
 
 Hiking and Backpacking
 

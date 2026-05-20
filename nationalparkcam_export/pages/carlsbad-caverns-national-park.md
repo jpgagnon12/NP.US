@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/carlsbad-caverns-national-park
 
 Introduction
 
-Carlsbad Caverns protects more than 100 known caves beneath the Chihuahuan Desert, including the immense rooms, limestone formations, and underground passages of Carlsbad Cavern. The Big Room and Natural Entrance routes are the center of most visits, while ranger-guided cave tours reveal more specialized parts of the cave system.
+Carlsbad Caverns National Park protects about 46,766 acres of Chihuahuan Desert and more than 100 known caves, including the immense rooms, limestone formations, and underground passages of Carlsbad Cavern. The park recorded 410,778 recreation visits in 2025, with many visitors planning around the Big Room, Natural Entrance route, ranger-guided cave tours, and the seasonal bat flight program.
 
 The park is also a desert landscape above ground, with rugged canyons, plants adapted to heat and drought, and a seasonal bat flight program that draws visitors near sunset. A good trip usually combines cave reservations with time for overlooks, desert trails, and the visitor center exhibits.
+
+Carlsbad Caverns was first protected as a national monument on October 25, 1923, and became a national park on May 14, 1930. The park also became a UNESCO World Heritage Site in 1995, recognizing the scale, complexity, and scientific importance of the cave system beneath the desert.
 
 Hiking and Backpacking
 

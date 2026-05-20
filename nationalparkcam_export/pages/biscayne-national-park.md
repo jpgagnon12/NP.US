@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/biscayne-national-park
 
 Introduction
 
-Biscayne protects a rare mix of turquoise water, mangrove shoreline, coral reefs, seagrass beds, shipwrecks, and islands at the northern end of the Florida Keys. More than ninety percent of the park is water, so the best trips are usually built around boat tours, paddling, snorkeling, diving, fishing, and island visits.
+Biscayne National Park protects about 172,971 acres of turquoise water, mangrove shoreline, coral reefs, seagrass beds, shipwrecks, and islands at the northern end of the Florida Keys. The park recorded 486,567 recreation visits in 2025, with most trips centered on boat tours, paddling, snorkeling, diving, fishing, and island visits. More than ninety percent of the park is water, so access and weather shape the experience more than road mileage.
 
 The mainland Dante Fascell Visitor Center is the easiest starting point, but most of the park's signature places require a boat. Boca Chita Key, Elliott Key, Adams Key, Jones Lagoon, and the Maritime Heritage Trail each show a different side of Biscayne, from clear reef water and mangrove habitat to historic structures and quiet island shorelines.
+
+Biscayne was first protected as Biscayne National Monument in 1968 and became a national park on June 28, 1980. The park's history includes Indigenous presence, shipwrecks, farming communities, island development proposals, and conservation efforts that protected a rare marine landscape just south of Miami.
 
 Boating, Paddling, and Island Walks
 

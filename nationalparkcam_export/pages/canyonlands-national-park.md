@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/canyonlands-national-park
 
 Introduction
 
-Canyonlands preserves a vast maze of canyons, mesas, buttes, arches, spires, and river corridors carved by the Colorado River and Green River. The park is divided into Island in the Sky, The Needles, The Maze, and the rivers, and each district requires separate planning because the drives between them are long.
+Canyonlands National Park protects about 337,598 acres of canyons, mesas, buttes, arches, spires, desert basins, and river corridors carved by the Colorado River and Green River in southeastern Utah. The park recorded 796,057 recreation visits in 2025, with many travelers dividing their time between Island in the Sky, The Needles, The Maze, and the rivers. Each district requires separate planning because the drives between them are long and services are limited.
 
 Island in the Sky is the most accessible district, with paved overlooks above deep canyon country. The Needles offers more immersive hiking among sandstone spires and open desert basins. The Maze is remote and difficult to reach, while the river corridors require rafting or boating logistics. Canyonlands is spectacular, but distances, heat, water, and road conditions matter on every visit.
+
+Canyonlands was established as a national park on September 12, 1964, after years of interest in protecting the wild canyon country around the Colorado and Green rivers. The park preserves geologic layers, Indigenous rock art and travel routes, ranching history, mining-era traces, and some of the most remote desert terrain in the Utah national park system.
 
 Hiking and Backpacking
 

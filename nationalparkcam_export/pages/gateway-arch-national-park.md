@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/gateway-arch-national-park
 
 Introduction
 
-Gateway Arch National Park preserves the St. Louis riverfront, the Gateway Arch, and the Old Courthouse as places tied to westward expansion, civic identity, architecture, and civil rights history. It is a compact urban national park, so the experience is closer to a museum, monument, and downtown walking visit than a wilderness trip.
+Gateway Arch National Park protects about 91 acres along the St. Louis riverfront, including the Gateway Arch, landscaped grounds, museum spaces, and the Old Courthouse. The park recorded 2,209,028 recreation visits in 2025, making it a high-traffic urban national park rather than a wilderness destination. A visit is closer to a museum, monument, and downtown walking experience than a traditional backcountry trip.
 
 The Arch grounds connect the Mississippi River, landscaped park space, underground museum exhibits, tram access to the top of the Arch, and nearby historic downtown St. Louis. Visitors should plan around timed tickets, security screening, museum time, riverfront walking, and the seasonal availability of tours and nearby attractions.
+
+The site was first protected as Jefferson National Expansion Memorial in 1935 and was redesignated Gateway Arch National Park on February 22, 2018. Its story connects westward expansion, civic architecture, the Mississippi River, and civil rights history at the Old Courthouse.
 
 Walking and Historic Sites
 

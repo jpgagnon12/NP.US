@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/badlands-national-park
 
 Introduction
 
-Badlands protects a sharp, wind-carved landscape of buttes, pinnacles, spires, mixed-grass prairie, and fossil beds in western South Dakota. The park preserves one of the richest Oligocene fossil deposits in North America, with ancient horses, rhinos, oreodonts, and other prehistoric mammals represented in the exposed rock layers.
+Badlands National Park protects about 244,000 acres of eroded buttes, pinnacles, spires, mixed-grass prairie, and fossil beds in western South Dakota. The park recorded 1,139,361 recreation visits in 2025, drawing travelers to one of the most dramatic prairie-and-badlands landscapes in the United States. Badlands Loop Road makes the park approachable for short visits, while trailheads and overlooks give visitors quick access to sunrise, sunset, wildlife, and open-country views.
 
-The park also protects a living prairie ecosystem where bison, bighorn sheep, pronghorn, prairie dogs, coyotes, raptors, and black-footed ferrets shape the visitor experience. Badlands Loop Road gives first-time visitors an easy way to reach overlooks, trailheads, and sunrise or sunset viewpoints, but the park rewards anyone who leaves time for short hikes and quiet prairie stops.
+The park preserves one of the richest Oligocene fossil deposits in North America, with ancient horses, rhinos, oreodonts, and other prehistoric mammals represented in the exposed rock layers. It also protects a living prairie ecosystem where bison, bighorn sheep, pronghorn, prairie dogs, coyotes, raptors, and black-footed ferrets shape the visitor experience.
+
+Badlands was first protected as Badlands National Monument in 1939 and became Badlands National Park on November 10, 1978. The park also includes the South Unit, which lies within the Pine Ridge Indian Reservation and is co-managed with the Oglala Sioux Tribe, adding important cultural context to the geologic and wildlife story.
 
 Hiking and Backpacking
 

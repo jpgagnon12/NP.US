@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/hot-springs-national-park
 
 Introduction
 
-Hot Springs protects thermal springs, Bathhouse Row, forested Ouachita Mountain trails, scenic drives, and a long history of public bathing and wellness tourism in Arkansas. The park is unusually urban, with historic buildings and downtown streets woven directly into the national park experience.
+Hot Springs National Park protects about 5,550 acres of thermal springs, Bathhouse Row, forested Ouachita Mountain trails, scenic drives, and historic public bathing landscapes in Arkansas. The park recorded 2,494,611 recreation visits in 2025, making it one of the busiest small national parks in the country. Its urban setting means historic buildings and downtown streets are woven directly into the national park experience.
 
 Visitors can tour the Fordyce Bathhouse Visitor Center, walk Bathhouse Row, fill bottles at public thermal fountains, hike forested ridges above town, and drive or walk to mountain viewpoints. The thermal water is protected as a natural resource, while modern bathing experiences are offered through authorized bathhouses outside direct NPS operation.
+
+The hot springs were first set aside as a federal reservation in 1832, decades before Yellowstone became a national park. The area became Hot Springs National Park on March 4, 1921, preserving both the natural thermal water system and the bathhouse culture that grew around it.
 
 Hiking and Backpacking
 

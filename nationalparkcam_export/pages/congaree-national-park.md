@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/congaree-national-park
 
 Introduction
 
-Congaree protects the largest intact expanse of old-growth bottomland hardwood forest remaining in the southeastern United States. The park's floodplain forest includes towering champion trees, cypress-tupelo sloughs, oxbow lakes, and a landscape shaped by the Congaree and Wateree rivers.
+Congaree National Park protects about 26,692 acres of old-growth bottomland hardwood forest, cypress-tupelo sloughs, oxbow lakes, and floodplain habitat in central South Carolina. The park recorded 287,833 recreation visits in 2025, with many visitors starting on the Boardwalk Loop before exploring Cedar Creek, forest trails, and seasonal water routes. Congaree preserves the largest intact expanse of old-growth bottomland hardwood forest remaining in the southeastern United States.
 
 Water levels define many visits. Trails can be dry and easy one week, then muddy or flooded the next, while Cedar Creek paddling trips change with rainfall and river conditions. Congaree is close to Columbia, South Carolina, but the forest can feel surprisingly wild once visitors leave the boardwalk.
+
+Congaree was first protected as Congaree Swamp National Monument on October 18, 1976, and became Congaree National Park on November 10, 2003. The park's history includes Indigenous use, floodplain forests, logging pressure, citizen conservation, and continuing protection of one of the tallest deciduous forests in North America.
 
 Hiking and Backpacking
 

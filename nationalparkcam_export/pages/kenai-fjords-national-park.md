@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/kenai-fjords-national-park
 
 Introduction
 
-Kenai Fjords protects the Harding Icefield, tidewater glaciers, coastal fjords, marine wildlife, and rugged mountains near Seward, Alaska. Much of the park is best experienced by boat, kayak, or flightseeing, while Exit Glacier provides the easiest road-accessible area for hiking and ranger programs.
+Kenai Fjords National Park protects about 669,984 acres of the Harding Icefield, tidewater glaciers, coastal fjords, marine wildlife habitat, and rugged mountains near Seward, Alaska. The park recorded 425,369 recreation visits in 2025, with many trips split between boat tours on the coast and hikes in the Exit Glacier area. Much of the park is best experienced by boat, kayak, or flightseeing, while Exit Glacier provides the easiest road-accessible area for hiking and ranger programs.
 
 The park's glaciers, cliffs, and fjords support whales, sea otters, seals, puffins, seabirds, and other coastal wildlife. Weather can change quickly, and boat tours depend on sea conditions, but a clear day in Kenai Fjords can combine glacier views, wildlife, and mountain scenery in one trip.
+
+Kenai Fjords was first protected as a national monument in 1978 and became a national park on December 2, 1980, through the Alaska National Interest Lands Conservation Act. The park preserves icefield science, coastal ecosystems, Alaska Native history, and a changing glacier landscape shaped by climate and sea.
 
 Hiking and Backpacking
 

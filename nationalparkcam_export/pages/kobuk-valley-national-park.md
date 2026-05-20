@@ -4,9 +4,11 @@ Source: https://www.national-parks.us/kobuk-valley-national-park
 
 Introduction
 
-Kobuk Valley protects Arctic wilderness, the Great Kobuk Sand Dunes, the Kobuk River, boreal forest, tundra, and caribou migration routes in northwest Alaska. The park has no roads, developed campgrounds, or maintained trail system, so most trips depend on bush flights, river travel, or experienced guided logistics.
+Kobuk Valley National Park protects about 1,750,716 acres of Arctic wilderness, the Great Kobuk Sand Dunes, the Kobuk River, boreal forest, tundra, and caribou migration routes in northwest Alaska. The park recorded 7,786 recreation visits in 2025, making it one of the least visited national parks in the country. There are no roads, developed campgrounds, or maintained trails, so most trips depend on bush flights, river travel, or experienced guided logistics.
 
 The Great Kobuk Sand Dunes are the most famous landmark, rising unexpectedly within an Arctic landscape. Onion Portage and the Kobuk River are also central to the park's natural and cultural story, especially during caribou migration. Visitors should expect isolation, insects, cold water, bear country, and weather that can alter flights and routes.
+
+Kobuk Valley was first protected as a national monument in 1978 and became a national park on December 2, 1980, through the Alaska National Interest Lands Conservation Act. The park preserves Inupiat history, caribou migration, river travel routes, and a rare Arctic dune field within a broad wilderness landscape.
 
 Hiking and Backpacking
 
