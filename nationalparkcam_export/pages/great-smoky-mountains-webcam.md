@@ -1,4 +1,4 @@
-# Gr eat Smoky Mountains National Park Live Webcams
+# Great Smoky Mountains National Park Live Webcams
 
 Source: https://www.nationalparkcam.com/great-smoky-mountains-webcam
 

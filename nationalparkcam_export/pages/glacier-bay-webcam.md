@@ -1,4 +1,4 @@
-# Glacier Bay National Park Liv e Webcams
+# Glacier Bay National Park Live Webcams
 
 Source: https://www.nationalparkcam.com/glacier-bay-webcam
 

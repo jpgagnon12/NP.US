@@ -61,7 +61,7 @@ The park has three campgrounds. Two regular campgrounds and one group site for c
 
 Cottonwood Campground is the only campground in the South Unit. Standard campsites are available, and half of them can be reserved up to 6 months in advance through recreation.gov. The remaining sites are first-come, first-served. Services include flush toilets during the summer season, otherwise there are vault toilets.
 
-Juniper Campground is in the North Unit of the park. All campsites are first-come, first-served basis. The group site, however, the group site can be reserved. Services include flush toilets during the summer season, otherwise there are vault toilets.
+Juniper Campground is in the North Unit of the park. All campsites are first-come, first-served. The group site, however, can be reserved. Services include flush toilets during the summer season; otherwise, there are vault toilets.
 
 Roundup Group Horse Camp is available an equestrian group campground for camping with horses. Services include flush toilets during the summer season, otherwise there are vault toilets. Reservations can be made at recreation.gov.
 Image: Email

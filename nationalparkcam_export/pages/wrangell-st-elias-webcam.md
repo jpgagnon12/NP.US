@@ -27,7 +27,7 @@ Day Hikes
 
 **Copper Center Area Trails** are mostly located outside the park. The NPS has trail maps for many hikes in the area. Below is our one recommendation.
 
-O ' Brien to Haley Creek trail is located near Chitina and follows the old right of way of the historic Cooper River and Northwestern Railway. It is approximately 10 miles (16 km), with minimal elevation gain. The trail takes you through an old railroad tunnel and you will enjoy great views of the Copper River and Wood Canyon. A map and trail head information can be found here.
+O'Brien to Haley Creek Trail is located near Chitina and follows the old right-of-way of the historic Copper River and Northwestern Railway. It is approximately 10 miles (16 km), with minimal elevation gain. The trail takes you through an old railroad tunnel, with great views of the Copper River and Wood Canyon. A map and trailhead information can be found here.
 
 **McCarthy Road & Kennecott** area has some incredible hikes. The NPS has trail maps for many hikes in the area. The mine trails will take you deep into the park, with some incredible views. Our favorite is below, which is not one of the mine trails.
 

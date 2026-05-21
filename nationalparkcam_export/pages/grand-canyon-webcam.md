@@ -1,4 +1,4 @@
-# G rand Canyon National Park Live Webcams
+# Grand Canyon National Park Live Webcams
 
 Source: https://www.nationalparkcam.com/grand-canyon-webcam
 

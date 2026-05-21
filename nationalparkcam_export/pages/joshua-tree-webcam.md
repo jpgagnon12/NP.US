@@ -33,21 +33,21 @@ Top five day-hiking trails
 
 Backpacking
 
-Joshua Tree is a great place to backpack. The park is a certified Internation Dark Sky Park, providing incredible views of the stars. Permits are required and can be obtain at Recreation.gov.
+Joshua Tree is a great place to backpack. The park is a certified International Dark Sky Park, providing incredible views of the stars. Permits are required and can be obtained at Recreation.gov.
 
 **The Boy Scout Trail** in Joshua Tree National Park is approximately 16 miles (25.7 km) as an out-and-back hike, but you can also hike to a viewpoint for a respectable 9.5 miles (15.25 km) round-trip. Total elevation gain is 1,850 feet (564 m). The highest point in the trail is 4,240 feet (1286 m) above sea level. The trailhead is located at the Keys West Trailhead. The trail is full of Joshua Trees and passes through the Wonderland of Rocks. Water is available at the Indian Cove entrance but requires an additional half mile hike.
 
-**The California Riding and Hiking Trail (CRHT** ) is 37.6 miles (60.5 km) as a point-to-point trail, with an elevation gain of 3,175 feet (967 m). THIS IS A Point to Point trail so you must leave a car at the end point or arrange other transportation. Most hikers hike from west to east. There is no water along the trail so be prepared. Although the CRHT passes official campgrounds, dispersed camping along the trail offers a more authentic experience.
+**The California Riding and Hiking Trail (CRHT)** is 37.6 miles (60.5 km) as a point-to-point trail, with an elevation gain of 3,175 feet (967 m). This is a point-to-point trail, so you must leave a car at the end point or arrange other transportation. Most hikers hike from west to east. There is no water along the trail, so be prepared. Although the CRHT passes official campgrounds, dispersed camping along the trail offers a more authentic experience.
 
-**The Quail Mountain Via Juniper Flats Trail** is 13.4 miles (20.6 km) as an out-and-back hike. The total elevation gain is 1,709 feet (512 m). The summit of Quail Mountain stands at 5,813 feet (1800 m) above sea level. The trailhead is at Juniper Flats parking area. Be aware that the trail starts as a designated, marked path but eventually turns into a faint trail for the summit push. The final few miles of the summit"loop"are not well marked and involve some off-trail hiking through sections. Hike west along the rolling California Riding and Hiking Trail (CRHT), enjoying beautiful desert scenery for several miles. Just after mile marker 23 on the CRHT, turn right onto an old closed sandy dirt road, the Stubbe Springs Trail. Follow the worn trail directly to the base of Quail Mountain.
+**The Quail Mountain Via Juniper Flats Trail** is 13.4 miles (20.6 km) as an out-and-back hike. The total elevation gain is 1,709 feet (512 m). The summit of Quail Mountain stands at 5,813 feet (1800 m) above sea level. The trailhead is at Juniper Flats parking area. Be aware that the trail starts as a designated, marked path but eventually turns into a faint trail for the summit push. The final few miles of the summit "loop" are not well marked and involve some off-trail hiking through sections. Hike west along the rolling California Riding and Hiking Trail (CRHT), enjoying beautiful desert scenery for several miles. Just after mile marker 23 on the CRHT, turn right onto an old closed sandy dirt road, the Stubbe Springs Trail. Follow the worn trail directly to the base of Quail Mountain.
 
 Campgrounds
 
-Joshua Tree has nine campgrounds, with around 500 campsites. Five of the campgrounds can be reserved at the Recreation.gov website. The others are first come first severed.
+Joshua Tree has nine campgrounds, with around 500 campsites. Five of the campgrounds can be reserved at the Recreation.gov website. The others are first-come, first-served.
 
 Reservable Campgrounds
 
-**Black Rock Campground** lies among one of the thickest Joshua tree forests in the park. The campground is located on the park's northern perimeter, making it a popular rest stop for hikers, birders, horseback riders, and RV campers. The campground offers beautiful views of the desert views. and unique Joshua Trees. Each of the 99 campsites includes picnic tables and fire pits. Water spigots scattered throughout the campground, as well as clean restrooms. There are no electric or water hookups. The campground can accommodate RVs with a maximum length of 35 feet 10.5 m).
+**Black Rock Campground** lies among one of the thickest Joshua tree forests in the park. The campground is located on the park's northern perimeter, making it a popular rest stop for hikers, birders, horseback riders, and RV campers. The campground offers beautiful desert views and unique Joshua trees. Each of the 99 campsites includes picnic tables and fire pits. Water spigots are scattered throughout the campground, and clean restrooms are available. There are no electric or water hookups. The campground can accommodate RVs with a maximum length of 35 feet (10.5 m).
 
 **Cottonwood Campground** is located in the southeastern part of the park. The campsite has 62 sites, potable water and flush toilets. The campground is near the Cottonwood Visitor Center and is open year round. The nearest town is Indio, 30 miles away (48 km). The campground is open year-round.
 
@@ -71,7 +71,7 @@ There are several campgrounds that operate on a first-come, first-served basis. 
 
 Climbing
 
-Joshua Tree National Park is renowned destination for rock climbing, bouldering, highlining, and slacklining.
+Joshua Tree National Park is a renowned destination for rock climbing, bouldering, highlining, and slacklining.
 
 **Rock Climbing**. The park offers more than 8,000 climbing routes across its unique monzogranite formations. Climbers can explore traditional-style crack climbs, slab climbs, and steep face climbs.
 
@@ -81,7 +81,7 @@ The park offers biking opportunities, but there are some important guidelines to
 
 Biking
 
-Biking is restricted to roads open to vehicles within the park and are not allowed on trails. There are no bike lanes on most paved roads, and many of them lack a shoulder. For a more enjoyable experience, consider cycling on the park's backcountry roads, which have less traffic compared to the busy paved roads.
+Bikes are restricted to roads open to vehicles within the park and are not allowed on trails. There are no bike lanes on most paved roads, and many of them lack a shoulder. For a more enjoyable experience, consider cycling on the park's backcountry roads, which have less traffic compared to the busy paved roads.
 
 **Ryan Campground** has three sites specifically for bicyclists (sites 32 A, B, and C). Each site allows a maximum of three tents and three people. All sites share one fire pit. Also, since there is no water at Ryan Campground, campers should obtain water at the West Entrance station or Oasis Visitor Center.
 Image: Email

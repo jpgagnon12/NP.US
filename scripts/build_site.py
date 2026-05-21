@@ -756,7 +756,43 @@ def bold_lead_text(rendered, line):
     return rendered
 
 
-def text_to_html(body, inline_links=None):
+def park_heading_name(page_slug, title):
+    return PARK_NAMES.get(page_slug) or title.replace(" Webcams", "").replace(" Guide", "").strip()
+
+
+def seo_section_heading(section_title, page_slug="", page_title=""):
+    if not section_title or not page_slug:
+        return section_title
+    park_name = park_heading_name(page_slug, page_title)
+    short = short_name(page_title)
+    lower = section_title.lower()
+    if park_name.lower() in lower or short.lower() in lower:
+        return section_title
+    exact_headings = {
+        "introduction": f"{park_name} Overview",
+        "planning highlights": f"Things to Do in {park_name}",
+        "official resources": f"Official {park_name} Resources",
+        "hiking": f"{park_name} Hiking Trails",
+        "backpacking": f"{park_name} Backpacking",
+        "camping": f"{park_name} Camping",
+        "lodging": f"{park_name} Lodging",
+        "camping and lodging": f"{park_name} Camping and Lodging",
+        "camping / lodging": f"{park_name} Camping and Lodging",
+        "cave tours": f"{park_name} Cave Tours",
+        "planning a visit": f"Planning a Visit to {park_name}",
+    }
+    if lower in exact_headings:
+        return exact_headings[lower]
+    if lower == "hiking and backpacking":
+        return f"{park_name} Hiking and Backpacking"
+    if lower in {"walking and historic sites", "walking, snorkeling, and camping", "boating, paddling, and island walks"}:
+        return f"{section_title} in {park_name}"
+    if "camping" in lower or "lodging" in lower or "backpacking" in lower or "hiking" in lower:
+        return f"{section_title} in {park_name}"
+    return section_title
+
+
+def text_to_html(body, inline_links=None, page_slug="", page_title=""):
     inline_links = inline_links or []
     sections = []
     current = {"title": "", "paragraphs": []}
@@ -776,7 +812,8 @@ def text_to_html(body, inline_links=None):
     for section in sections:
         if not section_has_body(section):
             continue
-        heading = f"<h2>{inline_formatting(html.escape(section['title']))}</h2>" if section["title"] else ""
+        section_title = seo_section_heading(section["title"], page_slug, page_title)
+        heading = f"<h2>{inline_formatting(html.escape(section_title))}</h2>" if section_title else ""
         paragraphs = "".join(
             f"<p>{bold_lead_text(inline_formatting(linked_paragraph(line, inline_links)), line)}</p>"
             for line in section["paragraphs"]
@@ -1102,6 +1139,34 @@ def render_nav(pages, current_slug, depth):
     return "\n".join(links)
 
 
+def render_header_search(pages, depth):
+    entries = []
+    for page in pages:
+        if page["slug"] == "national-park-webcam-home":
+            continue
+        label = short_name(page["title"])
+        full_title = page["title"].replace(" Webcams", "").replace(" Guide", "").strip()
+        entries.append(
+            {
+                "slug": page["slug"],
+                "label": label,
+                "title": full_title,
+                "href": page_target_href(page, depth=depth),
+                "external": not is_no_camera_page(page["slug"]),
+                "type": "Guide" if is_no_camera_page(page["slug"]) else "Live cams",
+            }
+        )
+    data = html.escape(json.dumps(entries, ensure_ascii=False), quote=False)
+    return f"""
+      <form class="header-search" role="search" autocomplete="off">
+        <label class="sr-only" for="header-park-search">Search national parks</label>
+        <input id="header-park-search" type="search" placeholder="Search parks" aria-label="Search national parks" aria-controls="header-search-results" aria-expanded="false">
+        <div class="header-search-results" id="header-search-results" role="listbox" hidden></div>
+        <script type="application/json" id="header-search-data">{data}</script>
+      </form>
+    """
+
+
 def short_name(title):
     if title.startswith("National Park of American Samoa"):
         return "American Samoa"
@@ -1121,26 +1186,39 @@ def hero_intro(title, intro):
     return intro
 
 
-def related_park_links(current_page, pages, count=4):
+def related_park_links(current_page, pages, count=6):
     current_coords = PARK_COORDS.get(current_page["slug"])
     if not current_coords:
         return ""
-    related = []
+    local_guides = []
+    live_cam_parks = []
     for page in pages:
         coords = PARK_COORDS.get(page["slug"])
         if not coords or page["slug"] == current_page["slug"]:
             continue
         distance = (coords[0] - current_coords[0]) ** 2 + (coords[1] - current_coords[1]) ** 2
-        related.append((distance, page))
-    related.sort(key=lambda item: item[0])
-    cards = []
-    for _, page in related[:count]:
-        title = short_name(page["title"])
-        if is_no_camera_page(current_page["slug"]) and not is_no_camera_page(page["slug"]):
-            href = NATIONALPARKCAM_SITE_URL
+        if is_no_camera_page(page["slug"]):
+            local_guides.append((distance, page))
         else:
-            href = page_target_href(page, depth=1)
-        action = "Read park guide" if is_no_camera_page(page["slug"]) else "View on NationalParkCam.com"
+            live_cam_parks.append((distance, page))
+    local_guides.sort(key=lambda item: item[0])
+    live_cam_parks.sort(key=lambda item: item[0])
+
+    selected = []
+    selected.extend(local_guides[:3])
+    remaining = count - len(selected)
+    selected.extend(live_cam_parks[:remaining])
+    if len(selected) < count:
+        used = {page["slug"] for _, page in selected}
+        selected.extend(item for item in local_guides[3:] + live_cam_parks[remaining:] if item[1]["slug"] not in used)
+    selected = selected[:count]
+
+    cards = []
+    for _, page in selected:
+        title = short_name(page["title"])
+        href = page_target_href(page, depth=1)
+        local_page = is_no_camera_page(page["slug"])
+        action = "Read park guide" if local_page else "View live cams on NationalParkCam.com"
         target_attrs = "" if is_no_camera_page(page["slug"]) else ' target="_blank" rel="noopener"'
         cards.append(
             f"""
@@ -1155,7 +1233,11 @@ def related_park_links(current_page, pages, count=4):
     return f"""
     <section class="related-parks-section" aria-labelledby="related-parks-heading">
       <div class="section-heading">
-        <div><span class="eyebrow">Nearby parks</span><h2 id="related-parks-heading">Related Park Links</h2></div>
+        <div>
+          <span class="eyebrow">More parks</span>
+          <h2 id="related-parks-heading">More National Park Guides</h2>
+          <p class="section-note">Continue planning with nearby park guides on this site or open live camera pages on NationalParkCam.com.</p>
+        </div>
       </div>
       <div class="related-park-grid">{''.join(cards)}</div>
     </section>
@@ -1164,33 +1246,68 @@ def related_park_links(current_page, pages, count=4):
 
 def structured_data(title, page_slug, description, canonical_url):
     site_name = "National Parks Guide" if page_slug == "national-park-webcam-home" or is_no_camera_page(page_slug) else "National Parks Webcams"
+    website_node = {
+        "@type": "WebSite",
+        "@id": f"{SITE_URL}/#website",
+        "name": "National Parks Guide",
+        "alternateName": "National Parks US",
+        "url": SITE_URL,
+        "description": "Browse national park guides, maps, weather, official resources, and live park camera links.",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": f"{SITE_URL}/?q={{search_term_string}}",
+            },
+            "query-input": "required name=search_term_string",
+        },
+    }
     if page_slug == "national-park-webcam-home":
-        graph = [
-            {
-                "@context": "https://schema.org",
-                "@type": "WebSite",
-                "name": site_name,
-                "url": canonical_url,
-                "description": description,
-            }
-        ]
+        graph = {
+            "@context": "https://schema.org",
+            "@graph": [
+                website_node,
+                {
+                    "@type": "CollectionPage",
+                    "@id": f"{canonical_url}/#webpage",
+                    "name": title,
+                    "url": canonical_url,
+                    "description": description,
+                    "isPartOf": {"@id": f"{SITE_URL}/#website"},
+                    "mainEntity": {
+                        "@type": "ItemList",
+                        "name": "National park guide directory",
+                        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+                    },
+                },
+            ],
+        }
     else:
-        graph = [
-            {
-                "@context": "https://schema.org",
+        park_name = PARK_NAMES.get(page_slug, title.replace(" Webcams", "").replace(" Guide", ""))
+        page_type = "CollectionPage" if page_slug in INFO_PAGE_SLUGS else "WebPage"
+        graph = {
+            "@context": "https://schema.org",
+            "@graph": [
+                website_node,
+                {
                 "@type": "WebPage",
+                "@id": f"{canonical_url}#webpage",
                 "name": title,
                 "url": canonical_url,
                 "description": description,
-                "isPartOf": {
-                    "@type": "WebSite",
-                    "name": site_name,
-                    "url": SITE_URL,
-                },
+                "isPartOf": {"@id": f"{SITE_URL}/#website"},
+                "breadcrumb": {"@id": f"{canonical_url}#breadcrumb"},
+                "about": {
+                    "@type": "TouristAttraction",
+                    "name": park_name,
+                    "url": canonical_url,
+                }
+                if page_slug not in INFO_PAGE_SLUGS
+                else None,
             },
             {
-                "@context": "https://schema.org",
                 "@type": "BreadcrumbList",
+                "@id": f"{canonical_url}#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
@@ -1206,7 +1323,11 @@ def structured_data(title, page_slug, description, canonical_url):
                     },
                 ],
             },
-        ]
+            ],
+        }
+        if page_slug in INFO_PAGE_SLUGS:
+            graph["@graph"][1]["@type"] = page_type
+            graph["@graph"][1].pop("about", None)
     return json.dumps(graph, ensure_ascii=False)
 
 
@@ -1216,8 +1337,43 @@ def seo_page_title(title, page_slug):
     if page_slug in INFO_PAGE_SLUGS:
         return f"{title} | National Parks Webcams"
     if is_no_camera_page(page_slug):
-        return f"{short_name(title)} Guide | National Park Visitor Info"
-    return f"{short_name(title)} Webcams | Live Cams, Weather & Maps"
+        park_name = NO_CAMERA_PARK_NAMES.get(page_slug, title.replace(" Guide", ""))
+        seo_title = f"{park_name} Guide | Weather, Map & Planning"
+        if len(seo_title) > 70:
+            seo_title = f"{park_name} Guide | Park Map & Weather"
+        if len(seo_title) > 70:
+            seo_title = f"{short_name(title)} Guide | Weather & Map"
+        return seo_title
+    park_name = WEBCAM_PARK_NAMES.get(page_slug, title.replace(" Webcams", ""))
+    seo_title = f"{park_name} Webcams | Live Cams, Weather & Map"
+    if len(seo_title) > 70:
+        seo_title = f"{park_name} Cams | Weather & Map"
+    if len(seo_title) > 70:
+        seo_title = f"{short_name(title)} Cams | Weather & Map"
+    return seo_title
+
+
+def seo_description(title, page_slug, description):
+    if is_no_camera_page(page_slug):
+        park_name = NO_CAMERA_PARK_NAMES.get(page_slug, title.replace(" Guide", ""))
+        meta = (
+            f"{park_name} guide with weather, map, activities, camping and lodging notes, "
+            "NPS links, visitor stats, acreage, and park history."
+        )
+        if len(meta) > 155:
+            meta = f"{park_name} guide with weather, map, activities, camping, lodging, NPS links, and park history."
+        return meta
+    return description
+
+
+def truncate_meta(text, limit):
+    clean = re.sub(r"\s+", " ", html.unescape(text)).strip()
+    if len(clean) <= limit:
+        return clean
+    clipped = clean[: limit + 1].rsplit(" ", 1)[0].rstrip(" ,.;:-")
+    while re.search(r"\b(?:and|or|the|of|in|with|to|from|for)$", clipped, flags=re.IGNORECASE):
+        clipped = clipped.rsplit(" ", 1)[0].rstrip(" ,.;:-")
+    return clipped
 
 
 def google_analytics_tag():
@@ -1244,6 +1400,9 @@ def page_shell(title, body, page_slug, pages, description, image="", depth=0):
     else:
         canonical_url = f"{SITE_URL}/parks/{page_slug}.html"
     seo_title = seo_page_title(title, page_slug)
+    page_description = seo_description(title, page_slug, description)
+    meta_description = truncate_meta(page_description, 155)
+    social_description = truncate_meta(page_description, 180)
     json_ld = structured_data(title, page_slug, description, canonical_url).replace("</", "<\\/")
     data_attrs = f' data-page-slug="{html.escape(page_slug)}" data-page-title="{html.escape(title)}" data-page-depth="{depth}"'
     brand_label = "National Parks Guide home" if page_slug == "national-park-webcam-home" or is_no_camera_page(page_slug) else "National Parks Webcams home"
@@ -1253,15 +1412,15 @@ def page_shell(title, body, page_slug, pages, description, image="", depth=0):
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{html.escape(seo_title)}</title>
-  <meta name="description" content="{html.escape(description[:155])}">
+  <meta name="description" content="{html.escape(meta_description)}">
   <meta property="og:title" content="{html.escape(seo_title)}">
-  <meta property="og:description" content="{html.escape(description[:180])}">
+  <meta property="og:description" content="{html.escape(social_description)}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{html.escape(canonical_url)}">
   {image_meta}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{html.escape(seo_title)}">
-  <meta name="twitter:description" content="{html.escape(description[:180])}">
+  <meta name="twitter:description" content="{html.escape(social_description)}">
   <meta name="twitter:url" content="{html.escape(canonical_url)}">
   {twitter_image_meta}
   <link rel="canonical" href="{html.escape(canonical_url)}">
@@ -1279,6 +1438,7 @@ def page_shell(title, body, page_slug, pages, description, image="", depth=0):
     </a>
     <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
     <div class="header-nav-group">
+      {render_header_search(pages, depth)}
       <nav class="recent-parks" id="recent-parks" aria-label="Recently viewed parks"></nav>
       <nav class="site-nav" id="site-nav">{render_nav(pages, page_slug, depth)}</nav>
     </div>
@@ -1424,6 +1584,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
     planning_url = nps["url"] or (links[0]["url"] if links else source)
     nationalparkcam_url = nationalparkcam_park_url(page["slug"])
     no_camera_page = is_no_camera_page(page["slug"])
+    park_name = park_heading_name(page["slug"], title)
     coords = PARK_COORDS.get(page["slug"], ["", ""])
     weather_coords = WEATHER_COORDS.get(page["slug"], coords)
     weather_attrs = f'data-lat="{weather_coords[0]}" data-lng="{weather_coords[1]}"' if weather_coords[0] != "" else ""
@@ -1445,7 +1606,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
         live_section = f"""
     <section class="resource-section guide-cta-section" id="park-map">
       <div class="section-heading">
-        <div><span class="eyebrow">No current camera page</span><h2>Explore nearby live park views</h2></div>
+        <div><span class="eyebrow">No current camera page</span><h2>Explore Live National Park Cameras</h2></div>
       </div>
       <div class="guide-cta-card">
         <div>
@@ -1468,7 +1629,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
         live_section = f"""
     <section class="resource-section live-first" id="live-cams">
       <div class="section-heading">
-        <div><h2>Live Cams & Maps</h2></div>
+        <div><h2>{html.escape(park_name)} Live Cams and Map</h2></div>
       </div>
       {cam_notice}
       <div class="embed-grid">{render_embed_cards(embeds, webcam_sources, captions, page["slug"])}</div>
@@ -1488,7 +1649,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
     {live_section}
     <section class="weather-section" {weather_attrs}>
       <div class="section-heading">
-        <div><h2>Weather</h2>{f'<p class="section-note">{html.escape(weather_note)}</p>' if weather_note else ''}</div>
+        <div><h2>{html.escape(park_name)} Weather</h2>{f'<p class="section-note">{html.escape(weather_note)}</p>' if weather_note else ''}</div>
       </div>
       <div class="weather-layout">
         <article class="weather-card">
@@ -1502,7 +1663,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
       </div>
     </section>
     <div class="page-layout">
-      <article class="page-content">{text_to_html(article_body, inline_link_candidates(links))}</article>
+      <article class="page-content">{text_to_html(article_body, inline_link_candidates(links), page["slug"], title)}</article>
     </div>
     {related_park_links(page, pages)}
     {bottom_actions}

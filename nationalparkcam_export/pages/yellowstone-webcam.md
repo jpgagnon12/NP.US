@@ -57,7 +57,7 @@ This is one of my favorite places to hike in the United States. Yellowstone Nati
 
 **Mary Mountain-Nez Perce** trail starts off the Grand Loop Road on the north side of the Hayden Valley. The actual trail is 20.4 miles (33 kms) from start to finish, however, I really enjoy the hike to Mary Lake and back which is approximately halfway. The trail takes you through a meadow, past a thermal basin to Mary Lake. As you approach the thermal basin, you will encounter a hot stream. You can explore the thermal area but do not approach the mud pots, etc. During the hike expect to see bull bison and possibly other wildlife. This trail is not heavily hiked and is not on the NPS site.
 
-**Fairy Falls trail to Spray and Imperial Geysers** is impressive. Along the way you will have great views of the geyser basin and Fairy Falls (200 feet high/61 m). The hike is 5.4 miles (8.7 km) with no only a couple hundred feet of elevation gain. The trail to Fairy Falls can be heavily traveled. Don’t let this stop you, keep going, most people stop at the falls and don’t normally go to the geysers.
+**Fairy Falls trail to Spray and Imperial Geysers** is impressive. Along the way, you will have great views of the geyser basin and Fairy Falls, which is 200 feet (61 m) high. The hike is 5.4 miles (8.7 km) with only a couple hundred feet of elevation gain. The trail to Fairy Falls can be heavily traveled. Do not let this stop you; keep going, because most people stop at the falls and do not normally continue to the geysers.
 
 **Dunraven Pass to Mount Washburn** starts at Dunraven Pass, which is north of Canyon Village, and leads to the summit of Mount Washburn. You'll traverse through diverse landscapes, including meadows, forests, and rocky terrain. Along the way, keep an eye out for wildlife and enjoy panoramic views of neighboring mountains and the Grand Canyon of Yellowstone. The trail is 6.8 miles (10.9 km) and has an elevation gain of 1,394 feet (424 m). See the NPS site for more information.
 
@@ -67,15 +67,15 @@ This is one of my favorite places to hike in the United States. Yellowstone Nati
 
 Backpacking
 
-Backpacking in Yellowstone National Park is an adventure, to say the least. Most trails are not heavily used and wildlife seems to be everywhere. There are a lot of bears in the park. C arry bear spray ( how to use bear spray ) and make noise to let them know you are around. Permi ts are required for any overnight stay. Advance reservations/lottery can be made at recreation.gov. Make sure to carry a bear resistant food container and a water filter. Be aware, these are not beginner trips. For more information on backing visit the NPS Backpacking site and Regulations. My two favorite backpacking trips are below.
+Backpacking in Yellowstone National Park is an adventure, to say the least. Most trails are not heavily used, and wildlife seems to be everywhere. There are a lot of bears in the park. Carry bear spray and make noise to let them know you are around. Permits are required for any overnight stay. Advance reservations and lottery entries can be made at recreation.gov. Make sure to carry a bear-resistant food container and a water filter. Be aware, these are not beginner trips. For more information on backpacking, visit the NPS Backpacking site and Regulations. My two favorite backpacking trips are below.
 
-**Larmar Valley to Pelican Valley** trail is around 34 miles (55 km) with an elevation gain of 1,400 feet (427 m). The Lamar Valley has incredible wildlife. The trail is only open from July to early November due to bear activity. Plan on three nights.
+**Lamar Valley to Pelican Valley** trail is around 34 miles (55 km) with an elevation gain of 1,400 feet (427 m). The Lamar Valley has incredible wildlife. The trail is only open from July to early November due to bear activity. Plan on three nights.
 
-**Black Canyon of the Yellowstone** is between 22 to 26 miles (35 - 42 km) depending on the trail. It is not the easiest hike, with an elevation gain of 3,052 feet (930 m) but the views of the Yellowstone River and wildlife are worthwhile. There are four trailheads, we prefer The Tower Junction parking lot (less tourists). This is a point-to-point hike so you will need either a vehicle at the other end. Plan on two nights.
+**Black Canyon of the Yellowstone** is between 22 to 26 miles (35 - 42 km), depending on the trail. It is not the easiest hike, with an elevation gain of 3,052 feet (930 m), but the views of the Yellowstone River and wildlife are worthwhile. There are four trailheads; we prefer the Tower Junction parking lot because it has fewer tourists. This is a point-to-point hike, so you will need a vehicle at the other end. Plan on two nights.
 
 Fishing
 
-Around 50,000 anglers fish the rivers, lakes and streams of Yellowstone every year. Fishing season usually starts around Memorial Day and ends at the end of October. A Yellowstone fishing permit is required and can be purchased at recreation,gov. All native fish, cuttroat, Mountain Whitefish and Artic Grayling must be release. All non-native species must be killed, it is illegal to release them back into the water. Make sure you use barbless hooks or you pinch down the barb with pliers. No lead tackle is allowed.
+Around 50,000 anglers fish the rivers, lakes, and streams of Yellowstone every year. Fishing season usually starts around Memorial Day and ends at the end of October. A Yellowstone fishing permit is required and can be purchased at recreation.gov. All native fish, cutthroat trout, mountain whitefish, and Arctic grayling must be released. All non-native species must be killed; it is illegal to release them back into the water. Make sure you use barbless hooks or pinch down the barb with pliers. No lead tackle is allowed.
 
 You are in bear territory. Bring bear spray and know how to use bear spray. Make noise so they know you are around.
 
@@ -93,7 +93,7 @@ Camping and Lodging
 
 Campgrounds
 
-There are twelve campgrounds in Yellowstone National Park. Five are reservable through Yellowstone National Park Lodges and seven through recreation.gov. The NPS site has a detailed list of all the campgrounds. Only one, Fishing Bridge has electrical hookups. We personally like Canyon and Fishing Bridge (hard sided RVs only).
+There are twelve campgrounds in Yellowstone National Park. Five are reservable through Yellowstone National Park Lodges and seven through recreation.gov. The NPS site has a detailed list of all the campgrounds. Only one, Fishing Bridge, has electrical hookups. We personally like Canyon and Fishing Bridge, which allows hard-sided RVs only.
 
 Below are links to the different campgrounds courtesy of the national park system.
 
@@ -107,7 +107,7 @@ Indian Creek, Lewis Lake, Mammoth, Norris, Pebble Creek, Slough Creek and Tower 
 
 Lodging
 
-There are nine lodges within the park. They are all operated by Yellowstone National Park lodges. For a description of the different lodges go to the NPS site. Make reservations as early as possible. My two favorites are the Lake Hotel and Old Faithful Inn. Even if you do not get reservations, they are worth seeing.
+There are nine lodges within the park. They are all operated by Yellowstone National Park Lodges. For a description of the different lodges, go to the NPS site. Make reservations as early as possible. My two favorites are the Lake Hotel and Old Faithful Inn. Even if you do not get reservations, they are worth seeing.
 Image: Email
 
 ## Images
@@ -185,7 +185,7 @@ Image: Email
 - recreation.gov: https://www.recreation.gov/permits/4675323
 - NPS Backpacking: https://www.nps.gov/yell/planyourvisit/backcountryhiking.htm
 - Regulations: https://www.nps.gov/yell/planyourvisit/backcountryhiking.htm
-- recreation,gov: https://www.recreation.gov/activitypass/08486201-71ff-11eb-90d3-9eb840e09acc
+- recreation.gov: https://www.recreation.gov/activitypass/08486201-71ff-11eb-90d3-9eb840e09acc
 - NPS website: https://www.nps.gov/yell/planyourvisit/fishing.htm
 - section: https://www.nps.gov/yell/learn/nature/wildlife.htm
 - Yellowstone National Park Lodges: https://www.yellowstonenationalparklodges.com/stay/camping/

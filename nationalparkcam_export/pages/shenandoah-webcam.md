@@ -37,9 +37,9 @@ The Riprap - Wildcat Ridge backpacking trip is a 9.8-mile circuit hike that take
 
 The Hannah, Hot-Short, and Catlett trail is 9.1 miles (14.6 km), with a total elevation gain of 2,365 feet (approximately 720 m). This hike is rated as very strenuous. The trailhead is located from the Hannah Run Parking Area (mile 35) on Skyline Drive. Along the way you will see an old home site ruin and mining pits.
 
-The Hawksbill to Swift Run via Laurel Prong is a 23-mile circuit hike that takes you through lush forests, alongside cascading streams, and offers stunning views. It includes the highest peak and waterfalls. The NPS rates this hike as an long, easier beginner hike. The trailhead is located at the Hawksbill Gap Parking Area (mile marker 45.6 on Skyline Drive).
+The Hawksbill to Swift Run via Laurel Prong is a 23-mile circuit hike that takes you through lush forests, alongside cascading streams, and offers stunning views. It includes the highest peak and waterfalls. The NPS rates this hike as a long, easier beginner hike. The trailhead is located at the Hawksbill Gap Parking Area (mile marker 45.6 on Skyline Drive).
 
-The Loft Mountain and Jones Run backpacking trip is a 9-mile hike that takes you through lush forests, alongside cascading streams, and offers stunning views. The NPS site rates the hike as an easier beginner hike but expect elevation gain. This is not a loop trail. The trail head is at from the Loft Mountain Campground (mile 78 on Skyline Drive) and the exit is at Jones Run Parking.
+The Loft Mountain and Jones Run backpacking trip is a 9-mile hike that takes you through lush forests, alongside cascading streams, and offers stunning views. The NPS site rates the hike as an easier beginner hike, but expect elevation gain. This is not a loop trail. The trailhead is at Loft Mountain Campground (mile 78 on Skyline Drive), and the exit is at Jones Run Parking.
 
 Fishing
 

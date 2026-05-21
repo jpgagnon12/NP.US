@@ -1,4 +1,4 @@
-# H awaii Volcanoes National Park Live Webcams
+# Hawaii Volcanoes National Park Live Webcams
 
 Source: https://www.nationalparkcam.com/hawaii-volcanoes-webcam
 
@@ -71,7 +71,7 @@ Permits are required for all back country hikes.
 
 There are two main backcountry sites on Mauna Loa: Puʻuʻulaʻula (Red Hill) Cabin and Mauna Loa Summit Cabin. Puʻuʻulaʻula Cabin is situated along the Mauna Loa Trail and is nestled at 10,035 feet (3,059 m) offering a serene view of Mauna Loa. Reservations can be made at the Hawaii State Park. The cabin provides basic amenities such as a sheltered space, sleeping quarters, a cooking area, and a pit toilet. Water is available at the cabin, but must be treated before drinking. Mauna Loa Summit Cabin is situated along the Mauna Loa Trail, reachable by the ʻĀinapō Trail and Kapāpala Ranch. The cabin provides basic amenities such as a sheltered space, sleeping quarters, a cooking area, and a pit toilet.
 
-**The Nāpau Crater via Napau Trail** is a 11.8 mile (19 km) round-trip hike in Hawaii Volcanoes National Park that has an elevation gain of 2,112 feet (644 m). The trailhead is located at the end of Chain of Craters Road. The trail takes you through a variety of terrains, including lava fields, rainforests, and the Nāpau Crater. There is a campground and pit toilet near Nāpau Crater overlook. Stays are limited to 3 consecutive nights. Reservations can be made at recreation.gov.
+**The Nāpau Crater via Napau Trail** is an 11.8-mile (19 km) round-trip hike in Hawaii Volcanoes National Park that has an elevation gain of 2,112 feet (644 m). The trailhead is located at the end of Chain of Craters Road. The trail takes you through a variety of terrains, including lava fields, rainforests, and the Nāpau Crater. There is a campground and pit toilet near Nāpau Crater overlook. Stays are limited to 3 consecutive nights. Reservations can be made at recreation.gov.
 
 Campground and Lodging
 
@@ -85,7 +85,7 @@ Lodging
 
 **Volcano House Lodge** is a historic hotel located within Hawaii Volcanoes National Park, on the edge of the Kīlauea crater. It is the oldest hotel site on the Big Island of Hawaii, dating back to 1846. The lodge offers 33 guest rooms, a dining room, a snack bar, a lounge, and a gift shop.
 
-**Volcano House** also manages 10 camper cabins and 16 campsites in the nearby Nāmakanipaio Campground. Volcano House Lodge is a great place to enjoy the spectacular views of the active volcano, the unique geologic ecosystem, and the cultural landscape of the park. The cabins sleep 4 guests each, and have a picnic table, an outdoor barbecue grill, and an outdoor firepit. Linens are provided, and guests can use the community bathroom with hot showers and toilets. The cabins offer a camping experience without setting up a tent, and are close to the park’s attractions, such as the Kīlauea crater and the lava tubes.
+**Volcano House** also manages 10 camper cabins and 16 campsites in the nearby Nāmakanipaio Campground. Volcano House Lodge is a great place to enjoy the spectacular views of the active volcano, the unique geologic ecosystem, and the cultural landscape of the park. The cabins sleep 4 guests each and have a picnic table, an outdoor barbecue grill, and an outdoor fire pit. Linens are provided, and guests can use the community bathroom with hot showers and toilets. The cabins offer a camping experience without setting up a tent and are close to the park’s attractions, such as the Kīlauea crater and the lava tubes.
 
 Reservations can be made at the Volcano House website.
 

@@ -34,11 +34,11 @@ Top Hikes and Climbs
 
 There are more than 150 miles (241 km) of trails in Acadia. In addition, there are bike paths and climbing within Acadia. Below are the most popular hikes. For more information, go to the NPS website.
 
-**Climbing** permits are required in some areas are of the park. Reservations can be made at recreation.gov.
+**Climbing** permits are required in some areas of the park. Reservations can be made at recreation.gov.
 
 Summit Hikes
 
-**Precipice Loop** This hike up has an elevation gain of 1,000 feet (304 m) in.9 of a mile (1.4 km). Beware, the hike has open cliff faces and iron rungs on the way to the top of Champlain Mountain. The trail is known for its steep climb and stunning views of the park’s landscape. The trail is approximately 3.2 miles (5.1 km) long and takes around 2-3 hours to complete. A wooden bridge and occasional iron handrail allow climbers to traverse narrow, exposed ledges. Several series of long iron rungs and ladders lead up the open, vertical cliff face. Continue along granite slopes until you reach the summit. Enjoy views of Frenchman Bay and the surrounding area from the top of Champlain Mountain. Descending the Precipice Trail is dangerous and not advised. Return on the North Ridge Trail of Champlain Mountain. This is a moderately steep descent on open granite.
+**Precipice Loop** This hike has an elevation gain of 1,000 feet (304 m) in 0.9 mile (1.4 km). Beware, the hike has open cliff faces and iron rungs on the way to the top of Champlain Mountain. The trail is known for its steep climb and stunning views of the park’s landscape. The trail is approximately 3.2 miles (5.1 km) long and takes around 2-3 hours to complete. A wooden bridge and occasional iron handrail allow climbers to traverse narrow, exposed ledges. Several series of long iron rungs and ladders lead up the open, vertical cliff face. Continue along granite slopes until you reach the summit. Enjoy views of Frenchman Bay and the surrounding area from the top of Champlain Mountain. Descending the Precipice Trail is dangerous and not advised. Return on the North Ridge Trail of Champlain Mountain. This is a moderately steep descent on open granite.
 
 **Jordan Cliffs Loop** The trail is approximately 5 miles (8 km) long, with an elevation gain of 1,610 feet (490 m), and takes around 3-4 hours to complete. The trail starts at the Jordan Pond boat launch and offers panoramic views from two mountain summits and a picturesque pond nestled between the mountains. The trail is forested and includes granite stairs and slopes, iron rungs, sheer cliffs, and rocky trails. The trail is not recommended for small children, people with a fear of heights, or anyone in wet weather.
 
@@ -76,7 +76,7 @@ Permits are required in the summer to drive Cadillac Summit Road in your vehicle
 
 Accommodations
 
-Camping There are four campgrounds on Mount Desert Island and one of Schoodic Peninsula. All the sites are reservable at recreation.gov
+Camping There are four campgrounds on Mount Desert Island and one on Schoodic Peninsula. All sites are reservable at recreation.gov.
 
 **Blackwoods Campground** The campground has 281 sites that are wooded and within a 10-minute walk of the ocean. The majority of Blackwoods’ sites are for small and large tents (221 sites); other sites can accommodate travelers with RVs (60 sites). The campground provides flush toilets, running water, and a dump station, as well as picnic tables and fire rings. The roads are paved, and the campground is pet-friendly. The campground is open from May through October. All campsites are by reservation only. Note that off-season and winter camping are not allowed at Blackwoods Campground. The campground is open from early May through the end of November.
 

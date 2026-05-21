@@ -1,4 +1,4 @@
-# G uadalupe Mountains National Park Live Webcams
+# Guadalupe Mountains National Park Live Webcams
 
 Source: https://www.nationalparkcam.com/guadalupe-mountains-webcam
 
@@ -21,11 +21,11 @@ Guadalupe Mountains National Park hosts an impressive array of wildlife. Sixty s
 
 Top Hikes
 
-There are over 80 miles of trails within Guadalupe National Park. The list is pretty extensive, with around 20 trails. It can get very hot within the park. The best time to hike is in the fall to late spring. Make sure you bring plenty of water. Below are the top ones.
+There are over 80 miles of trails within Guadalupe Mountains National Park. The list is extensive, with around 20 trails. It can get very hot within the park. The best time to hike is fall through late spring. Make sure you bring plenty of water. Below are the top ones.
 
 **The Guadalupe Peak Trail** (my favorite) is a strenuous hike that leads to the highest point in Texas at an elevation of 8,751 feet (2,667 m). The trail is 8.4 miles (13.5 km) long and has a total ascent of 3,000 feet (914 m). It takes approximately 7 hours. The view of the surrounding area at top is incredible. I would highly recommend the hike for anyone who is in physical shape. To get to the trailhead, you can park at the Pine Springs Trailhead parking lot. The parking lot fills up quickly, so it's best to arrive early. If the parking lot is full, you can park at the Pine Springs Visitor Center and walk 0.4 miles (.64 km) to the trailhead.
 
-**Devil's Hall Trail** takes you through a narrow canyon and requires scrambling on boulders, which can be technical and require experienced skills. It is a moderate to strenuous hike that is approximately 4.2 miles (6.75 km) long and has a total ascent of 548 feet (167 m). The trail takes around three hours. The trailhead is located at the Pine Springs Trailhead parking lot. The trail ends at Devil's Hall, a narrow canyon made of layered rocks. It's important to note that the difficulty of the trail varies based on conditions along the trail. If the wash is dry and you have experience rock scrambling, this trail is of moderate difficulty and takes most people about 2 hours. However, if the wash is wet, this hike becomes much more difficult and longer to hike. Rainy conditions are more likely to occur in the late-summer and the National Park Service urges people to not do this hike in wet or rainy conditions.
+**Devil's Hall Trail** takes you through a narrow canyon and requires scrambling on boulders, which can be technical and requires experience. It is a moderate to strenuous hike that is approximately 4.2 miles (6.75 km) long and has a total ascent of 548 feet (167 m). The trail takes around three hours. The trailhead is located at the Pine Springs Trailhead parking lot. The trail ends at Devil's Hall, a narrow canyon made of layered rocks. The difficulty of the trail varies based on conditions. If the wash is dry and you have rock-scrambling experience, this trail is moderately difficult and takes most people about 2 hours. However, if the wash is wet, this hike becomes much more difficult and takes longer. Rainy conditions are more likely in late summer, and the National Park Service urges people not to do this hike in wet or rainy conditions.
 
 **The McKittrick Canyon Trail to Pratt Cabin** is a moderate hike that is approximately 4.75 miles (7.64 km) long and has a total ascent of 525 feet (160 m). The trail is known for its beautiful fall foliage and is a great option for families with children. The trail leads to the Pratt Cabin and The Grotto, which are two of the most popular sights in the park. To get to the trailhead, you can park at the Pine Springs Trailhead parking lot. The parking lot fills up quickly, so it's best to arrive early. If the parking lot is full, you can park at the Pine Springs Visitor Center and walk 0.4 miles (.64 km) to the trailhead.
 

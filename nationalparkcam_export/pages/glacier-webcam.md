@@ -1,4 +1,4 @@
-# Glacie r National Park Live Webcams
+# Glacier National Park Live Webcams
 
 Source: https://www.nationalparkcam.com/glacier-webcam
 
@@ -79,7 +79,7 @@ Below are three incredible hikes.
 
 **The Siyeh Pass Trail** takes you through gorgeous alpine scenery, with stunning mountain vistas, wildflowers, and abundant wildlife. The trail reaches an impressive elevation of 8,000 feet and provides panoramic views of Mt. Siyeh, Going-to-the-Sun Mountain, Matahpi Peak, and St. Mary Lake. The trailhead is located 2.2 miles east of Logan Pass on the Going-to-the-Sun Road. Roundtrip the trail is 9.4 miles (15.1 km), with an elevation gain of 2,135 feet (650 m). The highest point of the hike is at 8,000 feet (2,438 m).
 
-**Trails of the Cedars & Avalanche Lake** is one of the most popular and easier backpacking trips in Glacier National Park due to the lake’s incredibly clear blue waters and the stunning views you will encounter throughout your trip. The Avalanche Lake Trailhead not far from the West Entrance of the park, just past Lake McDonald. Roundtrip the hike is 5.9 miles (9.5 km) roundtrip, with an elevation gain of 757 feet (231 m).
+**Trails of the Cedars & Avalanche Lake** is one of the most popular and easier backpacking trips in Glacier National Park due to the lake’s incredibly clear blue waters and the stunning views you will encounter throughout your trip. The Avalanche Lake Trailhead is not far from the West Entrance of the park, just past Lake McDonald. The roundtrip hike is 5.9 miles (9.5 km), with an elevation gain of 757 feet (231 m).
 
 **The Granite Park Chalet (Loop Trail)** in Glacier National Park is a historic wilderness lodge nestled at an elevation of 6,693 feet above sea level. It offers unparalleled backcountry hospitality in one of the park's most panoramic and pristine wilderness environments. The hike to the Granite Park Chalet begins from The Loop, a sharp bend in the Going-to-the-Sun Road on the west side of the park, 13.1 miles east of the Lake McDonald Lodge, near the apex in the bend of the road. You will not need a backcountry permit with a reservation. The Loop trail is 8.4 miles (13.5 km) roundtrip, with an elevation gain of 2,450 feet (747 m). For more information on reservations and accommodations, visit the website.
 

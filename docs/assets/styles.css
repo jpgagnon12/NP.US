@@ -77,6 +77,101 @@ img {
   gap: 12px;
 }
 
+.sr-only {
+  position: absolute;
+  overflow: hidden;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  border: 0;
+  margin: -1px;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+}
+
+.header-search {
+  position: relative;
+  flex: 0 1 260px;
+  min-width: 190px;
+}
+
+.header-search input {
+  width: 100%;
+  height: 40px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 253, 248, 0.92);
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.88rem;
+  padding: 9px 12px;
+}
+
+.header-search input:focus {
+  border-color: rgba(47, 111, 136, 0.56);
+  outline: 3px solid rgba(47, 111, 136, 0.16);
+}
+
+.header-search-results {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  z-index: 40;
+  display: grid;
+  width: min(360px, 82vw);
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.header-search-results[hidden] {
+  display: none;
+}
+
+.header-search-option {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  background: transparent;
+  color: var(--ink);
+  cursor: pointer;
+  font: inherit;
+  padding: 11px 12px;
+  text-align: left;
+}
+
+.header-search-option:last-child {
+  border-bottom: 0;
+}
+
+.header-search-option:hover,
+.header-search-option:focus {
+  background: rgba(32, 72, 59, 0.08);
+  outline: 0;
+}
+
+.header-search-option strong {
+  font-size: 0.92rem;
+}
+
+.header-search-option span,
+.header-search-empty {
+  color: var(--muted);
+  font-size: 0.74rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.header-search-empty {
+  padding: 12px;
+}
+
 .recent-parks {
   display: flex;
   max-width: min(44vw, 520px);
@@ -1180,6 +1275,17 @@ h3 {
     width: 100%;
     flex-direction: column-reverse;
     align-items: stretch;
+  }
+
+  .header-search {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .header-search-results {
+    right: auto;
+    left: 0;
+    width: 100%;
   }
 
   .recent-parks {

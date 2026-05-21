@@ -59,11 +59,11 @@ There are seven campgrounds located inside the park. Campground reservations can
 
 **Colter Bay Campground** is located near Colter Bay Village and is surrounded by a lodgepole pine forest. The campground is at 6,800 feet (2,072 m). The campground has 324 individual campsites, 10 large group sites, and 13 electric-only ADA-accessible sites. The maximum length of stay is 14 days. The campground offers modern comfort stations, potable water, metal fire grates, picnic tables, and metal bear boxes. Shower and laundry services are available for an additional fee.
 
-**Colter Bay RV Park** near Colter Bay Village and is surrounded by a lodgepole pine forest. The RV park has 112 RV sites with full hookups, including sewer, water, and 20, 30, and 50-amp electric outlets. The maximum length of RVs and trailers allowed is 45 feet.
+**Colter Bay RV Park** is near Colter Bay Village and is surrounded by a lodgepole pine forest. The RV park has 112 RV sites with full hookups, including sewer, water, and 20, 30, and 50-amp electric outlets. The maximum length of RVs and trailers allowed is 45 feet.
 
-**Headwaters Campground** by in the John D. Rockefeller Jr. Memorial Parkway, between Grand Teton and Yellowstone National Parks. The campground sits at 6,700 feet (2,042 m) has 24 individual campsites and is open from June to September. The campground offers modern comfort stations, potable water, metal fire grates, picnic tables, and metal bear boxes. The maximum length of stay is 14 days.
+**Headwaters Campground** is in the John D. Rockefeller Jr. Memorial Parkway, between Grand Teton and Yellowstone National Parks. The campground sits at 6,700 feet (2,042 m), has 24 individual campsites, and is open from June to September. The campground offers modern comfort stations, potable water, metal fire grates, picnic tables, and metal bear boxes. The maximum length of stay is 14 days.
 
-**Lizard Creek Campground** is in the northern portion of the park and provides a convenient basecamp for campers taking day trips to both Grand Teton and Yellowstone National Parks. The campground is situated on the northern shore of Jackson Lake and offers access to the lake waters and views of the northern Teton Mountain Range. The campground is at 6,827 feet (2,080 m) and has campground has 60 campsites that can accommodate tents, trailers (up to 20 feet/6 meters), and RVs (up to 30 feet/9 meters). The maximum length of stay is 14 days. The campground offers modern comfort stations, potable water, metal fire grates, picnic tables, and metal bear boxes.
+**Lizard Creek Campground** is in the northern portion of the park and provides a convenient basecamp for campers taking day trips to both Grand Teton and Yellowstone National Parks. The campground is situated on the northern shore of Jackson Lake and offers access to the lake waters and views of the northern Teton Mountain Range. The campground is at 6,827 feet (2,080 m) and has 60 campsites that can accommodate tents, trailers (up to 20 feet/6 meters), and RVs (up to 30 feet/9 meters). The maximum length of stay is 14 days. The campground offers modern comfort stations, potable water, metal fire grates, picnic tables, and metal bear boxes.
 
 **Signal Mountain Campground** is located on the southeast shore of Jackson Lake and offers easy access to the lake waters and short walks to unparalleled views of the Teton Range. The campground has 81 individual campsites and is open from early-June to late-September. The maximum length of an RV or trailer is 30 feet (9 m) The campground offers modern comfort stations, potable water, metal fire grates, picnic tables, and metal bear boxes. Shower and laundry services are available for an additional fee. The maximum length of stay is 14 days.
 
@@ -85,7 +85,7 @@ Grand Teton National Park offers a variety of lodging options for visitors. The 
 
 **Signal Mountain Lodge** is located beside Jackson Lake, Signal Mountain Lodge offers lakefront apartments with kitchenettes, log cabins, and motel-style units.
 
-**Jenny Lake Lodge** is a AAA Four-Diamond, full-service resort located at the foot of the Teton Range. The lodge offers rustic elegance with a blend of modern comfort and Old West charm. The lodge features 37 cabins nestled in the seclusion of the surrounding forest. Each cabin is uniquely decorated with handmade quilts, down comforters, and authentic Western charm. The lodge is open seasonally from June to early-October. The lodge offers daily complimentary activities, cruiser-style bicycles witheasy access to the scenic multi-use pathway, and horseback riding with wranglers (based on availability).
+**Jenny Lake Lodge** is a AAA Four-Diamond, full-service resort located at the foot of the Teton Range. The lodge offers rustic elegance with a blend of modern comfort and Old West charm. The lodge features 37 cabins nestled in the seclusion of the surrounding forest. Each cabin is uniquely decorated with handmade quilts, down comforters, and authentic Western charm. The lodge is open seasonally from June to early October. The lodge offers daily complimentary activities, cruiser-style bicycles with easy access to the scenic multi-use pathway, and horseback riding with wranglers (based on availability).
 
 Restaurants
 
@@ -93,7 +93,7 @@ Grand Teton National Park offers a variety of dining options for visitors. Here 
 
 **Trapper Grill** is a restaurant located at Signal Mountain Lodge. The restaurant offers a variety of American cuisine and is open for breakfast, lunch, and dinner. The restaurant is known for its stunning views of the Teton Range and Jackson Lake.
 
-**Ranch House Restaurant** is located at Colter Bay Village. The restaurant offers delectable rustic comfort food offerings with a world flare. The menu features classics and newly evolved cuisine in a ranch house setting, complete with a generous menu for every age. The restaurant is open for breakfast, lunch, and dinner.
+**Ranch House Restaurant** is located at Colter Bay Village. The restaurant offers rustic comfort food with a global flair. The menu features classics and newly evolved cuisine in a ranch house setting, complete with a generous menu for every age. The restaurant is open for breakfast, lunch, and dinner.
 
 **Cafe Court Pizzeria** is a casual dining restaurant located at Colter Bay Village. The restaurant offers a variety of specialty pizzas, subs, and salads, or build your own pizza. The restaurant is open from the end of May to the end of September.
 

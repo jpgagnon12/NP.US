@@ -39,7 +39,7 @@ Olympic National Park is very large and is broken down into four zones; Temperat
 
 **The Klahhane Ridge Trail to Mount Angeles** is a challenging yet rewarding hike in Olympic National Park that offers stunning panoramic views. The round-trip distance is 6.25 miles (10 km), including the short spur trail to Sunrise Point. The total elevation gain is 2,550 feet (777 m), with the majority of the elevation gain occurring on the hike from the Hurricane Ridge Visitor Center to the peak of Mount Angeles. The peak of Mount Angeles reaches 6,450 feet (1,966 m). The final part of the hike is rock scramble up to the peak. The trail starts next to the parking lot for the Hurricane Ridge Visitor Center. To get there, drive Hurricane Ridge Road to the very end.
 
-**Marymere Falls** is a stunning feature of Olympic National Park, known for its picturesque setting and accessibility. Marymere Falls was named in honor of Mary Alice Barnes, sister of Charles Barnes, a member of the Press Expedition and homesteader along the shores of Lake Crescent. It's a great family-friendly outing and a must-see for anyone visiting the park. The trail offers views of old-growth giants and river scenery. The falls themselves are a 90-foot-high cascade through a notch in the cliff, creating a beautiful horsetail waterfall. The trail to Marymere Falls is a well-maintained, 0.9-mile dirt path that takes you through an old-growth lowland forest, featuring species such as fir, cedar, hemlock, and alder trees. It includes crossing two wooden bridges. The roundtrip hike is approximately 1.8 miles (2.9 km) and has an elevation gain of about 500 feet (152 m). Trailhead begins at the Storm King Ranger Station, located on the shores of Lake Crescent.
+**Marymere Falls** is a stunning feature of Olympic National Park, known for its picturesque setting and accessibility. Marymere Falls was named in honor of Mary Alice Barnes, sister of Charles Barnes, a member of the Press Expedition and homesteader along the shores of Lake Crescent. It's a great family-friendly outing and a must-see for anyone visiting the park. The trail offers views of old-growth giants and river scenery. The falls themselves are a 90-foot-high cascade through a notch in the cliff, creating a beautiful horsetail waterfall. The trail to Marymere Falls is a well-maintained, 0.9-mile dirt path that takes you through an old-growth lowland forest, featuring species such as fir, cedar, hemlock, and alder trees. It includes crossing two wooden bridges. The roundtrip hike is approximately 1.8 miles (2.9 km) and has an elevation gain of about 500 feet (152 m). The trailhead begins at the Storm King Ranger Station, located on the shores of Lake Crescent.
 
 **The Mount Storm King** hike is a challenging and rewarding trail in Olympic National Park, known for its steep ascent and spectacular views. The hike begins with a pleasant flat walk before transitioning into a steep climb through the forest. As you ascend, you'll encounter a series of ropes to assist with the steeper sections near the summit. The reward for your efforts is a breathtaking view of Lake Crescent from the top. The hike is 4.6 miles (7.4 km) round trip with a total elevation gain is 2,100 feet (640 m), starting from an elevation of 700 feet (213 m) and reaching up to 2,700 feet (823 m) at the peak. The trail starts at the parking lot on Highway 101 next to the Storm King Ranger Station.
 
@@ -47,11 +47,11 @@ Backpacking
 
 Here are our top three backpacking trips in the park. You will need both overnight permits ( recreation.gov ) and camping reservations. Remember to store all food, garbage, and scented items in park-approved bear canisters.
 
-**The Hoh River Trail to Blue Glacier** is a challenging hike takes you through lush rainforests, past old-growth trees dripping with moss, and ends with a stunning view of the Blue Glacier and Mount Olympus. The roundtrip length of the trail is 37 miles (59.5 km). The trail gains around 3,700 feet (1,128 m) in elevation. The highest point on the trail is at 4,300 feet (1,310 m).
+**The Hoh River Trail to Blue Glacier** is a challenging hike that takes you through lush rainforests, past old-growth trees dripping with moss, and ends with a stunning view of Blue Glacier and Mount Olympus. The roundtrip length of the trail is 37 miles (59.5 km). The trail gains around 3,700 feet (1,128 m) in elevation. The highest point on the trail is at 4,300 feet (1,310 m).
 
-**The High Divide / Sol Duc Loop** trail offers a mix of old-growth forest, subalpine meadow, and montane forest environments. It's a moderate to steep trek that provides opportunities to see Mount Olympus, various lakes, and potentially wildlife like elk and bears. The loop is approximately 18.2 miles (29.3 km) with an elevation gain for the hike is around 3,050 feet (930 m).
+**The High Divide / Sol Duc Loop** trail offers a mix of old-growth forest, subalpine meadow, and montane forest environments. It's a moderate to steep trek that provides opportunities to see Mount Olympus, various lakes, and potentially wildlife like elk and bears. The loop is approximately 18.2 miles (29.3 km), with an elevation gain of around 3,050 feet (930 m).
 
-**Enchanted Valley / Anderson Pass / O’Neill Pass Loop** trail is not for the faint hearted. The trail is 49 miles long (79 km), with a total elevation gain of 10,124 feet (3,086 m). The trail offers spectacular views of the park.
+**Enchanted Valley / Anderson Pass / O’Neill Pass Loop** trail is not for the faint-hearted. The trail is 49 miles long (79 km), with a total elevation gain of 10,124 feet (3,086 m). The trail offers spectacular views of the park.
 
 Camping
 
@@ -75,11 +75,11 @@ The campsites below can be reserved during the peak season, which is May through
 
 First-Come, First-Served Campsites
 
-**Deer Park Campground** is 5,400 feet (1,645 m) above sea level and has 14 campsites. The last 9 miles (14.5 km) is unpaved, narrow and steep. Not recommended for RVs or trailers. The mountain views from the campground are incredible. Fire pits, picnic tables are available.
+**Deer Park Campground** is 5,400 feet (1,645 m) above sea level and has 14 campsites. The last 9 miles (14.5 km) is unpaved, narrow, and steep. RVs and trailers are not recommended. The mountain views from the campground are incredible. Fire pits and picnic tables are available.
 
 **Graves Creek Campground** is located at the south end of the park. There are 30 sites at the campground. This is a tent-only campground. The campground is along the shore of the Quinault River and has abundant wildlife.
 
-**Heart O ' the Hills Campground** is 15 minutes from Port Angeles on the northern part of the park on the road to Hurricane Ridge Road South. There are 105 campsites that can accommodate RVs up to 35 feet (10.5 m). Fire pits, picnic tables and pit toilets are available.
+**Heart O' the Hills Campground** is 15 minutes from Port Angeles in the northern part of the park, on the road to Hurricane Ridge Road South. There are 105 campsites that can accommodate RVs up to 35 feet (10.5 m). Fire pits, picnic tables, and pit toilets are available.
 
 **North Fork Quinault Campground** is the smallest campground in the park. May not be suitable for RVs or trailers due to the gravel road. The campground is located on the banks of the Quinault River.
 

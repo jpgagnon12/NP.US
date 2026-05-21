@@ -4,6 +4,10 @@ const recentNav = document.querySelector("#recent-parks");
 const pageSlug = document.body.dataset.pageSlug;
 const pageTitle = document.body.dataset.pageTitle;
 const pageDepth = Number(document.body.dataset.pageDepth || "0");
+const headerSearch = document.querySelector(".header-search");
+const headerSearchInput = document.querySelector("#header-park-search");
+const headerSearchResults = document.querySelector("#header-search-results");
+const headerSearchData = document.querySelector("#header-search-data");
 
 if (toggle && nav) {
   toggle.addEventListener("click", () => {
@@ -32,6 +36,14 @@ const noCameraParkSlugs = new Set([
   "indiana-dunes-national-park",
   "kenai-fjords-national-park",
   "kobuk-valley-national-park",
+  "lake-clark-national-park",
+  "mesa-verde-national-park",
+  "national-park-of-american-samoa",
+  "pinnacles-national-park",
+  "saguaro-national-park",
+  "voyageurs-national-park",
+  "white-sands-national-park",
+  "wind-cave-national-park",
 ]);
 
 const getParkHref = (slug) =>
@@ -93,6 +105,90 @@ if (pageSlug && pageSlug !== "national-park-webcam-home" && pageSlug !== "resour
 }
 
 renderRecentParks();
+
+const getHeaderSearchEntries = () => {
+  if (!headerSearchData) return [];
+  try {
+    return JSON.parse(headerSearchData.textContent || "[]");
+  } catch {
+    return [];
+  }
+};
+
+const headerSearchEntries = getHeaderSearchEntries();
+const closeHeaderSearch = () => {
+  if (!headerSearchResults || !headerSearchInput) return;
+  headerSearchResults.hidden = true;
+  headerSearchInput.setAttribute("aria-expanded", "false");
+};
+
+const openHeaderSearch = () => {
+  if (!headerSearchResults || !headerSearchInput) return;
+  headerSearchResults.hidden = false;
+  headerSearchInput.setAttribute("aria-expanded", "true");
+};
+
+const goToHeaderSearchEntry = (entry) => {
+  if (!entry) return;
+  if (entry.external) {
+    window.open(entry.href, "_blank", "noopener");
+    return;
+  }
+  window.location.href = entry.href;
+};
+
+const renderHeaderSearchResults = () => {
+  if (!headerSearchInput || !headerSearchResults) return;
+  const query = headerSearchInput.value.trim().toLowerCase();
+  headerSearchResults.replaceChildren();
+  if (!query) {
+    closeHeaderSearch();
+    return;
+  }
+  const matches = headerSearchEntries
+    .filter((entry) => `${entry.label} ${entry.title}`.toLowerCase().includes(query))
+    .slice(0, 6);
+  if (!matches.length) {
+    const empty = document.createElement("div");
+    empty.className = "header-search-empty";
+    empty.textContent = "No parks found";
+    headerSearchResults.append(empty);
+    openHeaderSearch();
+    return;
+  }
+  for (const entry of matches) {
+    const option = document.createElement("button");
+    option.type = "button";
+    option.className = "header-search-option";
+    option.setAttribute("role", "option");
+    option.innerHTML = `<strong>${entry.label}</strong><span>${entry.type}</span>`;
+    option.addEventListener("click", () => goToHeaderSearchEntry(entry));
+    headerSearchResults.append(option);
+  }
+  openHeaderSearch();
+};
+
+if (headerSearch && headerSearchInput && headerSearchResults) {
+  headerSearchInput.addEventListener("input", renderHeaderSearchResults);
+  headerSearchInput.addEventListener("focus", renderHeaderSearchResults);
+  headerSearch.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const first = headerSearchResults.querySelector(".header-search-option");
+    if (first) {
+      first.click();
+      return;
+    }
+    const query = headerSearchInput.value.trim().toLowerCase();
+    const exact = headerSearchEntries.find((entry) => `${entry.label} ${entry.title}`.toLowerCase().includes(query));
+    goToHeaderSearchEntry(exact);
+  });
+  document.addEventListener("click", (event) => {
+    if (!headerSearch.contains(event.target)) closeHeaderSearch();
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") closeHeaderSearch();
+  });
+}
 
 const heroVideoData = document.querySelector("#hero-video-data");
 const heroVideoIframe = document.querySelector("#hero-video-iframe");
@@ -160,7 +256,7 @@ const initSimpleParkMaps = () => {
 initSimpleParkMaps();
 
 if (search) {
-  search.addEventListener("input", () => {
+  const filterParkCards = () => {
     const query = search.value.trim().toLowerCase();
     for (const card of cards) {
       const title = card.dataset.title || "";
@@ -170,7 +266,16 @@ if (search) {
       const title = button.dataset.title || "";
       button.hidden = query.length > 0 && !title.includes(query);
     }
-  });
+  };
+  search.addEventListener("input", filterParkCards);
+
+  const searchParams = new URLSearchParams(window.location.search);
+  const initialParkQuery = searchParams.get("q");
+  if (initialParkQuery) {
+    search.value = initialParkQuery;
+    filterParkCards();
+    document.querySelector("#parks")?.scrollIntoView({ block: "start" });
+  }
 }
 
 const mapEl = document.querySelector("#webcam-map");

@@ -43,7 +43,7 @@ Easy Lake View Trail
 
 **The Union Peak Trail** is a 9.3-mile (15 km) out-and-back trail located in Crater Lake National Park. The trail is generally considered moderately challenging and takes around 4.5 hours. The trail is open from June through October and is best visited during this time. The trail has an elevation gain of 1,669 feet (509 m) and offers stunning views of the surrounding forest and wildlife. The minimum elevation on the trail is 6,578 feet (2,005 m) and the maximum elevation is 7,510 feet (2,289 m).
 
-**The Lightning Spring Trail** is a 4-mile (6.4 km) out-and-back trail. It takes an around 4 hours and is open from June through October and is best visited during this time. The trail has an elevation gain of 5,899 feet ( 1,798 m) and offers stunning views of the surrounding forest and wildlife. The minimum elevation on the trail is 6,578 feet (2,005 m) or and the maximum elevation is 7,149 feet (2,179 m)
+**The Lightning Spring Trail** is a 4-mile (6.4 km) out-and-back trail. It takes around 4 hours and is open from June through October, which is the best time to visit. The trail has an elevation gain of 5,899 feet (1,798 m) and offers stunning views of the surrounding forest and wildlife. The minimum elevation on the trail is 6,578 feet (2,005 m), and the maximum elevation is 7,149 feet (2,179 m).
 
 Backpacking
 
@@ -51,7 +51,7 @@ A permit is required for all overnight trips. They are available from the ranger
 
 **Crater Lake Rim Trail** is a 19.1-mile (31 km) out-and-back trail that follows the rim of Crater Lake. The trail is considered moderately challenging and takes an average of 2-3 days to complete. The trail is open from July through September and is best visited during this time. The trail has an elevation gain of 2,659 feet (810.46 m). The minimum elevation on the trail is 7,106 feet (2,166 m) and the maximum elevation is 7,739 feet (2,358.85 m). The trail offers stunning views of the surrounding forest, wildlife, and the lake itself.
 
-**The Lightning Spring Trail** offers a beautiful and moderately challenging backpacking experience. The trail begins from the Lightning Springs Trailhead, approximately 2.5 miles (4 km) north of Rim Village on Rim Road. The trail is 8.4 miles (13.5 km) round-trip, with a elevation gain of 1,295 feet (394 m). Keep an eye out for fellow hikers with pack animals; this route is commonly used by PCT through-hikers. Enjoy views of Crater Lake and the surrounding volcanic landscape.
+**The Lightning Spring Trail** offers a beautiful and moderately challenging backpacking experience. The trail begins from the Lightning Springs Trailhead, approximately 2.5 miles (4 km) north of Rim Village on Rim Road. The trail is 8.4 miles (13.5 km) round-trip, with an elevation gain of 1,295 feet (394 m). Keep an eye out for fellow hikers with pack animals; this route is commonly used by PCT through-hikers. Enjoy views of Crater Lake and the surrounding volcanic landscape.
 
 Boat Tour
 
@@ -67,11 +67,11 @@ Accommodations
 
 Camping
 
-There are two campgrounds within Crater Lake National park. A description is provided below. Here are the links to recreation.gov and the hotels are at the end of the section.
+There are two campgrounds within Crater Lake National Park. A description is provided below. Here are the links to recreation.gov, and the hotels are at the end of the section.
 
 **Lost Creek Campground** is a small, tents-only campground located on the road to Pinnacles Overlook, three miles from the rim of Crater Lake. It usually opens in early July and closes in mid-October. The campground has 16 first-come, first-serve campsites. The campground is primitive with no running water or drinking water. The campground is surrounded by lodgepole pines. In July and August, the campground typically fills by mid-afternoon.
 
-**Mazama Campground** is located seven miles south of Rim Village, just past the park's southentrance station near Highway 62. The campground has 214 sites, 75 RV only and 121 tent-only sites. It is nestled in an old-growth forest at 6,000 feet (1,828 m) in elevation. Each site features a picnic table, fire ring, and bear-resistant food locker. The campground is managed by Crater Lake Hospitality. The link for reservations is below. The campground is usually open from May to September. The exact opening and closing dates are determined each year by the snow level in the camp sites, safety issues, and other factors.
+**Mazama Campground** is located seven miles south of Rim Village, just past the park's south entrance station near Highway 62. The campground has 214 sites: 75 RV-only and 121 tent-only sites. It is nestled in an old-growth forest at 6,000 feet (1,828 m) in elevation. Each site features a picnic table, fire ring, and bear-resistant food locker. The campground is managed by Crater Lake Hospitality. The link for reservations is below. The campground is usually open from May to September. The exact opening and closing dates are determined each year by the snow level in the campsites, safety issues, and other factors.
 
 Hotels
 
@@ -79,7 +79,7 @@ There are two hotels within the park. Reservations can be made at Crater Lake Ho
 
 **Crater Lake Lodge** is a historic hotel and was built in 1915 and is situated on the edge of the caldera, almost 1,000 feet (305 m) above the water, providing spectacular views of the lake and the caldera. The lodge is surrounded by meadows and sub-alpine trees, and offers 71 rooms, including six accessible rooms. The lodge is open from mid-May to early October, depending on the current snow levels. The lodge's dining room offers three meals a day, breakfast, lunch, and dinner, for lodge guests and any park visitors wanting a more formal meal service. The Great Hall, defined by a large native stone fireplace, tall windows, and accents of Ponderosa pine wood, invites guests to lounge with a drink, play board games, or simply relax to the crackle of the fire which is lit most inclement days. On the back patio are rocking chairs that draw your attention to the lake, especially at sunrise. Depending on the weather, ranger programs are presented daily either indoors near the fireplace or outside on the patio.
 
-**The Cabins at Mazama Village** are located seven miles south of Rim Village, just past the park's southentrance station near Highway 62. The cabins are nestled high in the Ponderosa pines and offer a rustic lodging experience. The cabins are usually open from May to October and are decorated in historic style furnishings, wall art of vintage style travel posters, and materials, such as hickory saplings and alder, the cabins honor the local region's history and surroundings. There are 10 cabins, each with four private accommodations. The cabins feature two queen beds with a private bath and shower. The cabins offer the serenity of rooms free of phones and TVs.
+**The Cabins at Mazama Village** are located seven miles south of Rim Village, just past the park's south entrance station near Highway 62. The cabins are nestled high in the ponderosa pines and offer a rustic lodging experience. The cabins are usually open from May to October and are decorated with historic-style furnishings, vintage-style travel poster wall art, and materials such as hickory saplings and alder that honor the local region's history and surroundings. There are 10 cabins, each with four private accommodations. The cabins feature two queen beds with a private bath and shower. The cabins offer the serenity of rooms free of phones and TVs.
 
 Restaurants
 

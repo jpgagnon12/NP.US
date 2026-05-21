@@ -57,7 +57,7 @@ The park has 36 campgrounds in three separate areas. Backpackers usually hike 6 
 
 **The Greenstone Ridge Trail from Rock Harbor to Windigo** is 41.12 miles (66km) and has an elevation gain of 3,854 feet (1174 m).
 
-**Isle Royale Trail i** s 20 miles (32 km) and has minimal elevation gain.
+**Isle Royale Trail** is 20 miles (32 km) and has minimal elevation gain.
 
 Getting There
 
@@ -89,7 +89,7 @@ There are three lodging options within the park.
 
 **Rock Harbor Lodge in Rock Harbor** is a full-service lodge in Rock Harbor. The lodge offers rooms and cottages. Dining is also available. On-line and phone reservations can be found at the NPS website
 
-**Rock Harbor Lodge in** Windigo is a full-service lodge. The lodge offers rooms and cottages. Dining is also available. On-line and phone reservations can be f ou nd at the NPS website
+**Rock Harbor Lodge in Windigo** is a full-service lodge. The lodge offers rooms and cottages. Dining is also available. Online and phone reservations can be found at the NPS website.
 
 **Windigo Camper Cabins** are located in Washington Harbor. Each cabin can accommodate up to six people. The cabins offer table and chairs, a futon and bunk beds. There is no electricity. A shared restroom is located outside the cabin.
 

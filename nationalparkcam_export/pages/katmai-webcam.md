@@ -91,7 +91,7 @@ Campground
 
 As this is bear country, carry bear spray ( how to use bear spray ) and make noise to let them know you are around.
 
-Brooks Camp is the only developed campground in the park. There are designated sites in the campground, but has a 60 person capacity. During bear viewing, late June through September, are heavily in demand. At the campground you will find electrical fences (good thing), cooking shelters, food storage lockers, potable water and vault toilets. You can make reservations at recreation.gov
+Brooks Camp is the only developed campground in the park. There are designated sites in the campground, with a 60-person capacity. During bear-viewing season, from late June through September, sites are heavily in demand. At the campground, you will find electric fences, cooking shelters, food storage lockers, potable water, and vault toilets. You can make reservations at recreation.gov.
 
 You can also camp outside of the 1.5 mile radius of Brooks Falls. There are signs that designate the areas. Food storage containers or lockers are required.
 Image: Email

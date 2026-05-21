@@ -35,7 +35,7 @@ Yosemite is famous for its natural attractions. Yosemite Falls is one of the tal
 
 Top Hikes
 
-Ninety-five percent of the park is designated Wilderness and there over 800 miles of trails in Yosemite National Park. The NPS website has more information on all hikes plus a mileage chart. Below are some of the most popular and my favorites.
+Ninety-five percent of the park is designated wilderness, and there are over 800 miles of trails in Yosemite National Park. The NPS website has more information on all hikes plus a mileage chart. Below are some of the most popular and my favorites.
 
 Day Hikes:
 
@@ -53,7 +53,7 @@ If you decided to take the Mist Trail up, be prepared to climb stairs and possib
 
 Backpacking
 
-Backpacking in Yosemite is extremely popular. Portable bear cansiters are required. Below are my personal three favorites. Any overnight hiking permits
+Backpacking in Yosemite is extremely popular. Portable bear canisters are required. Below are my personal three favorites. Any overnight hike requires a permit.
 
 **Little Yosemite Valley and Campground** The hike and campground at Little Yosemite Valley are popular destinations for backpackers and hikers who want to explore the Yosemite Wilderness and Half Dome. The hike is about 4 miles (6.4 km) from Happy Isles Trailhead in Yosemite Valley, passing by Vernal Fall and Nevada Fall along the way. The campground is a minimally developed site with communal bear lockers, fire rings, and a composting toilet. There is no potable water, but the Merced River and Sunrise Creek are nearby for filtering. The campground is first-come, first-served and requires a wilderness permit.
 

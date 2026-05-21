@@ -35,7 +35,7 @@ James Irvine Trail to Fern Canyon: A moderate 10.6 mile (17 km) hike through dee
 
 Backpacking
 
-Along with 200 miles (322 km) of trails, there are seven backcountry campsites. Black bears are common, food containers are required. Free permits can be obtain at the Redwood Park Conservancy website.
+Along with 200 miles (322 km) of trails, there are seven backcountry campsites. Black bears are common, and food containers are required. Free permits can be obtained at the Redwood Park Conservancy website.
 
 Redwood
 
