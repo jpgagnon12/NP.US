@@ -18,11 +18,17 @@ Backcountry Camping is available by permit and is often tied to hiking or paddli
 
 Planning Highlights
 
-Walk the Boardwalk Loop, hike Weston Lake Loop, paddle Cedar Creek, and check flood conditions before entering low-lying trails.
+The Boardwalk Loop is the best first thing to do in Congaree National Park because it introduces the old-growth bottomland hardwood forest without requiring muddy trail navigation. Weston Lake Loop, Oakridge Trail, and Kingsnake Trail add longer hiking options when water levels allow.
+
+Cedar Creek paddling is one of the park's signature experiences. Canoeing and kayaking through quiet floodplain forest can be excellent, but visitors should check water levels, downed trees, insects, heat, and current conditions before launching.
+
+Wildlife viewing, birding, and seasonal firefly viewing are strong reasons to visit Congaree at different times of year. Flooding, mosquitoes, humidity, and trail closures can change the best plan from week to week.
+
+Backcountry camping is available by permit and often pairs with hiking or paddling routes. Visitors should prepare for navigation, wet ground, and Leave No Trace travel in a sensitive floodplain ecosystem.
 
 Camping and Lodging
 
-Longleaf and Bluff campgrounds require reservations, while backcountry camping requires a permit. Mosquitoes, heat, and flooding are major planning factors.
+Longleaf Campground and Bluff Campground require reservations, while backcountry camping requires a permit. Mosquitoes, heat, and flooding are major planning factors.
 
 Official Resources
 
@@ -39,6 +45,8 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Things To Do: https://www.nps.gov/cong/planyourvisit/things2do.htm
 - Hiking: https://www.nps.gov/cong/planyourvisit/hiking.htm
 - Canoe Trail: https://www.nps.gov/cong/planyourvisit/canoeing.htm
+- Longleaf Campground: https://www.nps.gov/cong/planyourvisit/camping.htm
+- Bluff Campground: https://www.nps.gov/cong/planyourvisit/camping.htm
 - Camping: https://www.nps.gov/cong/planyourvisit/camping.htm
-- Recreation.gov: https://www.recreation.gov/camping/gateways/2610
+- Recreation.gov: https://www.recreation.gov/search?q=Congaree%20National%20Park&entity_type=recarea&inventory_type=camping
 - Wikipedia: https://en.wikipedia.org/wiki/Congaree_National_Park

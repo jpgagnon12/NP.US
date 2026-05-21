@@ -17,7 +17,13 @@ Backpacking is available in the Saguaro Wilderness in the Rincon Mountain Distri
 
 Planning Highlights
 
-Bajada Loop Drive, Cactus Forest Drive, Signal Hill petroglyphs, Gates Pass sunsets, Rincon Mountain trails, spring wildflowers, and sunset photography are the main draws. Early morning and late afternoon are often the most comfortable times to explore.
+Bajada Loop Drive and Cactus Forest Drive are the easiest ways to see Saguaro National Park by vehicle. Scenic pullouts, cactus forests, mountain views, and sunset light make both districts useful for short visits.
+
+Hiking is one of the best things to do in Saguaro. Short desert trails such as Desert Ecology Trail, Signal Hill, Valley View Overlook, and Mica View work well for many visitors, while Rincon Mountain routes and wilderness trails create longer, more demanding trips.
+
+Wildflower viewing, birding, photography, and wildlife watching are especially strong in spring, early morning, and late afternoon. Visitors may see cactus blooms, desert birds, reptiles, javelina, coyotes, and dramatic monsoon-season skies.
+
+Backpacking is available in the Rincon Mountain District for prepared hikers with permits, water planning, and awareness of elevation change, heat, and storms.
 
 Camping and Lodging
 

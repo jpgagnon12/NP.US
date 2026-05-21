@@ -206,12 +206,286 @@ PARK_COORDS = {
     "wind-cave-national-park": [43.57, -103.48],
 }
 
+CAMPING_LINK_ALIASES = {
+    "badlands-national-park": {
+        "Cedar Pass Campground": "https://www.nps.gov/badl/planyourvisit/camping.htm",
+        "Sage Creek Campground": "https://www.nps.gov/badl/planyourvisit/camping.htm",
+    },
+    "biscayne-national-park": {
+        "Boca Chita Key": "https://www.nps.gov/bisc/planyourvisit/camping.htm",
+        "Elliott Key": "https://www.nps.gov/bisc/planyourvisit/camping.htm",
+    },
+    "capitol-reef-national-park": {
+        "Fruita Campground": "https://www.nps.gov/care/planyourvisit/campinga.htm",
+    },
+    "canyonlands-national-park": {
+        "Island in the Sky Campground": "https://www.nps.gov/cany/planyourvisit/camping.htm",
+        "The Needles Campground": "https://www.nps.gov/cany/planyourvisit/camping.htm",
+    },
+    "congaree-national-park": {
+        "Longleaf Campground": "https://www.nps.gov/cong/planyourvisit/camping.htm",
+        "Bluff Campground": "https://www.nps.gov/cong/planyourvisit/camping.htm",
+    },
+    "death-valley-national-park": {
+        "Furnace Creek Campground": "https://www.nps.gov/deva/planyourvisit/camping.htm",
+    },
+    "dry-tortugas-national-park": {
+        "Garden Key": "https://www.nps.gov/drto/planyourvisit/camping.htm",
+    },
+    "great-basin-national-park": {
+        "developed campgrounds": "https://www.nps.gov/grba/planyourvisit/camping.htm",
+    },
+    "great-sand-dunes-national-park": {
+        "Pinon Flats Campground": "https://www.nps.gov/grsa/planyourvisit/camping.htm",
+    },
+    "hot-springs-national-park": {
+        "Gulpha Gorge Campground": "https://www.nps.gov/hosp/planyourvisit/camping.htm",
+    },
+    "indiana-dunes-national-park": {
+        "Dunewood Campground": "https://www.nps.gov/indu/planyourvisit/campgrounds.htm",
+    },
+    "pinnacles-national-park": {
+        "Pinnacles Campground": "https://www.nps.gov/pinn/planyourvisit/camp.htm",
+    },
+    "wind-cave-national-park": {
+        "Elk Mountain Campground": "https://www.nps.gov/wica/planyourvisit/campgrounds.htm",
+    },
+    "mesa-verde-national-park": {
+        "Morefield Campground": "https://www.nps.gov/meve/planyourvisit/camping.htm",
+    },
+    "voyageurs-national-park": {
+        "Most campsites": "https://www.nps.gov/voya/planyourvisit/camping.htm",
+        "frontcountry, backcountry, and houseboat sites": "https://www.nps.gov/voya/planyourvisit/camping.htm",
+    },
+    "redwood-national-park": {
+        "Jedediah Smith Campground": "https://www.nps.gov/redw/planyourvisit/jedediah-smith-campground.htm",
+        "Mill Creek Campground": "https://www.nps.gov/redw/planyourvisit/mill-creek-campground.htm",
+        "Gold Bluffs Beach Campground": "https://www.nps.gov/redw/planyourvisit/gold-bluffs-beach-campground.htm",
+        "Elk Prairie Campground": "https://www.nps.gov/redw/planyourvisit/elk-prairie-campground.htm",
+    },
+}
+
 WEATHER_COORDS = {
     "national-park-of-american-samoa": [-14.2756, -170.702],
 }
 
 WEATHER_LOCATION_LABELS = {
     "national-park-of-american-samoa": "Forecast near Pago Pago, American Samoa",
+}
+
+GUIDE_SEO = {
+    "badlands-national-park": {
+        "title": "Badlands National Park Guide | Hiking, Map & Weather",
+        "description": "Plan Badlands National Park with hiking trails, Badlands Loop Road stops, camping notes, weather, map links, wildlife viewing, and official NPS resources.",
+    },
+    "biscayne-national-park": {
+        "title": "Biscayne National Park Guide | Snorkeling, Map & Weather",
+        "description": "Plan Biscayne National Park with snorkeling, boat tours, paddling, fishing, island camping, weather, maps, and official NPS planning links.",
+    },
+    "canyonlands-national-park": {
+        "title": "Canyonlands National Park Guide | Hiking, Map & Weather",
+        "description": "Plan Canyonlands National Park with Island in the Sky, The Needles, hiking, scenic drives, river trips, camping, weather, maps, and NPS links.",
+    },
+    "capitol-reef-national-park": {
+        "title": "Capitol Reef National Park Guide | Hiking, Map & Weather",
+        "description": "Plan Capitol Reef National Park with Fruita, Scenic Drive, hiking trails, camping, weather, maps, backcountry notes, and official NPS resources.",
+    },
+    "carlsbad-caverns-national-park": {
+        "title": "Carlsbad Caverns Guide | Cave Tours, Map & Weather",
+        "description": "Plan Carlsbad Caverns National Park with cave tours, Big Room route, bat flight programs, desert hiking, weather, maps, and NPS links.",
+    },
+    "congaree-national-park": {
+        "title": "Congaree National Park Guide | Boardwalk, Map & Weather",
+        "description": "Plan Congaree National Park with Boardwalk Loop, Cedar Creek paddling, hiking, camping, flood notes, weather, maps, and official NPS resources.",
+    },
+    "cuyahoga-valley-national-park": {
+        "title": "Cuyahoga Valley Guide | Hiking, Biking, Map & Weather",
+        "description": "Plan Cuyahoga Valley National Park with Towpath Trail biking, Brandywine Falls, hiking, Scenic Railroad, weather, maps, and NPS links.",
+    },
+    "death-valley-national-park": {
+        "title": "Death Valley National Park Guide | Map, Weather & Hikes",
+        "description": "Plan Death Valley National Park with Badwater Basin, Zabriskie Point, scenic drives, hiking, camping, safety notes, weather, maps, and NPS links.",
+    },
+    "dry-tortugas-national-park": {
+        "title": "Dry Tortugas Guide | Fort Jefferson, Camping & Weather",
+        "description": "Plan Dry Tortugas National Park with Fort Jefferson, snorkeling, ferry access, Garden Key camping, birding, weather, maps, and NPS resources.",
+    },
+    "gates-of-the-arctic-national-park": {
+        "title": "Gates of the Arctic Guide | Backpacking, Map & Weather",
+        "description": "Plan Gates of the Arctic National Park and Preserve with backpacking, rafting, flight access, camping, weather, maps, and wilderness safety links.",
+    },
+    "gateway-arch-national-park": {
+        "title": "Gateway Arch National Park Guide | Tickets, Map & Weather",
+        "description": "Plan Gateway Arch National Park with tram tickets, museum visits, Old Courthouse history, riverfront walks, weather, maps, and official links.",
+    },
+    "great-basin-national-park": {
+        "title": "Great Basin National Park Guide | Caves, Map & Weather",
+        "description": "Plan Great Basin National Park with Lehman Caves, Wheeler Peak, bristlecone pine hikes, camping, stargazing, weather, maps, and NPS links.",
+    },
+    "great-sand-dunes-national-park": {
+        "title": "Great Sand Dunes Guide | Hiking, Sledding & Weather",
+        "description": "Plan Great Sand Dunes National Park and Preserve with dune hikes, sand sledding, Medano Creek, camping, weather, maps, and NPS resources.",
+    },
+    "hot-springs-national-park": {
+        "title": "Hot Springs National Park Guide | Trails, Map & Weather",
+        "description": "Plan Hot Springs National Park with Bathhouse Row, thermal springs, hiking trails, Gulpha Gorge camping, weather, maps, and NPS links.",
+    },
+    "indiana-dunes-national-park": {
+        "title": "Indiana Dunes Guide | Beaches, Hiking, Map & Weather",
+        "description": "Plan Indiana Dunes National Park with Lake Michigan beaches, hiking trails, birding, Dunewood camping, weather, maps, and NPS resources.",
+    },
+    "kenai-fjords-national-park": {
+        "title": "Kenai Fjords National Park Guide | Glaciers & Weather",
+        "description": "Plan Kenai Fjords National Park with Exit Glacier, Harding Icefield Trail, boat tours, wildlife viewing, weather, maps, and official NPS links.",
+    },
+    "kobuk-valley-national-park": {
+        "title": "Kobuk Valley Guide | Sand Dunes, Map & Weather",
+        "description": "Plan Kobuk Valley National Park with Great Kobuk Sand Dunes, backpacking, river trips, camping, weather, maps, and NPS wilderness resources.",
+    },
+    "lake-clark-national-park": {
+        "title": "Lake Clark National Park Guide | Bears, Map & Weather",
+        "description": "Plan Lake Clark National Park and Preserve with bear viewing, Twin Lakes, Port Alsworth, backpacking, fishing, weather, maps, and NPS links.",
+    },
+    "mesa-verde-national-park": {
+        "title": "Mesa Verde National Park Guide | Tours, Map & Weather",
+        "description": "Plan Mesa Verde National Park with cliff dwelling tours, Mesa Top Loop, hiking, Morefield Campground, weather, maps, and NPS resources.",
+    },
+    "national-park-of-american-samoa": {
+        "title": "National Park of American Samoa Guide | Trails & Weather",
+        "description": "Plan the National Park of American Samoa with Tutuila, Ofu, Ta'u, hiking trails, snorkeling, village visits, weather, maps, and NPS links.",
+    },
+    "pinnacles-national-park": {
+        "title": "Pinnacles National Park Guide | Hiking, Caves & Weather",
+        "description": "Plan Pinnacles National Park with High Peaks hiking, Bear Gulch Cave, Balconies Cave, condor viewing, camping, weather, maps, and NPS links.",
+    },
+    "saguaro-national-park": {
+        "title": "Saguaro National Park Guide | Hiking, Map & Weather",
+        "description": "Plan Saguaro National Park with Tucson Mountain and Rincon districts, hiking trails, scenic drives, camping notes, weather, maps, and NPS links.",
+    },
+    "voyageurs-national-park": {
+        "title": "Voyageurs National Park Guide | Boating, Map & Weather",
+        "description": "Plan Voyageurs National Park with boating, paddling, fishing, houseboats, camping, winter routes, weather, maps, and official NPS resources.",
+    },
+    "white-sands-national-park": {
+        "title": "White Sands National Park Guide | Sledding, Map & Weather",
+        "description": "Plan White Sands National Park with Dunes Drive, Alkali Flat Trail, sledding, sunset photography, weather, maps, and official NPS links.",
+    },
+    "wind-cave-national-park": {
+        "title": "Wind Cave National Park Guide | Cave Tours & Weather",
+        "description": "Plan Wind Cave National Park with cave tours, hiking trails, bison viewing, Elk Mountain camping, weather, maps, and official NPS resources.",
+    },
+}
+
+GUIDE_TOPICS = {
+    "badlands-national-park": {"hiking", "desert", "wildlife", "scenic-drives", "camping"},
+    "biscayne-national-park": {"water", "beaches", "paddling", "fishing", "camping"},
+    "canyonlands-national-park": {"hiking", "desert", "scenic-drives", "backpacking", "paddling", "camping"},
+    "capitol-reef-national-park": {"hiking", "desert", "scenic-drives", "backpacking", "history", "camping"},
+    "carlsbad-caverns-national-park": {"caves", "desert", "hiking", "wildlife"},
+    "congaree-national-park": {"hiking", "paddling", "wildlife", "camping", "forests"},
+    "cuyahoga-valley-national-park": {"hiking", "biking", "waterfalls", "history", "family"},
+    "death-valley-national-park": {"hiking", "desert", "scenic-drives", "backpacking", "stargazing", "camping"},
+    "dry-tortugas-national-park": {"water", "beaches", "snorkeling", "history", "camping", "wildlife"},
+    "gates-of-the-arctic-national-park": {"alaska", "backpacking", "wildlife", "paddling", "camping"},
+    "gateway-arch-national-park": {"history", "family", "urban", "museums"},
+    "great-basin-national-park": {"caves", "hiking", "stargazing", "scenic-drives", "camping"},
+    "great-sand-dunes-national-park": {"hiking", "desert", "sledding", "stargazing", "camping"},
+    "hot-springs-national-park": {"hiking", "history", "family", "camping"},
+    "indiana-dunes-national-park": {"beaches", "hiking", "wildlife", "biking", "camping"},
+    "kenai-fjords-national-park": {"alaska", "glaciers", "hiking", "water", "wildlife"},
+    "kobuk-valley-national-park": {"alaska", "desert", "backpacking", "paddling", "wildlife", "camping"},
+    "lake-clark-national-park": {"alaska", "water", "backpacking", "wildlife", "fishing", "camping"},
+    "mesa-verde-national-park": {"history", "hiking", "scenic-drives", "camping"},
+    "national-park-of-american-samoa": {"water", "beaches", "snorkeling", "hiking", "culture"},
+    "pinnacles-national-park": {"hiking", "caves", "wildlife", "climbing", "camping"},
+    "saguaro-national-park": {"hiking", "desert", "scenic-drives", "wildlife", "backpacking"},
+    "voyageurs-national-park": {"water", "paddling", "fishing", "camping", "wildlife"},
+    "white-sands-national-park": {"hiking", "desert", "sledding", "scenic-drives", "stargazing"},
+    "wind-cave-national-park": {"caves", "hiking", "wildlife", "scenic-drives", "camping"},
+}
+
+TOPIC_LABELS = {
+    "alaska": "Alaska parks",
+    "backpacking": "backpacking",
+    "beaches": "beaches",
+    "biking": "biking",
+    "camping": "camping",
+    "caves": "cave tours",
+    "climbing": "climbing",
+    "culture": "culture",
+    "desert": "desert parks",
+    "family": "family trips",
+    "fishing": "fishing",
+    "forests": "forests",
+    "glaciers": "glaciers",
+    "hiking": "hiking",
+    "history": "history",
+    "museums": "museums",
+    "paddling": "paddling",
+    "scenic-drives": "scenic drives",
+    "sledding": "sand sledding",
+    "snorkeling": "snorkeling",
+    "stargazing": "stargazing",
+    "urban": "city parks",
+    "water": "water parks",
+    "waterfalls": "waterfalls",
+    "wildlife": "wildlife",
+}
+
+GUIDE_FAQ_ACTIVITIES = {
+    "badlands-national-park": "Drive Badlands Loop Road, hike Door, Window, Notch, Castle, and Saddle Pass trails, watch sunrise or sunset along the Wall, and look for prairie wildlife.",
+    "biscayne-national-park": "Boat tours, snorkeling, diving, paddling, fishing, island walks, and visits to Boca Chita Key, Elliott Key, Jones Lagoon, and the Maritime Heritage Trail are the main activities.",
+    "canyonlands-national-park": "Top activities include Mesa Arch, Grand View Point, Upheaval Dome, Chesler Park, Elephant Hill, White Rim Road, backcountry hiking, and river trips.",
+    "capitol-reef-national-park": "Explore Fruita, Scenic Drive, Grand Wash, Capitol Gorge, Hickman Bridge, Cassidy Arch, Cathedral Valley, orchards, petroglyphs, and backcountry routes.",
+    "carlsbad-caverns-national-park": "The Big Room, Natural Entrance route, ranger-guided cave tours, seasonal bat flight programs, desert trails, and cave photography are the main highlights.",
+    "congaree-national-park": "Walk the Boardwalk Loop, hike Weston Lake Loop or Kingsnake Trail, paddle Cedar Creek, watch wildlife, and check seasonal firefly viewing dates.",
+    "cuyahoga-valley-national-park": "Popular activities include Brandywine Falls, the Ledges Trail, Towpath Trail biking, Beaver Marsh, the Scenic Railroad, historic farms, and short waterfall hikes.",
+    "death-valley-national-park": "Plan for Badwater Basin, Zabriskie Point, Dante View, Mesquite Flat Sand Dunes, Golden Canyon, Artist Drive, Ubehebe Crater, stargazing, and desert hiking.",
+    "dry-tortugas-national-park": "Tour Fort Jefferson, snorkel around the moat wall, watch birds, swim, paddle, photograph Garden Key, and camp overnight if you can secure transport.",
+    "gates-of-the-arctic-national-park": "Most trips focus on backpacking, rafting, basecamp wilderness travel, flightseeing, fishing, photography, wildlife viewing, and Brooks Range scenery.",
+    "gateway-arch-national-park": "Ride the tram to the top of the Arch, visit the museum, walk the riverfront grounds, photograph the skyline, and explore the Old Courthouse area.",
+    "great-basin-national-park": "Reserve a Lehman Caves tour, drive Wheeler Peak Scenic Drive, hike to bristlecone pines or alpine lakes, summit Wheeler Peak, camp, and stargaze.",
+    "great-sand-dunes-national-park": "Climb the dunes, try sand sledding, visit Medano Creek in season, hike Mosca Pass, camp at Pinon Flats, photograph sunset, and stargaze.",
+    "hot-springs-national-park": "Walk Bathhouse Row, tour Fordyce Bathhouse, hike Hot Springs Mountain trails, fill bottles at thermal fountains, camp at Gulpha Gorge, and explore downtown.",
+    "indiana-dunes-national-park": "Visit Lake Michigan beaches, hike Cowles Bog, West Beach, Great Marsh, and Heron Rookery, go birding, tour historic farm sites, and camp at Dunewood.",
+    "kenai-fjords-national-park": "Visit Exit Glacier, hike the Harding Icefield Trail, take a wildlife and glacier boat tour, watch marine wildlife, kayak, and explore Seward-area scenery.",
+    "kobuk-valley-national-park": "The Great Kobuk Sand Dunes, Onion Portage, backpacking, Kobuk River floating, flightseeing, wildlife viewing, and remote camping are the main draws.",
+    "lake-clark-national-park": "Top activities include bear viewing, Twin Lakes, Port Alsworth, Tanalian Falls, kayaking, fishing, flightseeing, backpacking, and visiting the Proenneke cabin area.",
+    "mesa-verde-national-park": "Plan for cliff dwelling tours, Mesa Top Loop Road, Far View Sites, Chapin Mesa Archeological Museum, Petroglyph Point Trail, overlooks, and Morefield Campground.",
+    "national-park-of-american-samoa": "Explore Tutuila, Ofu, and Ta'u with hiking, snorkeling, reef viewing, village scenery, Mount Alava, Lower Sauma Ridge, Pola Island views, and beaches.",
+    "pinnacles-national-park": "Hike High Peaks, Bear Gulch Cave, Balconies Cave, Condor Gulch, Moses Spring, and west-side trails, watch for condors, and consider rock climbing.",
+    "saguaro-national-park": "Drive Bajada Loop and Cactus Forest Drive, hike desert trails, visit Signal Hill petroglyphs, photograph saguaros at sunset, watch wildlife, and backpack in the Rincon District.",
+    "voyageurs-national-park": "Boating, paddling, fishing, houseboating, lakeside camping, Kettle Falls, Ellsworth Rock Gardens, winter ice roads, snowshoeing, and northern lights are signature activities.",
+    "white-sands-national-park": "Drive Dunes Drive, hike Alkali Flat or shorter dune trails, try sledding, photograph sunset, join ranger programs, and prepare for bright sun and heat.",
+    "wind-cave-national-park": "Take a cave tour, hike Rankin Ridge or Wind Cave Canyon, watch bison and prairie dogs, drive scenic park roads, and camp at Elk Mountain.",
+}
+
+GUIDE_FAQ_CAMPING = {
+    "badlands-national-park": "Yes. Cedar Pass Campground and Sage Creek Campground are the main in-park options, and backcountry camping is possible with careful planning.",
+    "biscayne-national-park": "Yes, but camping is boat-access only on Boca Chita Key and Elliott Key. Campers need to bring water, food, and weather-ready supplies.",
+    "canyonlands-national-park": "Yes. Island in the Sky and The Needles have frontcountry campgrounds, and many backcountry trips require permits and advanced planning.",
+    "capitol-reef-national-park": "Yes. Fruita Campground is the main developed campground, with primitive and backcountry options available in more remote areas.",
+    "carlsbad-caverns-national-park": "There is no developed campground inside the park. Backcountry camping may be available by permit, and most visitors use nearby lodging or campgrounds.",
+    "congaree-national-park": "Yes. Longleaf and Bluff campgrounds require reservations, and backcountry camping is available by permit.",
+    "cuyahoga-valley-national-park": "There is no standard NPS campground inside Cuyahoga Valley National Park, so visitors usually use nearby lodging or regional campgrounds.",
+    "death-valley-national-park": "Yes. Death Valley has several campgrounds, including Furnace Creek, but heat, water, services, and seasonal conditions are critical planning factors.",
+    "dry-tortugas-national-park": "Yes. Primitive camping is available on Garden Key, but campers must bring all supplies and plan around ferry or private boat access.",
+    "gates-of-the-arctic-national-park": "Yes, but it is undeveloped wilderness camping. Visitors must be self-sufficient and prepared for bears, weather, rivers, and remote travel.",
+    "gateway-arch-national-park": "No. Gateway Arch is an urban national park without camping; visitors use hotels or campgrounds around the St. Louis region.",
+    "great-basin-national-park": "Yes. Great Basin has developed campgrounds at several elevations, plus backcountry options for prepared visitors.",
+    "great-sand-dunes-national-park": "Yes. Pinon Flats Campground is the main developed campground, and permitted backcountry camping may be available in dune or mountain zones.",
+    "hot-springs-national-park": "Yes. Gulpha Gorge Campground is the in-park campground and offers convenient access to trails and downtown Hot Springs.",
+    "indiana-dunes-national-park": "Yes. Dunewood Campground is the main national park campground, with additional nearby options outside the park.",
+    "kenai-fjords-national-park": "Camping is limited and often primitive. Most visitors use Seward lodging or campgrounds while planning Exit Glacier, boat tours, or backcountry trips.",
+    "kobuk-valley-national-park": "Yes, but all camping is undeveloped backcountry camping reached by air taxi, river travel, or remote wilderness routes.",
+    "lake-clark-national-park": "Yes. Camping is mostly undeveloped backcountry camping, with lodges and services concentrated around Port Alsworth and select access points.",
+    "mesa-verde-national-park": "Yes. Morefield Campground is the main in-park campground and generally operates seasonally.",
+    "national-park-of-american-samoa": "There is no standard developed campground. Visitors should arrange lodging and local logistics before traveling between islands.",
+    "pinnacles-national-park": "Yes. Pinnacles Campground is on the east side of the park, and visitors should plan around the separate east and west entrances.",
+    "saguaro-national-park": "There is no vehicle camping in Saguaro. Overnight camping is limited to designated backcountry sites in the Rincon Mountain District with permits.",
+    "voyageurs-national-park": "Yes. Campsites are mostly boat-access, and reservations or permits are needed for frontcountry, backcountry, and houseboat sites.",
+    "white-sands-national-park": "Backcountry camping has historically existed, but availability can change. Check current NPS conditions before planning an overnight stay.",
+    "wind-cave-national-park": "Yes. Elk Mountain Campground is the main in-park campground and is generally first come, first served.",
 }
 
 PAGE_SOURCE_EMBEDS = {
@@ -601,6 +875,8 @@ def inline_link_candidates(links):
             add_candidate(label, url)
             continue
         if label.lower() == "camping":
+            add_candidate("NPS Camping details", url)
+            add_candidate("NPS Camping information", url)
             add_candidate("NPS Camping page", url)
             add_candidate("official NPS Camping page", url)
             add_candidate(label, url)
@@ -626,6 +902,15 @@ def inline_link_candidates(links):
                 if short_name:
                     add_candidate(f"{short_name} Wikipedia website", url)
                     add_candidate(f"{short_name} Wikipedia site", url)
+    candidates.sort(key=lambda item: len(item["label"]), reverse=True)
+    return candidates
+
+
+def park_inline_link_candidates(page_slug, links):
+    candidates = inline_link_candidates(links)
+    aliases = CAMPING_LINK_ALIASES.get(page_slug, {})
+    for label, url in aliases.items():
+        candidates.append({"label": label, "urls": [url] * 4})
     candidates.sort(key=lambda item: len(item["label"]), reverse=True)
     return candidates
 
@@ -1010,7 +1295,7 @@ def render_park_map_card(page_slug):
         return ""
     lat, lng = coords
     return f"""
-                <article class="embed-card">
+                <article class="embed-card park-location-card">
                   <div class="embed-frame map park-location-map" data-park-map data-lat="{lat}" data-lng="{lng}"></div>
                   <div class="embed-meta"><strong>Park location</strong></div>
                 </article>
@@ -1139,6 +1424,30 @@ def render_nav(pages, current_slug, depth):
     return "\n".join(links)
 
 
+def render_breadcrumbs(title, page_slug, depth):
+    if page_slug == "national-park-webcam-home":
+        return ""
+    prefix = "" if depth == 0 else "../"
+    if page_slug in INFO_PAGE_SLUGS:
+        crumbs = [
+            (f"{prefix}index.html", "Home"),
+            ("", title),
+        ]
+    else:
+        crumbs = [
+            (f"{prefix}index.html", "Home"),
+            (f"{prefix}index.html#parks", "Park Directory"),
+            ("", title),
+        ]
+    items = []
+    for href, label in crumbs:
+        if href:
+            items.append(f'<li><a href="{html.escape(href)}">{html.escape(label)}</a></li>')
+        else:
+            items.append(f'<li aria-current="page">{html.escape(label)}</li>')
+    return f'<nav class="breadcrumbs" aria-label="Breadcrumb"><ol>{"".join(items)}</ol></nav>'
+
+
 def render_header_search(pages, depth):
     entries = []
     for page in pages:
@@ -1244,6 +1553,119 @@ def related_park_links(current_page, pages, count=6):
 """
 
 
+def related_guide_links(current_page, pages, count=8):
+    current_slug = current_page["slug"]
+    if not is_no_camera_page(current_slug):
+        return ""
+    current_topics = GUIDE_TOPICS.get(current_slug, set())
+    if not current_topics:
+        return ""
+
+    current_coords = PARK_COORDS.get(current_slug)
+    candidates = []
+    for page in pages:
+        slug = page["slug"]
+        if slug == current_slug or not is_no_camera_page(slug):
+            continue
+        shared = current_topics & GUIDE_TOPICS.get(slug, set())
+        if not shared:
+            continue
+        coords = PARK_COORDS.get(slug)
+        distance = 9999
+        if current_coords and coords:
+            distance = (coords[0] - current_coords[0]) ** 2 + (coords[1] - current_coords[1]) ** 2
+        candidates.append((-len(shared), distance, page, shared))
+    candidates.sort(key=lambda item: (item[0], item[1], short_name(item[2]["title"])))
+
+    cards = []
+    for _, _, page, shared in candidates[:count]:
+        labels = [TOPIC_LABELS.get(topic, topic) for topic in sorted(shared)]
+        topic_text = ", ".join(labels[:3])
+        cards.append(
+            f"""
+            <a class="related-park-card internal-guide-card" href="{html.escape(page_target_href(page, depth=1))}">
+              <span>{html.escape(short_name(page["title"]))}</span>
+              <p>Related: {html.escape(topic_text)}</p>
+              <strong>Read park guide</strong>
+            </a>
+            """
+        )
+    if not cards:
+        return ""
+
+    current_topic_labels = [TOPIC_LABELS.get(topic, topic) for topic in sorted(current_topics)]
+    topic_summary = ", ".join(current_topic_labels[:5])
+    return f"""
+    <section class="related-parks-section internal-guides-section" aria-labelledby="internal-guides-heading">
+      <div class="section-heading">
+        <div>
+          <span class="eyebrow">Related guides</span>
+          <h2 id="internal-guides-heading">Related National Park Guides</h2>
+          <p class="section-note">Continue planning with local guide pages connected by {html.escape(topic_summary)}.</p>
+        </div>
+      </div>
+      <div class="related-park-grid">{''.join(cards)}</div>
+    </section>
+"""
+
+
+def guide_faqs(page_slug, title):
+    if not is_no_camera_page(page_slug):
+        return []
+    park_name = NO_CAMERA_PARK_NAMES.get(page_slug, title.replace(" Guide", ""))
+    return [
+        {
+            "question": f"What are the best things to do in {park_name}?",
+            "answer": GUIDE_FAQ_ACTIVITIES.get(
+                page_slug,
+                f"Use this {park_name} guide to compare hiking, scenic stops, camping notes, weather, maps, and official NPS planning resources.",
+            ),
+        },
+        {
+            "question": f"Can you camp in {park_name}?",
+            "answer": GUIDE_FAQ_CAMPING.get(
+                page_slug,
+                f"Camping options vary by season and location. Check the official NPS camping information for current rules, reservations, and closures before planning an overnight trip to {park_name}.",
+            ),
+        },
+        {
+            "question": f"Are there live webcams in {park_name}?",
+            "answer": f"This guide page does not host a current webcam page for {park_name}. For live views from other national parks, use NationalParkCam.com and compare active park camera pages.",
+        },
+        {
+            "question": f"What should I check before visiting {park_name}?",
+            "answer": f"Check current NPS alerts, weather, maps, road or trail conditions, permits, campground status, and seasonal closures before visiting {park_name}.",
+        },
+    ]
+
+
+def render_guide_faq_section(page_slug, title):
+    faqs = guide_faqs(page_slug, title)
+    if not faqs:
+        return ""
+    items = []
+    for faq in faqs:
+        items.append(
+            f"""
+            <article class="faq-item">
+              <h3>{html.escape(faq["question"])}</h3>
+              <p>{html.escape(faq["answer"])}</p>
+            </article>
+            """
+        )
+    return f"""
+    <section class="faq-section" aria-labelledby="park-faq-heading">
+      <div class="section-heading">
+        <div>
+          <span class="eyebrow">Park FAQ</span>
+          <h2 id="park-faq-heading">Frequently Asked Questions</h2>
+        </div>
+      </div>
+      <div class="faq-grid">{''.join(items)}</div>
+    </section>
+"""
+
+
 def structured_data(title, page_slug, description, canonical_url):
     site_name = "National Parks Guide" if page_slug == "national-park-webcam-home" or is_no_camera_page(page_slug) else "National Parks Webcams"
     website_node = {
@@ -1285,6 +1707,40 @@ def structured_data(title, page_slug, description, canonical_url):
     else:
         park_name = PARK_NAMES.get(page_slug, title.replace(" Webcams", "").replace(" Guide", ""))
         page_type = "CollectionPage" if page_slug in INFO_PAGE_SLUGS else "WebPage"
+        breadcrumb_items = [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": SITE_URL,
+            }
+        ]
+        if page_slug in INFO_PAGE_SLUGS:
+            breadcrumb_items.append(
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": title,
+                    "item": canonical_url,
+                }
+            )
+        else:
+            breadcrumb_items.extend(
+                [
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Park Directory",
+                        "item": f"{SITE_URL}/#parks",
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": title,
+                        "item": canonical_url,
+                    },
+                ]
+            )
         graph = {
             "@context": "https://schema.org",
             "@graph": [
@@ -1308,26 +1764,32 @@ def structured_data(title, page_slug, description, canonical_url):
             {
                 "@type": "BreadcrumbList",
                 "@id": f"{canonical_url}#breadcrumb",
-                "itemListElement": [
-                    {
-                        "@type": "ListItem",
-                        "position": 1,
-                        "name": "Home",
-                        "item": SITE_URL,
-                    },
-                    {
-                        "@type": "ListItem",
-                        "position": 2,
-                        "name": title,
-                        "item": canonical_url,
-                    },
-                ],
+                "itemListElement": breadcrumb_items,
             },
             ],
         }
         if page_slug in INFO_PAGE_SLUGS:
             graph["@graph"][1]["@type"] = page_type
             graph["@graph"][1].pop("about", None)
+        faqs = guide_faqs(page_slug, title)
+        if faqs:
+            graph["@graph"].append(
+                {
+                    "@type": "FAQPage",
+                    "@id": f"{canonical_url}#faq",
+                    "mainEntity": [
+                        {
+                            "@type": "Question",
+                            "name": faq["question"],
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": faq["answer"],
+                            },
+                        }
+                        for faq in faqs
+                    ],
+                }
+            )
     return json.dumps(graph, ensure_ascii=False)
 
 
@@ -1337,6 +1799,9 @@ def seo_page_title(title, page_slug):
     if page_slug in INFO_PAGE_SLUGS:
         return f"{title} | National Parks Webcams"
     if is_no_camera_page(page_slug):
+        custom = GUIDE_SEO.get(page_slug, {}).get("title")
+        if custom:
+            return custom
         park_name = NO_CAMERA_PARK_NAMES.get(page_slug, title.replace(" Guide", ""))
         seo_title = f"{park_name} Guide | Weather, Map & Planning"
         if len(seo_title) > 70:
@@ -1355,6 +1820,9 @@ def seo_page_title(title, page_slug):
 
 def seo_description(title, page_slug, description):
     if is_no_camera_page(page_slug):
+        custom = GUIDE_SEO.get(page_slug, {}).get("description")
+        if custom:
+            return custom
         park_name = NO_CAMERA_PARK_NAMES.get(page_slug, title.replace(" Guide", ""))
         meta = (
             f"{park_name} guide with weather, map, activities, camping and lodging notes, "
@@ -1403,7 +1871,7 @@ def page_shell(title, body, page_slug, pages, description, image="", depth=0):
     page_description = seo_description(title, page_slug, description)
     meta_description = truncate_meta(page_description, 155)
     social_description = truncate_meta(page_description, 180)
-    json_ld = structured_data(title, page_slug, description, canonical_url).replace("</", "<\\/")
+    json_ld = structured_data(title, page_slug, page_description, canonical_url).replace("</", "<\\/")
     data_attrs = f' data-page-slug="{html.escape(page_slug)}" data-page-title="{html.escape(title)}" data-page-depth="{depth}"'
     brand_label = "National Parks Guide home" if page_slug == "national-park-webcam-home" or is_no_camera_page(page_slug) else "National Parks Webcams home"
     return f"""<!doctype html>
@@ -1606,7 +2074,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
         live_section = f"""
     <section class="resource-section guide-cta-section" id="park-map">
       <div class="section-heading">
-        <div><span class="eyebrow">No current camera page</span><h2>Explore Live National Park Cameras</h2></div>
+        <div><h2>Explore Live National Park Cameras</h2></div>
       </div>
       <div class="guide-cta-card">
         <div>
@@ -1640,7 +2108,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
   <main>
     <section class="page-hero">
       <div class="page-hero-copy">
-        <a class="back-link" href="../index.html">All parks</a>
+        {render_breadcrumbs(title, page["slug"], 1)}
         <h1>{html.escape(title)}</h1>
         {hero_summary}
         {hero_actions}
@@ -1663,8 +2131,10 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
       </div>
     </section>
     <div class="page-layout">
-      <article class="page-content">{text_to_html(article_body, inline_link_candidates(links), page["slug"], title)}</article>
+      <article class="page-content">{text_to_html(article_body, park_inline_link_candidates(page["slug"], links), page["slug"], title)}</article>
     </div>
+    {render_guide_faq_section(page["slug"], title)}
+    {related_guide_links(page, pages)}
     {related_park_links(page, pages)}
     {bottom_actions}
   </main>
@@ -1682,7 +2152,7 @@ def build_info_page(slug, title, description, sections, pages):
     body_html = f"""
   <main>
     <section class="park-hero">
-      <a class="back-link" href="index.html">Home</a>
+      {render_breadcrumbs(title, slug, 0)}
       <div class="park-hero-grid">
         <div>
           <span class="eyebrow">National Parks Webcams</span>
@@ -1811,8 +2281,14 @@ def main():
     info = info_pages()
     sitemap_pages = pages + [{"slug": item["slug"]} for item in info]
     (DIST / "CNAME").write_text(f"{CUSTOM_DOMAIN}\n", encoding="utf-8")
-    (DIST / "sitemap.xml").write_text(build_sitemap(sitemap_pages), encoding="utf-8")
-    (DIST / "robots.txt").write_text(build_robots_txt(), encoding="utf-8")
+    sitemap_xml = build_sitemap(sitemap_pages)
+    robots_txt = build_robots_txt()
+    (DIST / "sitemap.xml").write_text(sitemap_xml, encoding="utf-8")
+    (DIST / "robots.txt").write_text(robots_txt, encoding="utf-8")
+    # Root fallbacks help if a host is accidentally pointed at the repo root
+    # instead of the generated docs/ directory.
+    (ROOT / "sitemap.xml").write_text(sitemap_xml, encoding="utf-8")
+    (ROOT / "robots.txt").write_text(robots_txt, encoding="utf-8")
     for item in info:
         (DIST / f"{item['slug']}.html").write_text(
             build_info_page(item["slug"], item["title"], item["description"], item["sections"], pages),

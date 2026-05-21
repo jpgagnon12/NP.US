@@ -18,7 +18,13 @@ There is no backpacking in the usual sense, but overnight stays are possible at 
 
 Planning Highlights
 
-Start at the Dante Fascell Visitor Center, then plan a guided boat trip to Boca Chita Key, Elliott Key, Jones Lagoon, or the Maritime Heritage Trail.
+The Dante Fascell Visitor Center is the best first stop before choosing boat tours, snorkeling, paddling, fishing, or island visits. The Things To Do page and Boat Tours information are especially important because most of Biscayne National Park is reached by water.
+
+Snorkeling and diving are signature Biscayne activities, especially around coral reefs, clear shallows, and the Maritime Heritage Trail shipwreck sites. Weather, water clarity, and tour availability can change the experience quickly, so flexible planning helps.
+
+Kayaking, canoeing, and paddleboarding work well in calm conditions around mangrove shorelines, Jones Lagoon, and protected bays. Fishing is also popular in park waters, but visitors need to follow current Florida and NPS regulations.
+
+Island walks on Boca Chita Key, Elliott Key, and Adams Key add short land-based exploring to a mostly marine park. Camping is available on Boca Chita Key and Elliott Key for visitors who can arrange boat access and bring needed supplies.
 
 Camping and Lodging
 

@@ -18,7 +18,13 @@ Backcountry use is limited compared with large wilderness parks, but primitive d
 
 Planning Highlights
 
-Reserve cave entry, walk the Natural Entrance or Big Room routes, check seasonal bat flight programs, and explore desert viewpoints when temperatures allow.
+Cave tours are the main thing to do in Carlsbad Caverns National Park. The Big Room and Natural Entrance routes are the classic self-guided experiences, while ranger-guided Cave Tours and Reservations are important for visitors who want deeper access to the cave system.
+
+The seasonal bat flight program is another major draw. Evening programs near the cave entrance give visitors a chance to watch bats leave the cavern when conditions and timing are right.
+
+Above-ground hiking adds a desert side to the park. Short trails, canyon routes, and viewpoints show the Chihuahuan Desert landscape, but visitors should plan around heat, water, and sun exposure.
+
+Photography, geology, and night-sky viewing are also strong reasons to spend more than a quick cave stop here. The park's limestone formations, desert plants, and quiet overlooks make the visit feel broader than the underground route alone.
 
 Camping and Lodging
 

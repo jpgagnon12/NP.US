@@ -18,7 +18,13 @@ Backpacking and coastal camping are possible but require planning around tides, 
 
 Planning Highlights
 
-Hike the Harding Icefield Trail, visit Exit Glacier, take a wildlife and glacier boat tour, and watch for whales, sea otters, puffins, and seals.
+Exit Glacier is the easiest place to start a Kenai Fjords National Park visit. Short trails and viewpoints help visitors see the glacier landscape, climate-change markers, and the edge of the Harding Icefield.
+
+The Harding Icefield Trail is one of the best hikes in Kenai Fjords, but it is steep, exposed, and weather-dependent. Prepared hikers get huge views of ice, mountains, and changing alpine terrain.
+
+Boat tours are a signature Kenai Fjords activity because much of the park is coastal. Wildlife and glacier cruises from Seward can include tidewater glaciers, fjords, whales, sea otters, seals, puffins, and seabird colonies.
+
+Kayaking, flightseeing, fishing from nearby Seward, photography, and wildlife viewing add strong activity coverage for visitors comparing Alaska national parks.
 
 Camping and Lodging
 

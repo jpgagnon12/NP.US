@@ -17,7 +17,13 @@ Backpacking is possible, but it works differently than in many parks. The NPS Ca
 
 Planning Highlights
 
-Rainy Lake, Kabetogama Lake, Ash River, Ellsworth Rock Gardens, Kettle Falls, houseboating, paddling, fishing, winter ice roads, snowshoeing, and northern lights are signature Voyageurs experiences. The visitor centers and Things To Do page are useful starting points before choosing a launch area.
+Boating is the signature thing to do in Voyageurs National Park because most campsites, shorelines, and lake destinations are reached by water. Rainy Lake, Kabetogama Lake, Namakan Lake, Sand Point Lake, Ash River, and Kettle Falls all shape different trip styles.
+
+Fishing is one of the park's strongest activities, with walleye, northern pike, smallmouth bass, and other species drawing many visitors. Regulations, seasons, and weather should be checked before planning time on the water.
+
+Paddling, houseboating, hiking, Ellsworth Rock Gardens, wildlife viewing, and northern lights photography add variety in warmer months. Winter brings ice roads, snowshoeing, skiing, snowmobiling, and frozen-lake access when conditions allow.
+
+The visitor centers and Things To Do page are useful starting points before choosing a launch area, campsite, tour, or season.
 
 Camping and Lodging
 

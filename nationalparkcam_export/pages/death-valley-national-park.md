@@ -18,7 +18,13 @@ NPS Backpacking guidance is important for remote canyons, washes, and mountain r
 
 Planning Highlights
 
-Plan stops at Badwater Basin, Zabriskie Point, Dante view, Mesquite Flat Sand Dunes, Golden Canyon, Artist Drive, and Ubehebe Crater.
+Scenic driving is one of the best things to do in Death Valley National Park because the park is enormous. Badwater Basin, Zabriskie Point, Dante View, Artist Drive, Mesquite Flat Sand Dunes, Ubehebe Crater, and Father Crowley Vista can anchor a first visit.
+
+Hiking in Death Valley is best planned for cooler months, early mornings, and higher elevations when needed. Golden Canyon, Gower Gulch, Mosaic Canyon, Natural Bridge, Badwater Basin, and Mesquite Flat Sand Dunes are popular routes, but heat and water planning are serious safety issues.
+
+Backpacking, canyoneering, and remote road travel are possible for experienced desert travelers. Visitors should use Backpacking and Safety resources, check road conditions, and carry extra water, food, fuel, navigation, and tire equipment.
+
+Stargazing, wildflower viewing in strong bloom years, photography, geology, and historic mining sites give the park strong year-round content beyond the most famous viewpoints.
 
 Camping and Lodging
 
@@ -40,6 +46,7 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Hiking: https://www.nps.gov/deva/planyourvisit/hiking.htm
 - Backpacking: https://www.nps.gov/deva/planyourvisit/backpacking.htm
 - Safety: https://www.nps.gov/deva/planyourvisit/safety.htm
+- Furnace Creek Campground: https://www.nps.gov/deva/planyourvisit/camping.htm
 - Camping: https://www.nps.gov/deva/planyourvisit/camping.htm
-- Recreation.gov: https://www.recreation.gov/camping/gateways/2582
+- Recreation.gov: https://www.recreation.gov/search?q=Death%20Valley%20National%20Park&entity_type=recarea&inventory_type=camping
 - Wikipedia: https://en.wikipedia.org/wiki/Death_Valley_National_Park

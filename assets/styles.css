@@ -728,6 +728,49 @@ h3 {
   text-decoration: none;
 }
 
+.breadcrumbs {
+  margin-bottom: 14px;
+  color: var(--muted);
+  font-size: 0.86rem;
+  font-weight: 800;
+}
+
+.breadcrumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.breadcrumbs li {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.breadcrumbs li:not(:last-child)::after {
+  color: rgba(23, 33, 29, 0.38);
+  content: "/";
+  font-weight: 700;
+}
+
+.breadcrumbs a {
+  color: var(--water);
+  text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+  color: var(--forest);
+  text-decoration: underline;
+}
+
+.breadcrumbs [aria-current="page"] {
+  color: var(--ink);
+}
+
 .page-layout {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
@@ -843,6 +886,18 @@ h3 {
 
 .embed-frame.map {
   aspect-ratio: 4 / 3;
+}
+
+.park-location-card {
+  width: min(100%, 520px);
+}
+
+.park-location-card .park-location-map {
+  aspect-ratio: 16 / 9;
+}
+
+.guide-cta-section .embed-grid {
+  grid-template-columns: minmax(0, 520px);
 }
 
 .webcam-image-media {
@@ -1100,6 +1155,39 @@ h3 {
   border-top: 1px solid var(--line);
 }
 
+.faq-section {
+  padding: clamp(28px, 5vw, 60px) clamp(18px, 5vw, 78px);
+  border-top: 1px solid var(--line);
+  background: rgba(255, 253, 248, 0.72);
+}
+
+.faq-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 14px;
+}
+
+.faq-item {
+  display: grid;
+  gap: 8px;
+  padding: 18px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.faq-item h3 {
+  color: var(--forest);
+  font-size: 1.05rem;
+  line-height: 1.25;
+}
+
+.faq-item p {
+  margin: 0;
+  color: #2f3d37;
+  font-size: 0.96rem;
+}
+
 .related-park-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -1130,6 +1218,16 @@ h3 {
 .related-park-card strong {
   align-self: end;
   color: var(--water);
+  font-size: 0.9rem;
+}
+
+.internal-guides-section {
+  background: rgba(255, 253, 248, 0.5);
+}
+
+.internal-guide-card p {
+  margin: 0;
+  color: var(--muted);
   font-size: 0.9rem;
 }
 
@@ -1271,6 +1369,26 @@ h3 {
     flex-wrap: wrap;
   }
 
+  .home-hero {
+    gap: 18px;
+    padding-top: 24px;
+    padding-bottom: 28px;
+  }
+
+  .home-hero h1 {
+    margin-top: 8px;
+    font-size: 2.7rem;
+  }
+
+  .home-hero p {
+    margin-bottom: 0;
+    font-size: 1rem;
+  }
+
+  .hero-video-meta {
+    padding: 10px 12px 12px;
+  }
+
   .header-nav-group {
     width: 100%;
     flex-direction: column-reverse;
@@ -1318,12 +1436,61 @@ h3 {
     border-bottom: 1px solid var(--line);
   }
 
+  .park-browser,
+  .resource-section,
+  .weather-section,
+  .page-layout,
+  .related-parks-section {
+    padding-top: 24px;
+    padding-bottom: 28px;
+  }
+
+  .park-browser {
+    gap: 16px;
+  }
+
+  .park-browser .section-heading {
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+
+  .park-grid-heading {
+    margin-top: 0;
+  }
+
   .links-panel ul {
     columns: 1;
   }
 
+  .map-explorer {
+    min-height: auto;
+  }
+
   .webcam-map {
-    min-height: 420px;
+    min-height: 260px;
+  }
+
+  .map-side {
+    gap: 8px;
+    padding: 16px;
+  }
+
+  .map-side .eyebrow,
+  .map-side p,
+  .map-list {
+    display: none;
+  }
+
+  .map-side h3 {
+    font-size: 1.35rem;
+  }
+
+  .map-side p {
+    margin-bottom: 0;
+  }
+
+  .map-list {
+    max-height: 220px;
   }
 
   .hourly-weather {

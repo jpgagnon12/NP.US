@@ -116,7 +116,7 @@ Image: Email
 - https://drive.google.com/open?id=1P4vpGjcch0X47MeQCf0iZsjAPW7a8rblbnlgrbw3Md8: https://drive.google.com/open?id=1P4vpGjcch0X47MeQCf0iZsjAPW7a8rblbnlgrbw3Md8
 - Jedediah Smith Campground: https://www.nps.gov/redw/planyourvisit/jedediah-smith-campground.htm
 - ReserveCalifornia: https://www.ReserveCalifornia.com/Web/
-- Mill Creek Campgroun: https://www.nps.gov/redw/planyourvisit/mill-creek-campground.htm
+- Mill Creek Campground: https://www.nps.gov/redw/planyourvisit/mill-creek-campground.htm
 - Gold Bluffs Beach Campground: https://www.nps.gov/redw/planyourvisit/gold-bluffs-beach-campground.htm
 - Elk Prairie Campground: https://www.nps.gov/redw/planyourvisit/elk-prairie-campground.htm
 - mailto:npcam012@gmail.com: mailto:npcam012@gmail.com

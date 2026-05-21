@@ -18,11 +18,17 @@ NPS Backpacking guidance is important for Canyonlands, especially in The Needles
 
 Planning Highlights
 
-Mesa Arch, Grand View Point, Upheaval Dome, Chesler Park, Elephant Hill, and river trips are signature experiences, but distances between districts are long.
+Island in the Sky is the easiest district for first-time visitors, with Mesa Arch, Grand View Point, Green River Overlook, White Rim Overlook, and Upheaval Dome offering big canyon views from short walks and paved roads.
+
+Hiking in Canyonlands National Park changes by district. The Needles is best for longer desert routes such as Chesler Park, Druid Arch, and the Joint Trail, while The Maze and backcountry routes require more time, permits, navigation, and vehicle preparation.
+
+Scenic driving and four-wheel-drive travel are major Canyonlands activities. White Rim Road, Elephant Hill, Cathedral Butte, and Maze-area roads can be outstanding, but visitors should check current road conditions and carry enough water, fuel, and recovery gear.
+
+Rafting, canoeing, and boating on the Colorado River and Green River add a completely different view of the park. River trips require careful planning, permits, and realistic timing because the districts are far apart and services are limited.
 
 Camping and Lodging
 
-Use NPS Camping details for Island in the Sky and The Needles frontcountry campgrounds, while many backcountry routes require permits. Four-wheel-drive roads demand high-clearance vehicles and careful preparation.
+Use NPS Camping details for Island in the Sky Campground and The Needles Campground, while many backcountry routes require permits. Four-wheel-drive roads demand high-clearance vehicles and careful preparation.
 
 Official Resources
 
@@ -39,7 +45,9 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Things To Do: https://www.nps.gov/cany/planyourvisit/things2do.htm
 - Hiking: https://www.nps.gov/cany/planyourvisit/hiking.htm
 - Backpacking: https://www.nps.gov/cany/planyourvisit/backpacking.htm
+- Island in the Sky Campground: https://www.nps.gov/cany/planyourvisit/camping.htm
+- The Needles Campground: https://www.nps.gov/cany/planyourvisit/camping.htm
 - Camping: https://www.nps.gov/cany/planyourvisit/camping.htm
 - Permits: https://www.nps.gov/cany/planyourvisit/permits.htm
-- Recreation.gov: https://www.recreation.gov/camping/gateways/2588
+- Recreation.gov: https://www.recreation.gov/search?q=Canyonlands%20National%20Park&entity_type=recarea&inventory_type=camping
 - Wikipedia: https://en.wikipedia.org/wiki/Canyonlands_National_Park

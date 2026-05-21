@@ -18,7 +18,11 @@ Backcountry travel is allowed in much of Badlands, but there are few maintained 
 
 Planning Highlights
 
-Drive Badlands Loop Road for overlooks, hike the Door, Window, Notch, Castle, and Saddle Pass trails, and leave time for sunrise or sunset along the Wall.
+Badlands Loop Road is the easiest way to see the park's overlooks, fossil beds, prairie, and layered formations in a single visit. Sunrise and sunset along the Wall, Big Badlands Overlook, Panorama Point, and Pinnacles Overlook are especially useful for photography and wildlife viewing.
+
+Hiking is one of the best things to do in Badlands National Park. Short trails such as Door, Window, Notch, Cliff Shelf, and Fossil Exhibit Trail work well for first-time visitors, while Castle Trail and Medicine Root Loop give hikers a longer prairie-and-badlands route.
+
+Wildlife viewing is strongest around dawn, dusk, and quieter prairie areas where bison, bighorn sheep, pronghorn, prairie dogs, coyotes, raptors, and other animals may be seen. Visitors should keep distance from wildlife and prepare for heat, wind, and fast-changing storms.
 
 Camping and Lodging
 
@@ -37,6 +41,8 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Badlands National Park (U.S. National Park Service) The rugged badlands, mixed-grass prairie, and fossil beds of South Dakota protect one of the richest Oligocene fossil deposits in North America.: https://www.nps.gov/badl/index.htm
 - Maps: https://www.nps.gov/badl/planyourvisit/maps.htm
 - Things To Do: https://www.nps.gov/badl/planyourvisit/things2do.htm
+- Cedar Pass Campground: https://www.nps.gov/badl/planyourvisit/camping.htm
+- Sage Creek Campground: https://www.nps.gov/badl/planyourvisit/camping.htm
 - Camping: https://www.nps.gov/badl/planyourvisit/camping.htm
-- Recreation.gov: https://www.recreation.gov/camping/gateways/2581
+- Recreation.gov: https://www.recreation.gov/search?q=Badlands%20National%20Park&entity_type=recarea&inventory_type=camping
 - Wikipedia: https://en.wikipedia.org/wiki/Badlands_National_Park

@@ -18,7 +18,13 @@ Backpacking is one of the main reasons to visit Gates of the Arctic, but trips s
 
 Planning Highlights
 
-Most visitors fly in for backpacking, rafting, or basecamp trips. The park rewards careful navigation, bear awareness, and flexible weather planning.
+Backpacking is one of the primary things to do in Gates of the Arctic National Park and Preserve, but it is fully remote wilderness travel. There are no roads, no maintained trails, and no visitor services inside the park, so navigation, river crossings, food storage, and weather judgment matter.
+
+Rafting and floating Arctic rivers are major trip types for experienced visitors and guided groups. Popular routes can include portions of the Noatak, Kobuk, Alatna, John, Koyukuk, and other wild rivers depending on access, water level, and skill.
+
+Wildlife viewing, photography, flightseeing, fishing, and basecamp trips are common ways to experience the Brooks Range without attempting a long point-to-point route. Visitors may see caribou, bears, Dall sheep, wolves, raptors, and broad tundra landscapes.
+
+Flexible itineraries are essential because bush flights, weather, smoke, river conditions, and private inholdings can change plans quickly.
 
 Camping and Lodging
 

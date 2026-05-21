@@ -18,7 +18,13 @@ NPS Backpacking guidance is useful for designated dune and mountain zones with p
 
 Planning Highlights
 
-Climb High Dune or Star Dune, rent sand sleds outside the park, visit Medano Creek in season, and explore Mosca Pass or alpine preserve routes.
+Hiking the dunes is the signature thing to do in Great Sand Dunes National Park and Preserve. High Dune, Star Dune, and open dune routes have no fixed trail, so visitors should plan for slow sand travel, wind, heat, and strong sun.
+
+Sandboarding and sledding are major visitor activities and work best with proper boards rented outside the park. Medano Creek is another seasonal highlight, especially during spring and early summer flows.
+
+The park also has mountain, forest, and preserve routes beyond the main dune field. Mosca Pass, Montville Nature Trail, Medano Pass Road, alpine lakes, and backcountry zones add hiking and backpacking options for visitors who want more than the dunes.
+
+Stargazing, photography, wildlife viewing, camping at Pinon Flats, and sunset visits help make the park a strong overnight destination.
 
 Camping and Lodging
 
@@ -40,6 +46,7 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Hiking: https://www.nps.gov/grsa/planyourvisit/hiking.htm
 - Backpacking: https://www.nps.gov/grsa/planyourvisit/backpacking.htm
 - Sandboarding and Sledding: https://www.nps.gov/grsa/planyourvisit/sandboardingsandsledding.htm
+- Pinon Flats Campground: https://www.nps.gov/grsa/planyourvisit/camping.htm
 - Camping: https://www.nps.gov/grsa/planyourvisit/camping.htm
-- Recreation.gov: https://www.recreation.gov/camping/gateways/2634
+- Recreation.gov: https://www.recreation.gov/search?q=Great%20Sand%20Dunes%20National%20Park%20and%20Preserve&entity_type=recarea&inventory_type=camping
 - Wikipedia: https://en.wikipedia.org/wiki/Great_Sand_Dunes_National_Park

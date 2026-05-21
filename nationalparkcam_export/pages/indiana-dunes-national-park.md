@@ -18,7 +18,13 @@ Backpacking is not a standard activity in Indiana Dunes National Park. Overnight
 
 Planning Highlights
 
-Visit West Beach, Mount Baldy, Cowles Bog, the Bailly Homestead and Chellberg Farm, and trail systems that cross dunes, forest, and wetland.
+Beaches are the most popular things to do in Indiana Dunes National Park, especially in summer. West Beach, Lake View, Mount Baldy access areas, and other Lake Michigan shoreline stops offer swimming, walking, sunsets, and dune views when conditions allow.
+
+Hiking in Indiana Dunes is unusually varied for a small national park. Cowles Bog, West Beach trails, Great Marsh, Heron Rookery, Bailly Homestead, Chellberg Farm, and other routes cross dunes, wetlands, prairie, forest, and historic sites.
+
+Birding and wildlife viewing are strong activities because the park sits along Lake Michigan migration routes and protects several habitat types. Spring migration, fall migration, and wildflower seasons can all shape a visit.
+
+Biking nearby regional trails, visiting historic farm sites, camping at Dunewood Campground, and pairing the national park with Indiana Dunes State Park give visitors more ways to build a full weekend.
 
 Camping and Lodging
 
@@ -39,6 +45,7 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Things To Do: https://www.nps.gov/indu/planyourvisit/things2do.htm
 - Hiking: https://www.nps.gov/indu/planyourvisit/hiking.htm
 - Beaches: https://www.nps.gov/indu/planyourvisit/beaches.htm
+- Dunewood Campground: https://www.nps.gov/indu/planyourvisit/campgrounds.htm
 - Camping: https://www.nps.gov/indu/planyourvisit/campgrounds.htm
-- Recreation.gov: https://www.recreation.gov/camping/gateways/2988
+- Recreation.gov: https://www.recreation.gov/search?q=Indiana%20Dunes%20National%20Park&entity_type=recarea&inventory_type=camping
 - Wikipedia: https://en.wikipedia.org/wiki/Indiana_Dunes_National_Park

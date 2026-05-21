@@ -18,7 +18,13 @@ Backpacking is available in remote sections of the park, including canyon routes
 
 Planning Highlights
 
-Explore the Scenic Drive, Grand Wash, Capitol Gorge, Hickman Bridge, Cassidy Arch, Cathedral Valley, and the historic orchards in Fruita.
+The Fruita area and Scenic Drive are the easiest places to start a Capitol Reef visit. Visitors can see orchards, historic buildings, petroglyphs, canyon walls, and trailheads without committing to remote roads.
+
+Hiking in Capitol Reef National Park is one of the main reasons to visit. Hickman Bridge, Grand Wash, Capitol Gorge, Cassidy Arch, Cohab Canyon, Chimney Rock, and Rim Overlook routes give hikers a mix of canyon walking, slickrock, arches, and high viewpoints.
+
+Scenic drives are a major part of the Capitol Reef experience because the landscape stretches far beyond the main Fruita corridor. Cathedral Valley, Notom-Bullfrog Road, and the Waterpocket District are memorable routes when road and weather conditions allow.
+
+Backpacking and canyoneering are available for prepared visitors in remote desert terrain. Flash floods, heat, water availability, and rough roads should shape every plan.
 
 Camping and Lodging
 
@@ -38,6 +44,7 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Maps: https://www.nps.gov/care/planyourvisit/maps.htm
 - Things To Do: https://www.nps.gov/care/planyourvisit/things2do.htm
 - Hiking: https://www.nps.gov/care/planyourvisit/hiking.htm
+- Fruita Campground: https://www.nps.gov/care/planyourvisit/campinga.htm
 - Camping: https://www.nps.gov/care/planyourvisit/campinga.htm
-- Recreation.gov: https://www.recreation.gov/camping/gateways/2592
+- Recreation.gov: https://www.recreation.gov/search?q=Capitol%20Reef%20National%20Park&entity_type=recarea&inventory_type=camping
 - Wikipedia: https://en.wikipedia.org/wiki/Capitol_Reef_National_Park

@@ -18,7 +18,13 @@ Backcountry camping is available with low-impact practices and careful route pla
 
 Planning Highlights
 
-Reserve a Lehman Caves tour, drive Wheeler Peak Scenic Drive seasonally, hike to bristlecone pines or alpine lakes, and stay for stargazing.
+Lehman Caves tours are one of the main things to do in Great Basin National Park, and reservations should be checked before arrival. The cave system adds a very different experience from the park's high desert and mountain trails.
+
+Hiking is another major reason to visit. Bristlecone Pine Trail, Alpine Lakes Loop, Glacier Trail, Lehman Creek Trail, and Wheeler Peak routes show ancient trees, alpine basins, mountain views, and high-elevation terrain.
+
+Wheeler Peak Scenic Drive is a seasonal highlight when the road is open. It connects lower sagebrush country with cooler forests, trailheads, overlooks, and access to some of the park's best day hikes.
+
+Stargazing is a major Great Basin activity because the park has famously dark night skies. Camping, astronomy programs, and quiet viewpoints make the park especially appealing for night-sky travel.
 
 Camping and Lodging
 
@@ -39,5 +45,5 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Things To Do: https://www.nps.gov/grba/planyourvisit/things2do.htm
 - Lehman Caves: https://www.nps.gov/grba/planyourvisit/lehman-caves-tours.htm
 - Camping: https://www.nps.gov/grba/planyourvisit/camping.htm
-- Recreation.gov: https://www.recreation.gov/camping/gateways/2628
+- Recreation.gov: https://www.recreation.gov/search?q=Great%20Basin%20National%20Park&entity_type=recarea&inventory_type=camping
 - Wikipedia: https://en.wikipedia.org/wiki/Great_Basin_National_Park

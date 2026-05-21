@@ -130,6 +130,6 @@ Image: Email
 - Cottonwood Campground: https://www.nps.gov/thro/planyourvisit/cottonwood-campground.htm
 - recreation.gov: https://www.recreation.gov/camping/gateways/2949
 - Juniper Campground: https://www.nps.gov/thro/planyourvisit/juniper-campground.htm
-- reserved: https://www.recreation.gov/camping/campgrounds/72481
+- reserved: https://www.recreation.gov/camping/gateways/2949
 - Roundup Group Horse Camp: https://www.nps.gov/thro/planyourvisit/roundup-group-horse-campground.htm
 - mailto:npcam012@gmail.com: mailto:npcam012@gmail.com

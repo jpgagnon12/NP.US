@@ -18,7 +18,13 @@ Backpacking is not a standard activity here. NPS Laws and Policies state that ov
 
 Planning Highlights
 
-Tutuila offers the visitor center in Pago Pago, Mount Alava, Lower Sauma Ridge, Pola Island views, and access to village and coastal scenery. Ofu is known for its beach, reef, and quiet South Pacific setting, while Ta'u offers rainforest, volcanic slopes, and a deeper sense of remoteness. The NPS Places To Go and Plan Your Visit pages are useful for deciding which island or islands fit a trip.
+Tutuila offers the visitor center in Pago Pago, Mount Alava, Lower Sauma Ridge, Pola Island views, and access to village and coastal scenery. The Hiking page is useful for choosing trails because heat, humidity, mud, and steep grades can make short distances feel harder.
+
+Ofu is known for its beach, reef, snorkeling, and quiet South Pacific setting. Visitors should plan around transportation, tides, reef safety, weather, and local guidance before entering the water.
+
+Ta'u offers rainforest, volcanic slopes, coastal views, and a deeper sense of remoteness. Cultural respect is central to visiting the National Park of American Samoa because the park protects land, reef, and Samoan village landscapes together.
+
+The Places To Go and Plan Your Visit pages are useful for deciding which island or islands fit a trip, especially when flights, ferries, lodging, and weather are limited.
 
 Camping and Lodging
 

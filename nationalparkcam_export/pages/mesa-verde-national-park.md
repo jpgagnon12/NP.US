@@ -18,7 +18,13 @@ Backpacking is not a typical visitor activity in Mesa Verde because hiking is li
 
 Planning Highlights
 
-Cliff Palace, Balcony House, Long House, Mesa Top Loop Road, Far View Sites, Chapin Mesa Archeological Museum, Petroglyph Point Trail, and sunset views over the canyons are the main draws. Cliff dwelling access can be seasonal and often requires timed tour planning, so visitors should check current NPS guidance before building a schedule.
+Cliff dwelling tours are the main thing to do in Mesa Verde National Park. Cliff Palace, Balcony House, Long House, and other sites may require timed planning, seasonal access, and current guidance from the park.
+
+Mesa Top Loop Road, Far View Sites, Chapin Mesa Archeological Museum, overlooks, and short walks help visitors understand the broader Ancestral Pueblo landscape beyond the famous cliff dwellings.
+
+Hiking in Mesa Verde includes Petroglyph Point Trail, Spruce Canyon Trail, Point Lookout Trail, Prater Ridge, Soda Canyon Overlook, and other designated routes. Staying on open trails is essential because the park protects sensitive archeological resources.
+
+Photography, cultural history, scenic driving, camping at Morefield Campground, and sunset views over the canyons make the park worth more than a single tour stop.
 
 Camping and Lodging
 

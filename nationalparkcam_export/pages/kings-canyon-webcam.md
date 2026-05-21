@@ -160,7 +160,7 @@ Image: Email
 - NPS website: https://www.nps.gov/seki/index.htm
 - Day Hikes: https://www.nps.gov/seki/planyourvisit/dayhikes.htm
 - Backpacking: https://www.nps.gov/seki/planyourvisit/backpacking.htm
-- Permits: https://www.recreation.gov/
+- Permits: https://www.recreation.gov/search?q=Sequoia%20and%20Kings%20Canyon%20National%20Parks%20Wilderness%20Permits&entity_type=permit
 - NPS website: https://www.nps.gov/seki/planyourvisit/fishing.htm
 - recreation.gov: https://www.recreation.gov/camping/gateways/2931
 - NPS website: https://www.nps.gov/seki/planyourvisit/campgrounds.htm

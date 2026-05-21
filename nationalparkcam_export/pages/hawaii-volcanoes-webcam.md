@@ -258,7 +258,7 @@ Image: Email
 - Summit of Mauna Loa: https://www.nps.gov/havo/planyourvisit/hike_maunaloa.htm
 - Hawaii State Park: https://camping.ehawaii.gov/camping/all,details,31727.html
 - The Nāpau Crater via Napau Trail: https://www.alltrails.com/trail/hawaii/hawaii/napau-crater-via-napau-trail
-- recreation.gov: https://www.recreation.gov/camping/campgrounds/234783
+- recreation.gov: https://www.recreation.gov/permits/4675341
 - NPS website: https://www.nps.gov/havo/planyourvisit/camp.htm
 - Nāmakanipaio Campground: https://www.nps.gov/havo/planyourvisit/namakanipaio-campground.htm
 - Kulanaokuaiki Campground: https://www.nps.gov/havo/planyourvisit/kulanaokuaiki-campground.htm

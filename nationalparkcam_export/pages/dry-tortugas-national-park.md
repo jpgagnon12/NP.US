@@ -18,7 +18,13 @@ NPS Camping information covers Garden Key, where overnight stays function more l
 
 Planning Highlights
 
-Tour Fort Jefferson, snorkel around the moat wall, watch birds, paddle sheltered water, and prepare for limited services once you arrive.
+Fort Jefferson is the central thing to do in Dry Tortugas National Park. Visitors can tour the fort, walk the moat wall, photograph the brick arches, and learn about coastal defense, Civil War history, and remote island life.
+
+Snorkeling is another major reason people visit Dry Tortugas. The moat wall, pilings, coral, fish, and clear water can make the park one of the best national park snorkeling destinations when weather and visibility cooperate.
+
+Birding, swimming, paddling, beach walking, and photography round out a day trip to Garden Key. Spring migration and nesting seasons can make bird activity especially important for visitors interested in wildlife.
+
+Camping on Garden Key allows more time for sunset, stars, snorkeling, and quieter fort views, but campers must bring all supplies and prepare for ferry schedules, weather delays, and limited services.
 
 Camping and Lodging
 

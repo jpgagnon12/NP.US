@@ -18,7 +18,13 @@ Backpacking is not a standard activity at Pinnacles because the park does not of
 
 Planning Highlights
 
-High Peaks, Bear Gulch Cave, Balconies Cave, Condor Gulch, Moses Spring, spring wildflowers, rock climbing, and California condor viewing are the main draws. Summer heat can be intense, while winter and spring often bring better hiking temperatures and greener hillsides. The east entrance is best for the visitor center, campground, and Bear Gulch area; the west entrance is useful for Balconies and west-side trail access.
+Hiking is the main thing to do in Pinnacles National Park. High Peaks, Condor Gulch, Moses Spring, Bear Gulch Cave, Balconies Cave, Rim Trail, and west-side routes give visitors cliffs, talus caves, spring wildflowers, and sweeping views.
+
+California condor viewing is a major reason to visit. High Peaks and open ridgelines can be good places to scan for condors, turkey vultures, and raptors while keeping distance from wildlife.
+
+Rock climbing is another important Pinnacles activity, with routes on volcanic breccia formations. Climbers should check seasonal closures, raptor protections, and current park guidance before choosing routes.
+
+The east entrance is best for the visitor center, campground, and Bear Gulch area; the west entrance is useful for Balconies and west-side trail access. Summer heat can be intense, while winter and spring often bring better hiking temperatures and greener hillsides.
 
 Camping and Lodging
 
@@ -37,6 +43,7 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Pinnacles National Park (U.S. National Park Service) Pinnacles protects volcanic spires, talus caves, chaparral, oak woodlands, rare wildlife, and California condor habitat in central California.: https://www.nps.gov/pinn/index.htm
 - Maps: https://www.nps.gov/pinn/planyourvisit/maps.htm
 - Hiking: https://www.nps.gov/pinn/planyourvisit/trails.htm
+- Pinnacles Campground: https://www.nps.gov/pinn/planyourvisit/camp.htm
 - Camping: https://www.nps.gov/pinn/planyourvisit/camp.htm
 - Cave Status: https://www.nps.gov/pinn/planyourvisit/cave-status.htm
 - California Condors: https://www.nps.gov/pinn/learn/nature/condors.htm

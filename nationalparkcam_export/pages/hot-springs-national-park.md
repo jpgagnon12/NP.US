@@ -18,7 +18,13 @@ Backpacking is not a major activity in Hot Springs National Park because the tra
 
 Planning Highlights
 
-Walk Bathhouse Row, tour the Fordyce Bathhouse Visitor Center, hike Hot Springs Mountain trails, and fill water bottles at public thermal fountains.
+Bathhouse Row is the main thing to do in Hot Springs National Park. Visitors can tour the Fordyce Bathhouse Visitor Center, see historic bathhouse architecture, fill bottles at public thermal fountains, and learn how the protected thermal water shaped the town.
+
+Hiking is the best outdoor activity in the park. Hot Springs Mountain, North Mountain, West Mountain, Gulpha Gorge, and linked trail loops give visitors forested routes, overlooks, and quick access from downtown.
+
+Scenic driving and short walks can be combined with the Hot Springs Mountain Tower area, historic downtown, and bathhouse experiences. The park is compact, so visitors can fit several activities into one day.
+
+Camping at Gulpha Gorge Campground, soaking at authorized bathhouses, history tours, photography, and nearby restaurants make this park a strong city-and-nature trip.
 
 Camping and Lodging
 
@@ -38,6 +44,7 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Maps: https://www.nps.gov/hosp/planyourvisit/maps.htm
 - Things To Do: https://www.nps.gov/hosp/planyourvisit/things2do.htm
 - Bathhouse Row: https://www.nps.gov/hosp/learn/historyculture/bathhouse-row-today.htm
+- Gulpha Gorge Campground: https://www.nps.gov/hosp/planyourvisit/camping.htm
 - Camping: https://www.nps.gov/hosp/planyourvisit/camping.htm
-- Recreation.gov: https://www.recreation.gov/camping/gateways/2638
+- Recreation.gov: https://www.recreation.gov/search?q=Hot%20Springs%20National%20Park&entity_type=recarea&inventory_type=camping
 - Wikipedia: https://en.wikipedia.org/wiki/Hot_Springs_National_Park

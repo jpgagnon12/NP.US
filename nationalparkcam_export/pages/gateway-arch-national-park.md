@@ -18,7 +18,13 @@ There is no camping in the park. Visitors typically use hotels in St. Louis or r
 
 Planning Highlights
 
-Reserve tram tickets when available, visit the museum below the Arch, tour the Old Courthouse area, and walk the landscaped riverfront grounds.
+The tram ride to the top of the Gateway Arch is the headline activity, and Tram Tickets should be planned in advance when possible. The view connects downtown St. Louis, the Mississippi River, and the surrounding region.
+
+The museum below the Arch is one of the most important things to do in Gateway Arch National Park. Exhibits help visitors understand westward expansion, Indigenous history, river commerce, and the complicated story behind the monument.
+
+Walking the Arch grounds, riverfront paths, and nearby downtown streets gives the park its urban recreation value. Visitors can combine the park with photography, river views, the Old Courthouse area, and other St. Louis attractions.
+
+This is not a hiking, fishing, or camping park, so the strongest visitor activities are museum visits, tram tickets, historic sites, family travel, accessibility, and downtown St. Louis planning.
 
 Camping and Lodging
 
