@@ -488,6 +488,109 @@ GUIDE_FAQ_CAMPING = {
     "wind-cave-national-park": "Yes. Elk Mountain Campground is the main in-park campground and is generally first come, first served.",
 }
 
+GUIDE_IMAGES = {
+    "badlands-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/mwr/homepage/C4524107-A9DF-29E3-80B8554266867C06.jpg",
+        "alt": "Badlands formations and prairie landscape in Badlands National Park",
+    },
+    "biscayne-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/akr/homepage/1FCA9BB2-C027-31FF-D77F060FFA94ABBD.jpg",
+        "alt": "Turquoise water and islands in Biscayne National Park",
+    },
+    "canyonlands-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/imr/homepage/0B5242D9-A949-CDF9-39AAC40183326ECB.jpg",
+        "alt": "Canyon country and mesa views in Canyonlands National Park",
+    },
+    "capitol-reef-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/imr/homepage/4278897C-E561-2333-807608024BC97BFB.jpg",
+        "alt": "Red rock cliffs and desert scenery in Capitol Reef National Park",
+    },
+    "carlsbad-caverns-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/imr/homepage/07CA762D-1DD8-B71B-0B5263929F1AEAC2.jpg",
+        "alt": "Cave formations inside Carlsbad Caverns National Park",
+    },
+    "congaree-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/akr/homepage/F2511AA6-077D-1523-A9C2D6E72A8D2E97.jpg",
+        "alt": "Bottomland hardwood forest in Congaree National Park",
+    },
+    "cuyahoga-valley-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/mwr/homepage/0259096B-0813-0FE6-5855DC86EA709ACA.jpg",
+        "alt": "Waterfall and forest scenery in Cuyahoga Valley National Park",
+    },
+    "death-valley-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/pwr/homepage/8A274E4D-C9F5-C45C-4AB2CDD4FA838583.jpg",
+        "alt": "Desert basin and mountain scenery in Death Valley National Park",
+    },
+    "dry-tortugas-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/akr/homepage/B8CF5C7E-1DD8-B71B-0B62F152705DCACA.jpg",
+        "alt": "Fort Jefferson and blue water in Dry Tortugas National Park",
+    },
+    "gates-of-the-arctic-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/akr/homepage/80BF2CBB-1DD8-B71B-0B0EE177F0BF9659.jpg",
+        "alt": "Brooks Range wilderness in Gates of the Arctic National Park and Preserve",
+    },
+    "gateway-arch-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/mwr/homepage/3B27D537-A6DF-9DFC-50E6FFA69B702157.jpg",
+        "alt": "Gateway Arch and St. Louis riverfront in Gateway Arch National Park",
+    },
+    "great-basin-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/pwr/homepage/201FE384-F8DF-7A67-F799282C9034E8B1.jpg",
+        "alt": "Mountain and high desert scenery in Great Basin National Park",
+    },
+    "great-sand-dunes-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/imr/homepage/40B6A775-D31E-2E17-A3D01E8D5D05BFD5.jpeg",
+        "alt": "Tall dunes and mountain backdrop in Great Sand Dunes National Park and Preserve",
+    },
+    "hot-springs-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/mwr/homepage/EC804E3D-DA2E-8D80-414AD1E55DF95EE6.jpg",
+        "alt": "Bathhouse Row and forested hills in Hot Springs National Park",
+    },
+    "indiana-dunes-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/mwr/homepage/D861DCC5-D20D-94B1-BF92E14EA155A584.jpg",
+        "alt": "Lake Michigan beach and dunes in Indiana Dunes National Park",
+    },
+    "kenai-fjords-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/akr/homepage/479F536C-0578-CA8B-EA9306523C814E70.jpg",
+        "alt": "Glacier and coastal mountain scenery in Kenai Fjords National Park",
+    },
+    "kobuk-valley-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/akr/homepage/3AA12CC6-E6E6-9F7D-79DA7C33936C11AC.jpg",
+        "alt": "Great Kobuk Sand Dunes in Kobuk Valley National Park",
+    },
+    "lake-clark-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/akr/homepage/9D511285-1DD8-B71B-0B39C127CBF6FD5D.jpg",
+        "alt": "Lake and mountain wilderness in Lake Clark National Park and Preserve",
+    },
+    "mesa-verde-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/imr/homepage/E06DAC3A-F89E-05AC-8383F3AF5699EBB8.jpg",
+        "alt": "Cliff dwelling and canyon landscape in Mesa Verde National Park",
+    },
+    "national-park-of-american-samoa": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/pwr/homepage/25FAA5B5-1DD8-B71B-0B96C6CD4CEB4517.jpg",
+        "alt": "Tropical coastline in the National Park of American Samoa",
+    },
+    "pinnacles-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/pwr/homepage/2913AF89-1DD8-B71B-0B428CC0594DA1F3.jpg",
+        "alt": "Rock formations and hiking landscape in Pinnacles National Park",
+    },
+    "saguaro-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/imr/homepage/C2699B98-0653-5E91-0E8E24B25E753D7F.jpg",
+        "alt": "Saguaro cactus forest near Tucson in Saguaro National Park",
+    },
+    "voyageurs-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/mwr/homepage/5DDB3FB1-97AC-9F8B-B1513749B1E2565F.jpg",
+        "alt": "Lake and forest scenery in Voyageurs National Park",
+    },
+    "white-sands-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/imr/homepage/A16AAF73-C278-1129-5EB3056BED7BA85C.jpg",
+        "alt": "White gypsum dunes in White Sands National Park",
+    },
+    "wind-cave-national-park": {
+        "url": "https://www.nps.gov/common/uploads/banner_image/mwr/homepage/CC25AAB0-1DD8-B71B-0B48DF48A0B8DE84.JPG",
+        "alt": "Prairie and wildlife habitat in Wind Cave National Park",
+    },
+}
+
 PAGE_SOURCE_EMBEDS = {
     "https://video-monitoring.com/everglades/royalpalm/": {
         "kind": "image",
@@ -1302,6 +1405,20 @@ def render_park_map_card(page_slug):
                 """
 
 
+def render_guide_image_card(page_slug, title):
+    image = GUIDE_IMAGES.get(page_slug)
+    if not image:
+        return ""
+    return f"""
+                <article class="embed-card guide-image-card">
+                  <div class="guide-image-media">
+                    <img src="{html.escape(image["url"])}" alt="{html.escape(image["alt"])}" loading="lazy">
+                  </div>
+                  <div class="embed-meta"><strong>{html.escape(park_heading_name(page_slug, title))}</strong><p>Official park image from the National Park Service.</p></div>
+                </article>
+                """
+
+
 def render_embed_cards(embeds, webcam_sources=None, captions=None, page_slug=""):
     webcam_sources = webcam_sources or []
     captions = list(captions or [])
@@ -2083,7 +2200,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
         </div>
         <a class="button primary" href="{html.escape(NATIONALPARKCAM_SITE_URL)}" target="_blank" rel="noopener">Open NationalParkCam.com</a>
       </div>
-      <div class="embed-grid">{render_park_map_card(page["slug"])}</div>
+      <div class="embed-grid">{render_guide_image_card(page["slug"], title)}{render_park_map_card(page["slug"])}</div>
     </section>
 """
     else:
@@ -2139,7 +2256,8 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
     {bottom_actions}
   </main>
 """
-    return page_shell(title, body_html, page["slug"], pages, intro, first_image(resources), 1)
+    page_image = GUIDE_IMAGES.get(page["slug"], {}).get("url", "") if no_camera_page else first_image(resources)
+    return page_shell(title, body_html, page["slug"], pages, intro, page_image, 1)
 
 
 def build_info_page(slug, title, description, sections, pages):

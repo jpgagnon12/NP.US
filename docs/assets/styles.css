@@ -864,7 +864,8 @@ h3 {
 }
 
 .embed-card > .embed-frame,
-.embed-card > .webcam-image-media {
+.embed-card > .webcam-image-media,
+.embed-card > .guide-image-media {
   order: 1;
   flex: 0 0 auto;
 }
@@ -897,7 +898,23 @@ h3 {
 }
 
 .guide-cta-section .embed-grid {
-  grid-template-columns: minmax(0, 520px);
+  grid-template-columns: repeat(auto-fit, minmax(280px, 520px));
+}
+
+.guide-image-card {
+  width: min(100%, 520px);
+}
+
+.guide-image-media {
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #dbe4dc;
+}
+
+.guide-image-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .webcam-image-media {
