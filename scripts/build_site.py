@@ -722,8 +722,8 @@ def sitemap_loc(row):
     if row["slug"] == "national-park-webcam-home":
         return f"{SITE_URL}/"
     if row["slug"] in INFO_PAGE_SLUGS:
-        return f"{SITE_URL}/{row['slug']}.html"
-    return f"{SITE_URL}/parks/{row['slug']}.html"
+        return f"{SITE_URL}/{row['slug']}"
+    return f"{SITE_URL}/parks/{row['slug']}"
 
 
 def build_sitemap(pages):
@@ -1411,7 +1411,7 @@ def render_guide_image_card(page_slug, title):
         return ""
     return f"""
                 <article class="embed-card guide-image-card">
-                  <div class="guide-image-media">
+                  <div class="guide-image-media" data-full-src="{html.escape(image["url"])}" data-title="{html.escape(image["alt"])}">
                     <img src="{html.escape(image["url"])}" alt="{html.escape(image["alt"])}" loading="lazy">
                   </div>
                   <div class="embed-meta"><strong>{html.escape(park_heading_name(page_slug, title))}</strong><p>Official park image from the National Park Service.</p></div>
@@ -1981,9 +1981,9 @@ def page_shell(title, body, page_slug, pages, description, image="", depth=0):
     if page_slug == "national-park-webcam-home":
         canonical_url = SITE_URL
     elif page_slug in INFO_PAGE_SLUGS:
-        canonical_url = f"{SITE_URL}/{page_slug}.html"
+        canonical_url = f"{SITE_URL}/{page_slug}"
     else:
-        canonical_url = f"{SITE_URL}/parks/{page_slug}.html"
+        canonical_url = f"{SITE_URL}/parks/{page_slug}"
     seo_title = seo_page_title(title, page_slug)
     page_description = seo_description(title, page_slug, description)
     meta_description = truncate_meta(page_description, 155)
@@ -2198,7 +2198,6 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
           <strong>{html.escape(NO_CAMERA_PARK_NAMES[page["slug"]])}</strong>
           <p>This guide preserves the visitor information and official resource links for the park. For live park views, browse NationalParkCam.com and compare cameras from other national parks.</p>
         </div>
-        <a class="button primary" href="{html.escape(NATIONALPARKCAM_SITE_URL)}" target="_blank" rel="noopener">Open NationalParkCam.com</a>
       </div>
       <div class="embed-grid">{render_guide_image_card(page["slug"], title)}{render_park_map_card(page["slug"])}</div>
     </section>

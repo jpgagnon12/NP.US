@@ -365,14 +365,14 @@ if (mapEl && mapDataEl && window.L) {
 
 const weatherSection = document.querySelector(".weather-section[data-lat][data-lng]");
 const refreshImages = Array.from(document.querySelectorAll("img[data-refresh-src]"));
-const webcamFrames = Array.from(document.querySelectorAll(".webcam-image-media[data-full-src]"));
+const imageFrames = Array.from(document.querySelectorAll(".webcam-image-media[data-full-src], .guide-image-media[data-full-src]"));
 
-if (webcamFrames.length) {
+if (imageFrames.length) {
   const viewer = document.createElement("div");
   viewer.className = "image-viewer";
   viewer.hidden = true;
   viewer.innerHTML = `
-    <button class="image-viewer-close" type="button" aria-label="Close larger webcam image">&times;</button>
+    <button class="image-viewer-close" type="button" aria-label="Close larger image">&times;</button>
     <figure>
       <img alt="">
       <figcaption></figcaption>
@@ -395,7 +395,7 @@ if (webcamFrames.length) {
       return;
     }
     const image = frame.querySelector("img");
-    const title = frame.dataset.title || image?.alt || "Webcam image";
+    const title = frame.dataset.title || image?.alt || "Park image";
     const source = image?.currentSrc || image?.src || frame.dataset.fullSrc;
     viewerImage.classList.remove("image-viewer-load-error");
     viewerImage.src = source;
@@ -408,10 +408,10 @@ if (webcamFrames.length) {
 
   viewerImage.addEventListener("error", () => {
     viewerImage.classList.add("image-viewer-load-error");
-    viewerCaption.textContent = "This webcam image is temporarily unavailable.";
+    viewerCaption.textContent = "This image is temporarily unavailable.";
   });
 
-  for (const frame of webcamFrames) {
+  for (const frame of imageFrames) {
     const title = frame.dataset.title || frame.querySelector("img")?.alt || "";
     frame.tabIndex = 0;
     frame.setAttribute("role", "button");

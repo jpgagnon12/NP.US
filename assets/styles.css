@@ -909,12 +909,24 @@ h3 {
   aspect-ratio: 16 / 9;
   overflow: hidden;
   background: #dbe4dc;
+  cursor: zoom-in;
 }
 
 .guide-image-media img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  transition: transform 180ms ease;
+}
+
+.guide-image-media:hover img,
+.guide-image-media:focus img {
+  transform: scale(1.02);
+}
+
+.guide-image-media:focus {
+  outline: 3px solid var(--water);
+  outline-offset: 3px;
 }
 
 .webcam-image-media {
