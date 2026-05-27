@@ -2047,7 +2047,10 @@ def page_shell(title, body, page_slug, pages, description, image="", depth=0):
 
 def build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug):
     home = next(p for p in pages if p["slug"] == "national-park-webcam-home")
-    park_pages = [p for p in pages if p["slug"] != "national-park-webcam-home"]
+    park_pages = sorted(
+        (p for p in pages if p["slug"] != "national-park-webcam-home"),
+        key=lambda page: page["title"].removesuffix(" Webcams").removesuffix(" Guide").lower(),
+    )
     cards = []
     for page in park_pages:
         parsed_title, _, body = content_by_url[page["url"]]
