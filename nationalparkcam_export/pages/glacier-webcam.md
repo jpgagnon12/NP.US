@@ -11,7 +11,7 @@ View of Lake McDonald (3,153 ' /961M).
 
 The Glacier National Park Conservancy provided the park with a new, movable webcam, on Lake McDonald.
 
-View from the Agpar Visitor (closed in winter). The visitor center is located near Lake McDonald on the west side of the park.
+View from the Apgar Visitor Center area near Lake McDonald on the west side of the park.
 
 View of the Middle Fork of the Flathead River, near the Park Headquarters.
 
@@ -43,7 +43,7 @@ Winter Experience and Tours
 
 Introduction
 
-Glacier National Park is one of my top three national parks within the United States. The park is located in northwestern Montana, on the border with Canada and stands as a testament to the raw beauty and ecological diversity of the Rocky Mountains.
+Glacier National Park is located in northwestern Montana along the Canadian border and protects alpine valleys, rugged peaks, lakes, forests, glaciers, historic roads, and wildlife habitat within the Rocky Mountains.
 
 Glacier National Park spans more than 1 million acres (4,000 km²), straddling the Canada–United States border. It encompasses parts of two mountain ranges, the Lewis and Livingston ranges, both sub-ranges of the Rocky Mountains. The park boasts over 130 named lakes, including the iconic Lake McDonald and Swiftcurrent Lake. Its pristine ecosystem is at the heart of the "Crown of the Continent Ecosystem," covering a staggering 16,000 square miles (41,000 km²). In 2023, Glacier National Park welcomed nearly 3 million visitors. Attendance dipped in 2020 due to the COVID-19 pandemic but rebounded. It remains one of the top 10 most visited national parks in the United States.
 
@@ -51,11 +51,11 @@ The region that would become Glacier National Park was inhabited by Native Ameri
 
 The park is home to 71 species of mammals, from the tiny pygmy shrew to majestic elk weighing over 500 pounds. Grizzly and black bears roam its forests. The park's waters host a mix of native and invasive fish species. Visit Wikipedia for more information on the park.
 
-Drive the Goin-to-the-Sun Road is a must do. We have not been to the top of Logan Pass without seeing a mountain goat. Lastly, we would like to thank the Glacier National Park Conservancy for their webcams and the incredible work they do within the park.
+Going-to-the-Sun Road is one of the park's signature scenic drives, but access depends on plowing, weather, construction, shuttle operations, parking, and any current entry requirements. The Glacier National Park Conservancy supports several webcam views and conservation projects in the park.
 
 **Going-to-the-Sun Road** stretches about 50 miles between the West Entrance and St. Mary Entrance, and climbs to 6,466 ft (2,025 m) at Logan Pass. The road is known for its spectacular views, rich history, and large glaciers that are visibly fragile. The road was first conceived by superintendent George Goodwin in 1917, who became the chief engineer of the Park Service the following year. The road was one of the first National Park Service projects specifically intended to accommodate the automobile-borne tourist. There are numerous stopping points along the road, and visitors can take advantage of the many pullouts to take in the stunning views of the surrounding mountains and valleys. The road is open seasonally, typically from late June to mid-October, depending on weather conditions. There is a free shuttle that transports visitors along the road. For more information the link is below.
 
-**Vehicle Reservations** are now required. Reservations can be made at recreation.gov.
+**2026 planning and vehicle access** can vary by entrance, road corridor, date, time, construction, shuttle service, and park operations. Check Glacier's official 2026 planning, road status, shuttle, vehicle reservation, and current conditions pages before visiting.
 
 Top Hikes
 
@@ -85,53 +85,23 @@ Below are three incredible hikes.
 
 Campgrounds
 
-There are many campgrounds within the park. Some require reservations and some are first-come first-served.
-
-There are several first-come, first-served campgrounds in Glacier National Park. Here are some of them:
-
-**Bowman Lake Campground**: Located in the North Fork area of the park, approximately 32.5 miles (52 km) from the west entrance and 30 miles (48 km) from the Canadian border. The campground is located close to the shore of Bowman Lake and camp sites are within trees for shade and some privacy. The campground has 48 sites and is open from June 15 to September 15. Trailers and RVs are not allowed in the campground.
-
-**Cut Bank Campground**: Located on the east side of the park, the campground is accessed by a 5 mile (8 km) dirt road off of Highway 89. The campground is located among trees, providing shade and privacy for tent campers. RVs are not recommended due to the road conditions and campground layout. The campground has 14 sites and is open from mid-June to mid-September.
-
-**Kintla Lake Campground** Located in the uppermost northwest section of the park, known as the North Fork, approximately 40 miles (64 km) from the west entrance and the Canadian border. The campground is Glacier National Park's most remote campground. It offers 13 primitive sites available on a first-come, first-served basis. The campground sits on Kintla Lake, which is surrounded by trees, providing shade, cover, and filtered views of the lake and the mountains that circle it. Trailers and RVs are not allowed in the campground.
-
-**Logging Creek Campground** Located on the west side of the park, south of Polebridge. It is one of the smaller campgrounds in the park and offers 7 primitive sites available on a first-come, first-served basis. The campground is situated along Logging Creek between limestone cliffs and conifer-covered mountain sides at an elevation of 4,500 feet or 1,372 meters. Trailers and RVs are not allowed in the campground.
-
-**Quartz Creek Campground** L ocated on the west side of Glacier National Park, south of Polebridge. It is the smallest campground in the park with 7 primitive sites available on a first-come, first-served basis. The campground is situated along Logging Creek between limestone cliffs and conifer-covered mountain
-
-**Rising Sun Campground** Located just west of St. Mary and halfway along St. Mary Lake in Glacier National Park. The campground offers 84 single-family campsites suitable for tents, trailers, and RVs. Some sites are open, allowing for cool breezes throughout the day, while others are located among trees, accommodating those seeking some shade and privacy. The campground is situated at an elevation of 4,639 feet or 1,414 meters.
-
-**Reservation Campgrounds** Reservations can be made at recreation.gov
-
-**Apgar campground** is the largest campground in the park. It is located close to the amenities of Apgar Village and Lake McDonald. The campground has 194 sites. It is situated in trees and provides tent and RV campers with shade and some privacy. Evening sunsets on Lake McDonald are only a short stroll, and you won't want to miss evening programs with a ranger at the Apgar Amphitheater. Apgar is situated at an elevation of 3,173 feet (967 meters) above sea level.
-
-**Avalanche Campground**, located in one of the most popular sections of the park, west of the Continental Divide. The campground offers 87 single-family campsites set beneath old growth cedar and hemlock trees. The elevation at the campground is 1,029 meters above sea level. The campground can accommodate trailers and RVs to 26 feet (8 m).
-
-**Fish Creek Campground**, located on the northwest shore of Lake McDonald, the largest lake in Glacier National Park. It is the second largest campground in the park with 178 campsites for tents, trailers, and RVs. The campground is situated in a heavily forested area and many campsites have views of Lake McDonald. Each campsite also has a table, fire ring, grate, and food storage locker. The campground offers amenities such as drinking water, flush toilets, fire rings, food storage lockers, and an amphitheater with park-ranger programs. You can also enjoy hiking, fishing, picnicking, biking, and wildlife viewing in the area.
-
-**Many Glacier Campground** is located on the east side of the park, near the town of Babb, Montana, at an elevation of approximately 4,500 feet or 1,372 meters above sea level. The campground offers 109 campsites for tents, trailers, and RVs. The area is known for wildlife viewing.
-
-**St. Mary Campground** is the largest campground on the east side of the park, located approximately a half-mile from the St. Mary Visitor Center. The campground offers 178 campsites for tents, trailers, and RVs. The St Mary Visitor Center provides shuttle service tours.
-
-**Sprague Creek Campground** is a small campground located on the northeast shore of Lake McDonald. The campground is situated within trees, providing shade during warm summers. Some sites near the shore have unobstructed views of Lake McDonald. The campground offers 25 single-family campsites and is only open for tent campers or RVs under 21 feet (6.4 m).
-
-**Two Medicine Campground**, located in the Two Medicine Valley. It is situated at an elevation of approximately 5,183 feet or 1,579 meters above sea level. The campground offers 100 sites for tents, trailers, and RVs. Boat and Red Bus tours are located nearby.
+Glacier has multiple developed campgrounds, but opening dates, reservation systems, first-come availability, vehicle length limits, services, and road access change by campground and season. Use the official NPS camping pages and Recreation.gov gateway below for current details before planning an overnight stay.
 
 Lodging
 
-There are six lodges/chalets located in the park. Go to the NPS website for more information.
+Glacier lodging and dining are seasonal and operated by concessioners. Locations, opening dates, services, room types, and reservations can change, so use the official NPS lodging, restaurant, and services page plus the concessioner links below for current details.
 
 **Lake McDonald Lodge** is a historic lodge located within Glacier National Park, Montana, United States. The lodge is situated on the eastern shore of beautiful Lake McDonald and was built in 1913 based on Kirtland Cutter's design. The lodge offers a variety of rooms, including standard rooms, suites, and cabins. The rooms are rustic, yet comfortable, and offer guests modest amenities and old-world style accommodations resulting in a one-of-a kind, National Park lodging experience. The lodge has a picturesque location on the northern shore of Lake McDonald with 82 guest rooms split between a main lodge and a row of duplex-style cabins. The lodge is open from the end of May through September.
 
-**Many Glacier Hotel** is a historic hotel located on the eastern shore of Swiftcurrent Lake. The building is designed as a series of chalets, up to four stories tall, and stretches for a substantial distance along the lakeshore. The hotel has 214 rooms and offers a fine dining restaurant, lounge, gift shop, and snack shop. Red Bus tours, boat cruises, and other activities, including horseback riding, are available at this Swiss-style lodge. There are no televisions or air conditioning. The hotel is open from mid-June to mid-September.
+**Many Glacier Hotel** is a historic hotel on Swiftcurrent Lake in the Many Glacier area. Check the concessioner and NPS pages for current operating dates, dining, tours, rooms, and access details.
 
 **Apgar Village Lodge** is situated on the western shore of Lake McDonald and offers rustic lodging at one of the best locations in Glacier National Park. The lodge offers a variety of rooms, including standard rooms, suites, and cabins. The rooms are rustic, yet comfortable, and offer guests modest amenities and old-world style accommodations resulting in a one-of-a kind, National Park lodging experience.
 
 **Motel Lake McDonald** is situated on the western shore of Lake McDonald and offers rustic lodging at one of the best locations in Glacier National Park. The motel offers a variety of rooms, including standard rooms, suites, and cabins.
 
-**Sperry Chalet** is a historic hotel, opened in 1914 by the Great Northern Railway and was a National Historic Landmark contributing property, being one of five structures in the Great Northern Railway Buildings National Historic Landmark. The chalet is located about seven miles east of Lake McDonald in Glacier National Park. The chalet offers 17 guest rooms and is only accessible by hiking or horseback riding. The chalet is open from July to September and reservations are required. Meals are provided.
+**Sperry Chalet** is a historic backcountry chalet reached by trail. Reservations, access, meals, and operating dates are limited and should be confirmed with the official chalet and NPS information before travel.
 
-**Granite Park Chalet** was opened in 1914 by the Great Northern Railway and is a National Historic Landmark contributing property, being one of five structures in the Great Northern Railway Buildings National Historic Landmark. The chalet is located about seven miles east of Lake McDonald in Glacier National Park. The chalet offers 17 guest rooms and is only accessible by hiking or horseback riding. The chalet is open from July to September and reservations are required. Meals are provided.
+**Granite Park Chalet** is a historic backcountry chalet reached by trail near the Highline and Loop routes. Check official chalet and NPS information for current reservations, services, access, and operating dates.
 
 Restaurants
 
@@ -149,7 +119,7 @@ Lake McDonald Lodge
 
 **Lucke's Lounge** is a restaurant located in Apgar Village and offers a relaxed atmosphere with views of shimmering Lake McDonald. The restaurant serves breakfast, lunch, and dinner, and is open daily. The menu includes American cuisine, vegetarian-friendly options, and crafted cocktails.
 
-Many Glaciers
+Many Glacier
 
 **Ptarmigan Dining Room** offers a continental cuisine with a view of the lake and the surrounding peaks. The restaurant serves breakfast, lunch, and dinner, and is open daily. The restaurant does not accept reservations and seats on a first-come, first-served basis.
 
@@ -167,7 +137,7 @@ The stores below are located within Glacier National Park. The stores are listed
 
 **Lake McDonald: The Lodge Campstore** offers a variety of camping supplies, groceries, and souvenirs.
 
-**Many Glacier: The Swiftcurrent Campstore** is a located in the main building off the lobby of the Swiftcurrent Motor Inn. It offers a wide variety of grocery items, hot coffee, camping supplies, and souvenirs.
+**Many Glacier: The Swiftcurrent Campstore** is located near Swiftcurrent Motor Inn and offers groceries, coffee, camping supplies, and souvenirs when operating.
 
 **Rising Sun: The Rising Sun Campstore** offers a wide variety of grocery items, hot coffee, camping supplies, and souvenirs.
 Image: Email

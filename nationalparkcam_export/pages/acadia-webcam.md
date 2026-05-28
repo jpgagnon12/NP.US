@@ -76,15 +76,9 @@ Permits are required in the summer to drive Cadillac Summit Road in your vehicle
 
 Accommodations
 
-Camping There are four campgrounds on Mount Desert Island and one on Schoodic Peninsula. All sites are reservable at recreation.gov.
+Camping in Acadia is limited to official NPS campgrounds and shelters. NPS lists two campgrounds on Mount Desert Island, one campground on the Schoodic Peninsula, and five lean-to shelters on Isle au Haut. All campsite reservations must be made online in advance through Recreation.gov; there is no backcountry camping, out-of-bounds camping, overnight parking, or winter camping in Acadia.
 
-**Blackwoods Campground** The campground has 281 sites that are wooded and within a 10-minute walk of the ocean. The majority of Blackwoods’ sites are for small and large tents (221 sites); other sites can accommodate travelers with RVs (60 sites). The campground provides flush toilets, running water, and a dump station, as well as picnic tables and fire rings. The roads are paved, and the campground is pet-friendly. The campground is open from May through October. All campsites are by reservation only. Note that off-season and winter camping are not allowed at Blackwoods Campground. The campground is open from early May through the end of November.
-
-**Seawall Campground** The campground has about 200 sites that are wooded and within a short walk from the ocean. There are 43 tent-only sites and 59 RV sites. The campground provides flush toilets, running water, and a dump station, as well as picnic tables and fire rings. The roads are unpaved, and the campground is pet-friendly. The campground is open from late May through September. Note that off-season and winter camping are not allowed at Seawall Campground.
-
-**Schoodic Woods Campground** The campground has 89 campsites that are wooded and within a 15-minute walk of the ocean. There are 78 sites with electric hookups, 41 RV campsites and 13 tent sites. The campground provides flush toilets, running water, and a dump station, as well as picnic tables and fire rings. The roads are unpaved, and the campground is pet-friendly. There is no cell reception. The campground is open from May through October. Note that off-season and winter camping are not allowed at Schoodic Woods Campground. The Island Explorer shuttle buses make regular stops at campgrounds, carriage road entrances, and many trailheads. Shuttle service is available from late June to mid-October.
-
-Duck Harbor Campground is located on Isle au Haut, and is not accessible by automobiles. There are five lean-to shelters with picnic tables and composting toilets. All trash must be carried out. There is no cell phone reception.
+**Blackwoods Campground** and **Seawall Campground** are the two Mount Desert Island campgrounds. **Schoodic Woods Campground** serves the Schoodic Peninsula. **Duck Harbor Campground** on Isle au Haut has five lean-to shelters and is not accessible by automobile. Opening dates, site types, vehicle limits, shuttle service, and amenities can change, so use the official NPS camping page and individual campground links below before planning an overnight stay.
 
 Food & Groceries
 

@@ -64,17 +64,21 @@ img {
 
 .site-nav {
   display: flex;
+  flex: 0 0 auto;
   align-items: center;
   gap: 4px;
-  overflow-x: auto;
+  overflow: visible;
   white-space: nowrap;
 }
 
 .header-nav-group {
   display: flex;
+  flex: 1 1 auto;
   min-width: 0;
   align-items: center;
+  justify-content: flex-end;
   gap: 12px;
+  overflow: hidden;
 }
 
 .sr-only {
@@ -174,10 +178,12 @@ img {
 
 .recent-parks {
   display: flex;
+  flex: 1 1 auto;
+  min-width: 0;
   max-width: min(44vw, 520px);
   align-items: center;
   gap: 6px;
-  overflow-x: auto;
+  overflow: hidden;
   white-space: nowrap;
 }
 
@@ -186,6 +192,7 @@ img {
 }
 
 .recent-parks span {
+  flex: 0 0 auto;
   color: var(--muted);
   font-size: 0.72rem;
   font-weight: 800;
@@ -193,6 +200,9 @@ img {
 }
 
 .recent-parks a {
+  flex: 0 1 auto;
+  max-width: 132px;
+  overflow: hidden;
   border: 1px solid var(--line);
   border-radius: 999px;
   color: var(--forest);
@@ -200,6 +210,8 @@ img {
   font-weight: 750;
   padding: 5px 9px;
   text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .recent-parks a:hover,

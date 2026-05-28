@@ -207,6 +207,9 @@ PARK_COORDS = {
 }
 
 CAMPING_LINK_ALIASES = {
+    "acadia-webcam": {
+        "official NPS camping page": "https://www.nps.gov/acad/planyourvisit/camping.htm",
+    },
     "badlands-national-park": {
         "Cedar Pass Campground": "https://www.nps.gov/badl/planyourvisit/camping.htm",
         "Sage Creek Campground": "https://www.nps.gov/badl/planyourvisit/camping.htm",
@@ -947,7 +950,7 @@ def inline_link_candidates(links):
     grouped = {}
     candidates = []
 
-    def add_candidate(label, url):
+    def add_candidate(label, url, copies=1):
         label = clean_title(label).strip().rstrip(".")
         if not label or url.startswith("mailto:"):
             return
@@ -958,7 +961,7 @@ def inline_link_candidates(links):
         if label not in grouped:
             grouped[label] = {"label": label, "urls": []}
             candidates.append(grouped[label])
-        grouped[label]["urls"].append(url)
+        grouped[label]["urls"].extend([url] * copies)
 
     for link in links:
         label = clean_title(link["label"]).strip()
@@ -968,6 +971,35 @@ def inline_link_candidates(links):
             add_candidate("official NPS page", url)
             add_candidate("official NPS site", url)
             add_candidate("current alerts", url)
+        path_lower = parsed.path.lower()
+        basename = path_lower.rsplit("/", 1)[-1]
+        label_lower = label.lower()
+        is_general_camping_link = (
+            label_lower in {
+                "camp",
+                "camping",
+                "campgrounds",
+                "nps camping page",
+                "nps campground page",
+                "nps camping information",
+                "nps campground information",
+                "nps site",
+                "nps website",
+            }
+            or label_lower.endswith(" campgrounds")
+            or basename in {"camp.htm", "camping.htm", "campgrounds.htm", "campinga.htm", "campground.htm", "campingbcdv.htm"}
+        )
+        if parsed.netloc.endswith("nps.gov") and "camp" in path_lower and is_general_camping_link:
+            add_candidate("official NPS campground page", url)
+            add_candidate("official NPS camping page", url)
+            add_candidate("NPS campground page", url)
+            add_candidate("NPS camping page", url)
+            add_candidate("NPS campground information", url)
+            add_candidate("NPS camping information", url)
+            add_candidate("campground information", url)
+            add_candidate("camping information", url)
+            add_candidate("campground page", url)
+            add_candidate("camping page", url)
         if label.lower() == "maps":
             add_candidate("park map", url)
             add_candidate("maps", url)
@@ -1784,14 +1816,14 @@ def render_guide_faq_section(page_slug, title):
 
 
 def structured_data(title, page_slug, description, canonical_url):
-    site_name = "National Parks Guide" if page_slug == "national-park-webcam-home" or is_no_camera_page(page_slug) else "National Parks Webcams"
+    site_name = "National Parks and Monuments Guide" if page_slug == "national-park-webcam-home" or is_no_camera_page(page_slug) else "National Parks Webcams"
     website_node = {
         "@type": "WebSite",
         "@id": f"{SITE_URL}/#website",
-        "name": "National Parks Guide",
+        "name": "National Parks and Monuments Guide",
         "alternateName": "National Parks US",
         "url": SITE_URL,
-        "description": "Browse national park guides, maps, weather, official resources, and live park camera links.",
+        "description": "Browse national park, monument, and public-land guides with maps, weather, official resources, and live camera links.",
         "potentialAction": {
             "@type": "SearchAction",
             "target": {
@@ -1815,7 +1847,7 @@ def structured_data(title, page_slug, description, canonical_url):
                     "isPartOf": {"@id": f"{SITE_URL}/#website"},
                     "mainEntity": {
                         "@type": "ItemList",
-                        "name": "National park guide directory",
+                        "name": "National parks, monuments, and public land guide directory",
                         "itemListOrder": "https://schema.org/ItemListOrderAscending",
                     },
                 },
@@ -1912,7 +1944,7 @@ def structured_data(title, page_slug, description, canonical_url):
 
 def seo_page_title(title, page_slug):
     if page_slug == "national-park-webcam-home":
-        return "National Park Guide | Park Maps, Weather & Visitor Info"
+        return "National Park Guide | Parks, Monuments, Maps & Weather"
     if page_slug in INFO_PAGE_SLUGS:
         return f"{title} | National Parks Webcams"
     if is_no_camera_page(page_slug):
@@ -1990,7 +2022,7 @@ def page_shell(title, body, page_slug, pages, description, image="", depth=0):
     social_description = truncate_meta(page_description, 180)
     json_ld = structured_data(title, page_slug, page_description, canonical_url).replace("</", "<\\/")
     data_attrs = f' data-page-slug="{html.escape(page_slug)}" data-page-title="{html.escape(title)}" data-page-depth="{depth}"'
-    brand_label = "National Parks Guide home" if page_slug == "national-park-webcam-home" or is_no_camera_page(page_slug) else "National Parks Webcams home"
+    brand_label = "National Parks and Monuments Guide home" if page_slug == "national-park-webcam-home" or is_no_camera_page(page_slug) else "National Parks Webcams home"
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -2115,8 +2147,8 @@ def build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug):
   <main>
     <section class="home-hero">
       <div class="hero-copy">
-        <span class="eyebrow">Live views, hikes, camping, lodging, and park notes</span>
-        <h1>National Park Guide</h1>
+        <span class="eyebrow">Park and monument webcams, maps, and planning links</span>
+        <h1>National Parks & Monuments Guide</h1>
         <p>{html.escape(description)}</p>
       </div>
       <div class="hero-streams" aria-label="Popular live streams">
@@ -2139,7 +2171,7 @@ def build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug):
         <aside class="map-side">
           <span class="eyebrow">Featured live cams</span>
           <h3 id="map-active-title">Select a park</h3>
-          <p id="map-active-meta">Choose a marker or a park below to jump straight to its webcam page.</p>
+          <p id="map-active-meta">Choose a marker or a page below to open the park, monument, or public-land webcam guide.</p>
           <a id="map-active-link" class="button primary" href="#parks" target="_blank" rel="noopener">Open park cams</a>
           <div class="map-list" id="map-list"></div>
         </aside>
@@ -2155,7 +2187,7 @@ def build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug):
     </section>
   </main>
 """
-    return page_shell("National Park Guide", body, home["slug"], pages, description, hero_image, 0)
+    return page_shell("National Parks & Monuments Guide", body, home["slug"], pages, description, hero_image, 0)
 
 
 def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
@@ -2295,19 +2327,19 @@ def info_pages():
         {
             "slug": "about",
             "title": "About National Parks Webcams",
-            "description": "Learn about National Parks Webcams, an independent guide to official park webcams, maps, weather, and visitor planning resources.",
+            "description": "Learn about National Parks Webcams, an independent guide to official park and monument webcams, maps, weather, and visitor planning resources.",
             "sections": [
                 (
                     "Our Purpose",
                     [
-                        "National Parks Webcams is an independent visitor guide that helps people find official park webcams, maps, weather, and planning resources in one place.",
-                        "The goal is simple: make it easier to check current conditions, explore park views, and plan better visits to national parks and national monuments.",
+                        "National Parks Webcams is an independent visitor guide that helps people find official webcams, maps, weather, and planning resources for national parks, national monuments, and other public land units.",
+                        "The goal is simple: make it easier to check current conditions, explore public-land views, and plan better visits using official sources whenever possible.",
                     ],
                 ),
                 (
                     "Sources",
                     [
-                        "Whenever possible, this site links to official National Park Service pages, official webcam sources, Recreation.gov, and other public agency resources.",
+                        "Whenever possible, this site links to official National Park Service pages, official webcam sources, Recreation.gov, and other public agency or public-land resources.",
                         "National Parks Webcams is not affiliated with, endorsed by, or operated by the National Park Service.",
                     ],
                 ),

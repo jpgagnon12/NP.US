@@ -53,7 +53,7 @@ For more information, visit the park's Wikipedia page.
 
 Day Hikes
 
-This is one of my favorite places to hike in the United States. Yellowstone National Park has 270 trails, from 76 easy hikes to strenuous trails. There are three must-do hikes if this is your first time to the park. The Upper Geyser Basin (near Old Faithful), Grand Prismatic Overlook and Brink of the Lower Falls. I am listing out my top 5 day hikes, but there are many more to choose from at the NPS site. As this is bear country, carry bear spray ( how to use bear spray ) and make noise to let them know you are around.
+Yellowstone National Park has hundreds of miles of trails ranging from short boardwalk routes to remote backcountry travel. Popular first-visit areas include the Upper Geyser Basin near Old Faithful, Grand Prismatic Overlook, and viewpoints around the Grand Canyon of the Yellowstone. Use the official NPS hiking pages for current trail, wildlife, thermal-area, and bear-safety guidance.
 
 **Mary Mountain-Nez Perce** trail starts off the Grand Loop Road on the north side of the Hayden Valley. The actual trail is 20.4 miles (33 kms) from start to finish, however, I really enjoy the hike to Mary Lake and back which is approximately halfway. The trail takes you through a meadow, past a thermal basin to Mary Lake. As you approach the thermal basin, you will encounter a hot stream. You can explore the thermal area but do not approach the mud pots, etc. During the hike expect to see bull bison and possibly other wildlife. This trail is not heavily hiked and is not on the NPS site.
 
@@ -67,7 +67,7 @@ This is one of my favorite places to hike in the United States. Yellowstone Nati
 
 Backpacking
 
-Backpacking in Yellowstone National Park is an adventure, to say the least. Most trails are not heavily used, and wildlife seems to be everywhere. There are a lot of bears in the park. Carry bear spray and make noise to let them know you are around. Permits are required for any overnight stay. Advance reservations and lottery entries can be made at recreation.gov. Make sure to carry a bear-resistant food container and a water filter. Be aware, these are not beginner trips. For more information on backpacking, visit the NPS Backpacking site and Regulations. My two favorite backpacking trips are below.
+Backpacking in Yellowstone requires careful planning because wildlife, thermal areas, river crossings, snow, fire activity, and campsite availability can affect routes. Overnight stays require current backcountry permits and compliance with NPS food storage and safety rules. Use the official NPS backpacking and regulations pages before choosing a route.
 
 **Lamar Valley to Pelican Valley** trail is around 34 miles (55 km) with an elevation gain of 1,400 feet (427 m). The Lamar Valley has incredible wildlife. The trail is only open from July to early November due to bear activity. Plan on three nights.
 
@@ -75,11 +75,9 @@ Backpacking in Yellowstone National Park is an adventure, to say the least. Most
 
 Fishing
 
-Around 50,000 anglers fish the rivers, lakes, and streams of Yellowstone every year. Fishing season usually starts around Memorial Day and ends at the end of October. A Yellowstone fishing permit is required and can be purchased at recreation.gov. All native fish, cutthroat trout, mountain whitefish, and Arctic grayling must be released. All non-native species must be killed; it is illegal to release them back into the water. Make sure you use barbless hooks or pinch down the barb with pliers. No lead tackle is allowed.
+Yellowstone fishing rules are detailed and can change by season, water body, species, equipment, closures, aquatic invasive species inspections, and safety conditions. Do not rely on a short summary for regulations. Check the official NPS fishing page for current permits, seasons, area exceptions, native fish conservation rules, equipment restrictions, and boating requirements before fishing.
 
-You are in bear territory. Bring bear spray and know how to use bear spray. Make noise so they know you are around.
-
-For a full list of restrictions, limits, boating, etc., please visit the NPS website.
+Many fishing areas are also bear habitat. Carry bear spray where recommended, make noise, store food properly, and follow current NPS wildlife-safety guidance.
 
 Wildlife Viewing
 
@@ -107,7 +105,7 @@ Indian Creek, Lewis Lake, Mammoth, Norris, Pebble Creek, Slough Creek and Tower 
 
 Lodging
 
-There are nine lodges within the park. They are all operated by Yellowstone National Park Lodges. For a description of the different lodges, go to the NPS site. Make reservations as early as possible. My two favorites are the Lake Hotel and Old Faithful Inn. Even if you do not get reservations, they are worth seeing.
+Lodging inside Yellowstone is operated by concessioners and is highly seasonal. Use the official NPS lodging page and concessioner links for current opening dates, services, room types, and reservation information.
 Image: Email
 
 ## Images

@@ -45,7 +45,7 @@ Birdlife is also abundant, with species such as bald eagles, ospreys, merlins, n
 
 Visitor Statistics
 
-Katmai National Park is relatively remote and less visited compared to other U.S. national parks. Annual visitation has fluctuated over the years. In 2023, the park recorded 33,763 visitors, a recovery from the pandemic-related decline in 2020, when visitation dropped to approximately 25,000. In previous years, such as 2019, the park saw over 84,000 visitors, but the average annual visitation typically ranges between 25,000 and 37,000.
+Katmai National Park is remote and lightly visited compared with many road-accessible park units. Annual visitation can fluctuate because access depends heavily on flights, boats, weather, lodging, campground capacity, and bear-viewing season.
 
 The peak visitation season is from June to September, with July being the most popular month due to the salmon run and optimal bear viewing opportunities at Brooks Falls.
 
@@ -75,15 +75,15 @@ Reservations for flights and lodging should be made well in advance, especially 
 
 Weather can delay flights, so flexibility in your travel plans is essential.
 
-If you're thinking about visiting, I can help you compare air taxi options or plan your itinerary around bear viewing or hiking. Just say the word.
+Because weather, aircraft schedules, boat service, bear activity, and remote logistics can change quickly, visitors should confirm access, lodging, camping, and permit details with official NPS resources and licensed operators before traveling.
 
 **Lodging and** Campground
 
-Katmai has only two lodges and one campground.
+Katmai has limited developed visitor services, and most trips require advance planning because the park has no road connection to the Alaska highway system.
 
 Lodges
 
-Brooks Lodge is located just a short walk from Brooks Falls, where bears gather each summer to catch leaping salmon. The hotel was built in the 1950's and has 16 guest rooms, each with its own bathroom. The lodge is open from June 1st to September 17th. Reservations are hard to come by. A lottery is held every year. For more information, see the Katmai Land site.
+Brooks Lodge is located near Brooks Camp and Brooks Falls, where bears often gather during salmon runs. Availability, operating dates, and reservation procedures are limited and should be confirmed with the lodge operator.
 
 Grosvenor Lodge is located in a remote area of the park. The lodge holds up to 6 people. There are three cabins, with heat and electricity. There are two private bathrooms, with showers. To make reservations, go to their site.
 
@@ -91,7 +91,7 @@ Campground
 
 As this is bear country, carry bear spray ( how to use bear spray ) and make noise to let them know you are around.
 
-Brooks Camp is the only developed campground in the park. There are designated sites in the campground, with a 60-person capacity. During bear-viewing season, from late June through September, sites are heavily in demand. At the campground, you will find electric fences, cooking shelters, food storage lockers, potable water, and vault toilets. You can make reservations at recreation.gov.
+Brooks Camp is the main developed campground in the park. Capacity, facilities, food storage requirements, seasonal demand, and reservation procedures should be checked on Recreation.gov and the official NPS camping page before travel.
 
 You can also camp outside of the 1.5 mile radius of Brooks Falls. There are signs that designate the areas. Food storage containers or lockers are required.
 Image: Email

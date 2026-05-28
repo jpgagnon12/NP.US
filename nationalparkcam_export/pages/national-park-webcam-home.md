@@ -2,21 +2,21 @@
 
 Source: https://www.nationalparkcam.com/national-park-webcam-home
 
-Browse live National Park webcams, weather, maps, hiking notes, lodging, camping, and current park conditions from U.S. national parks.
+Browse live webcams, weather, maps, hiking notes, lodging, camping, and current-condition links for national parks, national monuments, and other public land units.
 
-For all the national parks, please visit US National Parks (national-parks.us)
+For park and monument guide pages, please visit US National Parks (national-parks.us).
 
-There are 63 national parks, 35 containing webcams. A few of the parks have live streams that are embedded within the website. The links to the sites are provided on the individual web page. Also, due to inclement weather a few of the NPS webcams do not refresh.
+This directory includes national parks, national monuments, and related public-land webcam pages. Some camera pages include live streams, while others use refreshed still images or official agency camera links. Weather, maintenance, and seasonal access can affect whether a camera refreshes.
 
 The NPS provides a free downloadable app that allows you to explore more than 400 national parks across the country. The app features interactive maps, tours of park places, accessibility information, and more. You can also download content from entire parks for offline use, share virtual postcards with your friends, and find out the latest news, alerts, and events for the parks you’re interested in. The link is at the bottom of the page.
 
-We are also added information on our favorite hikes, restaurants, stores and campgrounds within the different parks. Below are helpful external links to various sites for making reservations and planning for your stay.
+The guide pages also include evergreen planning notes and official links for hikes, lodging, food, stores, campgrounds, reservations, permits, and current conditions. Use official sources for any time-sensitive rules, closures, fees, or seasonal operations.
 
 It is worth noting that 12 United States National Parks are UNESCO World Heritage Sites. They are Carlsbad Caverns National Park, Everglades National Park, Glacier Bay National Park, Grand Canyon National Park, Great Smoky Mountains National Park, Hawaii Volcanoes National Park, Mammoth Cave National Park, Mesa Verde National Park, Olympic National Park, Redwood National Park, parts of Wrangell-St. Elias, Yellowstone National Park, and Yosemite National Park.
 
 In addition, Isle Royale National Park and Rocky Mountain National Park are UNESCO International Biosphere Reserves due to their diverse plant and animal life.
 
-Some of the National Parks have only one or two webcams, while others are just amazing. These are the ones that we consider must-see: Channel Islands, Crater Lake, Glacier Bay, Glacier, Grand Canyon, Hawaii Volcanoes, Isle Royale, Lassen, Mount Rainier, Olympic, Rocky Mountain, Yellowstone, and Yosemite.
+Some park and public-land units have one or two camera views, while others have several official webcams or live streams. Use the individual pages to compare available camera views and follow links back to official sources.
 
 Even though these National Parks have limited webcams, they have incredible views: Acadia, Black Canyon of the Gunnison, Grand Tetons, Wrangell-St. Elias, and Zion.
 Image: Email
