@@ -1048,8 +1048,18 @@ def park_inline_link_candidates(page_slug, links):
     aliases = CAMPING_LINK_ALIASES.get(page_slug, {})
     for label, url in aliases.items():
         candidates.append({"label": label, "urls": [url] * 4})
+    wiki = wikipedia_url(links)
+    if wiki:
+        candidates.append({"label": "Wikipedia page", "urls": [wiki] * 12})
     candidates.sort(key=lambda item: len(item["label"]), reverse=True)
     return candidates
+
+
+def wikipedia_url(links):
+    for link in links:
+        if "wikipedia.org" in link["url"]:
+            return link["url"]
+    return ""
 
 
 def linked_paragraph(line, inline_links=None):
@@ -1214,7 +1224,7 @@ def seo_section_heading(section_title, page_slug="", page_title=""):
     return section_title
 
 
-def text_to_html(body, inline_links=None, page_slug="", page_title=""):
+def text_to_html(body, inline_links=None, page_slug="", page_title="", wikipedia_link=""):
     inline_links = inline_links or []
     sections = []
     current = {"title": "", "paragraphs": []}
@@ -1236,9 +1246,30 @@ def text_to_html(body, inline_links=None, page_slug="", page_title=""):
             continue
         section_title = seo_section_heading(section["title"], page_slug, page_title)
         heading = f"<h2>{inline_formatting(html.escape(section_title))}</h2>" if section_title else ""
+        section_paragraphs = list(section["paragraphs"])
+        if section["title"] == "Introduction" and wikipedia_link:
+            section_paragraphs = [
+                line
+                for line in section_paragraphs
+                if not (
+                    "wikipedia" in line.lower()
+                    and line.strip().lower().startswith(
+                        (
+                            "for more information",
+                            "for more on",
+                            "visit the wikipedia",
+                            "please visit the wikipedia",
+                            "see wikipedia",
+                        )
+                    )
+                )
+            ]
+            section_paragraphs.append(
+                "For more information see the park's Wikipedia page."
+            )
         paragraphs = "".join(
             f"<p>{bold_lead_text(inline_formatting(linked_paragraph(line, inline_links)), line)}</p>"
-            for line in section["paragraphs"]
+            for line in section_paragraphs
         )
         out.append(f'<section class="content-section">{heading}{paragraphs}</section>')
     return "\n".join(out)
@@ -2344,7 +2375,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
       </div>
     </section>
     <div class="page-layout">
-      <article class="page-content">{text_to_html(article_body, park_inline_link_candidates(page["slug"], links), page["slug"], title)}</article>
+      <article class="page-content">{text_to_html(article_body, park_inline_link_candidates(page["slug"], links), page["slug"], title, wikipedia_url(links))}</article>
     </div>
     {render_guide_faq_section(page["slug"], title)}
     {related_guide_links(page, pages)}
