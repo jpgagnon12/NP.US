@@ -33,10 +33,10 @@ ACTIVE_HERO_YOUTUBE_IDS = {
     "FVdmnpJ2kM0",
     "gXKuUyKt8mc",
     "C0e8bpZ-5WY",
-    "BWnloy8r0qU",
 }
 BLOCKED_YOUTUBE_IDS = {
     "5LFLhZ_h91A",
+    "BWnloy8r0qU",
 }
 
 
@@ -1366,6 +1366,36 @@ def render_video_frame(src, title):
     return f'<div class="embed-frame"><iframe src="{src}" srcdoc="{srcdoc}" title="{title}" loading="lazy" allowfullscreen></iframe></div>'
 
 
+def render_hls_frame(src, title, video_id=""):
+    video_id = video_id or "hls-" + re.sub(r"[^a-z0-9]+", "-", html.unescape(title).lower()).strip("-")
+    escaped_src = html.escape(src)
+    escaped_title = html.escape(html.unescape(title))
+    return f"""
+                  <div class="embed-frame">
+                    <video id="{video_id}" class="webcam-hls-video" autoplay muted playsinline controls aria-label="{escaped_title}">
+                      <source src="{escaped_src}" type="application/x-mpegURL">
+                    </video>
+                  </div>
+                  <script src="https://cdn.jsdelivr.net/npm/hls.js@1" defer></script>
+                  <script>
+                    window.addEventListener("load", function () {{
+                      var video = document.getElementById("{video_id}");
+                      var src = "{escaped_src}";
+                      if (!video) return;
+                      if (video.canPlayType("application/vnd.apple.mpegurl")) {{
+                        video.src = src;
+                      }} else if (window.Hls && window.Hls.isSupported()) {{
+                        var hls = new Hls();
+                        hls.loadSource(src);
+                        hls.attachMedia(video);
+                      }}
+                      video.muted = true;
+                      video.play().catch(function () {{}});
+                    }});
+                  </script>
+    """
+
+
 def render_webcam_source_cards(webcam_sources, captions=None, page_slug=""):
     captions = captions or []
     cards = []
@@ -1383,7 +1413,16 @@ def render_webcam_source_cards(webcam_sources, captions=None, page_slug=""):
         status = html.escape(source["status"])
         description = webcam_description(source, captions)
         kind = source.get("kind")
-        if kind == "iframe":
+        if kind == "hls":
+            cards.append(
+                f"""
+                <article class="embed-card video-card">
+                  {render_hls_frame(source["url"], title)}
+                  <div class="embed-meta"><span>{provider}</span><strong>{title}</strong><p>{status}</p>{description}{nationalparkcam_link}</div>
+                </article>
+                """
+            )
+        elif kind == "iframe":
             cards.append(
                 f"""
                 <article class="embed-card video-card">
@@ -1501,9 +1540,30 @@ def clean_embed_label(label):
     return label.replace("YouTube Video, ", "").strip()
 
 
-def popular_streams(resources_by_url, pages):
+def popular_streams(resources_by_url, pages, webcam_sources_by_slug=None):
+    webcam_sources_by_slug = webcam_sources_by_slug or {}
     seen_video_ids = set()
     streams = []
+    yellowstone = next((page for page in pages if page["slug"] == "yellowstone-webcam"), None)
+    if yellowstone:
+        yellowstone_hls = next(
+            (
+                source
+                for source in webcam_sources_by_slug.get("yellowstone-webcam", [])
+                if source.get("kind") == "hls"
+            ),
+            None,
+        )
+        if yellowstone_hls:
+            streams.append(
+                {
+                    "park": short_name(yellowstone["title"]),
+                    "label": yellowstone_hls["title"],
+                    "url": yellowstone_hls["url"],
+                    "href": nationalparkcam_park_url(yellowstone["slug"]),
+                    "kind": "hls",
+                }
+            )
     for page in pages:
         for item in resources_by_url[page["url"]]:
             if item["type"] != "embed" or "youtube.com/embed/" not in item["url"]:
@@ -1518,6 +1578,7 @@ def popular_streams(resources_by_url, pages):
                     "label": clean_embed_label(clean_title(item["label"])),
                     "url": item["url"],
                     "href": nationalparkcam_park_url(page["slug"]),
+                    "kind": "youtube",
                 }
             )
     return streams
@@ -1541,12 +1602,12 @@ def render_popular_streams(streams):
     if not streams:
         return ""
     initial = streams[0]
-    initial_src = youtube_autoplay_url(initial["url"])
     stream_json = html.escape(json.dumps(streams), quote=False)
-    return f"""
-        <div class="hero-video-player" data-random-hero-video>
-          <script type="application/json" id="hero-video-data">{stream_json}</script>
-          <div class="hero-video-frame">
+    if initial.get("kind") == "hls":
+        player = render_hls_frame(initial["url"], initial["label"], "hero-live-video")
+    else:
+        initial_src = youtube_autoplay_url(initial["url"])
+        player = f"""
             <iframe
               id="hero-video-iframe"
               src="{html.escape(initial_src)}"
@@ -1554,6 +1615,12 @@ def render_popular_streams(streams):
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerpolicy="strict-origin-when-cross-origin"
               allowfullscreen></iframe>
+        """
+    return f"""
+        <div class="hero-video-player" data-random-hero-video>
+          <script type="application/json" id="hero-video-data">{stream_json}</script>
+          <div class="hero-video-frame">
+            {player}
           </div>
           <div class="hero-video-meta">
             <span id="hero-video-park">{html.escape(initial['park'])}</span>
@@ -2125,7 +2192,7 @@ def build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug):
     hero_image = first_image(resources_by_url[hero_source["url"]]) or first_image(resources_by_url[home["url"]])
     description = intro_from_body(home_body)
     page_urls = {p["url"].rstrip("/") for p in pages}
-    hero_streams = popular_streams(resources_by_url, park_pages)
+    hero_streams = popular_streams(resources_by_url, park_pages, webcam_sources_by_slug)
     map_points = []
     for page in park_pages:
         links, embeds, _ = resource_groups(resources_by_url[page["url"]], page_urls)

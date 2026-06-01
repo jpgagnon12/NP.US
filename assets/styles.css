@@ -338,7 +338,8 @@ h3 {
   background: #111;
 }
 
-.hero-video-frame iframe {
+.hero-video-frame iframe,
+.hero-video-frame video {
   display: block;
   width: 100%;
   height: 100%;
@@ -891,7 +892,8 @@ h3 {
   background: #dbe4dc;
 }
 
-.embed-frame iframe {
+.embed-frame iframe,
+.embed-frame video {
   width: 100%;
   height: 100%;
   border: 0;
