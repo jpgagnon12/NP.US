@@ -34,6 +34,8 @@ ACTIVE_HERO_YOUTUBE_IDS = {
     "gXKuUyKt8mc",
     "C0e8bpZ-5WY",
     "BWnloy8r0qU",
+}
+BLOCKED_YOUTUBE_IDS = {
     "5LFLhZ_h91A",
 }
 
@@ -1462,6 +1464,8 @@ def render_embed_cards(embeds, webcam_sources=None, captions=None, page_slug="")
         raw_label = embed["label"]
         label = html.escape(raw_label)
         if "youtube.com/embed/" in url:
+            if youtube_id(url) in BLOCKED_YOUTUBE_IDS:
+                continue
             src = html.escape(url)
             caption = caption_for_label(raw_label, captions)
             caption_html = f"<p>{html.escape(caption)}</p>" if caption else ""
@@ -1505,7 +1509,7 @@ def popular_streams(resources_by_url, pages):
             if item["type"] != "embed" or "youtube.com/embed/" not in item["url"]:
                 continue
             video_id = youtube_id(item["url"])
-            if not video_id or video_id in seen_video_ids or video_id not in ACTIVE_HERO_YOUTUBE_IDS:
+            if not video_id or video_id in BLOCKED_YOUTUBE_IDS or video_id in seen_video_ids or video_id not in ACTIVE_HERO_YOUTUBE_IDS:
                 continue
             seen_video_ids.add(video_id)
             streams.append(
