@@ -213,8 +213,8 @@ CAMPING_LINK_ALIASES = {
         "official NPS camping page": "https://www.nps.gov/acad/planyourvisit/camping.htm",
     },
     "badlands-national-park": {
-        "Cedar Pass Campground": "https://www.nps.gov/badl/planyourvisit/camping.htm",
-        "Sage Creek Campground": "https://www.nps.gov/badl/planyourvisit/camping.htm",
+        "Cedar Pass Campground": "https://www.nps.gov/badl/planyourvisit/eatingsleeping.htm",
+        "Sage Creek Campground": "https://www.nps.gov/badl/planyourvisit/eatingsleeping.htm",
     },
     "biscayne-national-park": {
         "Boca Chita Key": "https://www.nps.gov/bisc/planyourvisit/camping.htm",
@@ -232,7 +232,7 @@ CAMPING_LINK_ALIASES = {
         "Bluff Campground": "https://www.nps.gov/cong/planyourvisit/camping.htm",
     },
     "death-valley-national-park": {
-        "Furnace Creek Campground": "https://www.nps.gov/deva/planyourvisit/camping.htm",
+        "Furnace Creek Campground": "https://www.nps.gov/deva/planyourvisit/camping-in-death-valley.htm",
     },
     "dry-tortugas-national-park": {
         "Garden Key": "https://www.nps.gov/drto/planyourvisit/camping.htm",
@@ -707,7 +707,7 @@ def page_href(row):
 
 
 def nationalparkcam_park_url(slug):
-    return f"{NATIONALPARKCAM_SITE_URL}/parks/{slug}.html"
+    return f"{NATIONALPARKCAM_SITE_URL}/parks/{slug}"
 
 
 def is_no_camera_page(slug):

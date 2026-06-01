@@ -45,6 +45,6 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Hiking: https://www.nps.gov/meve/planyourvisit/hiking.htm
 - Morefield Campground: https://www.nps.gov/meve/planyourvisit/camping.htm
 - Camping: https://www.nps.gov/meve/planyourvisit/camping.htm
-- Cliff Dwelling Tours: https://www.nps.gov/meve/planyourvisit/cliff-dwelling-tours.htm
+- Cliff Dwelling Tours: https://www.nps.gov/meve/planyourvisit/cliff_dwelling_tours.htm
 - History and Culture: https://www.nps.gov/meve/learn/historyculture/index.htm
 - Wikipedia: https://en.wikipedia.org/wiki/Mesa_Verde_National_Park

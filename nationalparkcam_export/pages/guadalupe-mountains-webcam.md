@@ -105,7 +105,7 @@ Image: Email
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
 - Guadalupe Mountains National Park Come experience mountains and canyons, desert and dunes, night skies and spectacular vistas within a place unlike any other. Guadalupe Mountains National Park protects the world ' s most extensive Permian fossil reef, the four highest peaks in Texas, an environmentally diverse collection of flora and fauna, and the stories of lives shaped through conflict, cooperation and survival.: https://www.google.com/url?q=https%3A%2F%2Fhome.nps.gov%2Fgumo%2Findex.htm&sa=D&sntz=1&usg=AOvVaw3MN8mHbQb6o6CNpUiRe_3w
-- Wikipedia: https://en.wikipedia.org/wiki/Guadalupe_Mountains_National_Par
+- Wikipedia: https://en.wikipedia.org/wiki/Guadalupe_Mountains_National_Park
 - list: https://www.nps.gov/gumo/planyourvisit/trails.htm
 - The Guadalupe Peak Trail: https://www.nps.gov/thingstodo/gumo_hike_guadalupe_peak.htm
 - Devil ' s Hall Trail: https://www.nps.gov/thingstodo/gumo_hike_devils_hall_trail.htm

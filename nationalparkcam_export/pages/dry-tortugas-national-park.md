@@ -43,6 +43,6 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Dry Tortugas National Park (U.S. National Park Service) Dry Tortugas protects Fort Jefferson, coral reefs, blue water, bird habitat, and remote islands about 70 miles west of Key West.: https://www.nps.gov/drto/index.htm
 - Maps: https://www.nps.gov/drto/planyourvisit/maps.htm
 - Things To Do: https://www.nps.gov/drto/planyourvisit/things2do.htm
-- Ferry: https://www.nps.gov/drto/planyourvisit/ferry.htm
+- Ferry: https://www.nps.gov/drto/planyourvisit/index.htm
 - Camping: https://www.nps.gov/drto/planyourvisit/camping.htm
 - Wikipedia: https://en.wikipedia.org/wiki/Dry_Tortugas_National_Park

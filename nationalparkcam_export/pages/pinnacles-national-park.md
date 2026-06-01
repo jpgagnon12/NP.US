@@ -45,7 +45,7 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Hiking: https://www.nps.gov/pinn/planyourvisit/trails.htm
 - Pinnacles Campground: https://www.nps.gov/pinn/planyourvisit/camp.htm
 - Camping: https://www.nps.gov/pinn/planyourvisit/camp.htm
-- Cave Status: https://www.nps.gov/pinn/planyourvisit/cave-status.htm
+- Cave Status: https://www.nps.gov/pinn/planyourvisit/cavestatus.htm
 - California Condors: https://www.nps.gov/pinn/learn/nature/condors.htm
 - History and Culture: https://www.nps.gov/pinn/learn/historyculture/index.htm
 - Wikipedia: https://en.wikipedia.org/wiki/Pinnacles_National_Park

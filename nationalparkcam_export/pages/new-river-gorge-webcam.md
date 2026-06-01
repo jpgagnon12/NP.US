@@ -145,7 +145,7 @@ Image: Email
 - Grandview Rim Trail: https://www.nps.gov/places/grandview-rim-trail.htm
 - Backpacking: https://www.nps.gov/neri/planyourvisit/backpacking.htm
 - Rafting: https://www.nps.gov/neri/planyourvisit/whitewater.htm
-- USGS site.: https://waterdata.usgs.gov/wv/nwis/current/?type=flow
+- USGS site.: https://dashboard.waterdata.usgs.gov/
 - Commercial Whitewater Companies: https://www.nps.gov/neri/planyourvisit/whitewater_commercial.htm
 - drives: https://www.nps.gov/neri/planyourvisit/scenic-drives.htm
 - NPS website: https://www.nps.gov/neri/planyourvisit/camping.htm

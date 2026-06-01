@@ -43,6 +43,6 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Gates of the Arctic National Park and Preserve (U.S. National Park Service) Gates of the Arctic protects a roadless Brooks Range wilderness of wild rivers, mountains, tundra, and intact Arctic ecosystems.: https://www.nps.gov/gaar/index.htm
 - Maps: https://www.nps.gov/gaar/planyourvisit/maps.htm
 - Things To Do: https://www.nps.gov/gaar/planyourvisit/things2do.htm
-- Backcountry: https://www.nps.gov/gaar/planyourvisit/backcountry.htm
+- Backcountry: https://www.nps.gov/gaar/planyourvisit/bcorientation.htm
 - Safety: https://www.nps.gov/gaar/planyourvisit/safety.htm
 - Wikipedia: https://en.wikipedia.org/wiki/Gates_of_the_Arctic_National_Park

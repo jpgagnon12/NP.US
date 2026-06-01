@@ -41,8 +41,8 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Badlands National Park (U.S. National Park Service) The rugged badlands, mixed-grass prairie, and fossil beds of South Dakota protect one of the richest Oligocene fossil deposits in North America.: https://www.nps.gov/badl/index.htm
 - Maps: https://www.nps.gov/badl/planyourvisit/maps.htm
 - Things To Do: https://www.nps.gov/badl/planyourvisit/things2do.htm
-- Cedar Pass Campground: https://www.nps.gov/badl/planyourvisit/camping.htm
-- Sage Creek Campground: https://www.nps.gov/badl/planyourvisit/camping.htm
-- Camping: https://www.nps.gov/badl/planyourvisit/camping.htm
+- Cedar Pass Campground: https://www.nps.gov/badl/planyourvisit/eatingsleeping.htm
+- Sage Creek Campground: https://www.nps.gov/badl/planyourvisit/eatingsleeping.htm
+- Camping: https://www.nps.gov/badl/planyourvisit/eatingsleeping.htm
 - Recreation.gov: https://www.recreation.gov/search?q=Badlands%20National%20Park&entity_type=recarea&inventory_type=camping
 - Wikipedia: https://en.wikipedia.org/wiki/Badlands_National_Park

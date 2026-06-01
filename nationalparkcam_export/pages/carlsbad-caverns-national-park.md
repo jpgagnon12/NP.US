@@ -42,7 +42,7 @@ Use the official NPS page, park map, current alerts, and reservation links below
 
 - Carlsbad Caverns National Park (U.S. National Park Service) Carlsbad Caverns protects more than 100 caves beneath the Chihuahuan Desert, including the immense rooms and formations of Carlsbad Cavern.: https://www.nps.gov/cave/index.htm
 - Maps: https://www.nps.gov/cave/planyourvisit/maps.htm
-- Cave Tours: https://www.nps.gov/cave/planyourvisit/cave-tours.htm
+- Cave Tours: https://www.nps.gov/cave/planyourvisit/tour_schedule.htm
 - Reservations: https://www.recreation.gov/ticket/facility/234637
 - Things To Do: https://www.nps.gov/cave/planyourvisit/things2do.htm
 - Wikipedia: https://en.wikipedia.org/wiki/Carlsbad_Caverns_National_Park

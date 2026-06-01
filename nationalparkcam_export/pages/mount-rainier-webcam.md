@@ -185,7 +185,7 @@ Image: Email
 - The Paradise Inn: https://mtrainierguestservices.com/accommodations/paradise-inn/
 - Summit House Restaurant: https://www.crystalmountainresort.com/things-to-do/dining/summit-house-restaurant
 - National Park Inn Dining Room: https://mtrainierguestservices.com/nationalparkinndining/
-- The Snorting Elk Cellar: https://www.crystalhotels.com/the-snorting-elk-cellar-at-crystal-mountain/
-- Alpine Inn Restaurant: https://www.crystalhotels.com/the-alpine-inn-restaurant/
+- The Snorting Elk Cellar: https://www.crystalhotels.com/dining
+- Alpine Inn Restaurant: https://www.crystalhotels.com/dining
 - Sunrise Day Lodge: https://mtrainierguestservices.com/sunrisedaylodgedining/
 - mailto:npcam012@gmail.com: mailto:npcam012@gmail.com

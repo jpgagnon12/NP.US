@@ -49,7 +49,7 @@ const noCameraParkSlugs = new Set([
 const getParkHref = (slug) =>
   noCameraParkSlugs.has(slug)
     ? `${pageDepth > 0 ? "" : "parks/"}${slug}.html`
-    : `${nationalParkCamBaseUrl}/parks/${slug}.html`;
+    : `${nationalParkCamBaseUrl}/parks/${slug}`;
 
 const readRecentParks = () => {
   try {

@@ -48,6 +48,6 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Island in the Sky Campground: https://www.nps.gov/cany/planyourvisit/camping.htm
 - The Needles Campground: https://www.nps.gov/cany/planyourvisit/camping.htm
 - Camping: https://www.nps.gov/cany/planyourvisit/camping.htm
-- Permits: https://www.nps.gov/cany/planyourvisit/permits.htm
+- Permits: https://www.nps.gov/cany/planyourvisit/permitsandreservations.htm
 - Recreation.gov: https://www.recreation.gov/search?q=Canyonlands%20National%20Park&entity_type=recarea&inventory_type=camping
 - Wikipedia: https://en.wikipedia.org/wiki/Canyonlands_National_Park

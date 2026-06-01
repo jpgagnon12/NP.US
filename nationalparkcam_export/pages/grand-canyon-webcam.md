@@ -192,7 +192,7 @@ Image: Email
 - campgrounds: https://www.nps.gov/grca/planyourvisit/camping.htm
 - recreation.gov: https://www.recreation.gov/camping/gateways/2733
 - Mather Campground: https://www.nps.gov/grca/planyourvisit/mather-campground-south-rim.htm
-- Trailer Village RV Park: https://www.visitgrandcanyon.com/trailer-village-rv-park?gad_source=1&gclid=CjwKCAiA8sauBhB3EiwAruTRJhyf-1tAznfZYw16HEveFYlX-hZtZYNbTkJ38Yqu0K6ccaVSKJZY2BoC6eUQAvD_BwE
+- Trailer Village RV Park: https://www.visitgrandcanyon.com/stay/lodging/trailer-village-rv-park/
 - Desert View Campground: https://www.nps.gov/grca/planyourvisit/desert-view-campground.htm
 - Ten-X Campground: https://www.recreation.gov/camping/campgrounds/234488
 - The North Rim Campground: https://www.nps.gov/grca/planyourvisit/cg-nr.htm

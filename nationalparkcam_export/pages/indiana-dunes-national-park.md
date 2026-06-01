@@ -44,7 +44,7 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Maps: https://www.nps.gov/indu/planyourvisit/maps.htm
 - Things To Do: https://www.nps.gov/indu/planyourvisit/things2do.htm
 - Hiking: https://www.nps.gov/indu/planyourvisit/hiking.htm
-- Beaches: https://www.nps.gov/indu/planyourvisit/beaches.htm
+- Beaches: https://www.nps.gov/indu/planyourvisit/index.htm
 - Dunewood Campground: https://www.nps.gov/indu/planyourvisit/campgrounds.htm
 - Camping: https://www.nps.gov/indu/planyourvisit/campgrounds.htm
 - Recreation.gov: https://www.recreation.gov/search?q=Indiana%20Dunes%20National%20Park&entity_type=recarea&inventory_type=camping

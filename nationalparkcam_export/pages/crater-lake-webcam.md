@@ -153,8 +153,8 @@ Image: Email
 - website: https://www.travelcraterlake.com/things-to-do/boat-tours/
 - recreation.gov: https://www.recreation.gov/camping/gateways/2647
 - Lost Creek Campground: https://www.nps.gov/crla/planyourvisit/lost_creek.htm
-- Mazama Campground: https://www.travelcraterlake.com/lodging-camping/mazama-campground/
-- Crater Lake Hospitality: https://www.travelcraterlake.com/lodging-camping/crater-lake-lodge/
+- Mazama Campground: https://www.nps.gov/crla/planyourvisit/mazama_campground.htm
+- Crater Lake Hospitality: https://explorecraterlake.com/stay-at-crater-lake/crater-lake-lodge/
 - The Crater Lake Lodge Dining Room: https://www.travelcraterlake.com/dining/crater-lake-lodge-dining-room/
 - The Rim Village Café: https://www.travelcraterlake.com/dining/rim-village-cafe/
 - Annie Creek Restaurant: https://www.travelcraterlake.com/dining/annie-creek-restaurant/
