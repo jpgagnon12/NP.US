@@ -2295,16 +2295,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
     </section>
 """
         live_section = f"""
-    <section class="resource-section guide-cta-section" id="park-map">
-      <div class="section-heading">
-        <div><h2>Explore Live National Park Cameras</h2></div>
-      </div>
-      <div class="guide-cta-card">
-        <div>
-          <strong>{html.escape(NO_CAMERA_PARK_NAMES[page["slug"]])}</strong>
-          <p>This guide preserves the visitor information and official resource links for the park. For live park views, browse NationalParkCam.com and compare cameras from other national parks.</p>
-        </div>
-      </div>
+    <section class="resource-section guide-visual-section" id="park-map">
       <div class="embed-grid">{render_guide_image_card(page["slug"], title)}{render_park_map_card(page["slug"])}</div>
     </section>
 """
