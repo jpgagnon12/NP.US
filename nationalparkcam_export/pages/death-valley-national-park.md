@@ -34,9 +34,7 @@ Planning Highlights
 
 Scenic driving is one of the best things to do in Death Valley National Park because the park is enormous. Badwater Basin, Zabriskie Point, Dante View, Artist Drive, Mesquite Flat Sand Dunes, Ubehebe Crater, and Father Crowley Vista can anchor a first visit.
 
-Hiking in Death Valley is best planned for cooler months, early mornings, and higher elevations when needed. Golden Canyon, Gower Gulch, Mosaic Canyon, Natural Bridge, Badwater Basin, and Mesquite Flat Sand Dunes are popular routes, but heat and water planning are serious safety issues.
-
-Backpacking, canyoneering, and remote road travel are possible for experienced desert travelers. Visitors should use Backpacking and Safety resources, check road conditions, and carry extra water, food, fuel, navigation, and tire equipment.
+Canyoneering and remote road travel are possible for experienced desert travelers. Visitors should use park safety resources, check road conditions, and carry extra water, food, fuel, navigation, and tire equipment.
 
 Stargazing, wildflower viewing in strong bloom years, photography, geology, and historic mining sites give the park strong year-round content beyond the most famous viewpoints.
 

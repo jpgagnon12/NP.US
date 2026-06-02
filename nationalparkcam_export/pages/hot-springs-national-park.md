@@ -34,8 +34,6 @@ Planning Highlights
 
 Bathhouse Row is the main thing to do in Hot Springs National Park. Visitors can tour the Fordyce Bathhouse Visitor Center, see historic bathhouse architecture, fill bottles at public thermal fountains, and learn how the protected thermal water shaped the town.
 
-Hiking is the best outdoor activity in the park. Hot Springs Mountain, North Mountain, West Mountain, Gulpha Gorge, and linked trail loops give visitors forested routes, overlooks, and quick access from downtown.
-
 Scenic driving and short walks can be combined with the Hot Springs Mountain Tower area, historic downtown, and bathhouse experiences. The park is compact, so visitors can fit several activities into one day.
 
 Camping at Gulpha Gorge Campground, soaking at authorized bathhouses, history tours, photography, and nearby restaurants make this park a strong city-and-nature trip.

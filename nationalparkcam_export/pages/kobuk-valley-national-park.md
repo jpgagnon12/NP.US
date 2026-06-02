@@ -34,8 +34,6 @@ Planning Highlights
 
 The Great Kobuk Sand Dunes are the most famous thing to do in Kobuk Valley National Park. Visitors usually reach them by air taxi and explore dunes, tundra, and river corridors from a remote basecamp.
 
-Backpacking and hiking are fully off-trail experiences. There are no maintained trails, so visitors need navigation skills, bear awareness, insect protection, river-crossing judgment, and flexible plans.
-
 Floating the Kobuk River is another major way to experience the park. River trips can combine camping, fishing, wildlife viewing, and travel through a broad Arctic landscape, but logistics require careful coordination.
 
 Onion Portage, caribou migration history, photography, flightseeing, and quiet wilderness camping are important reasons to visit this rarely seen Alaska park.

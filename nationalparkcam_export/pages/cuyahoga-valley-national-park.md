@@ -34,8 +34,6 @@ Planning Highlights
 
 The Ohio and Erie Canal Towpath Trail is the main recreation corridor in Cuyahoga Valley National Park. Visitors can walk, run, or bike long sections of the trail while connecting canal history, river views, wetlands, farms, and gateway towns.
 
-Hiking in Cuyahoga Valley includes the Ledges Trail, Brandywine Gorge, Blue Hen Falls, Beaver Marsh, Oak Hill, Plateau, and other forest routes. These trails are useful for visitors searching for waterfalls, fall color, rock ledges, and short day hikes near Cleveland and Akron.
-
 Biking is one of the strongest activities in Cuyahoga Valley because the Towpath Trail and Bike Aboard train option make the park unusually bike-friendly. The Scenic Railroad is also a major attraction for families and visitors who want a low-effort way to see the valley.
 
 Wildlife viewing, birding, photography, paddling nearby waterways, and visiting historic farms all help make the park more than a quick waterfall stop.

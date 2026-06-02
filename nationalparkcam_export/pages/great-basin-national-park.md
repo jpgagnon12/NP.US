@@ -32,11 +32,9 @@ Wheeler Peak Trail is the long summit hike, about 8.6 miles (13.8 km) round trip
 
 Planning Highlights
 
-Lehman Caves tours are one of the main things to do in Great Basin National Park, and reservations should be checked before arrival. The cave system adds a very different experience from the park's high desert and mountain trails.
+Lehman Caves tours are one of the main things to do in Great Basin National Park, and reservations should be checked before arrival. The cave system adds a very different experience from the park's high desert and mountain scenery.
 
-Hiking is another major reason to visit. Bristlecone Pine Trail, Alpine Lakes Loop, Glacier Trail, Lehman Creek Trail, and Wheeler Peak routes show ancient trees, alpine basins, mountain views, and high-elevation terrain.
-
-Wheeler Peak Scenic Drive is a seasonal highlight when the road is open. It connects lower sagebrush country with cooler forests, trailheads, overlooks, and access to some of the park's best day hikes.
+Wheeler Peak Scenic Drive is a seasonal highlight when the road is open. It connects lower sagebrush country with cooler forests, high-elevation overlooks, picnic areas, and some of the park's best mountain views.
 
 Stargazing is a major Great Basin activity because the park has famously dark night skies. Camping, astronomy programs, and quiet viewpoints make the park especially appealing for night-sky travel.
 

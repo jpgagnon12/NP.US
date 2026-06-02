@@ -34,8 +34,6 @@ Planning Highlights
 
 Badlands Loop Road is the easiest way to see the park's overlooks, fossil beds, prairie, and layered formations in a single visit. Sunrise and sunset along the Wall, Big Badlands Overlook, Panorama Point, and Pinnacles Overlook are especially useful for photography and wildlife viewing.
 
-Hiking is one of the best things to do in Badlands National Park. Short trails such as Door, Window, Notch, Cliff Shelf, and Fossil Exhibit Trail work well for first-time visitors, while Castle Trail and Medicine Root Loop give hikers a longer prairie-and-badlands route.
-
 Wildlife viewing is strongest around dawn, dusk, and quieter prairie areas where bison, bighorn sheep, pronghorn, prairie dogs, coyotes, raptors, and other animals may be seen. Visitors should keep distance from wildlife and prepare for heat, wind, and fast-changing storms.
 
 Camping and Lodging

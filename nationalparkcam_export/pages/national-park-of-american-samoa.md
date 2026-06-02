@@ -32,8 +32,6 @@ Mount Alava Trail is the longer Tutuila hike, about 7 miles (11.3 km) round trip
 
 Planning Highlights
 
-Tutuila offers the visitor center in Pago Pago, Mount Alava, Lower Sauma Ridge, Pola Island views, and access to village and coastal scenery. The Hiking page is useful for choosing trails because heat, humidity, mud, and steep grades can make short distances feel harder.
-
 Ofu is known for its beach, reef, snorkeling, and quiet South Pacific setting. Visitors should plan around transportation, tides, reef safety, weather, and local guidance before entering the water.
 
 Ta'u offers rainforest, volcanic slopes, coastal views, and a deeper sense of remoteness. Cultural respect is central to visiting the National Park of American Samoa because the park protects land, reef, and Samoan village landscapes together.

@@ -33,8 +33,6 @@ Planning Highlights
 
 Cave Tours are the headline thing to do in Wind Cave National Park, and tour availability should be checked before arrival. The cave is known for boxwork formations and a long underground system beneath the prairie.
 
-Hiking in Wind Cave includes Rankin Ridge, Wind Cave Canyon, Prairie Vista Trail, Lookout Point, Centennial Trail segments, and quieter prairie or forest routes. Trails can be exposed and windy, but they are excellent for seeing the above-ground park.
-
 Wildlife viewing is a major activity. Bison, elk, pronghorn, prairie dogs, deer, coyotes, raptors, and other prairie wildlife are often part of the experience, especially along park roads near sunrise or sunset.
 
 Scenic driving, camping at Elk Mountain Campground, nearby Black Hills attractions, and photography make Wind Cave a good park to combine with a longer South Dakota trip.

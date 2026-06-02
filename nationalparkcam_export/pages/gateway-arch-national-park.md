@@ -38,7 +38,7 @@ The museum below the Arch is one of the most important things to do in Gateway A
 
 Walking the Arch grounds, riverfront paths, and nearby downtown streets gives the park its urban recreation value. Visitors can combine the park with photography, river views, the Old Courthouse area, and other St. Louis attractions.
 
-This is not a hiking, fishing, or camping park, so the strongest visitor activities are museum visits, tram tickets, historic sites, family travel, accessibility, and downtown St. Louis planning.
+The strongest visitor activities are museum visits, tram tickets, historic sites, family travel, accessibility, photography, and downtown St. Louis planning.
 
 Camping and Lodging
 

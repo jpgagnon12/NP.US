@@ -33,8 +33,6 @@ Planning Highlights
 
 Dunes Drive is the main way to explore White Sands National Park, with pullouts, picnic areas, and access to the gypsum dune field. Sunset, sunrise, and storm light are especially popular for photography.
 
-Hiking in White Sands includes Interdune Boardwalk, Playa Trail, Dune Life Nature Trail, Backcountry Camping Trail, and Alkali Flat Trail. Even marked routes can feel difficult in heat, wind, or blowing sand, so visitors should carry water and watch for route markers.
-
 Sledding is one of the most popular family activities in the park. Ranger programs, full moon events, wildlife tracks, photography, and quiet walks add more reasons to stay beyond a quick roadside stop.
 
 The bright gypsum surface reflects sunlight strongly, so sunglasses, water, sunscreen, and heat timing matter even on shorter visits.

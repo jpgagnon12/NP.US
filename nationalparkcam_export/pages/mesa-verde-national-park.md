@@ -36,8 +36,6 @@ Cliff dwelling tours are the main thing to do in Mesa Verde National Park. Cliff
 
 Mesa Top Loop Road, Far View Sites, Chapin Mesa Archeological Museum, overlooks, and short walks help visitors understand the broader Ancestral Pueblo landscape beyond the famous cliff dwellings.
 
-Hiking in Mesa Verde includes Petroglyph Point Trail, Spruce Canyon Trail, Point Lookout Trail, Prater Ridge, Soda Canyon Overlook, and other designated routes. Staying on open trails is essential because the park protects sensitive archeological resources.
-
 Photography, cultural history, scenic driving, camping at Morefield Campground, and sunset views over the canyons make the park worth more than a single tour stop.
 
 Camping and Lodging

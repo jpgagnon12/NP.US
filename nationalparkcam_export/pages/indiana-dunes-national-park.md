@@ -34,8 +34,6 @@ Planning Highlights
 
 Beaches are the most popular things to do in Indiana Dunes National Park, especially in summer. West Beach, Lake View, Mount Baldy access areas, and other Lake Michigan shoreline stops offer swimming, walking, sunsets, and dune views when conditions allow.
 
-Hiking in Indiana Dunes is unusually varied for a small national park. Cowles Bog, West Beach trails, Great Marsh, Heron Rookery, Bailly Homestead, Chellberg Farm, and other routes cross dunes, wetlands, prairie, forest, and historic sites.
-
 Birding and wildlife viewing are strong activities because the park sits along Lake Michigan migration routes and protects several habitat types. Spring migration, fall migration, and wildflower seasons can all shape a visit.
 
 Biking nearby regional trails, visiting historic farm sites, camping at Dunewood Campground, and pairing the national park with Indiana Dunes State Park give visitors more ways to build a full weekend.

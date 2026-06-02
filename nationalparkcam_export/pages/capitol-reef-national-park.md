@@ -32,13 +32,11 @@ Navajo Knobs is the longer Capitol Reef day hike, a 9.4-mile (15.1 km) round tri
 
 Planning Highlights
 
-The Fruita area and Scenic Drive are the easiest places to start a Capitol Reef visit. Visitors can see orchards, historic buildings, petroglyphs, canyon walls, and trailheads without committing to remote roads.
-
-Hiking in Capitol Reef National Park is one of the main reasons to visit. Hickman Bridge, Grand Wash, Capitol Gorge, Cassidy Arch, Cohab Canyon, Chimney Rock, and Rim Overlook routes give hikers a mix of canyon walking, slickrock, arches, and high viewpoints.
+The Fruita area and Scenic Drive are the easiest places to start a Capitol Reef visit. Visitors can see orchards, historic buildings, petroglyphs, canyon walls, and classic overlooks without committing to remote roads.
 
 Scenic drives are a major part of the Capitol Reef experience because the landscape stretches far beyond the main Fruita corridor. Cathedral Valley, Notom-Bullfrog Road, and the Waterpocket District are memorable routes when road and weather conditions allow.
 
-Backpacking and canyoneering are available for prepared visitors in remote desert terrain. Flash floods, heat, water availability, and rough roads should shape every plan.
+Canyoneering and remote desert travel are available for prepared visitors in more isolated parts of the park. Flash floods, heat, water availability, and rough roads should shape every plan.
 
 Camping and Lodging
 

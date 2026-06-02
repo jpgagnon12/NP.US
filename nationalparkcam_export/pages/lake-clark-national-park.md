@@ -36,7 +36,7 @@ Twin Lakes, Port Alsworth, Tanalian Falls, Lake Clark, and the historic Proennek
 
 Bear viewing is one of the park's most searched activities, especially along coastal areas where brown bears feed on sedges, clams, and salmon. Guided trips are common because flights, tides, wildlife behavior, and safety all matter.
 
-Backpacking, kayaking, fishing, flightseeing, and volcano views make Lake Clark a strong wilderness trip for prepared visitors. Routes can involve tundra, beaches, lake shores, river bars, and mountain passes with limited services.
+Kayaking, fishing, flightseeing, bear viewing, and volcano views make Lake Clark a strong wilderness trip for prepared visitors. Travel can involve tundra, beaches, lake shores, river bars, and mountain passes with limited services.
 
 The park rewards flexible itineraries because weather can delay flights and change where it is practical to travel on a given day.
 

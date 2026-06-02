@@ -32,13 +32,11 @@ Chalone Peak Trail is the long Pinnacles hike, about 9 miles (14.5 km) round tri
 
 Planning Highlights
 
-Hiking is the main thing to do in Pinnacles National Park. High Peaks, Condor Gulch, Moses Spring, Bear Gulch Cave, Balconies Cave, Rim Trail, and west-side routes give visitors cliffs, talus caves, spring wildflowers, and sweeping views.
-
 California condor viewing is a major reason to visit. High Peaks and open ridgelines can be good places to scan for condors, turkey vultures, and raptors while keeping distance from wildlife.
 
 Rock climbing is another important Pinnacles activity, with routes on volcanic breccia formations. Climbers should check seasonal closures, raptor protections, and current park guidance before choosing routes.
 
-The east entrance is best for the visitor center, campground, and Bear Gulch area; the west entrance is useful for Balconies and west-side trail access. Summer heat can be intense, while winter and spring often bring better hiking temperatures and greener hillsides.
+The east entrance is best for the visitor center, campground, and Bear Gulch area; the west entrance is useful for Balconies and west-side scenery. Summer heat can be intense, while winter and spring often bring cooler weather, greener hillsides, and better wildlife viewing.
 
 Camping and Lodging
 

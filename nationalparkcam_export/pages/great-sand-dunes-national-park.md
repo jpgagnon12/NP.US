@@ -32,11 +32,7 @@ Medano Lake Trail is the long alpine hike, about 7.4 miles (11.9 km) round trip 
 
 Planning Highlights
 
-Hiking the dunes is the signature thing to do in Great Sand Dunes National Park and Preserve. High Dune, Star Dune, and open dune routes have no fixed trail, so visitors should plan for slow sand travel, wind, heat, and strong sun.
-
 Sandboarding and sledding are major visitor activities and work best with proper boards rented outside the park. Medano Creek is another seasonal highlight, especially during spring and early summer flows.
-
-The park also has mountain, forest, and preserve routes beyond the main dune field. Mosca Pass, Montville Nature Trail, Medano Pass Road, alpine lakes, and backcountry zones add hiking and backpacking options for visitors who want more than the dunes.
 
 Stargazing, photography, wildlife viewing, camping at Pinon Flats, and sunset visits help make the park a strong overnight destination.
 

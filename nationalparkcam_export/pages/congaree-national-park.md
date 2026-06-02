@@ -32,13 +32,9 @@ Kingsnake Trail is one of Congaree's long hikes, about 11.7 miles (18.8 km) roun
 
 Planning Highlights
 
-The Boardwalk Loop is the best first thing to do in Congaree National Park because it introduces the old-growth bottomland hardwood forest without requiring muddy trail navigation. Weston Lake Loop, Oakridge Trail, and Kingsnake Trail add longer hiking options when water levels allow.
-
 Cedar Creek paddling is one of the park's signature experiences. Canoeing and kayaking through quiet floodplain forest can be excellent, but visitors should check water levels, downed trees, insects, heat, and current conditions before launching.
 
 Wildlife viewing, birding, and seasonal firefly viewing are strong reasons to visit Congaree at different times of year. Flooding, mosquitoes, humidity, and trail closures can change the best plan from week to week.
-
-Backcountry camping is available by permit and often pairs with hiking or paddling routes. Visitors should prepare for navigation, wet ground, and Leave No Trace travel in a sensitive floodplain ecosystem.
 
 Camping and Lodging
 

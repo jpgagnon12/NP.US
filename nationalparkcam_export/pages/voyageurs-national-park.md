@@ -35,7 +35,7 @@ Boating is the signature thing to do in Voyageurs National Park because most cam
 
 Fishing is one of the park's strongest activities, with walleye, northern pike, smallmouth bass, and other species drawing many visitors. Regulations, seasons, and weather should be checked before planning time on the water.
 
-Paddling, houseboating, hiking, Ellsworth Rock Gardens, wildlife viewing, and northern lights photography add variety in warmer months. Winter brings ice roads, snowshoeing, skiing, snowmobiling, and frozen-lake access when conditions allow.
+Paddling, houseboating, Ellsworth Rock Gardens, wildlife viewing, and northern lights photography add variety in warmer months. Winter brings ice roads, snowshoeing, skiing, snowmobiling, and frozen-lake access when conditions allow.
 
 The visitor centers and Things To Do page are useful starting points before choosing a launch area, campsite, tour, or season.
 
