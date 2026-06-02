@@ -1048,11 +1048,22 @@ def park_inline_link_candidates(page_slug, links):
     aliases = CAMPING_LINK_ALIASES.get(page_slug, {})
     for label, url in aliases.items():
         candidates.append({"label": label, "urls": [url] * 4})
+    nps = official_nps_url(links)
+    if nps:
+        candidates.append({"label": "official NPS page", "urls": [nps] * 12})
     wiki = wikipedia_url(links)
     if wiki:
         candidates.append({"label": "Wikipedia page", "urls": [wiki] * 12})
     candidates.sort(key=lambda item: len(item["label"]), reverse=True)
     return candidates
+
+
+def official_nps_url(links):
+    for link in links:
+        parsed = urlparse(link["url"])
+        if parsed.netloc.endswith("nps.gov") and re.fullmatch(r"/[^/]+/index\.htm", parsed.path):
+            return link["url"]
+    return ""
 
 
 def wikipedia_url(links):
@@ -1224,7 +1235,7 @@ def seo_section_heading(section_title, page_slug="", page_title=""):
     return section_title
 
 
-def text_to_html(body, inline_links=None, page_slug="", page_title="", wikipedia_link=""):
+def text_to_html(body, inline_links=None, page_slug="", page_title="", wikipedia_link="", nps_link=""):
     inline_links = inline_links or []
     sections = []
     current = {"title": "", "paragraphs": []}
@@ -1266,6 +1277,10 @@ def text_to_html(body, inline_links=None, page_slug="", page_title="", wikipedia
             ]
             section_paragraphs.append(
                 "For more information see the park's Wikipedia page."
+            )
+        if section["title"] == "Introduction" and nps_link:
+            section_paragraphs.append(
+                "For official park information, visit the official NPS page."
             )
         paragraphs = "".join(
             f"<p>{bold_lead_text(inline_formatting(linked_paragraph(line, inline_links)), line)}</p>"
@@ -2375,7 +2390,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
       </div>
     </section>
     <div class="page-layout">
-      <article class="page-content">{text_to_html(article_body, park_inline_link_candidates(page["slug"], links), page["slug"], title, wikipedia_url(links))}</article>
+      <article class="page-content">{text_to_html(article_body, park_inline_link_candidates(page["slug"], links), page["slug"], title, wikipedia_url(links), official_nps_url(links) if no_camera_page else "")}</article>
     </div>
     {render_guide_faq_section(page["slug"], title)}
     {related_guide_links(page, pages)}
