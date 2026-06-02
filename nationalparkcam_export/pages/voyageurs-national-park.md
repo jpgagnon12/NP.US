@@ -9,13 +9,8 @@ The park preserves a glaciated lake country landscape with rocky shorelines, qui
 
 Voyageurs was established on April 8, 1975, after decades of proposals to protect the border-lake country. Its name honors the voyageurs who paddled trade routes through the region, but the park's deeper history begins with Indigenous use and stewardship of the waterways long before the fur trade.
 
-Hiking and Backpacking
-
-The NPS Maps page includes hiking maps for trail areas around Ash River, Rainy Lake, Kabetogama, Black Bay, and the Kab-Ash Trail. Many hikes are short mainland or visitor center trails, while longer routes can feel remote because forest, wetlands, insects, and water access influence travel.
-
-Backpacking is possible, but it works differently than in many parks. The NPS Camping page explains that backcountry campsites may require a boat ride to a trailhead followed by hiking, while primitive Kab-Ash Trail sites can be reached from mainland trailheads. Permits and Reservations are important because all overnight camping in the park requires planning.
-
 Top Hikes
+
 
 Use the NPS Hiking Trails page for current Voyageurs trail conditions. Some hikes are land-accessible, while others require a boat or water taxi.
 
@@ -29,7 +24,12 @@ Anderson Bay Trail is about 1.7 miles (2.7 km) with roughly 150 feet (46 m) of e
 
 Kab-Ash Trail is the long land route, with connected sections totaling about 27.5 miles (44.3 km) and rolling elevation change through forest between Kabetogama and Ash River.
 
+Backpacking
+
+Backpacking is possible, but it works differently than in many parks. The NPS Camping page explains that backcountry campsites may require a boat ride to a trailhead followed by hiking, while primitive Kab-Ash Trail sites can be reached from mainland trailheads. Permits and Reservations are important because all overnight camping in the park requires planning.
+
 Planning Highlights
+
 
 Boating is the signature thing to do in Voyageurs National Park because most campsites, shorelines, and lake destinations are reached by water. Rainy Lake, Kabetogama Lake, Namakan Lake, Sand Point Lake, Ash River, and Kettle Falls all shape different trip styles.
 
@@ -41,9 +41,11 @@ The visitor centers and Things To Do page are useful starting points before choo
 
 Camping and Lodging
 
+
 Most campsites in Voyageurs are reached by boat, paddling route, or water taxi. There are frontcountry, backcountry, and houseboat sites, and all overnight use requires a reservation or permit. Nearby gateway communities offer lodging, marinas, outfitters, restaurants, and supplies.
 
 Official Resources
+
 
 Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to Voyageurs National Park.
 

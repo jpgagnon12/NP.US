@@ -9,13 +9,8 @@ The cave is known for boxwork, a rare honeycomb-like calcite formation that appe
 
 Wind Cave became a national park on January 9, 1903, making it one of the earliest national parks and the first created to protect a cave. The park also sits within a culturally important landscape for many Native nations, including Lakota people, whose emergence stories and connections to the Black Hills give the place a deeper meaning than geology alone.
 
-Hiking and Backpacking
-
-The official NPS Hiking page covers prairie, canyon, and forest routes such as Rankin Ridge, Lookout Point, Centennial Trail segments, and backcountry routes. Trails can be windy, exposed, and surprisingly quiet, with chances to see wildlife from a safe distance.
-
-Backcountry camping is allowed by permit in designated areas, but water sources are limited and the prairie environment can change quickly. Hikers should check current conditions, carry enough water, and understand wildlife distance rules before leaving established frontcountry areas.
-
 Top Hikes
+
 
 Use the NPS Hiking page for current Wind Cave surface trail conditions. NPS lists mileages for many trails but does not publish a trail-specific elevation gain for every route.
 
@@ -29,7 +24,14 @@ Lookout Point Trail is about 2.2 miles (3.5 km) one way with rolling elevation c
 
 Highland Creek Trail is the long Wind Cave route, about 8.6 miles (13.8 km) one way with rolling elevation change through prairie, forest, riparian corridors, and wildlife habitat.
 
+Backpacking
+
+The official NPS Hiking page covers prairie, canyon, and forest routes such as Rankin Ridge, Lookout Point, Centennial Trail segments, and backcountry routes. Trails can be windy, exposed, and surprisingly quiet, with chances to see wildlife from a safe distance.
+
+Backcountry camping is allowed by permit in designated areas, but water sources are limited and the prairie environment can change quickly. Hikers should check current conditions, carry enough water, and understand wildlife distance rules before leaving established frontcountry areas.
+
 Planning Highlights
+
 
 Cave Tours are the headline thing to do in Wind Cave National Park, and tour availability should be checked before arrival. The cave is known for boxwork formations and a long underground system beneath the prairie.
 
@@ -39,9 +41,11 @@ Scenic driving, camping at Elk Mountain Campground, nearby Black Hills attractio
 
 Camping and Lodging
 
+
 Elk Mountain Campground is the main campground in Wind Cave National Park and is generally first come, first served. The NPS Camping page has current campground details, seasonal availability, and regulations. Nearby Hot Springs, Custer, and Black Hills communities offer lodging, restaurants, and additional campgrounds.
 
 Official Resources
+
 
 Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to Wind Cave National Park.
 

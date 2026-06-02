@@ -4,19 +4,15 @@ Source: https://www.national-parks.us/congaree-national-park
 
 Introduction
 
+
 Congaree National Park protects about 26,692 acres of old-growth bottomland hardwood forest, cypress-tupelo sloughs, oxbow lakes, and floodplain habitat in central South Carolina. The park recorded 287,833 recreation visits in 2025, with many visitors starting on the Boardwalk Loop before exploring Cedar Creek, forest trails, and seasonal water routes. Congaree preserves the largest intact expanse of old-growth bottomland hardwood forest remaining in the southeastern United States.
 
 Water levels define many visits. Trails can be dry and easy one week, then muddy or flooded the next, while Cedar Creek paddling trips change with rainfall and river conditions. Congaree is close to Columbia, South Carolina, but the forest can feel surprisingly wild once visitors leave the boardwalk.
 
 Congaree was first protected as Congaree Swamp National Monument on October 18, 1976, and became Congaree National Park on November 10, 2003. The park's history includes Indigenous use, floodplain forests, logging pressure, citizen conservation, and continuing protection of one of the tallest deciduous forests in North America.
 
-Hiking and Backpacking
-
-NPS Hiking information is useful for the Boardwalk Loop, Weston Lake Loop, Oakridge Trail, Kingsnake Trail, and other routes through hardwood forest, sloughs, and wildlife habitat. The Boardwalk Loop is the best first hike because it gives visitors a direct look at the floodplain forest without requiring navigation through muddy terrain.
-
-Backcountry Camping is available by permit and is often tied to hiking or paddling routes. The Cedar Creek Canoe Trail is another signature way to experience the park, but visitors should prepare for mosquitoes, flooding, heat, downed trees, and navigation challenges.
-
 Top Hikes
+
 
 Use the NPS Hiking page for current Congaree trail and flood conditions. Most Congaree hikes have minimal elevation gain, but flooding, mud, insects, and heat can make easy mileage feel slower.
 
@@ -30,7 +26,12 @@ River Trail is a longer 10.4-mile (16.7 km) round-trip hike with minimal elevati
 
 Kingsnake Trail is one of Congaree's long hikes, about 11.7 miles (18.8 km) round trip with minimal elevation gain through remote forest, sloughs, and wildlife habitat.
 
+Backpacking
+
+Backcountry Camping is available by permit and is often tied to hiking or paddling routes. The Cedar Creek Canoe Trail is another signature way to experience the park, but visitors should prepare for mosquitoes, flooding, heat, downed trees, and navigation challenges.
+
 Planning Highlights
+
 
 Cedar Creek paddling is one of the park's signature experiences. Canoeing and kayaking through quiet floodplain forest can be excellent, but visitors should check water levels, downed trees, insects, heat, and current conditions before launching.
 
@@ -38,9 +39,11 @@ Wildlife viewing, birding, and seasonal firefly viewing are strong reasons to vi
 
 Camping and Lodging
 
+
 Longleaf Campground and Bluff Campground require reservations, while backcountry camping requires a permit. Mosquitoes, heat, and flooding are major planning factors.
 
 Official Resources
+
 
 Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to Congaree National Park.
 

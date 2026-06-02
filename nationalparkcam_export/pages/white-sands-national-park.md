@@ -9,13 +9,8 @@ The park's white sand is made of gypsum crystals, a mineral that usually dissolv
 
 White Sands was established as a national monument in 1933 and redesignated as a national park on December 20, 2019. Its protected story includes geology, desert ecology, ancient footprints, military history, nearby communities, and long-standing Indigenous connections to the Tularosa Basin.
 
-Hiking and Backpacking
-
-The official NPS Hiking page covers the main marked trails, including Interdune Boardwalk, Playa Trail, Dune Life Nature Trail, Backcountry Camping Trail, and Alkali Flat Trail. Even short routes can become difficult in high heat or strong wind, and dune travel can make landmarks harder to read than expected.
-
-Backpacking and overnight use are limited by current park conditions. The NPS Permits and Reservations page notes that backcountry camping is currently closed while sites are rehabilitated. Visitors should check current park conditions before planning around any overnight or special-use activity.
-
 Top Hikes
+
 
 Use the NPS Hiking page for current White Sands trail and heat guidance. Summer heat and white sand glare can be serious even on short routes.
 
@@ -29,7 +24,14 @@ Backcountry Camping Trail is a 2-mile (3.2 km) loop with about 40 feet (12 m) of
 
 Alkali Flat Trail is the long White Sands hike, a 5-mile (8 km) loop with about 52 feet (16 m) of elevation gain across open dunes marked by posts.
 
+Backpacking
+
+The official NPS Hiking page covers the main marked trails, including Interdune Boardwalk, Playa Trail, Dune Life Nature Trail, Backcountry Camping Trail, and Alkali Flat Trail. Even short routes can become difficult in high heat or strong wind, and dune travel can make landmarks harder to read than expected.
+
+Backpacking and overnight use are limited by current park conditions. The NPS Permits and Reservations page notes that backcountry camping is currently closed while sites are rehabilitated. Visitors should check current park conditions before planning around any overnight or special-use activity.
+
 Planning Highlights
+
 
 Dunes Drive is the main way to explore White Sands National Park, with pullouts, picnic areas, and access to the gypsum dune field. Sunset, sunrise, and storm light are especially popular for photography.
 
@@ -39,9 +41,11 @@ The bright gypsum surface reflects sunlight strongly, so sunglasses, water, suns
 
 Camping and Lodging
 
+
 There is currently no overnight camping inside White Sands National Park while backcountry campsites are closed. The NPS Eating and Sleeping page lists nearby lodging and food options. Alamogordo, Las Cruces, and other area communities provide hotels, campgrounds, restaurants, and supplies.
 
 Official Resources
+
 
 Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to White Sands National Park.
 

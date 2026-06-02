@@ -4,19 +4,15 @@ Source: https://www.national-parks.us/gates-of-the-arctic-national-park
 
 Introduction
 
+
 Gates of the Arctic National Park and Preserve protects about 8,472,506 acres of roadless Brooks Range wilderness, wild rivers, mountains, tundra, boreal forest, and intact Arctic ecosystems. The park recorded 14,923 recreation visits in 2025, keeping it among the least visited national parks in the United States. There are no roads, trails, campgrounds, visitor facilities, or established routes inside the park, so every trip requires a high level of self-reliance.
 
 Most visitors arrive by air taxi and build trips around backpacking, rafting, packrafting, fishing, photography, or basecamp travel. Weather can change quickly, river crossings can become serious obstacles, and rescue may be delayed by distance and conditions. This is one of the least developed national parks in the United States.
 
 Gates of the Arctic was first protected as a national monument in 1978 and became a national park and preserve on December 2, 1980, through the Alaska National Interest Lands Conservation Act. The park protects Indigenous homelands, caribou migration routes, designated wild rivers, and one of the largest wilderness areas in the National Park System.
 
-Hiking and Backpacking
-
-There are no maintained hiking trails. Day travel and backpacking usually follow river valleys, gravel bars, tundra benches, ridgelines, or routes chosen by the group based on terrain and weather. Navigation skills are essential because maps, satellite communication, and route judgment replace signs and trail markers.
-
-Backpacking is one of the main reasons to visit Gates of the Arctic, but trips should be planned conservatively. NPS Safety guidance is especially important because visitors need bear-resistant food storage, river crossing skills, cold-weather layers, insect protection, and flexible air taxi logistics for pickup and drop-off windows.
-
 Top Wilderness Routes
+
 
 Gates of the Arctic has no maintained trails, so hikes are wilderness routes rather than signed day hikes. Distances and elevation gain vary by landing location, route choice, river crossing, and weather.
 
@@ -30,7 +26,14 @@ Anaktuvuk Pass day hikes can range from about 2 to 8 miles (3.2 to 12.9 km) with
 
 Alatna River routes are longer wilderness hiking and packrafting itineraries where mileage and elevation gain depend entirely on the chosen route, weather, and aircraft drop-off.
 
+Backpacking
+
+There are no maintained hiking trails. Day travel and backpacking usually follow river valleys, gravel bars, tundra benches, ridgelines, or routes chosen by the group based on terrain and weather. Navigation skills are essential because maps, satellite communication, and route judgment replace signs and trail markers.
+
+Backpacking is one of the main reasons to visit Gates of the Arctic, but trips should be planned conservatively. NPS Safety guidance is especially important because visitors need bear-resistant food storage, river crossing skills, cold-weather layers, insect protection, and flexible air taxi logistics for pickup and drop-off windows.
+
 Planning Highlights
+
 
 Rafting and floating Arctic rivers are major trip types for experienced visitors and guided groups. Popular routes can include portions of the Noatak, Kobuk, Alatna, John, Koyukuk, and other wild rivers depending on access, water level, and skill.
 
@@ -40,9 +43,11 @@ Flexible itineraries are essential because bush flights, weather, smoke, river c
 
 Camping and Lodging
 
+
 Backcountry camping is dispersed. Visitors need to be self-reliant, carry bear-resistant food storage, and coordinate air taxi logistics.
 
 Official Resources
+
 
 Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to Gates of the Arctic National Park and Preserve.
 

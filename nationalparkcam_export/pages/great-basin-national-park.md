@@ -4,19 +4,15 @@ Source: https://www.national-parks.us/great-basin-national-park
 
 Introduction
 
+
 Great Basin National Park protects about 77,180 acres of ancient bristlecone pines, Lehman Caves, dark night skies, alpine lakes, sagebrush basins, limestone formations, and Wheeler Peak in eastern Nevada. The park recorded 161,210 recreation visits in 2025, making it a quieter high-desert and mountain alternative to many western parks. The park rises from sagebrush valleys into alpine terrain, giving visitors a mix of cave tours, scenic drives, stargazing, and high-elevation hiking.
 
 Lehman Caves is a major draw and requires tour planning, while Wheeler Peak Scenic Drive opens access to cooler forests, alpine lakes, and trailheads when the road is snow-free. Great Basin feels remote compared with many western parks, and that distance is part of its appeal for night skies and quieter trails.
 
 Lehman Caves was first protected as a national monument in 1922, and Great Basin National Park was established on October 27, 1986. The park preserves Basin and Range geology, Indigenous history, mining-era traces, high-elevation ecosystems, and some of the darkest skies in the National Park System.
 
-Hiking and Backpacking
-
-Popular hikes include the Bristlecone Pine Trail, Alpine Lakes Loop, Glacier Trail, Lehman Creek Trail, and Wheeler Peak summit route. Elevation matters, especially for visitors coming from lower elevations, and snow can linger on high trails well into the warm season.
-
-Backcountry camping is available with low-impact practices and careful route planning. Longer trips can link alpine basins, ridges, and forested drainages, but visitors should prepare for altitude, storms, cold nights, and limited water away from reliable drainages.
-
 Top Hikes
+
 
 Use the NPS Hiking information for current Great Basin trail conditions. Wheeler Peak area hikes are high elevation and can hold snow well into the season.
 
@@ -30,7 +26,12 @@ Lexington Arch Trail is about 5.4 miles (8.7 km) round trip with about 820 feet 
 
 Wheeler Peak Trail is the long summit hike, about 8.6 miles (13.8 km) round trip with roughly 2,900 feet (884 m) of elevation gain to the park's highest peak.
 
+Backpacking
+
+Backcountry camping is available with low-impact practices and careful route planning. Longer trips can link alpine basins, ridges, and forested drainages, but visitors should prepare for altitude, storms, cold nights, and limited water away from reliable drainages.
+
 Planning Highlights
+
 
 Lehman Caves tours are one of the main things to do in Great Basin National Park, and reservations should be checked before arrival. The cave system adds a very different experience from the park's high desert and mountain scenery.
 
@@ -40,9 +41,11 @@ Stargazing is a major Great Basin activity because the park has famously dark ni
 
 Camping and Lodging
 
+
 Use NPS Camping details for developed campgrounds at several elevations, where seasons vary. Backcountry camping is available with low-impact travel practices.
 
 Official Resources
+
 
 Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to Great Basin National Park.
 

@@ -4,19 +4,15 @@ Source: https://www.national-parks.us/capitol-reef-national-park
 
 Introduction
 
+
 Capitol Reef National Park protects about 241,904 acres of cliffs, domes, canyons, bridges, orchards, desert washes, and the Waterpocket Fold, a long wrinkle in the earth where tilted rock layers define the landscape. The park recorded 1,388,476 recreation visits in 2025, making it one of Utah's quieter but increasingly popular canyon-country parks. The Fruita area, Scenic Drive, and nearby trailheads are the easiest starting points for most visitors.
 
 Compared with some other Utah parks, Capitol Reef often feels quieter and more spread out. Visitors can focus on the paved Scenic Drive and Fruita area, head into day-hike canyons such as Grand Wash and Capitol Gorge, or plan more remote trips into Cathedral Valley, the Waterpocket District, and backcountry routes.
 
 Capitol Reef was first protected as a national monument on August 2, 1937, and became a national park on December 18, 1971. The park preserves Fremont culture rock art, pioneer orchards and buildings, and a geologic story that stretches across nearly 100 miles of folded sandstone country.
 
-Hiking and Backpacking
-
-NPS Hiking information covers popular routes including Hickman Bridge, Grand Wash, Cassidy Arch, Capitol Gorge, Cohab Canyon, Chimney Rock, and the Rim Overlook routes. Many trails combine canyon walking with slickrock climbs, exposed viewpoints, and very little shade in warm weather.
-
-Backpacking is available in remote sections of the park, including canyon routes and high-desert terrain beyond the main visitor corridor. Overnight trips require careful water planning, weather awareness, and backcountry permits where required, especially because flash floods and rough roads can change conditions quickly.
-
 Top Hikes
+
 
 Use the NPS Hiking page for current Capitol Reef trail conditions and heat guidance before hiking. Many routes are exposed, and water is not available at most trailheads.
 
@@ -30,7 +26,12 @@ Rim Overlook Trail is a 4.6-mile (7.4 km) round-trip hike with about 1,110 feet 
 
 Navajo Knobs is the longer Capitol Reef day hike, a 9.4-mile (15.1 km) round trip with about 1,620 feet (494 m) of elevation gain to a high viewpoint above the Fruita area.
 
+Backpacking
+
+Backpacking is available in remote sections of the park, including canyon routes and high-desert terrain beyond the main visitor corridor. Overnight trips require careful water planning, weather awareness, and backcountry permits where required, especially because flash floods and rough roads can change conditions quickly.
+
 Planning Highlights
+
 
 The Fruita area and Scenic Drive are the easiest places to start a Capitol Reef visit. Visitors can see orchards, historic buildings, petroglyphs, canyon walls, and classic overlooks without committing to remote roads.
 
@@ -40,9 +41,11 @@ Canyoneering and remote desert travel are available for prepared visitors in mor
 
 Camping and Lodging
 
+
 Use NPS Camping details for Fruita Campground, the main developed campground. Primitive sites and backcountry trips are available, but weather and road conditions can change quickly.
 
 Official Resources
+
 
 Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to Capitol Reef National Park.
 

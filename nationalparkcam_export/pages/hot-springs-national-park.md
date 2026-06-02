@@ -4,19 +4,15 @@ Source: https://www.national-parks.us/hot-springs-national-park
 
 Introduction
 
+
 Hot Springs National Park protects about 5,550 acres of thermal springs, Bathhouse Row, forested Ouachita Mountain trails, scenic drives, and historic public bathing landscapes in Arkansas. The park recorded 2,494,611 recreation visits in 2025, making it one of the busiest small national parks in the country. Its urban setting means historic buildings and downtown streets are woven directly into the national park experience.
 
 Visitors can tour the Fordyce Bathhouse Visitor Center, walk Bathhouse Row, fill bottles at public thermal fountains, hike forested ridges above town, and drive or walk to mountain viewpoints. The thermal water is protected as a natural resource, while modern bathing experiences are offered through authorized bathhouses outside direct NPS operation.
 
 The hot springs were first set aside as a federal reservation in 1832, decades before Yellowstone became a national park. The area became Hot Springs National Park on March 4, 1921, preserving both the natural thermal water system and the bathhouse culture that grew around it.
 
-Hiking and Backpacking
-
-Hot Springs has a strong day-hiking network, including Hot Springs Mountain, North Mountain, West Mountain, and Gulpha Gorge area trails. Routes are generally shorter than western wilderness hikes but can be linked into longer loops with views, forest, and historic bathhouse access.
-
-Backpacking is not a major activity in Hot Springs National Park because the trail system is close to town and camping is concentrated at Gulpha Gorge Campground. Visitors who want longer walking days can combine multiple trails and return to town or the campground each evening.
-
 Top Hikes
+
 
 Use the NPS Hiking Trails page for current Hot Springs trail maps and route connections. Many park hikes can be combined into longer loops from Bathhouse Row, North Mountain, West Mountain, and Gulpha Gorge.
 
@@ -30,7 +26,14 @@ West Mountain Trail is about 2.4 miles (3.9 km) round trip with roughly 300 feet
 
 Sunset Trail is the long Hot Springs route, about 10 miles (16.1 km) one way or 15 to 17 miles (24 to 27 km) as a loop, with rolling terrain and more than 1,000 feet (305 m) of cumulative elevation change.
 
+Backpacking
+
+Hot Springs has a strong day-hiking network, including Hot Springs Mountain, North Mountain, West Mountain, and Gulpha Gorge area trails. Routes are generally shorter than western wilderness hikes but can be linked into longer loops with views, forest, and historic bathhouse access.
+
+Backpacking is not a major activity in Hot Springs National Park because the trail system is close to town and camping is concentrated at Gulpha Gorge Campground. Visitors who want longer walking days can combine multiple trails and return to town or the campground each evening.
+
 Planning Highlights
+
 
 Bathhouse Row is the main thing to do in Hot Springs National Park. Visitors can tour the Fordyce Bathhouse Visitor Center, see historic bathhouse architecture, fill bottles at public thermal fountains, and learn how the protected thermal water shaped the town.
 
@@ -40,9 +43,11 @@ Camping at Gulpha Gorge Campground, soaking at authorized bathhouses, history to
 
 Camping and Lodging
 
+
 Use NPS Camping details for Gulpha Gorge Campground, which offers sites inside the park. The campground is close to trails and downtown Hot Springs but can fill during busy periods.
 
 Official Resources
+
 
 Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to Hot Springs National Park.
 

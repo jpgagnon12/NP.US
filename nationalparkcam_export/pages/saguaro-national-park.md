@@ -9,13 +9,8 @@ The park's namesake giant saguaro cactus can live for more than a century, grow 
 
 Saguaro was first protected as a national monument on March 1, 1933, and became a national park on October 14, 1994. The park preserves both natural and cultural history, including Hohokam petroglyphs, ranching-era stories, Civilian Conservation Corps work, and long-running efforts to protect saguaro habitat near a growing desert city.
 
-Hiking and Backpacking
-
-The official NPS Hiking page is the best starting point for trail choices in both districts. Short walks such as Desert Ecology Trail, Signal Hill, and Valley View Overlook give quick access to desert scenery, while longer Rincon Mountain routes climb toward forests, springs, and high country. Heat, distance, and water availability should shape every plan.
-
-Backpacking is available in the Saguaro Wilderness in the Rincon Mountain District. The NPS Camping page explains the designated wilderness campsites, permits, water planning, and rules. Backcountry trips can involve large elevation changes, limited water, and quick weather shifts, so they are best for prepared hikers.
-
 Top Hikes
+
 
 Use the NPS Hiking Trail Recommendations page for current Saguaro trail guidance. Desert heat, sun exposure, and water planning matter on both the Tucson Mountain and Rincon Mountain districts.
 
@@ -29,7 +24,12 @@ King Canyon and Gould Mine Loop is a 2.4-mile (3.9 km) hike with about 380 feet 
 
 Sendero Esperanza to Wasson Peak is the longer hike, ranging from 3.4 to 8 miles (5.5 to 12.9 km) with about 220 to 1,600 feet (67 to 488 m) of elevation gain depending on turnaround point.
 
+Backpacking
+
+Backpacking is available in the Saguaro Wilderness in the Rincon Mountain District. The NPS Camping page explains the designated wilderness campsites, permits, water planning, and rules. Backcountry trips can involve large elevation changes, limited water, and quick weather shifts, so they are best for prepared hikers.
+
 Planning Highlights
+
 
 Bajada Loop Drive and Cactus Forest Drive are the easiest ways to see Saguaro National Park by vehicle. Scenic pullouts, cactus forests, mountain views, and sunset light make both districts useful for short visits.
 
@@ -37,9 +37,11 @@ Wildflower viewing, birding, photography, and wildlife watching are especially s
 
 Camping and Lodging
 
+
 There is no vehicle camping in Saguaro National Park. Overnight camping is limited to designated backcountry sites in the Saguaro Wilderness, with permits required. Tucson, Marana, and nearby public lands offer hotels, restaurants, supplies, and developed campgrounds outside the park.
 
 Official Resources
+
 
 Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to Saguaro National Park.
 

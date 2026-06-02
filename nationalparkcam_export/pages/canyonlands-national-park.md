@@ -4,19 +4,15 @@ Source: https://www.national-parks.us/canyonlands-national-park
 
 Introduction
 
+
 Canyonlands National Park protects about 337,598 acres of canyons, mesas, buttes, arches, spires, desert basins, and river corridors carved by the Colorado River and Green River in southeastern Utah. The park recorded 796,057 recreation visits in 2025, with many travelers dividing their time between Island in the Sky, The Needles, The Maze, and the rivers. Each district requires separate planning because the drives between them are long and services are limited.
 
 Island in the Sky is the most accessible district, with paved overlooks above deep canyon country. The Needles offers more immersive hiking among sandstone spires and open desert basins. The Maze is remote and difficult to reach, while the river corridors require rafting or boating logistics. Canyonlands is spectacular, but distances, heat, water, and road conditions matter on every visit.
 
 Canyonlands was established as a national park on September 12, 1964, after years of interest in protecting the wild canyon country around the Colorado and Green rivers. The park preserves geologic layers, Indigenous rock art and travel routes, ranching history, mining-era traces, and some of the most remote desert terrain in the Utah national park system.
 
-Hiking and Backpacking
-
-NPS Hiking information covers shorter Island in the Sky hikes such as Mesa Arch, Grand View Point, White Rim Overlook, and Upheaval Dome, while The Needles offers longer routes to Chesler Park, Druid Arch, and the Joint Trail. The best hikes often involve exposed slickrock, cairn-following, and little shade.
-
-NPS Backpacking guidance is important for Canyonlands, especially in The Needles, The Maze, and along four-wheel-drive routes. Permits are required for overnight trips, water sources are limited, and many routes demand navigation experience, desert travel judgment, and high-clearance vehicle planning.
-
 Top Hikes
+
 
 Use the NPS Hiking page for current trail information before starting any route. NPS lists exact elevation change for many Island in the Sky and Maze hikes; for many Needles hikes, it describes net elevation change as generally several hundred feet or less rather than publishing a trail-specific gain.
 
@@ -30,7 +26,12 @@ Druid Arch is a strenuous 10.8-mile (17.4 km) Needles hike. NPS describes net el
 
 Horseshoe Canyon is a 7-mile (11.2 km) Maze-area hike with about 780 feet (237 m) of elevation change. The route descends into a sandy canyon to reach major rock art panels, including the Great Gallery, and is exposed with limited shade.
 
+Backpacking
+
+NPS Backpacking guidance is important for Canyonlands, especially in The Needles, The Maze, and along four-wheel-drive routes. Permits are required for overnight trips, water sources are limited, and many routes demand navigation experience, desert travel judgment, and high-clearance vehicle planning.
+
 Planning Highlights
+
 
 Island in the Sky is the easiest district for first-time visitors, with Green River Overlook, White Rim Overlook, and Upheaval Dome offering big canyon views from short walks and paved roads.
 
@@ -40,15 +41,18 @@ Rafting, canoeing, and boating on the Colorado River and Green River add a compl
 
 Camping
 
+
 Canyonlands has two frontcountry campgrounds: Island in the Sky Campground and The Needles Campground. Island in the Sky is small, open year-round, and first-come, first-served; The Needles has individual sites, some seasonal reservations, and separate group camping. Use the NPS Camping page before choosing a district because water, services, road access, and reservation rules differ across the park.
 
 Backcountry Camping is a major part of Canyonlands, but all overnight backcountry trips require permits and careful planning. Visitors should use the NPS Backcountry Camping and Permits pages for current rules, route options, water planning, and reservation timing.
 
 Lodging
 
+
 There are no lodging or dining facilities inside Canyonlands National Park. The NPS Eating and Sleeping page and Goods and Services page point visitors toward nearby communities such as Moab, Monticello, Green River, and Hanksville, depending on which district they plan to visit. Bring food, fuel, water, and supplies before entering the park because services are limited or unavailable inside Canyonlands.
 
 Official Resources
+
 
 Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to Canyonlands National Park.
 

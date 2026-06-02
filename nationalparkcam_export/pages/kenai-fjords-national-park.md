@@ -4,19 +4,15 @@ Source: https://www.national-parks.us/kenai-fjords-national-park
 
 Introduction
 
+
 Kenai Fjords National Park protects about 669,984 acres of the Harding Icefield, tidewater glaciers, coastal fjords, marine wildlife habitat, and rugged mountains near Seward, Alaska. The park recorded 425,369 recreation visits in 2025, with many trips split between boat tours on the coast and hikes in the Exit Glacier area. Much of the park is best experienced by boat, kayak, or flightseeing, while Exit Glacier provides the easiest road-accessible area for hiking and ranger programs.
 
 The park's glaciers, cliffs, and fjords support whales, sea otters, seals, puffins, seabirds, and other coastal wildlife. Weather can change quickly, and boat tours depend on sea conditions, but a clear day in Kenai Fjords can combine glacier views, wildlife, and mountain scenery in one trip.
 
 Kenai Fjords was first protected as a national monument in 1978 and became a national park on December 2, 1980, through the Alaska National Interest Lands Conservation Act. The park preserves icefield science, coastal ecosystems, Alaska Native history, and a changing glacier landscape shaped by climate and sea.
 
-Hiking and Backpacking
-
-NPS Hiking information covers the Exit Glacier area, including short trails to glacier viewpoints and the strenuous Harding Icefield Trail. The Harding Icefield Trail gains significant elevation and moves through forest, alpine terrain, and broad icefield views when weather allows.
-
-Backpacking and coastal camping are possible but require planning around tides, weather, boat access, and bear safety. Some visitors use public-use cabins or remote coastal camps, while others focus on day hiking at Exit Glacier and boat-based exploration from Seward.
-
 Top Hikes
+
 
 Use the NPS Hiking page for current Exit Glacier area conditions. Kenai Fjords has a small developed trail network, and the Harding Icefield Trail is the major long hike.
 
@@ -30,7 +26,12 @@ Harding Icefield Trail to Marmot Meadows is about 3 miles (4.8 km) round trip wi
 
 Harding Icefield Trail is the long hike, about 8.2 miles (13.2 km) round trip with roughly 3,000 feet (914 m) of elevation gain to sweeping views over the icefield.
 
+Backpacking
+
+Backpacking and coastal camping are possible but require planning around tides, weather, boat access, and bear safety. Some visitors use public-use cabins or remote coastal camps, while others focus on day hiking at Exit Glacier and boat-based exploration from Seward.
+
 Planning Highlights
+
 
 Exit Glacier is the easiest place to start a Kenai Fjords National Park visit. Short trails and viewpoints help visitors see the glacier landscape, climate-change markers, and the edge of the Harding Icefield.
 
@@ -40,9 +41,11 @@ Kayaking, flightseeing, fishing from nearby Seward, photography, and wildlife vi
 
 Camping and Lodging
 
+
 Use NPS Camping details for backcountry cabins and coastal camping, which require planning around weather, tides, and bear safety. There is no frontcountry campground in the park.
 
 Official Resources
+
 
 Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to Kenai Fjords National Park.
 

@@ -4,19 +4,15 @@ Source: https://www.national-parks.us/death-valley-national-park
 
 Introduction
 
+
 Death Valley National Park protects about 3,422,024 acres of salt flats, dunes, badlands, mountains, canyons, volcanic craters, and desert basins in California and Nevada. The park recorded 1,320,134 recreation visits in 2025, despite being the hottest, driest, and lowest national park in the United States. Because the park is enormous, travel times, heat, water, fuel, and road conditions are part of the planning, not side details.
 
 Badwater Basin sits below sea level, while Telescope Peak rises over 11,000 feet above the valley floor. That vertical range creates very different experiences within one park, from salt flats and desert washes to high mountain viewpoints. Winter and spring are the most comfortable seasons for many visitors, while summer hiking can be dangerous outside the highest elevations.
 
 Death Valley was first protected as a national monument on February 11, 1933, and became a national park on October 31, 1994. Its history includes Timbisha Shoshone homelands, mining, borax transport, desert travel routes, and long-running efforts to protect a vast and extreme desert landscape.
 
-Hiking and Backpacking
-
-NPS Hiking information covers popular day routes including Golden Canyon, Gower Gulch, Mosaic Canyon, Natural Bridge, Mesquite Flat Sand Dunes, and Badwater Basin salt flats. Many routes are exposed, dry, and best started early in cool months, with more water than the distance might suggest.
-
-NPS Backpacking guidance is important for remote canyons, washes, and mountain routes because these trips require desert experience. Water sources are scarce or unreliable, permits and road conditions should be checked, and summer overnight travel in low elevations is generally unsafe.
-
 Top Hikes
+
 
 Use the NPS Hiking page for current Death Valley heat, flood, and road conditions. Low-elevation hikes are safest in cooler months, while high-elevation routes can hold snow or ice.
 
@@ -30,7 +26,12 @@ Mosaic Canyon is about 4 miles (6.4 km) round trip with roughly 1,200 feet (366 
 
 Telescope Peak is the long high-country hike, about 14 miles (22.5 km) round trip with roughly 3,000 feet (914 m) of elevation gain to panoramic views over Death Valley and the Panamint Range.
 
+Backpacking
+
+NPS Backpacking guidance is important for remote canyons, washes, and mountain routes because these trips require desert experience. Water sources are scarce or unreliable, permits and road conditions should be checked, and summer overnight travel in low elevations is generally unsafe.
+
 Planning Highlights
+
 
 Scenic driving is one of the best things to do in Death Valley National Park because the park is enormous. Badwater Basin, Zabriskie Point, Dante View, Artist Drive, Mesquite Flat Sand Dunes, Ubehebe Crater, and Father Crowley Vista can anchor a first visit.
 
@@ -40,9 +41,11 @@ Stargazing, wildflower viewing in strong bloom years, photography, geology, and 
 
 Camping and Lodging
 
+
 Use NPS Camping details for Furnace Creek Campground and the park's other campgrounds, many of which operate with limited services. Summer heat can be dangerous, so check conditions before camping or hiking.
 
 Official Resources
+
 
 Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to Death Valley National Park.
 

@@ -4,19 +4,15 @@ Source: https://www.national-parks.us/cuyahoga-valley-national-park
 
 Introduction
 
+
 Cuyahoga Valley National Park protects about 32,572 acres along the Cuyahoga River between Cleveland and Akron, including forests, farms, wetlands, waterfalls, canal history, and a varied trail network in northeast Ohio. The park recorded 3,025,325 recreation visits in 2025, making it one of the most visited guide-only parks on this site. Because the park is woven into nearby communities, visitors can combine hikes, scenic drives, historic sites, and gateway towns in a single day.
 
 The Ohio & Erie Canal Towpath Trail anchors much of the park experience, while Brandywine Falls, the Ledges, Beaver Marsh, and river overlooks add more natural stops. The Cuyahoga Valley Scenic Railroad and historic canal features give the park a different rhythm from remote wilderness parks.
 
 Cuyahoga Valley was first protected as a national recreation area on December 27, 1974, and became a national park on October 11, 2000. The park preserves river recovery, canal-era transportation, farming landscapes, and a rare large green corridor in a heavily developed region.
 
-Hiking and Backpacking
-
-NPS Hiking information covers popular routes including the Ledges Trail, Brandywine Gorge Loop, Blue Hen Falls, Oak Hill and Plateau trails, and sections of the Towpath Trail. Trails range from easy canal-side paths to rougher forest loops with rock ledges, ravines, and stream crossings.
-
-Backpacking is not a primary activity in Cuyahoga Valley because the park does not have a traditional backcountry camping system. Visitors looking for longer outings usually link day hikes, bike sections of the Towpath, or stay in nearby communities and return for multiple trail days.
-
 Top Hikes
+
 
 Use the NPS Hiking page for current Cuyahoga Valley trail information. Trail surfaces vary from towpath and boardwalk to steeper woodland paths with stairs, stream crossings, and seasonal mud.
 
@@ -30,7 +26,12 @@ Oak Hill and Plateau Trail is about 4.7 miles (7.6 km) with roughly 300 feet (91
 
 Ohio and Erie Canal Towpath Trail is the long, nearly level route through the park; hikers can choose sections up to about 20 miles (32 km) with minimal elevation gain.
 
+Backpacking
+
+Backpacking is not a primary activity in Cuyahoga Valley because the park does not have a traditional backcountry camping system. Visitors looking for longer outings usually link day hikes, bike sections of the Towpath, or stay in nearby communities and return for multiple trail days.
+
 Planning Highlights
+
 
 The Ohio and Erie Canal Towpath Trail is the main recreation corridor in Cuyahoga Valley National Park. Visitors can walk, run, or bike long sections of the trail while connecting canal history, river views, wetlands, farms, and gateway towns.
 
@@ -40,9 +41,11 @@ Wildlife viewing, birding, photography, paddling nearby waterways, and visiting 
 
 Camping and Lodging
 
+
 There is no NPS campground in the park. Visitors usually stay in nearby communities or use regional campgrounds outside the park boundary.
 
 Official Resources
+
 
 Use the official NPS page, park map, current alerts, and reservation links below when planning a trip to Cuyahoga Valley National Park.
 
