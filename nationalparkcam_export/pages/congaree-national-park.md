@@ -48,6 +48,8 @@ Bluff Campground is a more walk-in style campground reached from the Bluff Trail
 
 Backcountry camping is available by permit for visitors who want a more remote floodplain experience. Mosquitoes, heat, flooding, navigation, and water levels are major planning factors.
 
+Longleaf Campground and Bluff Campground reservations are handled through Recreation.gov.
+
 Official Resources
 
 

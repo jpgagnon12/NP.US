@@ -52,6 +52,8 @@ Cedar Mesa Campground is a primitive campground in the southern part of the park
 
 Backcountry camping is available by permit in remote areas, but visitors should plan around flash floods, heat, water availability, and route-finding.
 
+Fruita Campground reservations are handled through Recreation.gov when sites are reservable.
+
 Official Resources
 
 

@@ -48,6 +48,8 @@ Pinnacles Campground is located on the east side of the park and is the main dev
 
 There is no road through the park to the west entrance, so campers should plan around east-side access. Lodging, restaurants, fuel, and supplies are available in nearby gateway communities such as Soledad, Hollister, King City, and Paicines.
 
+Pinnacles Campground reservations are handled through Recreation.gov.
+
 Official Resources
 
 

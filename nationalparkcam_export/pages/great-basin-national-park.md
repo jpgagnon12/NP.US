@@ -54,6 +54,8 @@ Baker Creek Campground offers a quieter developed option along Baker Creek Road,
 
 Grey Cliffs Campground includes group camping options and is useful for visitors who need more space than a standard individual campsite. Primitive camping and backcountry camping are also available with low-impact travel practices.
 
+Reservable Great Basin campsites and group sites should be checked through Recreation.gov before arrival.
+
 Official Resources
 
 

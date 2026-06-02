@@ -48,6 +48,8 @@ Medano Pass Primitive Road has primitive roadside campsites when the road is ope
 
 Backcountry camping in dune and mountain zones requires permits and careful planning. Wind, lightning, hot sand, navigation, and overnight temperature swings are important hazards.
 
+Pinon Flats Campground reservations and backcountry permits should be checked through Recreation.gov before arrival.
+
 Official Resources
 
 

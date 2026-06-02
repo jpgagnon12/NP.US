@@ -42,6 +42,8 @@ Camping and Lodging
 
 There is no vehicle camping in Saguaro National Park. Overnight camping is limited to designated backcountry sites in the Saguaro Wilderness, with permits required. Tucson, Marana, and nearby public lands offer hotels, restaurants, supplies, and developed campgrounds outside the park.
 
+Saguaro Wilderness camping permits should be checked through Recreation.gov when planning overnight backcountry trips.
+
 Official Resources
 
 

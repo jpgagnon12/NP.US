@@ -50,6 +50,8 @@ Backcountry campsites are more remote and may require paddling, portaging, or hi
 
 Houseboat sites serve visitors staying overnight on houseboats in designated areas of the park. All overnight use requires a reservation or permit, and nearby gateway communities offer lodging, marinas, outfitters, restaurants, and supplies.
 
+Voyageurs campsites, houseboat sites, and overnight permits should be reserved through Recreation.gov.
+
 Official Resources
 
 

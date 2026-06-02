@@ -48,6 +48,8 @@ Dunewood Campground is the main NPS campground in Indiana Dunes National Park, w
 
 Central Avenue walk-in sites offer a quieter, more tent-focused camping option when available through the park's campground system. Nearby state park, regional campground, and lodging options add more choices during beach season.
 
+Dunewood Campground reservations are handled through Recreation.gov.
+
 Official Resources
 
 

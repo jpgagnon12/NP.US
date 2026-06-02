@@ -50,6 +50,8 @@ Gulpha Gorge Campground is the only campground inside Hot Springs National Park.
 
 The campground is best treated as a developed basecamp for short walks, bathhouse visits, scenic drives, and town access rather than a remote wilderness campground. Use the NPS Camping page for current fees, rules, and availability.
 
+Gulpha Gorge Campground reservations should be checked through Recreation.gov before arrival.
+
 Official Resources
 
 

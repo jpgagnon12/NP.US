@@ -54,6 +54,8 @@ Mesquite Spring Campground is a northern park campground that can be useful for 
 
 Emigrant Campground, Wildrose Campground, Thorndike Campground, and Mahogany Flat Campground provide more limited or higher-elevation camping options, with road, vehicle-length, and seasonal conditions varying by site. Use the NPS Camping page before choosing a campground.
 
+Furnace Creek Campground reservations and reservable group sites are handled through Recreation.gov when available.
+
 Official Resources
 
 
