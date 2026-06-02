@@ -16,6 +16,20 @@ NPS Hiking information covers popular day routes including Golden Canyon, Gower 
 
 NPS Backpacking guidance is important for remote canyons, washes, and mountain routes because these trips require desert experience. Water sources are scarce or unreliable, permits and road conditions should be checked, and summer overnight travel in low elevations is generally unsafe.
 
+Top Hikes
+
+Use the NPS Hiking page for current Death Valley heat, flood, and road conditions. Low-elevation hikes are safest in cooler months, while high-elevation routes can hold snow or ice.
+
+Badwater Salt Flat is a 1-mile (1.6 km) out-and-back walk to the salt flat edge with minimal elevation gain at the lowest point in North America.
+
+Mesquite Flat Sand Dunes is commonly hiked as a 2-mile (3.2 km) route with about 185 feet (56 m) of elevation gain to reach the higher dunes.
+
+Golden Canyon and Gower Gulch Loop is about 4.3 miles (6.9 km) with roughly 755 feet (230 m) of elevation gain through badlands, narrows, and colorful canyon walls.
+
+Mosaic Canyon is about 4 miles (6.4 km) round trip with roughly 1,200 feet (366 m) of elevation gain through polished marble narrows and rocky canyon terrain.
+
+Telescope Peak is the long high-country hike, about 14 miles (22.5 km) round trip with roughly 3,000 feet (914 m) of elevation gain to panoramic views over Death Valley and the Panamint Range.
+
 Planning Highlights
 
 Scenic driving is one of the best things to do in Death Valley National Park because the park is enormous. Badwater Basin, Zabriskie Point, Dante View, Artist Drive, Mesquite Flat Sand Dunes, Ubehebe Crater, and Father Crowley Vista can anchor a first visit.

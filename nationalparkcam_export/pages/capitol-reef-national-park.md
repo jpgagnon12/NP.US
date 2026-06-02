@@ -16,6 +16,20 @@ NPS Hiking information covers popular routes including Hickman Bridge, Grand Was
 
 Backpacking is available in remote sections of the park, including canyon routes and high-desert terrain beyond the main visitor corridor. Overnight trips require careful water planning, weather awareness, and backcountry permits where required, especially because flash floods and rough roads can change conditions quickly.
 
+Top Hikes
+
+Use the NPS Hiking page for current Capitol Reef trail conditions and heat guidance before hiking. Many routes are exposed, and water is not available at most trailheads.
+
+Hickman Bridge Trail is a 1.8-mile (2.9 km) round-trip hike with about 400 feet (122 m) of elevation gain to a large natural bridge and canyon views near the Fremont River.
+
+Grand Wash Trail is a 4.4-mile (7.1 km) round-trip canyon walk with about 200 feet (61 m) of elevation gain through a broad wash and narrow rock walls.
+
+Cassidy Arch Trail is a 3.4-mile (5.5 km) round-trip hike with about 670 feet (204 m) of elevation gain to slickrock views above Grand Wash and the arch overlook.
+
+Rim Overlook Trail is a 4.6-mile (7.4 km) round-trip hike with about 1,110 feet (338 m) of elevation gain to views over Fruita and the Waterpocket Fold.
+
+Navajo Knobs is the longer Capitol Reef day hike, a 9.4-mile (15.1 km) round trip with about 1,620 feet (494 m) of elevation gain to a high viewpoint above the Fruita area.
+
 Planning Highlights
 
 The Fruita area and Scenic Drive are the easiest places to start a Capitol Reef visit. Visitors can see orchards, historic buildings, petroglyphs, canyon walls, and trailheads without committing to remote roads.

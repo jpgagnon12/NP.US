@@ -10,6 +10,20 @@ The mainland Dante Fascell Visitor Center is the easiest starting point, but mos
 
 Biscayne was first protected as Biscayne National Monument in 1968 and became a national park on June 28, 1980. The park's history includes Indigenous presence, shipwrecks, farming communities, island development proposals, and conservation efforts that protected a rare marine landscape just south of Miami.
 
+Top Hikes and Walks
+
+Biscayne is primarily a water park, so its official walking options are shorter island and shoreline routes rather than mountain-style hikes. Check the NPS Things To Do and boat-access information before planning island walks.
+
+Convoy Point Jetty Walk is an easy shoreline walk of about 0.8 mile (1.3 km) round trip with minimal elevation gain, offering views across Biscayne Bay near the visitor center.
+
+Boca Chita Key Walk is a short island walk of about 0.5 mile (0.8 km) with minimal elevation gain, best used when a boat tour or private boat gives access to the island.
+
+Elliott Key Spite Highway is the longer walking option in Biscayne, extending up to about 7 miles (11.3 km) one way with minimal elevation gain along the island's historic corridor.
+
+Adams Key Loop is a short island walk of about 0.5 mile (0.8 km) with minimal elevation gain through hardwood hammock habitat when the key is accessible.
+
+Dante Fascell Visitor Center grounds provide an easy waterfront walk of about 0.25 mile (0.4 km) with minimal elevation gain, useful for a quick look at the bay before or after boat trips.
+
 Boating, Paddling, and Island Walks
 
 Biscayne is not a traditional hiking park, but visitors can walk short island trails on Boca Chita Key, Elliott Key, and Adams Key when transportation is available. NPS Boat Tours are the easiest way to reach many park destinations, while paddling routes through mangroves and shallow bays can be excellent in calm weather.

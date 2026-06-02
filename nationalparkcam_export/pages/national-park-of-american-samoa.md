@@ -16,6 +16,20 @@ The official NPS Hiking page is the best starting point for trail planning. Rout
 
 Backpacking is not a standard activity here. NPS Laws and Policies state that overnight camping is not allowed in the park except where specifically authorized, so visitors should plan day hikes rather than overnight backcountry routes. Longer adventures are best organized around lodging, local transportation, and realistic travel time between islands.
 
+Top Hikes
+
+Use the NPS Hiking page for current American Samoa trail guidance, village permissions, and weather conditions. Tropical rain can make steep or rocky routes slippery.
+
+Lower Sauma Ridge Trail is about 0.4 mile (0.6 km) with roughly 100 feet (30 m) of elevation gain to cultural sites and coastal views.
+
+Pola Island Trail is about 0.2 mile (0.3 km) with minimal elevation gain to views of the sea stacks and north shore scenery near Vatia.
+
+Blunts Point Trail is about 0.6 mile (1 km) with roughly 200 feet (61 m) of elevation gain to World War II gun emplacements and Pago Pago Harbor views.
+
+Tuafanua Trail is about 2.2 miles (3.5 km) round trip with roughly 660 feet (201 m) of elevation change, descending steeply toward a rocky beach and coastal forest.
+
+Mount Alava Trail is the longer Tutuila hike, about 7 miles (11.3 km) round trip with roughly 1,610 feet (491 m) of elevation gain to ridge and harbor views.
+
 Planning Highlights
 
 Tutuila offers the visitor center in Pago Pago, Mount Alava, Lower Sauma Ridge, Pola Island views, and access to village and coastal scenery. The Hiking page is useful for choosing trails because heat, humidity, mud, and steep grades can make short distances feel harder.

@@ -16,6 +16,20 @@ Lake Clark is primarily a trail-free wilderness, with the maintained Tanalian Tr
 
 Backpacking is one of Lake Clark's signature experiences for prepared wilderness travelers. Trips can range from base camping near an air taxi drop-off to longer routes through open tundra, lake basins, and mountain passes. NPS Bear Safety guidance should be part of every plan because food storage, group awareness, campsite selection, and calm bear behavior matter throughout the park and preserve.
 
+Top Hikes
+
+Lake Clark has limited maintained trails, mostly near Port Alsworth, plus extensive route-based wilderness travel. Check NPS guidance and local conditions before hiking.
+
+Tanalian Falls Trail is about 3.4 miles (5.5 km) round trip with roughly 200 feet (61 m) of elevation gain to a waterfall and river views near Port Alsworth.
+
+Beaver Pond Loop is about 3 miles (4.8 km) with roughly 100 feet (30 m) of elevation gain through forest and wetland scenery near Port Alsworth.
+
+Kontrashibuna Lake Trail is about 6 miles (9.7 km) round trip with roughly 400 feet (122 m) of elevation gain beyond Tanalian Falls toward a quieter lake setting.
+
+Tanalian Mountain Trail is the long maintained hike, about 8.6 miles (13.8 km) round trip with roughly 3,500 feet (1,067 m) of elevation gain to big views over Lake Clark country.
+
+Wilderness beach and tundra routes can range from 2 to 10 miles (3.2 to 16 km) or more with variable elevation gain, depending on aircraft drop-off, bear conditions, and chosen route.
+
 Planning Highlights
 
 Twin Lakes, Port Alsworth, Tanalian Falls, Lake Clark, and the historic Proenneke cabin are major things to do in Lake Clark National Park and Preserve. These places combine wilderness scenery, human history, and access to the lake-and-mountain heart of the park.

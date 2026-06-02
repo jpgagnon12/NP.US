@@ -16,6 +16,20 @@ Popular hikes include the Bristlecone Pine Trail, Alpine Lakes Loop, Glacier Tra
 
 Backcountry camping is available with low-impact practices and careful route planning. Longer trips can link alpine basins, ridges, and forested drainages, but visitors should prepare for altitude, storms, cold nights, and limited water away from reliable drainages.
 
+Top Hikes
+
+Use the NPS Hiking information for current Great Basin trail conditions. Wheeler Peak area hikes are high elevation and can hold snow well into the season.
+
+Alpine Lakes Loop is a 2.7-mile (4.3 km) loop with about 600 feet (183 m) of elevation gain past Stella Lake and Teresa Lake below Wheeler Peak.
+
+Bristlecone Pine Trail is a 2.8-mile (4.5 km) round trip with about 600 feet (183 m) of elevation gain to ancient bristlecone pines.
+
+Bristlecone and Glacier Trail is about 4.6 miles (7.4 km) round trip with about 1,100 feet (335 m) of elevation gain to bristlecones and the rock glacier below Wheeler Peak.
+
+Lexington Arch Trail is about 5.4 miles (8.7 km) round trip with about 820 feet (250 m) of elevation gain to a large limestone arch in a quieter part of the park.
+
+Wheeler Peak Trail is the long summit hike, about 8.6 miles (13.8 km) round trip with roughly 2,900 feet (884 m) of elevation gain to the park's highest peak.
+
 Planning Highlights
 
 Lehman Caves tours are one of the main things to do in Great Basin National Park, and reservations should be checked before arrival. The cave system adds a very different experience from the park's high desert and mountain trails.

@@ -16,6 +16,20 @@ NPS Hiking information is useful for the Boardwalk Loop, Weston Lake Loop, Oakri
 
 Backcountry Camping is available by permit and is often tied to hiking or paddling routes. The Cedar Creek Canoe Trail is another signature way to experience the park, but visitors should prepare for mosquitoes, flooding, heat, downed trees, and navigation challenges.
 
+Top Hikes
+
+Use the NPS Hiking page for current Congaree trail and flood conditions. Most Congaree hikes have minimal elevation gain, but flooding, mud, insects, and heat can make easy mileage feel slower.
+
+Boardwalk Loop Trail is a 2.6-mile (4.2 km) loop with minimal elevation gain through old-growth bottomland forest near the visitor center.
+
+Weston Lake Loop Trail is a 4.4-mile (7.1 km) loop with minimal elevation gain through floodplain forest, oxbow lake scenery, and quiet backcountry sections.
+
+Oakridge Trail is a 6.6-mile (10.6 km) loop with minimal elevation gain through mixed bottomland forest and less crowded Congaree scenery.
+
+River Trail is a longer 10.4-mile (16.7 km) round-trip hike with minimal elevation gain to the Congaree River, best for hikers prepared for wet or muddy conditions.
+
+Kingsnake Trail is one of Congaree's long hikes, about 11.7 miles (18.8 km) round trip with minimal elevation gain through remote forest, sloughs, and wildlife habitat.
+
 Planning Highlights
 
 The Boardwalk Loop is the best first thing to do in Congaree National Park because it introduces the old-growth bottomland hardwood forest without requiring muddy trail navigation. Weston Lake Loop, Oakridge Trail, and Kingsnake Trail add longer hiking options when water levels allow.

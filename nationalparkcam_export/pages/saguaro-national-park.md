@@ -15,6 +15,20 @@ The official NPS Hiking page is the best starting point for trail choices in bot
 
 Backpacking is available in the Saguaro Wilderness in the Rincon Mountain District. The NPS Camping page explains the designated wilderness campsites, permits, water planning, and rules. Backcountry trips can involve large elevation changes, limited water, and quick weather shifts, so they are best for prepared hikers.
 
+Top Hikes
+
+Use the NPS Hiking Trail Recommendations page for current Saguaro trail guidance. Desert heat, sun exposure, and water planning matter on both the Tucson Mountain and Rincon Mountain districts.
+
+Freeman Homestead Trail is a 1-mile (1.6 km) loop with minimal elevation gain through old homestead remains, saguaros, and desert wash habitat.
+
+Loma Verde Loop is a 3.8-mile (6.1 km) route with about 60 feet (18 m) of elevation gain through cactus forest, mesquite, and desert bajada scenery.
+
+Hope Camp and Ridgeview Trail is a 2-mile (3.2 km) hike with about 400 feet (122 m) of elevation gain to Rincon Valley views.
+
+King Canyon and Gould Mine Loop is a 2.4-mile (3.9 km) hike with about 380 feet (116 m) of elevation gain through desert wash, old mining road, and west-side saguaro scenery.
+
+Sendero Esperanza to Wasson Peak is the longer hike, ranging from 3.4 to 8 miles (5.5 to 12.9 km) with about 220 to 1,600 feet (67 to 488 m) of elevation gain depending on turnaround point.
+
 Planning Highlights
 
 Bajada Loop Drive and Cactus Forest Drive are the easiest ways to see Saguaro National Park by vehicle. Scenic pullouts, cactus forests, mountain views, and sunset light make both districts useful for short visits.

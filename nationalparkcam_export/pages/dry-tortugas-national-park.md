@@ -10,6 +10,20 @@ Garden Key and Fort Jefferson are the center of most day trips, with snorkeling 
 
 Fort Jefferson was first protected as a national monument in 1935, and the area became Dry Tortugas National Park on October 26, 1992. The park's story connects coastal defense, Civil War imprisonment, maritime navigation, Caribbean bird migration, coral reef protection, and remote island ecology.
 
+Top Walks
+
+Dry Tortugas has very limited land area, so its routes are short walks rather than traditional hikes. Check NPS access information because some keys are closed seasonally for nesting birds or are only reachable by private boat.
+
+Fort Jefferson Loop is about 0.6 mile (1 km) with minimal elevation gain around the fort's interior and parade ground.
+
+Moat Wall Walk is about 0.6 mile (1 km) with minimal elevation gain around Fort Jefferson's outer wall, with open views of Garden Key and surrounding water.
+
+Garden Key Beach Walk is about 0.5 mile (0.8 km) with minimal elevation gain along sandy shoreline and visitor-use areas.
+
+Bush Key Walk can extend about 1 mile (1.6 km) with minimal elevation gain when the island is open outside bird-nesting closures.
+
+Loggerhead Key walking routes can total several miles when reached by private boat, with minimal elevation gain and a remote-island setting; confirm access and conditions before planning this longer outing.
+
 Walking, Snorkeling, and Camping
 
 Dry Tortugas is not a hiking or backpacking park, but visitors can spend hours walking Fort Jefferson, the moat wall, and the shoreline around Garden Key. Snorkeling, swimming, paddling, and birding are the main outdoor activities, with conditions depending on wind, water clarity, and season.

@@ -16,6 +16,20 @@ There are no maintained hiking trails. Day travel and backpacking usually follow
 
 Backpacking is one of the main reasons to visit Gates of the Arctic, but trips should be planned conservatively. NPS Safety guidance is especially important because visitors need bear-resistant food storage, river crossing skills, cold-weather layers, insect protection, and flexible air taxi logistics for pickup and drop-off windows.
 
+Top Wilderness Routes
+
+Gates of the Arctic has no maintained trails, so hikes are wilderness routes rather than signed day hikes. Distances and elevation gain vary by landing location, route choice, river crossing, and weather.
+
+Arrigetch Peaks routes are long wilderness hikes that can range from about 10 to 30 miles (16 to 48 km) with thousands of feet of elevation gain depending on camp location and side trips.
+
+Kobuk River headwaters routes are backpacking trips of variable length with rolling tundra, river travel, and mountain approaches rather than a fixed trail distance.
+
+Noatak River valley hikes are long tundra and gravel-bar routes with variable distance and elevation gain, often combined with rafting or flight-supported basecamps.
+
+Anaktuvuk Pass day hikes can range from about 2 to 8 miles (3.2 to 12.9 km) with several hundred feet of elevation gain depending on the ridge or valley objective.
+
+Alatna River routes are longer wilderness hiking and packrafting itineraries where mileage and elevation gain depend entirely on the chosen route, weather, and aircraft drop-off.
+
 Planning Highlights
 
 Backpacking is one of the primary things to do in Gates of the Arctic National Park and Preserve, but it is fully remote wilderness travel. There are no roads, no maintained trails, and no visitor services inside the park, so navigation, river crossings, food storage, and weather judgment matter.

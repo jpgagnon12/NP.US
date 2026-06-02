@@ -16,6 +16,20 @@ NPS Hiking information covers the Exit Glacier area, including short trails to g
 
 Backpacking and coastal camping are possible but require planning around tides, weather, boat access, and bear safety. Some visitors use public-use cabins or remote coastal camps, while others focus on day hiking at Exit Glacier and boat-based exploration from Seward.
 
+Top Hikes
+
+Use the NPS Hiking page for current Exit Glacier area conditions. Kenai Fjords has a small developed trail network, and the Harding Icefield Trail is the major long hike.
+
+Exit Glacier Nature Trail is about 0.5 mile (0.8 km) round trip with minimal elevation gain, offering an easy introduction to the Exit Glacier area.
+
+Glacier View Loop is about 1 mile (1.6 km) with roughly 100 feet (30 m) of elevation gain to views of Exit Glacier and the surrounding valley.
+
+Exit Glacier Overlook Trail is about 2.2 miles (3.5 km) round trip with roughly 300 feet (91 m) of elevation gain to a closer glacier viewpoint.
+
+Harding Icefield Trail to Marmot Meadows is about 3 miles (4.8 km) round trip with roughly 1,000 feet (305 m) of elevation gain, giving hikers a shorter but steep sample of the full route.
+
+Harding Icefield Trail is the long hike, about 8.2 miles (13.2 km) round trip with roughly 3,000 feet (914 m) of elevation gain to sweeping views over the icefield.
+
 Planning Highlights
 
 Exit Glacier is the easiest place to start a Kenai Fjords National Park visit. Short trails and viewpoints help visitors see the glacier landscape, climate-change markers, and the edge of the Harding Icefield.

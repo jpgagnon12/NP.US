@@ -16,6 +16,20 @@ The official NPS Hiking page is the best starting point because trails vary shar
 
 Backpacking is not a standard activity at Pinnacles because the park does not offer a broad overnight backcountry trail system. Most visitors build a day around linked hikes, cave routes, overlooks, wildlife viewing, and the campground near the east entrance. The NPS Cave Status page is important because Bear Gulch Cave and Balconies Cave can close for flooding, rockfall, bat protection, or seasonal conditions.
 
+Top Hikes
+
+Use the NPS Trails page for current cave closures, heat, and trail conditions before hiking. Bring a flashlight for routes that pass through talus caves.
+
+Moses Spring to Rim Trail Loop is a 2.2-mile (3.5 km) round trip with about 500 feet (152 m) of elevation gain through Bear Gulch Cave, reservoir scenery, and rock formations.
+
+Condor Gulch to High Peaks Loop is a 5.3-mile (8.5 km) round trip with about 1,300 feet (396 m) of elevation gain to High Peaks views and possible condor sightings.
+
+High Peaks to Bear Gulch Loop is a 6.7-mile (10.8 km) round trip with about 1,425 feet (434 m) of elevation gain through wildflower slopes, High Peaks, and shaded descent routes.
+
+Old Pinnacles Trail to Balconies Cave is a 5.3-mile (8.5 km) round trip with little net elevation gain along Chalone Creek to Balconies Cave and Machete Ridge views.
+
+Chalone Peak Trail is the long Pinnacles hike, about 9 miles (14.5 km) round trip with about 2,040 feet (622 m) of elevation gain to the highest point in the park.
+
 Planning Highlights
 
 Hiking is the main thing to do in Pinnacles National Park. High Peaks, Condor Gulch, Moses Spring, Bear Gulch Cave, Balconies Cave, Rim Trail, and west-side routes give visitors cliffs, talus caves, spring wildflowers, and sweeping views.

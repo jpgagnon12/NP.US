@@ -16,6 +16,20 @@ The Door Trail, Window Trail, Notch Trail, Saddle Pass Trail, Cliff Shelf Nature
 
 Backcountry travel is allowed in much of Badlands, but there are few maintained routes and almost no reliable water sources. Hikers should carry all water, navigation tools, sun protection, and weather layers, and should avoid climbing unstable formations or crossing private land outside the park boundary.
 
+Top Hikes
+
+Use the NPS Hiking Trails page for current Badlands trail information before starting a route. Several Badlands hikes are short but exposed, with little shade and fragile formations near the trail.
+
+Door Trail is a 0.75-mile (1.2 km) out-and-back hike with minimal elevation gain, leading through an opening in the Badlands Wall to a marked route across eroded formations.
+
+Window Trail is a 0.25-mile (0.4 km) boardwalk hike with minimal elevation gain to a natural window view into the badlands.
+
+Notch Trail is a 1.5-mile (2.4 km) out-and-back hike with about 125 feet (38 m) of elevation gain, including a log ladder and cliff-edge views toward the White River Valley.
+
+Saddle Pass Trail is a steep 0.25-mile (0.4 km) route with about 200 feet (61 m) of elevation gain, climbing quickly from Badlands Loop Road to views and trail connections above the Wall.
+
+Castle Trail is the long maintained hike in Badlands, running about 10 miles (16 km) round trip with roughly 200 feet (61 m) of elevation gain through prairie, badlands formations, and open sky.
+
 Planning Highlights
 
 Badlands Loop Road is the easiest way to see the park's overlooks, fossil beds, prairie, and layered formations in a single visit. Sunrise and sunset along the Wall, Big Badlands Overlook, Panorama Point, and Pinnacles Overlook are especially useful for photography and wildlife viewing.

@@ -16,39 +16,23 @@ NPS Hiking information covers shorter Island in the Sky hikes such as Mesa Arch,
 
 NPS Backpacking guidance is important for Canyonlands, especially in The Needles, The Maze, and along four-wheel-drive routes. Permits are required for overnight trips, water sources are limited, and many routes demand navigation experience, desert travel judgment, and high-clearance vehicle planning.
 
-Popular Hikes
+Top Hikes
 
 Use the NPS Hiking page for current trail information before starting any route. NPS lists exact elevation change for many Island in the Sky and Maze hikes; for many Needles hikes, it describes net elevation change as generally several hundred feet or less rather than publishing a trail-specific gain.
 
 Mesa Arch is a 0.6-mile (1 km) Island in the Sky loop with minimal elevation gain. The short trail leads to a cliff-edge arch with wide canyon and La Sal Mountain views, making it one of the most popular sunrise hikes in Canyonlands.
 
-Grand View Point is a 1.8-mile (2.9 km) out-and-back hike with minimal elevation gain along the Island in the Sky rim. The trail follows the canyon edge to broad views over the White Rim, Monument Basin, and distant desert country.
-
 Upheaval Dome is a short but steep Island in the Sky hike. The first overlook is 0.6 miles (1 km) round trip with about 100 feet (30 m) of elevation gain, while continuing to the second overlook adds about 1 mile (1.5 km) and 50 feet (15 m) of additional elevation change.
-
-Aztec Butte is a 1.4-mile (2.3 km) Island in the Sky hike with about 225 feet (68 m) of elevation gain. The route follows a sandy wash, then climbs slickrock toward broad views and ancestral Puebloan structures that should be viewed from a respectful distance.
-
-Neck Spring is a 5.6-mile (9 km) Island in the Sky loop with about 300 feet (91 m) of elevation gain. The route passes historic ranching features and two springs, making it a good choice for hikers who want a longer mesa-top walk without the steep descents of the White Rim trails.
 
 Gooseberry Canyon is a strenuous 4.6-mile (7.4 km) Island in the Sky hike with about 1,400 feet (427 m) of elevation change. The trail descends steeply through switchbacks, loose rock, and exposed terrain to the White Rim bench.
 
-Syncline Loop is a strenuous 8.1-mile (13 km) Island in the Sky hike with about 1,300 feet (396 m) of elevation change. The route circles Upheaval Dome through steep switchbacks, boulder fields, scrambling sections, and rugged canyon terrain.
-
-Murphy Trail is a strenuous 10.8-mile (17.4 km) Island in the Sky hike with about 1,400 feet (427 m) of elevation change. The trail drops from the mesa top toward Murphy Hogback, then returns through a wash with wide views of canyon country.
-
-Chesler Park Viewpoint is a 5.8-mile (9.3 km) Needles hike. NPS describes net elevation change for most Needles day hikes as generally several hundred feet or less, and this route leads to a pass overlooking desert grasslands and sandstone spires.
-
 Druid Arch is a strenuous 10.8-mile (17.4 km) Needles hike. NPS describes net elevation change for most Needles day hikes as generally several hundred feet or less, though this route still involves deep sand, loose rock, a ladder, and a short scramble near the end.
-
-Chesler Park and the Joint Trail is a strenuous 10.7-mile (17.2 km) Needles hike. NPS describes net elevation change for most Needles day hikes as generally several hundred feet or less, and the loop combines panoramic views of sandstone spires with the Joint Trail's narrow rock fractures.
 
 Horseshoe Canyon is a 7-mile (11.2 km) Maze-area hike with about 780 feet (237 m) of elevation change. The route descends into a sandy canyon to reach major rock art panels, including the Great Gallery, and is exposed with limited shade.
 
 Planning Highlights
 
-Island in the Sky is the easiest district for first-time visitors, with Mesa Arch, Grand View Point, Green River Overlook, White Rim Overlook, and Upheaval Dome offering big canyon views from short walks and paved roads.
-
-Hiking in Canyonlands National Park changes by district. The Needles is best for longer desert routes such as Chesler Park, Druid Arch, and the Joint Trail, while The Maze and backcountry routes require more time, permits, navigation, and vehicle preparation.
+Island in the Sky is the easiest district for first-time visitors, with Green River Overlook, White Rim Overlook, and Upheaval Dome offering big canyon views from short walks and paved roads.
 
 Scenic driving and four-wheel-drive travel are major Canyonlands activities. White Rim Road, Elephant Hill, Cathedral Butte, and Maze-area roads can be outstanding, but visitors should check current road conditions and carry enough water, fuel, and recovery gear.
 

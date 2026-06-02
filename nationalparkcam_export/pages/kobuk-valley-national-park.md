@@ -16,6 +16,20 @@ There are no maintained hiking trails in Kobuk Valley. Hiking usually means rout
 
 Backpacking is possible for highly prepared wilderness travelers, but the park's remoteness makes conservative planning essential. NPS Safety guidance is important because visitors need food storage, communication, layered clothing, river judgment, and flexibility for delayed flights or changing weather.
 
+Top Wilderness Routes
+
+Kobuk Valley has no maintained trail system, so hikes are route-based wilderness trips with variable mileage and elevation gain. Check NPS wilderness guidance before planning any route.
+
+Great Kobuk Sand Dunes hikes can range from about 2 to 8 miles (3.2 to 12.9 km) with several hundred feet of soft-sand elevation change depending on the landing area and dune objectives.
+
+Little Kobuk Sand Dunes routes are remote hikes of variable distance with rolling sand and tundra, usually planned with aircraft support and no fixed elevation gain.
+
+Hunt River Dunes routes can be longer wilderness walks of 5 to 10 miles (8 to 16 km) or more, with variable elevation change across dunes, tundra, and river corridors.
+
+Onion Portage walks are short tundra and river-area routes of about 1 to 3 miles (1.6 to 4.8 km) with minimal elevation gain, focused on cultural landscape awareness and wildlife observation.
+
+Baird Mountains backpacking routes are the longer hiking option, often 10 miles (16 km) or more with substantial elevation gain depending on the ridge, valley, and aircraft drop-off.
+
 Planning Highlights
 
 The Great Kobuk Sand Dunes are the most famous thing to do in Kobuk Valley National Park. Visitors usually reach them by air taxi and explore dunes, tundra, and river corridors from a remote basecamp.

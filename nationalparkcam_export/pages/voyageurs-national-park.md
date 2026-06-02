@@ -15,6 +15,20 @@ The NPS Maps page includes hiking maps for trail areas around Ash River, Rainy L
 
 Backpacking is possible, but it works differently than in many parks. The NPS Camping page explains that backcountry campsites may require a boat ride to a trailhead followed by hiking, while primitive Kab-Ash Trail sites can be reached from mainland trailheads. Permits and Reservations are important because all overnight camping in the park requires planning.
 
+Top Hikes
+
+Use the NPS Hiking Trails page for current Voyageurs trail conditions. Some hikes are land-accessible, while others require a boat or water taxi.
+
+Oberholtzer Trail is about 1.7 miles (2.7 km) round trip with minimal elevation gain through forest and wetland scenery near the Rainy Lake Visitor Center.
+
+Echo Bay Trail is about 2.5 miles (4 km) with minimal elevation gain through forest, wetlands, and birding habitat.
+
+Blind Ash Bay Trail is about 2.5 miles (4 km) with roughly 150 feet (46 m) of elevation gain to forest and lake views near Ash River.
+
+Anderson Bay Trail is about 1.7 miles (2.7 km) with roughly 150 feet (46 m) of elevation gain to rocky overlooks; access requires boat travel.
+
+Kab-Ash Trail is the long land route, with connected sections totaling about 27.5 miles (44.3 km) and rolling elevation change through forest between Kabetogama and Ash River.
+
 Planning Highlights
 
 Boating is the signature thing to do in Voyageurs National Park because most campsites, shorelines, and lake destinations are reached by water. Rainy Lake, Kabetogama Lake, Namakan Lake, Sand Point Lake, Ash River, and Kettle Falls all shape different trip styles.

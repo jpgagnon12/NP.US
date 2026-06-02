@@ -16,6 +16,20 @@ Above-ground hikes include desert routes such as the Chihuahuan Desert Nature Tr
 
 Backcountry use is limited compared with large wilderness parks, but primitive desert travel is possible in designated areas with proper permits and preparation. Overnight visitors need to plan for no water, rough terrain, and strong temperature swings between day and night.
 
+Top Hikes and Walks
+
+Carlsbad Caverns has fewer surface trails than many national parks, so combine cave routes with desert walks and check NPS guidance before leaving developed areas.
+
+Natural Entrance Trail is a 1.25-mile (2 km) cave route that descends about 750 feet (229 m) into Carlsbad Cavern; the route is steep, paved, and usually hiked downhill.
+
+Big Room Trail is a 1.25-mile (2 km) cave loop with limited net elevation gain, circling some of the largest and most decorated rooms in the cave.
+
+Chihuahuan Desert Nature Trail is a 0.5-mile (0.8 km) surface loop with about 30 feet (9 m) of elevation gain near the visitor center, highlighting desert plants and views.
+
+Old Guano Road Trail is a longer desert route of about 3.7 miles (6 km) one way with moderate, rolling elevation change through exposed terrain and historic mining context.
+
+Rattlesnake Canyon is a long backcountry-style route of about 6 miles (9.7 km) round trip with roughly 600 feet (183 m) of elevation change; check current NPS conditions before attempting it.
+
 Planning Highlights
 
 Cave tours are the main thing to do in Carlsbad Caverns National Park. The Big Room and Natural Entrance routes are the classic self-guided experiences, while ranger-guided Cave Tours and Reservations are important for visitors who want deeper access to the cave system.

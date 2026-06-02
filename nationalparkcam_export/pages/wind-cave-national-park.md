@@ -15,6 +15,20 @@ The official NPS Hiking page covers prairie, canyon, and forest routes such as R
 
 Backcountry camping is allowed by permit in designated areas, but water sources are limited and the prairie environment can change quickly. Hikers should check current conditions, carry enough water, and understand wildlife distance rules before leaving established frontcountry areas.
 
+Top Hikes
+
+Use the NPS Hiking page for current Wind Cave surface trail conditions. NPS lists mileages for many trails but does not publish a trail-specific elevation gain for every route.
+
+Prairie Vista Trail is a 1-mile (1.6 km) loop with minimal elevation gain near the visitor center, offering a quick look at prairie scenery.
+
+Rankin Ridge Nature Trail is a 1-mile (1.6 km) loop with about 250 feet (76 m) of elevation gain to the highest point in the park and broad Black Hills views.
+
+Cold Brook Canyon Trail is about 1.4 miles (2.3 km) one way with rolling elevation change through canyon, ponderosa forest, and prairie dog habitat.
+
+Lookout Point Trail is about 2.2 miles (3.5 km) one way with rolling elevation change across prairie and toward Beaver Creek.
+
+Highland Creek Trail is the long Wind Cave route, about 8.6 miles (13.8 km) one way with rolling elevation change through prairie, forest, riparian corridors, and wildlife habitat.
+
 Planning Highlights
 
 Cave Tours are the headline thing to do in Wind Cave National Park, and tour availability should be checked before arrival. The cave is known for boxwork formations and a long underground system beneath the prairie.

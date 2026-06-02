@@ -16,6 +16,20 @@ Mesa Verde has nearly 30 miles of designated hiking trails, and the official NPS
 
 Backpacking is not a typical visitor activity in Mesa Verde because hiking is limited to designated trails to protect archeological resources and ancestral places. Visitors who want a longer day outside should plan linked day hikes, scenic drives, overlooks, and timed cliff dwelling tours instead of off-trail travel or overnight backcountry routes.
 
+Top Hikes
+
+Use the NPS Hiking page for current Mesa Verde trail access and seasonal closures. Many trails combine canyon views, mesa-top scenery, and archeological context.
+
+Petroglyph Point Trail is a 2.4-mile (3.9 km) loop with about 300 feet (91 m) of elevation gain past canyon views and a petroglyph panel.
+
+Spruce Canyon Trail is a 2.4-mile (3.9 km) loop with about 200 feet (61 m) of elevation gain through a shaded canyon below Chapin Mesa.
+
+Soda Canyon Overlook Trail is a 1.2-mile (1.9 km) round trip with about 59 feet (18 m) of elevation gain to views toward Balcony House and nearby canyon walls.
+
+Point Lookout Trail is a 2.2-mile (3.5 km) round trip with about 400 feet (122 m) of elevation gain to a high viewpoint near the park entrance.
+
+Prater Ridge Trail is the long Mesa Verde hike, about 7.8 miles (12.6 km) with roughly 675 feet (206 m) of elevation gain above Morefield Campground.
+
 Planning Highlights
 
 Cliff dwelling tours are the main thing to do in Mesa Verde National Park. Cliff Palace, Balcony House, Long House, and other sites may require timed planning, seasonal access, and current guidance from the park.

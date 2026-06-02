@@ -16,6 +16,20 @@ NPS Hiking information covers High Dune, Star Dune, Mosca Pass, Montville Nature
 
 NPS Backpacking guidance is useful for designated dune and mountain zones with permits. Dune camping can be spectacular under dark skies, but visitors need to plan for wind, sand, lightning, cold nights, water access, and the physical effort of carrying gear across soft sand.
 
+Top Hikes
+
+Use the NPS Hiking page for current sand, heat, creek, and alpine trail conditions. Dune hikes have no fixed trail, so distances and elevation gain are approximate.
+
+High Dune on First Ridge is about 2.5 miles (4 km) round trip with roughly 688 feet (209 m) of elevation gain over soft sand to a broad dunefield view.
+
+Star Dune is about 6 miles (9.6 km) round trip with roughly 736 feet (224 m) of elevation gain to one of North America's tallest dunes.
+
+Hidden Dune is about 7 miles (11 km) round trip with roughly 741 feet (225 m) of elevation gain to the tallest dune in North America.
+
+Mosca Pass Trail is about 7 miles (11.3 km) round trip with roughly 1,400 feet (427 m) of elevation gain through forest to a low pass in the Sangre de Cristo Mountains.
+
+Medano Lake Trail is the long alpine hike, about 7.4 miles (11.9 km) round trip with roughly 2,000 feet (610 m) of elevation gain from the Medano Pass Road to a high lake.
+
 Planning Highlights
 
 Hiking the dunes is the signature thing to do in Great Sand Dunes National Park and Preserve. High Dune, Star Dune, and open dune routes have no fixed trail, so visitors should plan for slow sand travel, wind, heat, and strong sun.

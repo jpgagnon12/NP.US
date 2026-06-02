@@ -16,6 +16,20 @@ NPS Hiking information covers popular routes including West Beach trails, Cowles
 
 Backpacking is not a standard activity in Indiana Dunes National Park. Overnight visitors usually use Dunewood Campground, nearby state park facilities, or regional lodging, then build day hikes around beach conditions, bird migration, and trail access.
 
+Top Hikes
+
+Use the NPS Hiking page for current Indiana Dunes trail information. Routes cross sand, wetlands, oak savanna, forest, and historic landscapes, so conditions can vary by season.
+
+Dune Succession Trail is a 0.9-mile (1.4 km) loop with about 81 feet (25 m) of elevation gain on stairs and sand near West Beach.
+
+Cowles Bog Trail is about 4.7 miles (7.6 km) with roughly 200 feet (61 m) of elevation gain through wetlands, forest, dunes, and Lake Michigan shoreline.
+
+West Beach Loop is about 3.5 miles (5.6 km) with roughly 250 feet (76 m) of elevation gain across dunes, stairs, and beach-area habitat.
+
+Bailly Homestead, Chellberg Farm, and Little Calumet River Trail is about 3.4 miles (5.5 km) with roughly 85 feet (26 m) of elevation gain through historic farm and woodland areas.
+
+Glenwood Dunes Trail is the longer trail system, with loops up to about 6.8 miles (10.9 km) and roughly 100 feet (30 m) of elevation gain through rolling dunes and forest.
+
 Planning Highlights
 
 Beaches are the most popular things to do in Indiana Dunes National Park, especially in summer. West Beach, Lake View, Mount Baldy access areas, and other Lake Michigan shoreline stops offer swimming, walking, sunsets, and dune views when conditions allow.

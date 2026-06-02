@@ -16,6 +16,20 @@ Hot Springs has a strong day-hiking network, including Hot Springs Mountain, Nor
 
 Backpacking is not a major activity in Hot Springs National Park because the trail system is close to town and camping is concentrated at Gulpha Gorge Campground. Visitors who want longer walking days can combine multiple trails and return to town or the campground each evening.
 
+Top Hikes
+
+Use the NPS Hiking Trails page for current Hot Springs trail maps and route connections. Many park hikes can be combined into longer loops from Bathhouse Row, North Mountain, West Mountain, and Gulpha Gorge.
+
+Hot Springs Mountain Trail is about 1.7 miles (2.7 km) with roughly 400 feet (122 m) of elevation gain through forest above Bathhouse Row.
+
+Gulpha Gorge Trail is about 1.2 miles (1.9 km) with roughly 383 feet (117 m) of elevation gain between Gulpha Gorge and Hot Springs Mountain.
+
+Goat Rock Trail is about 2.4 miles (3.9 km) round trip with roughly 380 feet (116 m) of elevation gain to forested views and rock outcrops.
+
+West Mountain Trail is about 2.4 miles (3.9 km) round trip with roughly 300 feet (91 m) of elevation gain on the quieter west side of the park.
+
+Sunset Trail is the long Hot Springs route, about 10 miles (16.1 km) one way or 15 to 17 miles (24 to 27 km) as a loop, with rolling terrain and more than 1,000 feet (305 m) of cumulative elevation change.
+
 Planning Highlights
 
 Bathhouse Row is the main thing to do in Hot Springs National Park. Visitors can tour the Fordyce Bathhouse Visitor Center, see historic bathhouse architecture, fill bottles at public thermal fountains, and learn how the protected thermal water shaped the town.

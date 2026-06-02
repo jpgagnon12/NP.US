@@ -15,6 +15,20 @@ The official NPS Hiking page covers the main marked trails, including Interdune 
 
 Backpacking and overnight use are limited by current park conditions. The NPS Permits and Reservations page notes that backcountry camping is currently closed while sites are rehabilitated. Visitors should check current park conditions before planning around any overnight or special-use activity.
 
+Top Hikes
+
+Use the NPS Hiking page for current White Sands trail and heat guidance. Summer heat and white sand glare can be serious even on short routes.
+
+Interdune Boardwalk is a 0.4-mile (0.6 km) accessible route with minimal elevation gain through interdune habitat and interpretive exhibits.
+
+Playa Trail is a 0.5-mile (0.8 km) round trip with minimal elevation gain to a shallow desert playa and interpretive stops.
+
+Dune Life Nature Trail is a 1-mile (1.6 km) loop with about 30 feet (9 m) of elevation gain over soft sand and marked posts.
+
+Backcountry Camping Trail is a 2-mile (3.2 km) loop with about 40 feet (12 m) of elevation gain through quieter dunes and camping-zone scenery.
+
+Alkali Flat Trail is the long White Sands hike, a 5-mile (8 km) loop with about 52 feet (16 m) of elevation gain across open dunes marked by posts.
+
 Planning Highlights
 
 Dunes Drive is the main way to explore White Sands National Park, with pullouts, picnic areas, and access to the gypsum dune field. Sunset, sunrise, and storm light are especially popular for photography.

@@ -10,6 +10,20 @@ The Arch grounds connect the Mississippi River, landscaped park space, undergrou
 
 The site was first protected as Jefferson National Expansion Memorial in 1935 and was redesignated Gateway Arch National Park on February 22, 2018. Its story connects westward expansion, civic architecture, the Mississippi River, and civil rights history at the Old Courthouse.
 
+Top Walks
+
+Gateway Arch is an urban national park, so its routes are short walks rather than backcountry hikes. Use the official NPS page for current grounds, museum, riverfront, and Old Courthouse access.
+
+Arch Grounds Loop is about 1.5 miles (2.4 km) with minimal elevation gain around the landscaped park grounds and views of the Gateway Arch.
+
+Riverfront Walk is about 1 mile (1.6 km) with minimal elevation gain along the Mississippi River side of the park.
+
+Museum and Arch Entrance Walk is about 0.5 mile (0.8 km) with minimal elevation gain between the visitor center, museum, and Arch grounds.
+
+Old Courthouse Walk is about 0.7 mile (1.1 km) round trip from the Arch grounds with minimal elevation gain through downtown park connections.
+
+Arch to Riverfront and Old Courthouse Loop can be extended to about 2.5 miles (4 km) with minimal elevation gain for a longer urban park walk.
+
 Walking and Historic Sites
 
 Gateway Arch does not have hiking or backpacking in the traditional national park sense. The NPS Things To Do page helps visitors plan walking the Arch grounds, riverfront paths, surrounding downtown connections, the museum, and the Old Courthouse area.

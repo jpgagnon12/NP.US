@@ -16,6 +16,20 @@ NPS Hiking information covers popular routes including the Ledges Trail, Brandyw
 
 Backpacking is not a primary activity in Cuyahoga Valley because the park does not have a traditional backcountry camping system. Visitors looking for longer outings usually link day hikes, bike sections of the Towpath, or stay in nearby communities and return for multiple trail days.
 
+Top Hikes
+
+Use the NPS Hiking page for current Cuyahoga Valley trail information. Trail surfaces vary from towpath and boardwalk to steeper woodland paths with stairs, stream crossings, and seasonal mud.
+
+Ledges Trail is a 2.2-mile (3.5 km) loop with about 80 feet (24 m) of elevation gain around sandstone cliffs, forest, and one of the park's best overlooks.
+
+Brandywine Gorge Trail is a 1.5-mile (2.4 km) loop with about 160 feet (49 m) of elevation gain, pairing Brandywine Falls views with wooded ravine walking.
+
+Blue Hen Falls from Boston Mill is about 3 miles (4.8 km) round trip with roughly 580 feet (177 m) of elevation gain, using the Buckeye Trail through rolling woodland.
+
+Oak Hill and Plateau Trail is about 4.7 miles (7.6 km) with roughly 300 feet (91 m) of elevation gain through forest, wetlands, and quiet old-field scenery.
+
+Ohio and Erie Canal Towpath Trail is the long, nearly level route through the park; hikers can choose sections up to about 20 miles (32 km) with minimal elevation gain.
+
 Planning Highlights
 
 The Ohio and Erie Canal Towpath Trail is the main recreation corridor in Cuyahoga Valley National Park. Visitors can walk, run, or bike long sections of the trail while connecting canal history, river views, wetlands, farms, and gateway towns.
