@@ -44,7 +44,13 @@ Canyoneering and remote desert travel are available for prepared visitors in mor
 Camping and Lodging
 
 
-Use NPS Camping details for Fruita Campground, the main developed campground. Primitive sites and backcountry trips are available, but weather and road conditions can change quickly.
+Fruita Campground is the only developed campground in Capitol Reef, with sites in the historic Fruita area near orchards, the visitor center corridor, and Scenic Drive access. Use the NPS Camping page for current reservation and group-site details.
+
+Cathedral Valley Campground is a primitive campground in the park's remote northern district. It has limited services and depends on road and weather conditions, so high-clearance travel planning is important.
+
+Cedar Mesa Campground is a primitive campground in the southern part of the park. Campers should expect fewer services, rougher access, and more self-reliant desert travel than at Fruita.
+
+Backcountry camping is available by permit in remote areas, but visitors should plan around flash floods, heat, water availability, and route-finding.
 
 Official Resources
 

@@ -44,7 +44,11 @@ The visitor centers and Things To Do page are useful starting points before choo
 Camping and Lodging
 
 
-Most campsites in Voyageurs are reached by boat, paddling route, or water taxi. There are frontcountry, backcountry, and houseboat sites, and all overnight use requires a reservation or permit. Nearby gateway communities offer lodging, marinas, outfitters, restaurants, and supplies.
+Frontcountry campsites in Voyageurs are developed boat-access sites with tent pads, food lockers or storage infrastructure, and lake-based access. They work well for visitors using motorboats, water taxis, or outfitted trips.
+
+Backcountry campsites are more remote and may require paddling, portaging, or hiking from a water-access point. These sites are better for visitors prepared for insects, weather, navigation, and quieter wilderness-style travel.
+
+Houseboat sites serve visitors staying overnight on houseboats in designated areas of the park. All overnight use requires a reservation or permit, and nearby gateway communities offer lodging, marinas, outfitters, restaurants, and supplies.
 
 Official Resources
 

@@ -44,7 +44,9 @@ Biking nearby regional trails, visiting historic farm sites, camping at Dunewood
 Camping and Lodging
 
 
-Use NPS Camping details for Dunewood Campground, the main park campground. Nearby state park and regional lodging options add more choices during beach season.
+Dunewood Campground is the main NPS campground in Indiana Dunes National Park, with drive-in and tent-only sites near Beverly Shores and Lake Michigan access. It does not have electric or water hookups at individual sites, so campers should review amenities before reserving.
+
+Central Avenue walk-in sites offer a quieter, more tent-focused camping option when available through the park's campground system. Nearby state park, regional campground, and lodging options add more choices during beach season.
 
 Official Resources
 

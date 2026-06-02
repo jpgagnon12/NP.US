@@ -42,7 +42,11 @@ Wildlife viewing is strongest around dawn, dusk, and quieter prairie areas where
 Camping and Lodging
 
 
-Use NPS Camping details for Cedar Pass Campground and Sage Creek Campground, the primary in-park camping areas. Backcountry travel is possible, but visitors should carry water, navigation tools, and weather protection.
+Cedar Pass Campground is the main developed campground in Badlands, with reservable sites near the Cedar Pass area and convenient access to Badlands Loop Road, the visitor center area, and nearby short trails. Use the NPS Camping page for current fees, seasons, and reservation details.
+
+Sage Creek Campground is the park's more rustic frontcountry campground in the western part of Badlands. It has limited services and a quieter prairie setting, so visitors should arrive self-sufficient and check current road and weather conditions before going.
+
+Backcountry camping is allowed in much of Badlands, but visitors must camp away from roads and trails and be prepared for no reliable water, open exposure, navigation, and fast-changing weather.
 
 Official Resources
 

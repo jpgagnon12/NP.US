@@ -46,7 +46,9 @@ Camping at Gulpha Gorge Campground, soaking at authorized bathhouses, history to
 Camping and Lodging
 
 
-Use NPS Camping details for Gulpha Gorge Campground, which offers sites inside the park. The campground is close to trails and downtown Hot Springs but can fill during busy periods.
+Gulpha Gorge Campground is the only campground inside Hot Springs National Park. It sits along Gulpha Creek with quick access to park trails and a short drive to Bathhouse Row and downtown Hot Springs.
+
+The campground is best treated as a developed basecamp for short walks, bathhouse visits, scenic drives, and town access rather than a remote wilderness campground. Use the NPS Camping page for current fees, rules, and availability.
 
 Official Resources
 

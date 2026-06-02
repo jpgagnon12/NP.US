@@ -44,7 +44,15 @@ Stargazing, wildflower viewing in strong bloom years, photography, geology, and 
 Camping and Lodging
 
 
-Use NPS Camping details for Furnace Creek Campground and the park's other campgrounds, many of which operate with limited services. Summer heat can be dangerous, so check conditions before camping or hiking.
+Furnace Creek Campground is the main developed campground in Death Valley and the primary NPS campground with seasonal reservations. It is centrally located near Furnace Creek services but can be very hot outside the cooler season.
+
+Texas Springs Campground and Sunset Campground are lower-elevation Furnace Creek area campgrounds that typically serve cooler-season visitors. Texas Springs is smaller and generator-free, while Sunset is one of the park's largest campgrounds.
+
+Stovepipe Wells Campground is a lower-elevation campground near Mesquite Flat Sand Dunes and Stovepipe Wells services. It is generally a cooler-season option because summer heat can be dangerous.
+
+Mesquite Spring Campground is a northern park campground that can be useful for travelers visiting Ubehebe Crater, Scotty's Castle Road area, or the park's north end.
+
+Emigrant Campground, Wildrose Campground, Thorndike Campground, and Mahogany Flat Campground provide more limited or higher-elevation camping options, with road, vehicle-length, and seasonal conditions varying by site. Use the NPS Camping page before choosing a campground.
 
 Official Resources
 

@@ -44,7 +44,15 @@ Stargazing is a major Great Basin activity because the park has famously dark ni
 Camping and Lodging
 
 
-Use NPS Camping details for developed campgrounds at several elevations, where seasons vary. Backcountry camping is available with low-impact travel practices.
+Lower Lehman Creek Campground is one of Great Basin's lower-elevation developed campgrounds and can be useful earlier or later in the season than the highest campgrounds. Check the NPS Camping page for current opening dates and water status.
+
+Upper Lehman Creek Campground sits higher along the Wheeler Peak Scenic Drive corridor and gives campers convenient access toward the park's mountain scenery when the road and campground are open.
+
+Wheeler Peak Campground is the high-elevation campground closest to the Alpine Lakes, Bristlecone, Glacier, and Wheeler Peak trailheads. Snow, road closures, and short seasons can affect access.
+
+Baker Creek Campground offers a quieter developed option along Baker Creek Road, with access to forested scenery and the west side of the park's trail network.
+
+Grey Cliffs Campground includes group camping options and is useful for visitors who need more space than a standard individual campsite. Primitive camping and backcountry camping are also available with low-impact travel practices.
 
 Official Resources
 

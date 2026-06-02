@@ -42,7 +42,11 @@ Stargazing, photography, wildlife viewing, camping at Pinon Flats, and sunset vi
 Camping and Lodging
 
 
-Use NPS Camping details for Pinon Flats Campground, which is reservable seasonally, and for backcountry permit planning in dune and mountain zones. Wind, lightning, and hot sand are important hazards.
+Pinon Flats Campground is the main vehicle-access campground inside Great Sand Dunes National Park, with seasonal reservations and convenient access to the dunes, Medano Creek area, and main day-use corridor.
+
+Medano Pass Primitive Road has primitive roadside campsites when the road is open and conditions allow. These sites require high-clearance four-wheel-drive planning and are more self-sufficient than Pinon Flats.
+
+Backcountry camping in dune and mountain zones requires permits and careful planning. Wind, lightning, hot sand, navigation, and overnight temperature swings are important hazards.
 
 Official Resources
 

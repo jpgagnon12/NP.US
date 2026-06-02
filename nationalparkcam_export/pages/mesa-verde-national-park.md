@@ -44,7 +44,11 @@ Photography, cultural history, scenic driving, camping at Morefield Campground, 
 Camping and Lodging
 
 
-Morefield Campground is the main campground in the park, generally operating seasonally near the entrance road. Lodging and dining are also available seasonally inside the park, with additional hotels, restaurants, fuel, and supplies in Cortez, Mancos, and Durango. Summer heat, high elevation, limited shade, and changing tour availability can shape the pace of a visit.
+Morefield Campground is the main campground in Mesa Verde, generally operating seasonally near the entrance road. It works well as a base for cliff dwelling tours, Chapin Mesa, Wetherill Mesa, and evening programs when those services are available.
+
+Far View Lodge is the primary in-park lodging option when operating seasonally. Lodging, restaurants, fuel, and supplies are also available in Cortez, Mancos, and Durango.
+
+Summer heat, high elevation, limited shade, and changing tour availability can shape the pace of a visit, so use the NPS Camping page and lodging resources before finalizing overnight plans.
 
 Official Resources
 

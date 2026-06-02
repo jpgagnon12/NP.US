@@ -44,7 +44,9 @@ The east entrance is best for the visitor center, campground, and Bear Gulch are
 Camping and Lodging
 
 
-Pinnacles Campground is located on the east side of the park and is the main developed overnight option; the NPS Camping page has current details. There is no road through the park to the west entrance, so campers should plan around east-side access. Lodging, restaurants, fuel, and supplies are available in nearby gateway communities such as Soledad, Hollister, King City, and Paicines.
+Pinnacles Campground is located on the east side of the park and is the main developed overnight option. It offers tent, group, and RV sites, with water and campground services available through the park concessioner.
+
+There is no road through the park to the west entrance, so campers should plan around east-side access. Lodging, restaurants, fuel, and supplies are available in nearby gateway communities such as Soledad, Hollister, King City, and Paicines.
 
 Official Resources
 

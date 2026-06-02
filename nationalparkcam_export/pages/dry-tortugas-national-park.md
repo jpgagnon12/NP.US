@@ -28,7 +28,7 @@ Walking, Snorkeling, and Camping
 
 Dry Tortugas is not a hiking or backpacking park, but visitors can spend hours walking Fort Jefferson, the moat wall, and the shoreline around Garden Key. Snorkeling, swimming, paddling, and birding are the main outdoor activities, with conditions depending on wind, water clarity, and season.
 
-NPS Camping information covers Garden Key, where overnight stays function more like remote island camping than backpacking. Campers must bring all supplies, including water, and be prepared to pack out trash and handle schedule changes caused by weather or transportation.
+Garden Key is the park's overnight camping area, where stays function more like remote island camping than backpacking. Campers must bring all supplies, including water, and be prepared to pack out trash and handle schedule changes caused by weather or transportation.
 
 Planning Highlights
 
@@ -44,7 +44,9 @@ Camping on Garden Key allows more time for sunset, stars, snorkeling, and quiete
 
 Camping and Lodging
 
-Use NPS Camping details for Garden Key sites reached by ferry or private boat. Campers must bring all supplies and pack out trash.
+Garden Key Campground is the only regular campground in Dry Tortugas National Park. Campsites are primitive, close to Fort Jefferson, and reached by ferry, private vessel, or permitted transport.
+
+Regular Garden Key sites are first come, first served once campers arrive, while group camping has separate rules. Campers must bring all water, food, shade, and supplies, and must pack out trash from this remote island setting.
 
 Official Resources
 

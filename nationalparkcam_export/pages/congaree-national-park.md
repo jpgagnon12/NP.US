@@ -42,7 +42,11 @@ Wildlife viewing, birding, and seasonal firefly viewing are strong reasons to vi
 Camping and Lodging
 
 
-Longleaf Campground and Bluff Campground require reservations, while backcountry camping requires a permit. Mosquitoes, heat, and flooding are major planning factors.
+Longleaf Campground is Congaree's main frontcountry campground near the park entrance road. It has individual and group tent sites, and reservations are required before setting up camp.
+
+Bluff Campground is a more walk-in style campground reached from the Bluff Trail area, with no vehicle access directly to the sites. Campers must carry gear in and reserve their site in advance.
+
+Backcountry camping is available by permit for visitors who want a more remote floodplain experience. Mosquitoes, heat, flooding, navigation, and water levels are major planning factors.
 
 Official Resources
 

@@ -44,7 +44,11 @@ Kayaking, flightseeing, fishing from nearby Seward, photography, and wildlife vi
 Camping and Lodging
 
 
-Use NPS Camping details for backcountry cabins and coastal camping, which require planning around weather, tides, and bear safety. There is no frontcountry campground in the park.
+Exit Glacier Campground is the park's small tent-only campground in the Exit Glacier area. Sites are first come, first served in season, and campers must follow food-storage rules because bears and other wildlife live nearby.
+
+Coastal camping is possible in backcountry areas of Kenai Fjords, but it requires planning around boat or water-taxi access, tides, landing beaches, weather, and bear safety.
+
+Public use cabins and nearby Seward-area campgrounds can help visitors build longer trips, but there are no RV campsites or overnight vehicle camping areas inside Kenai Fjords National Park.
 
 Official Resources
 

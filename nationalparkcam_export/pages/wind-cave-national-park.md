@@ -44,7 +44,9 @@ Scenic driving, camping at Elk Mountain Campground, nearby Black Hills attractio
 Camping and Lodging
 
 
-Elk Mountain Campground is the main campground in Wind Cave National Park and is generally first come, first served. The NPS Camping page has current campground details, seasonal availability, and regulations. Nearby Hot Springs, Custer, and Black Hills communities offer lodging, restaurants, and additional campgrounds.
+Elk Mountain Campground is the main campground in Wind Cave National Park, set between ponderosa pine forest and open prairie. It is the primary developed basecamp for cave tours, prairie wildlife viewing, and surface trails.
+
+Backcountry camping is allowed in the northern part of the park with a free permit. Nearby Hot Springs, Custer, and Black Hills communities offer lodging, restaurants, and additional campgrounds.
 
 Official Resources
 
