@@ -14,7 +14,7 @@ Congaree was first protected as Congaree Swamp National Monument on October 18, 
 Top Hikes
 
 
-Use the NPS Hiking page for current Congaree trail and flood conditions. Most Congaree hikes have minimal elevation gain, but flooding, mud, insects, and heat can make easy mileage feel slower.
+Use the NPS Trail Information page and Park Trail Guide for current Congaree trail and flood conditions. Most Congaree hikes have minimal elevation gain, but flooding, mud, insects, and heat can make easy mileage feel slower.
 
 Boardwalk Loop Trail is a 2.6-mile (4.2 km) loop with minimal elevation gain through old-growth bottomland forest near the visitor center.
 
