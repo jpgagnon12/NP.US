@@ -76,5 +76,5 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Eating and Sleeping: https://www.nps.gov/cany/planyourvisit/eatingsleeping.htm
 - Goods and Services: https://www.nps.gov/cany/planyourvisit/goodsandservices.htm
 - Permits: https://www.nps.gov/cany/planyourvisit/permitsandreservations.htm
-- Recreation.gov: https://www.recreation.gov/search?q=Canyonlands%20National%20Park&entity_type=recarea&inventory_type=camping
+- Recreation.gov: https://www.recreation.gov/camping/gateways/2616
 - Wikipedia: https://en.wikipedia.org/wiki/Canyonlands_National_Park

@@ -75,5 +75,5 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Safety: https://www.nps.gov/deva/planyourvisit/safety.htm
 - Furnace Creek Campground: https://www.nps.gov/deva/planyourvisit/camping-in-death-valley.htm
 - Camping: https://www.nps.gov/deva/planyourvisit/camping-in-death-valley.htm
-- Recreation.gov: https://www.recreation.gov/search?q=Death%20Valley%20National%20Park&entity_type=recarea&inventory_type=camping
+- Recreation.gov: https://www.recreation.gov/camping/gateways/2662
 - Wikipedia: https://en.wikipedia.org/wiki/Death_Valley_National_Park

@@ -65,5 +65,5 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Cedar Pass Campground: https://www.nps.gov/badl/planyourvisit/eatingsleeping.htm
 - Sage Creek Campground: https://www.nps.gov/badl/planyourvisit/eatingsleeping.htm
 - Camping: https://www.nps.gov/badl/planyourvisit/eatingsleeping.htm
-- Recreation.gov: https://www.recreation.gov/search?q=Badlands%20National%20Park&entity_type=recarea&inventory_type=camping
+- Recreation.gov: https://www.recreation.gov/gateways/2578
 - Wikipedia: https://en.wikipedia.org/wiki/Badlands_National_Park

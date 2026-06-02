@@ -213,7 +213,7 @@ Image: Email
 - Fishing: https://www.nps.gov/yose/planyourvisit/fishing.htm
 - California fishing license: https://www.ca.wildlifelicense.com/internetsales/
 - Camping: https://www.nps.gov/yose/planyourvisit/camping.htm
-- recreation.gov: https://www.recreation.gov/search?q=Yosemite%20National%20Park&entity_id=2991&entity_type=recarea&inventory_type=camping&parent_asset_id=2991
+- recreation.gov: https://www.recreation.gov/camping/gateways/2991
 - Upper Pines: https://www.nps.gov/yose/planyourvisit/pinescampgrounds.htm
 - Hotels: https://www.nps.gov/yose/planyourvisit/lodging.htm
 - The Ahwahnee Hotel: https://www.travelyosemite.com/lodging/the-ahwahnee/

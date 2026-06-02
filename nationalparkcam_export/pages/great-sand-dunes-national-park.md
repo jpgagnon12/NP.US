@@ -69,5 +69,5 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Sandboarding and Sledding: https://www.nps.gov/grsa/planyourvisit/sandboardingsandsledding.htm
 - Pinon Flats Campground: https://www.nps.gov/grsa/planyourvisit/camping.htm
 - Camping: https://www.nps.gov/grsa/planyourvisit/camping.htm
-- Recreation.gov: https://www.recreation.gov/search?q=Great%20Sand%20Dunes%20National%20Park%20and%20Preserve&entity_type=recarea&inventory_type=camping
+- Recreation.gov: https://www.recreation.gov/camping/gateways/2738
 - Wikipedia: https://en.wikipedia.org/wiki/Great_Sand_Dunes_National_Park

@@ -69,5 +69,5 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Longleaf Campground: https://www.nps.gov/cong/planyourvisit/camping.htm
 - Bluff Campground: https://www.nps.gov/cong/planyourvisit/camping.htm
 - Camping: https://www.nps.gov/cong/planyourvisit/camping.htm
-- Recreation.gov: https://www.recreation.gov/search?q=Congaree%20National%20Park&entity_type=recarea&inventory_type=camping
+- Recreation.gov: https://www.recreation.gov/camping/gateways/2644
 - Wikipedia: https://en.wikipedia.org/wiki/Congaree_National_Park

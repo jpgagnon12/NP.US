@@ -72,5 +72,5 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Things To Do: https://www.nps.gov/grba/planyourvisit/things2do.htm
 - Lehman Caves: https://www.nps.gov/grba/planyourvisit/lehman-caves-tours.htm
 - Camping: https://www.nps.gov/grba/planyourvisit/camping.htm
-- Recreation.gov: https://www.recreation.gov/search?q=Great%20Basin%20National%20Park&entity_type=recarea&inventory_type=camping
+- Recreation.gov: https://www.recreation.gov/camping/gateways/2732
 - Wikipedia: https://en.wikipedia.org/wiki/Great_Basin_National_Park

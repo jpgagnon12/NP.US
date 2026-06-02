@@ -71,5 +71,5 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Hiking: https://www.nps.gov/care/planyourvisit/hiking.htm
 - Fruita Campground: https://www.nps.gov/care/planyourvisit/campinga.htm
 - Camping: https://www.nps.gov/care/planyourvisit/campinga.htm
-- Recreation.gov: https://www.recreation.gov/search?q=Capitol%20Reef%20National%20Park&entity_type=recarea&inventory_type=camping
+- Recreation.gov: https://www.recreation.gov/camping/gateways/2617
 - Wikipedia: https://en.wikipedia.org/wiki/Capitol_Reef_National_Park

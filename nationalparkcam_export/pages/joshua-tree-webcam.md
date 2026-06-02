@@ -144,7 +144,7 @@ Image: Email
 - The West Side Loop Trail: https://www.nps.gov/jotr/planyourvisit/black-rock-area-hiking.htm
 - Backpacking: https://www.nps.gov/jotr/planyourvisit/backpacking.htm
 - Recreation.gov: https://www.recreation.gov/permits/4675329
-- Recreation.gov: https://www.recreation.gov/search?q=Joshua%20Tree%20National%20Park&entity_id=2782&entity_type=recarea&inventory_type=camping&parent_asset_id=2782
+- Recreation.gov: https://www.recreation.gov/camping/gateways/2782
 - Campgrounds: https://www.nps.gov/jotr/planyourvisit/campgrounds.htm
 - Black Rock Campground: https://www.nps.gov/jotr/planyourvisit/black-rock-campground.htm
 - Cottonwood Campground: https://www.nps.gov/jotr/planyourvisit/cottonwood-campground.htm

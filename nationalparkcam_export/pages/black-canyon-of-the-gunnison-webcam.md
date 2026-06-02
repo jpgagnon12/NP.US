@@ -114,7 +114,7 @@ Image: Email
 - Wikipedia site: https://en.wikipedia.org/wiki/Black_Canyon_of_the_Gunnison_National_Park
 - NPS website: https://www.nps.gov/blca/planyourvisit/hikingtrails.htm
 - NPS website: https://www.nps.gov/blca/planyourvisit/fishing.htm
-- recreation.gov: https://www.recreation.gov/search?q=Black%20Canyon%20of%20the%20Gunnison%20National%20Park&entity_id=2592&entity_type=recarea
+- recreation.gov: https://www.recreation.gov/camping/gateways/2592
 - NPS website: https://www.nps.gov/blca/planyourvisit/camping.htm
 - South Rim Campground: https://www.nps.gov/blca/planyourvisit/camp_southrim.htm
 - North Rim Campground: https://www.nps.gov/blca/planyourvisit/camp_northrim.htm
