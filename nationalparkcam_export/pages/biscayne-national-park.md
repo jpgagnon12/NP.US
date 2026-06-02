@@ -46,7 +46,7 @@ Camping and Lodging
 
 Boca Chita Key is Biscayne's most popular island camping area, with waterfront scenery, picnic tables, grills, and toilets. There are no showers, sinks, or drinking water, so campers must arrive by boat with all water, food, and supplies.
 
-Elliott Key Campground offers boat-access camping on the park's largest island. Services are limited, and weather, tides, transportation, and first-come availability should shape every camping plan.
+Elliott Key Campground offers boat-access camping on the park's largest island. Services are limited, and NPS notes that camping is first come, first served rather than reserved through Recreation.gov, so weather, tides, transportation, and arrival timing should shape every camping plan.
 
 Biscayne has no car-access campground and no backcountry camping outside designated island camping areas. Use the NPS Camping page before planning transportation or overnight logistics.
 

@@ -42,7 +42,7 @@ Wildlife viewing is strongest around dawn, dusk, and quieter prairie areas where
 Camping and Lodging
 
 
-Cedar Pass Campground is the main developed campground in Badlands, with reservable sites near the Cedar Pass area and convenient access to Badlands Loop Road, the visitor center area, and nearby short trails. Use the NPS Camping page for current fees, seasons, and reservation details.
+Cedar Pass Campground is the main developed campground in Badlands, with reservable sites near the Cedar Pass area and convenient access to Badlands Loop Road, the visitor center area, and nearby short trails. Cedar Pass Campground reservations should be checked through Recreation.gov, and the NPS Camping page has current fees, seasons, and campground details.
 
 Sage Creek Campground is the park's more rustic frontcountry campground in the western part of Badlands. It has limited services and a quieter prairie setting, so visitors should arrive self-sufficient and check current road and weather conditions before going.
 

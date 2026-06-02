@@ -46,7 +46,7 @@ Camping
 
 Canyonlands has two frontcountry campgrounds: Island in the Sky Campground and The Needles Campground. Island in the Sky is small, open year-round, and first-come, first-served; The Needles has individual sites, some seasonal reservations, and separate group camping. Use the NPS Camping page before choosing a district because water, services, road access, and reservation rules differ across the park.
 
-Backcountry Camping is a major part of Canyonlands, but all overnight backcountry trips require permits and careful planning. Visitors should use the NPS Backcountry Camping and Permits pages for current rules, route options, water planning, and reservation timing.
+Backcountry Camping is a major part of Canyonlands, but all overnight backcountry trips require permits and careful planning. Visitors should use the NPS Backcountry Camping and Permits pages for current rules, route options, water planning, and permit reservations through Recreation.gov.
 
 Lodging
 
