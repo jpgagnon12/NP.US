@@ -33,6 +33,8 @@ Backcountry travel is allowed in much of Badlands, but there are few maintained 
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Badlands Loop Road is the easiest way to see the park's overlooks, fossil beds, prairie, and layered formations in a single visit. Sunrise and sunset along the Wall, Big Badlands Overlook, Panorama Point, and Pinnacles Overlook are especially useful for photography and wildlife viewing.
 
 Wildlife viewing is strongest around dawn, dusk, and quieter prairie areas where bison, bighorn sheep, pronghorn, prairie dogs, coyotes, raptors, and other animals may be seen. Visitors should keep distance from wildlife and prepare for heat, wind, and fast-changing storms.

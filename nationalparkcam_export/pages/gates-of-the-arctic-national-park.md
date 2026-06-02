@@ -35,6 +35,8 @@ Backpacking is one of the main reasons to visit Gates of the Arctic, but trips s
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Rafting and floating Arctic rivers are major trip types for experienced visitors and guided groups. Popular routes can include portions of the Noatak, Kobuk, Alatna, John, Koyukuk, and other wild rivers depending on access, water level, and skill.
 
 Wildlife viewing, photography, flightseeing, fishing, and basecamp trips are common ways to experience the Brooks Range without attempting a long point-to-point route. Visitors may see caribou, bears, Dall sheep, wolves, raptors, and broad tundra landscapes.

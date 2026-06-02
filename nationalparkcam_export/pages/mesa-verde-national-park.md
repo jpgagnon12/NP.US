@@ -33,6 +33,8 @@ Backpacking is not a typical visitor activity in Mesa Verde because hiking is li
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Cliff dwelling tours are the main thing to do in Mesa Verde National Park. Cliff Palace, Balcony House, Long House, and other sites may require timed planning, seasonal access, and current guidance from the park.
 
 Mesa Top Loop Road, Far View Sites, Chapin Mesa Archeological Museum, overlooks, and short walks help visitors understand the broader Ancestral Pueblo landscape beyond the famous cliff dwellings.

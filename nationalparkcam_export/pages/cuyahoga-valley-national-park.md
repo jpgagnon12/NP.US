@@ -33,6 +33,8 @@ Backpacking is not a primary activity in Cuyahoga Valley because the park does n
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 The Ohio and Erie Canal Towpath Trail is the main recreation corridor in Cuyahoga Valley National Park. Visitors can walk, run, or bike long sections of the trail while connecting canal history, river views, wetlands, farms, and gateway towns.
 
 Biking is one of the strongest activities in Cuyahoga Valley because the Towpath Trail and Bike Aboard train option make the park unusually bike-friendly. The Scenic Railroad is also a major attraction for families and visitors who want a low-effort way to see the valley.

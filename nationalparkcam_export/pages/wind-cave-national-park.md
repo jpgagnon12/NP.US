@@ -33,6 +33,8 @@ Backcountry camping is allowed by permit in designated areas, but water sources 
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Cave Tours are the headline thing to do in Wind Cave National Park, and tour availability should be checked before arrival. The cave is known for boxwork formations and a long underground system beneath the prairie.
 
 Wildlife viewing is a major activity. Bison, elk, pronghorn, prairie dogs, deer, coyotes, raptors, and other prairie wildlife are often part of the experience, especially along park roads near sunrise or sunset.

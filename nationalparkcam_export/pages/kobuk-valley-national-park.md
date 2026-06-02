@@ -33,6 +33,8 @@ Backpacking is possible for highly prepared wilderness travelers, but the park's
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 The Great Kobuk Sand Dunes are the most famous thing to do in Kobuk Valley National Park. Visitors usually reach them by air taxi and explore dunes, tundra, and river corridors from a remote basecamp.
 
 Floating the Kobuk River is another major way to experience the park. River trips can combine camping, fishing, wildlife viewing, and travel through a broad Arctic landscape, but logistics require careful coordination.

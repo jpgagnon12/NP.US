@@ -33,6 +33,8 @@ Backcountry camping is available with low-impact practices and careful route pla
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Lehman Caves tours are one of the main things to do in Great Basin National Park, and reservations should be checked before arrival. The cave system adds a very different experience from the park's high desert and mountain scenery.
 
 Wheeler Peak Scenic Drive is a seasonal highlight when the road is open. It connects lower sagebrush country with cooler forests, high-elevation overlooks, picnic areas, and some of the park's best mountain views.

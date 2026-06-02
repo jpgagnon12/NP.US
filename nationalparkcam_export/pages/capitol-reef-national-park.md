@@ -33,6 +33,8 @@ Backpacking is available in remote sections of the park, including canyon routes
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 The Fruita area and Scenic Drive are the easiest places to start a Capitol Reef visit. Visitors can see orchards, historic buildings, petroglyphs, canyon walls, and classic overlooks without committing to remote roads.
 
 Scenic drives are a major part of the Capitol Reef experience because the landscape stretches far beyond the main Fruita corridor. Cathedral Valley, Notom-Bullfrog Road, and the Waterpocket District are memorable routes when road and weather conditions allow.

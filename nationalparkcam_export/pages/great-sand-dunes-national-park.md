@@ -33,6 +33,8 @@ NPS Backpacking guidance is useful for designated dune and mountain zones with p
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Sandboarding and sledding are major visitor activities and work best with proper boards rented outside the park. Medano Creek is another seasonal highlight, especially during spring and early summer flows.
 
 Stargazing, photography, wildlife viewing, camping at Pinon Flats, and sunset visits help make the park a strong overnight destination.

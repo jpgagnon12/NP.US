@@ -33,6 +33,8 @@ NPS Backpacking guidance is important for remote canyons, washes, and mountain r
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Scenic driving is one of the best things to do in Death Valley National Park because the park is enormous. Badwater Basin, Zabriskie Point, Dante View, Artist Drive, Mesquite Flat Sand Dunes, Ubehebe Crater, and Father Crowley Vista can anchor a first visit.
 
 Canyoneering and remote road travel are possible for experienced desert travelers. Visitors should use park safety resources, check road conditions, and carry extra water, food, fuel, navigation, and tire equipment.

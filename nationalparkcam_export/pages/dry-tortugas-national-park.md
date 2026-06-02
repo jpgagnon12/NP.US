@@ -32,6 +32,8 @@ NPS Camping information covers Garden Key, where overnight stays function more l
 
 Planning Highlights
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Fort Jefferson is the central thing to do in Dry Tortugas National Park. Visitors can tour the fort, walk the moat wall, photograph the brick arches, and learn about coastal defense, Civil War history, and remote island life.
 
 Snorkeling is another major reason people visit Dry Tortugas. The moat wall, pilings, coral, fish, and clear water can make the park one of the best national park snorkeling destinations when weather and visibility cooperate.

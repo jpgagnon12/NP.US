@@ -33,6 +33,8 @@ Backpacking and coastal camping are possible but require planning around tides, 
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Exit Glacier is the easiest place to start a Kenai Fjords National Park visit. Short trails and viewpoints help visitors see the glacier landscape, climate-change markers, and the edge of the Harding Icefield.
 
 Boat tours are a signature Kenai Fjords activity because much of the park is coastal. Wildlife and glacier cruises from Seward can include tidewater glaciers, fjords, whales, sea otters, seals, puffins, and seabird colonies.

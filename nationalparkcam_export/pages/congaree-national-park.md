@@ -33,6 +33,8 @@ Backcountry Camping is available by permit and is often tied to hiking or paddli
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Cedar Creek paddling is one of the park's signature experiences. Canoeing and kayaking through quiet floodplain forest can be excellent, but visitors should check water levels, downed trees, insects, heat, and current conditions before launching.
 
 Wildlife viewing, birding, and seasonal firefly viewing are strong reasons to visit Congaree at different times of year. Flooding, mosquitoes, humidity, and trail closures can change the best plan from week to week.

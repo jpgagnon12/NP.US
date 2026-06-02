@@ -32,6 +32,8 @@ There is no backpacking in the usual sense, but overnight stays are possible at 
 
 Planning Highlights
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 The Dante Fascell Visitor Center is the best first stop before choosing boat tours, snorkeling, paddling, fishing, or island visits. The Things To Do page and Boat Tours information are especially important because most of Biscayne National Park is reached by water.
 
 Snorkeling and diving are signature Biscayne activities, especially around coral reefs, clear shallows, and the Maritime Heritage Trail shipwreck sites. Weather, water clarity, and tour availability can change the experience quickly, so flexible planning helps.

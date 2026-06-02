@@ -33,6 +33,8 @@ Backpacking is not a standard activity in Indiana Dunes National Park. Overnight
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Beaches are the most popular things to do in Indiana Dunes National Park, especially in summer. West Beach, Lake View, Mount Baldy access areas, and other Lake Michigan shoreline stops offer swimming, walking, sunsets, and dune views when conditions allow.
 
 Birding and wildlife viewing are strong activities because the park sits along Lake Michigan migration routes and protects several habitat types. Spring migration, fall migration, and wildflower seasons can all shape a visit.

@@ -33,6 +33,8 @@ Backcountry use is limited compared with large wilderness parks, but primitive d
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Cave tours are the main thing to do in Carlsbad Caverns National Park. The Big Room and Natural Entrance routes are the classic self-guided experiences, while ranger-guided Cave Tours and Reservations are important for visitors who want deeper access to the cave system.
 
 The seasonal bat flight program is another major draw. Evening programs near the cave entrance give visitors a chance to watch bats leave the cavern when conditions and timing are right.

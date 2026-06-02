@@ -35,6 +35,8 @@ Backpacking is one of Lake Clark's signature experiences for prepared wilderness
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Twin Lakes, Port Alsworth, Tanalian Falls, Lake Clark, and the historic Proenneke cabin are major things to do in Lake Clark National Park and Preserve. These places combine wilderness scenery, human history, and access to the lake-and-mountain heart of the park.
 
 Bear viewing is one of the park's most searched activities, especially along coastal areas where brown bears feed on sedges, clams, and salmon. Guided trips are common because flights, tides, wildlife behavior, and safety all matter.

@@ -33,6 +33,8 @@ Backpacking is not a standard activity at Pinnacles because the park does not of
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 California condor viewing is a major reason to visit. High Peaks and open ridgelines can be good places to scan for condors, turkey vultures, and raptors while keeping distance from wildlife.
 
 Rock climbing is another important Pinnacles activity, with routes on volcanic breccia formations. Climbers should check seasonal closures, raptor protections, and current park guidance before choosing routes.

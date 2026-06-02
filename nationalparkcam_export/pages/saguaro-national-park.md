@@ -31,6 +31,8 @@ Backpacking is available in the Saguaro Wilderness in the Rincon Mountain Distri
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Bajada Loop Drive and Cactus Forest Drive are the easiest ways to see Saguaro National Park by vehicle. Scenic pullouts, cactus forests, mountain views, and sunset light make both districts useful for short visits.
 
 Wildflower viewing, birding, photography, and wildlife watching are especially strong in spring, early morning, and late afternoon. Visitors may see cactus blooms, desert birds, reptiles, javelina, coyotes, and dramatic monsoon-season skies.

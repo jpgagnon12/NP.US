@@ -33,6 +33,8 @@ Backpacking and overnight use are limited by current park conditions. The NPS Pe
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Dunes Drive is the main way to explore White Sands National Park, with pullouts, picnic areas, and access to the gypsum dune field. Sunset, sunrise, and storm light are especially popular for photography.
 
 Sledding is one of the most popular family activities in the park. Ranger programs, full moon events, wildlife tracks, photography, and quiet walks add more reasons to stay beyond a quick roadside stop.

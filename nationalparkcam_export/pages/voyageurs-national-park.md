@@ -31,6 +31,8 @@ Backpacking is possible, but it works differently than in many parks. The NPS Ca
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Boating is the signature thing to do in Voyageurs National Park because most campsites, shorelines, and lake destinations are reached by water. Rainy Lake, Kabetogama Lake, Namakan Lake, Sand Point Lake, Ash River, and Kettle Falls all shape different trip styles.
 
 Fishing is one of the park's strongest activities, with walleye, northern pike, smallmouth bass, and other species drawing many visitors. Regulations, seasons, and weather should be checked before planning time on the water.

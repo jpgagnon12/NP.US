@@ -33,6 +33,8 @@ Backpacking is not a standard activity here. NPS Laws and Policies state that ov
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Ofu is known for its beach, reef, snorkeling, and quiet South Pacific setting. Visitors should plan around transportation, tides, reef safety, weather, and local guidance before entering the water.
 
 Ta'u offers rainforest, volcanic slopes, coastal views, and a deeper sense of remoteness. Cultural respect is central to visiting the National Park of American Samoa because the park protects land, reef, and Samoan village landscapes together.

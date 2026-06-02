@@ -33,6 +33,8 @@ NPS Backpacking guidance is important for Canyonlands, especially in The Needles
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Island in the Sky is the easiest district for first-time visitors, with Green River Overlook, White Rim Overlook, and Upheaval Dome offering big canyon views from short walks and paved roads.
 
 Scenic driving and four-wheel-drive travel are major Canyonlands activities. White Rim Road, Elephant Hill, Cathedral Butte, and Maze-area roads can be outstanding, but visitors should check current road conditions and carry enough water, fuel, and recovery gear.

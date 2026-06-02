@@ -35,6 +35,8 @@ Backpacking is not a major activity in Hot Springs National Park because the tra
 Planning Highlights
 
 
+Use the NPS Things To Do page for current activity ideas, seasonal guidance, accessibility notes, and park alerts before planning your visit.
+
 Bathhouse Row is the main thing to do in Hot Springs National Park. Visitors can tour the Fordyce Bathhouse Visitor Center, see historic bathhouse architecture, fill bottles at public thermal fountains, and learn how the protected thermal water shaped the town.
 
 Scenic driving and short walks can be combined with the Hot Springs Mountain Tower area, historic downtown, and bathhouse experiences. The park is compact, so visitors can fit several activities into one day.
