@@ -67,7 +67,7 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Maps: https://www.nps.gov/hosp/planyourvisit/maps.htm
 - Things To Do: https://www.nps.gov/hosp/planyourvisit/things2do.htm
 - Bathhouse Row: https://www.nps.gov/hosp/learn/historyculture/bathhouse-row-today.htm
-- Gulpha Gorge Campground: https://www.nps.gov/hosp/planyourvisit/camping.htm
-- Camping: https://www.nps.gov/hosp/planyourvisit/camping.htm
+- Gulpha Gorge Campground: https://www.nps.gov/hosp/planyourvisit/campground.htm
+- Camping: https://www.nps.gov/hosp/planyourvisit/campground.htm
 - Recreation.gov: https://www.recreation.gov/camping/campgrounds/247559
 - Wikipedia: https://en.wikipedia.org/wiki/Hot_Springs_National_Park

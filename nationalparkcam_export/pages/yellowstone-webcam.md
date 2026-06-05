@@ -176,7 +176,7 @@ Image: Email
 - Webcams - Yellowstone National Park A variety of webcams provide live views throughout Yellowstone.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fyell%2Flearn%2Fphotosmultimedia%2Fwebcams.htm&sa=D&sntz=1&usg=AOvVaw0EyewtmmY7Oc2ZelxBWeVC
 - Wikipedia: https://en.wikipedia.org/wiki/Yellowstone_National_Park
 - NPS site: https://www.nps.gov/yell/planyourvisit/hiking.htm
-- how to use bear spray: https://www.rei.com/blog/hike/how-to-use-bear-spray
+- how to use bear spray: https://www.nps.gov/subjects/bears/safety.htm
 - Fairy Falls: https://www.nps.gov/thingstodo/yell-trail-mystic-falls.htm
 - NPS site: https://www.nps.gov/thingstodo/yell-trail-dunraven-pass-mount-washburn.htm
 - NPS site: https://www.nps.gov/thingstodo/yell-trail-bunsen-peak.htm

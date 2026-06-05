@@ -171,7 +171,7 @@ Image: Email
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
 - Grand Teton National Park Rising above a scene rich with extraordinary wildlife, pristine lakes, and alpine terrain, the Teton Range stands as a monument to the people who fought to protect it. These are mountains of the imagination. Mountains that led to the creation of Grand Teton National Park where you can explore over two hundred miles of trails, float the Snake River, and enjoy the serenity of this remarkable place.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fgrte%2Findex.htm&sa=D&sntz=1&usg=AOvVaw3ggxIJXrpgWenv-Gxafo1f
 - 2022 , 2.81 million visited the park.: https://en.wikipedia.org/wiki/Grand_Teton_National_Park
-- what to do: https://www.rei.com/blog/hike/how-to-use-bear-spray
+- what to do: https://www.nps.gov/subjects/bears/safety.htm
 - Day Hikes: https://www.nps.gov/grte/planyourvisit/hike.htm
 - Phelps Lake Overlook: https://home.nps.gov/thingstodo/phelpsoverlook.htm
 - Jenny Lake Loop: https://home.nps.gov/thingstodo/jennylakeloop.htm

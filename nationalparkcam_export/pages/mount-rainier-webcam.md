@@ -181,11 +181,11 @@ Image: Email
 - Cougar Rock Campground: https://www.nps.gov/mora/planyourvisit/upload/CougarRock2006.pdf
 - Ohanapecosh Campground: https://www.nps.gov/mora/planyourvisit/upload/Ohanapecosh7-2019_.pdf
 - White River Campground: https://www.nps.gov/mora/planyourvisit/upload/WhiteRiver2008.pdf
-- Rainier Guest Services: https://mtrainierguestservices.com/accommodations/national-park-inn/
-- The Paradise Inn: https://mtrainierguestservices.com/accommodations/paradise-inn/
+- Rainier Guest Services: https://www.nps.gov/mora/planyourvisit/lodging.htm
+- The Paradise Inn: https://www.nps.gov/places/paradise-inn.htm
 - Summit House Restaurant: https://www.crystalmountainresort.com/things-to-do/dining/summit-house-restaurant
-- National Park Inn Dining Room: https://mtrainierguestservices.com/nationalparkinndining/
+- National Park Inn Dining Room: https://www.nps.gov/mora/planyourvisit/restaurants.htm
 - The Snorting Elk Cellar: https://www.crystalhotels.com/dining
 - Alpine Inn Restaurant: https://www.crystalhotels.com/dining
-- Sunrise Day Lodge: https://mtrainierguestservices.com/sunrisedaylodgedining/
+- Sunrise Day Lodge: https://www.nps.gov/mora/planyourvisit/restaurants.htm
 - mailto:npcam012@gmail.com: mailto:npcam012@gmail.com

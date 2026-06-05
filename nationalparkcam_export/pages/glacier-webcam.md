@@ -225,7 +225,7 @@ Image: Email
 - North Fork and Goat Haunt: https://www.nps.gov/glac/planyourvisit/hikingnorthfork.htm
 - St Mary/Logan Pass: https://www.nps.gov/glac/planyourvisit/hikingstmary.htm
 - Two Medicine: https://www.nps.gov/glac/planyourvisit/hikingtwomedicine.htm
-- how to use bear spray: https://www.rei.com/blog/hike/how-to-use-bear-spray
+- how to use bear spray: https://www.nps.gov/subjects/bears/safety.htm
 - recreation.gov: https://www.recreation.gov/permits/4675321
 - website: https://www.graniteparkchalet.com/index.php
 - campgrounds: https://www.nps.gov/glac/planyourvisit/camping.htm

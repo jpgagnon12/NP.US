@@ -161,7 +161,7 @@ Image: Email
 - site: https://katmailand.com/brooks-lodge-lottery/
 - Grosvenor Lodge: https://grosvenorlodge.com/the-lodge/
 - site: https://grosvenorlodge.com/info/plan-your-trip/
-- how to use bear spray: https://www.rei.com/blog/hike/how-to-use-bear-spray
+- how to use bear spray: https://www.nps.gov/subjects/bears/safety.htm
 - Brooks Camp: https://www.nps.gov/katm/planyourvisit/plyovicamp.htm
 - recreation.gov: https://www.recreation.gov/permits/249991
 - camp: https://www.nps.gov/katm/planyourvisit/campingbcdv.htm

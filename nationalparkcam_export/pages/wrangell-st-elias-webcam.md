@@ -135,7 +135,7 @@ Image: Email
 - Wrangell - St Elias National Park & Preserve: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fwrst%2Findex.htm&sa=D&sntz=1&usg=AOvVaw30pSKlz-EGEyZ2TzOdFK5d
 - UNESCO World Heritage Site: https://whc.unesco.org/en/list/72/
 - wikipedia: https://en.wikipedia.org/wiki/Wrangell%E2%80%93St._Elias_National_Park_and_Preserve
-- REI site: https://www.rei.com/blog/hike/how-to-use-bear-spray
+- REI site: https://www.nps.gov/subjects/bears/safety.htm
 - maps: https://www.nps.gov/wrst/planyourvisit/copper-center-area-trails.htm
 - here: https://www.nps.gov/wrst/planyourvisit/upload/Chitina-Area-Trails.pdf
 - maps: https://www.nps.gov/wrst/planyourvisit/mccarthy-rd-kennecott-trails.htm

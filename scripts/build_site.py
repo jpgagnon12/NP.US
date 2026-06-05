@@ -244,7 +244,7 @@ CAMPING_LINK_ALIASES = {
         "Pinon Flats Campground": "https://www.nps.gov/grsa/planyourvisit/camping.htm",
     },
     "hot-springs-national-park": {
-        "Gulpha Gorge Campground": "https://www.nps.gov/hosp/planyourvisit/camping.htm",
+        "Gulpha Gorge Campground": "https://www.nps.gov/hosp/planyourvisit/campground.htm",
     },
     "indiana-dunes-national-park": {
         "Dunewood Campground": "https://www.nps.gov/indu/planyourvisit/campgrounds.htm",

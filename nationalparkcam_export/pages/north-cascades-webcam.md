@@ -122,7 +122,7 @@ Image: Email
 - North Cascades National Park Less than three hours from Seattle, an alpine landscape beckons. Discover communities of life adapted to moisture in the west and recurring fire in the east. Explore jagged peaks crowned by more than 300 glaciers. Listen to cascading waters in forested valleys. Witness a landscape sensitive to the Earth ' s changing climate. Help steward the ecological heart of the Cascades.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fnoca%2Findex.htm&sa=D&sntz=1&usg=AOvVaw11xt9Vx7UpU6LzrjGVwAje
 - page: https://en.wikipedia.org/wiki/North_Cascades_National_Park
 - NPS site: https://www.nps.gov/noca/planyourvisit/maps.htm
-- how to use bear spray: https://www.rei.com/blog/hike/how-to-use-bear-spray
+- how to use bear spray: https://www.nps.gov/subjects/bears/safety.htm
 - website: https://www.nps.gov/noca/planyourvisit/day-hiking.htm
 - Easy Pass-Fisher Creek Trail: https://www.nps.gov/noca/planyourvisit/easy-pass-trail.htm
 - The Cascade Pass Trail: https://www.nps.gov/noca/planyourvisit/cascade-pass-trail.htm

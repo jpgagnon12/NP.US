@@ -157,7 +157,7 @@ Image: Email
 - .: https://americanalpineclub.org/gtcr-lodging
 - Wikipedia site: https://en.wikipedia.org/wiki/Great_Smoky_Mountains_National_Park
 - trails: https://www.nps.gov/grsm/planyourvisit/hiking.htm
-- knowing what to do: https://www.rei.com/blog/hike/how-to-use-bear-spray
+- knowing what to do: https://www.nps.gov/subjects/bears/safety.htm
 - NPS website: https://smokiespermits.nps.gov/
 - recreation.gov: https://www.recreation.gov/camping/gateways/2739
 - Group sites: https://www.nps.gov/grsm/planyourvisit/groupcamps.htm

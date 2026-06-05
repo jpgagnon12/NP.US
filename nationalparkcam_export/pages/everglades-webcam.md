@@ -118,7 +118,7 @@ Image: Email
 - UNESCO World Heritage Site: https://whc.unesco.org/en/list/76/
 - wikipedia: https://en.wikipedia.org/wiki/Everglades_National_Park
 - NPS website: https://www.nps.gov/ever/planyourvisit/hiking-trails.htm
-- Flamingo Adventures: https://flamingoeverglades.com/campgrounds/
+- Flamingo Adventures: https://www.nps.gov/ever/planyourvisit/camping.htm
 - Boater Guide: https://www.nps.gov/ever/planyourvisit/boating.htm
 - NPS website: https://www.nps.gov/ever/planyourvisit/fishing.htm
 - NPS website: https://www.nps.gov/ever/planyourvisit/guidedtours.htm
