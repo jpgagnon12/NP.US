@@ -179,7 +179,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Olympic National Park With its incredible range of precipitation and elevation, diversity is the hallmark of Olympic National Park. Encompassing nearly a million acres, the park protects a vast wilderness, thousands of years of human history, and several distinctly different ecosystems, including glacier-capped mountains, old-growth temperate rain forests, and over 70 miles of wild coastline. Come explore!: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Folym%2Findex.htm&sa=D&sntz=1&usg=AOvVaw3u3ZQiLig9jD-VbsiE88FP
+- Olympic National Park With its incredible range of precipitation and elevation, diversity is the hallmark of Olympic National Park. Encompassing nearly a million acres, the park protects a vast wilderness, thousands of years of human history, and several distinctly different ecosystems, including glacier-capped mountains, old-growth temperate rain forests, and over 70 miles of wild coastline. Come explore!: https://www.nps.gov/olym/index.htm
 - website: https://en.wikipedia.org/wiki/Olympic_National_Park
 - NPS website: https://www.nps.gov/olym/planyourvisit/day-hiking.htm
 - Backpacking: https://www.nps.gov/olym/planyourvisit/visiting-wilderness.htm

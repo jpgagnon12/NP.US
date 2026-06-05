@@ -23,15 +23,15 @@ Zion National Park has over 90 miles of trails. Most of the hikes are short but 
 
 Top Day Hikes
 
-**Angel's Landing** is one of my top 5 hikes in the United States. The hike is known for its incredible view of the canyon and the challenge it presents to hikers. A permit is required for the hike. The trail takes you through a series of switchbacks known as Walter's Wiggles, up to Scout Lookout, and then along a narrow ridge with chain-assisted rock scrambling sections. The hike is strenuous and not recommended for those with a fear of heights. The trailhead for Angel's Landing is located at The Grotto (stop #6 on the Zion Shuttle), where hikers cross a bridge over the Virgin River to begin their ascent. The round-trip distance of the trail is approximately 5.4 miles (8.7 km), with an elevation gain of around 1,500 feet (457 m).
+**Angels Landing** is one of Zion's best-known and most exposed hikes. The hike is known for its incredible view of the canyon and the challenge it presents to hikers. A permit is required for the hike. The trail takes you through a series of switchbacks known as Walter's Wiggles, up to Scout Lookout, and then along a narrow ridge with chain-assisted rock scrambling sections. The hike is strenuous and not recommended for those with a fear of heights. The trailhead for Angel's Landing is located at The Grotto (stop #6 on the Zion Shuttle), where hikers cross a bridge over the Virgin River to begin their ascent. The round-trip distance of the trail is approximately 5.4 miles (8.7 km), with an elevation gain of around 1,500 feet (457 m).
 
-**The Narrows** has stunning views as you wade/swim through the slot canyon carved by the Virgin River. The walls of the canyon, in places, reach up to 1,000 feet (304 m). The vast number of hikers leave from the Temple of Sinawava, at the final stop of the Zion Shuttle and go up the canyon. However, you can start at Chamberlain's Ranch and descend 16 miles (26 km). I highly recommend water shoes or boots. You may rent out boots in the neighboring town of Springdale.
+**The Narrows** has stunning views as you wade/swim through the slot canyon carved by the Virgin River. The walls of the canyon, in places, reach up to 1,000 feet (304 m). The vast number of hikers leave from the Temple of Sinawava, at the final stop of the Zion Shuttle and go up the canyon. However, you can start at Chamberlain's Ranch and descend 16 miles (26 km). Water shoes or boots are commonly used, and seasonal outfitters in Springdale rent river gear.
 
 **The East Mesa Trail to Observation Point** is a less strenuous alternative to the traditional route from Weeping Rock. It takes you through a high plateau, offering a relatively flat walk through pine forests before reaching the grand overlook of Zion Canyon. The East Mesa Trailhead is accessed via a dirt road off of North Fork County Road, outside the main canyon of Zion National Park. It's recommended to have a high-clearance vehicle to navigate the road leading to the trailhead. The main attraction is the Observation Point itself, which provides a spectacular view of Zion Canyon, including landmarks like Angels Landing and the Great White Throne. The hike about 7 miles (11.3 m) round trip with only 230 feet (70 m) to reach the point.
 
 Backpacking
 
-Backpacking in Zion is a rewarding experience. Some trails give you a high-level view of the canyon, Angels Landing, and the Temple of Sinawava. Other trails offer a unique perspective of the high desert surrounding the park. Permits are required for overnight camping through recreation.gov and for the Narrows. Below are my top two backpacking trips in the park. The NPS has a list of backpacking trips on its website. Water is scarce in the park, except in the Narrows, where you will need a filter. Plan accordingly. Regulations and more backpacking information can be found on the NPS Backpacking website.
+Backpacking in Zion is a rewarding experience. Some trails give you a high-level view of the canyon, Angels Landing, and the Temple of Sinawava. Other trails offer a unique perspective of the high desert surrounding the park. Permits are required for overnight camping through recreation.gov and for the Narrows. Below are two well-known backpacking routes to research with current NPS conditions and permit information. The NPS has a list of backpacking trips on its website. Water is scarce in the park, except in the Narrows, where you will need a filter. Plan accordingly. Regulations and more backpacking information can be found on the NPS Backpacking website.
 
 **West Rim Trail** is a high-elevation path that provides sweeping vistas of Wildcat Canyon and the surrounding areas. It begins near Lava Point and descends into the main canyon, passing through diverse landscapes including alpine forests and red rock canyons. The trail starts at the West Rim Trailhead, located near Lava Point. To reach the trailhead, you'll need to drive on Kolob Terrace Road, which runs along the western boundary of the park. The road to Lava Point can be closed due to snow in the winter and spring months, so check current conditions before your trip. Along the trail, you'll encounter breathtaking features like Phantom Valley, the expansive views from the rim, and the deep canyons below. The West Rim Trail is approximately 14.5 miles (23.3 km) long when hiked from Lava Point to The Grotto. Most of the trail is downhill. Starting elevation is 7,900 feet (2,408 m), and it ends at 4,474 feet (1,364 m) at The Grotto bus stop. Go to the NPS site for a list of campsites and photos of the trail.
 
@@ -39,13 +39,13 @@ Backpacking in Zion is a rewarding experience. Some trails give you a high-level
 
 Transportation
 
-The national park service provides a free shuttle that runs from the Zion Canyon Visitor Center to Temple of Sinawava (the Narrows). This is a great way to get around the canyon floor. I personally prefer taking a bike. There is a bike path to the canyon from the campgrounds and the canyon floor is closed to private vehicles.
+Zion Canyon shuttle operations, bike access, and private-vehicle restrictions vary by season and park operations. Check the official NPS shuttle and current-conditions pages before choosing how to travel through the canyon.
 
 Camping
 
-There are three campgrounds within the park. All are reservable at recreation.gov. The park is very popular and campsites go quickly. I highly recommend reserving sites six months in advance.
+Zion has developed campgrounds inside the park, but openings, reservations, and available services can change by season and project work. Use the official NPS camping pages and Recreation.gov links before planning an overnight stay.
 
-South Campground is currently closed to improve water drainage.
+South Campground status can change with construction, drainage work, and seasonal operations; check the official NPS campground page for current availability.
 
 Watchman Campground is located next to the Zion Canyon Visitor center. Microbreweries and restaurants are close by. There are a total of 176 campsites. There are 69 tent only sites, 65 RV only sites and 95 sites with electricity. There are flush toilets, potable water and cell service in the campground.
 
@@ -104,7 +104,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Zion National Park Follow the paths where people have walked for thousands of years. Gaze up at massive sandstone cliffs of cream, pink, and red that soar into a brilliant blue sky. Experience wilderness in a narrow slot canyon. Zion’s unique array of plants and animals will enchant you as you absorb the rich history of the past and enjoy the excitement of present-day adventures.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fzion%2Findex.htm&sa=D&sntz=1&usg=AOvVaw0b2veiap0jUcsz60IvZHs2
+- Zion National Park Follow the paths where people have walked for thousands of years. Gaze up at massive sandstone cliffs of cream, pink, and red that soar into a brilliant blue sky. Experience wilderness in a narrow slot canyon. Zion’s unique array of plants and animals will enchant you as you absorb the rich history of the past and enjoy the excitement of present-day adventures.: https://www.nps.gov/zion/index.htm
 - Wikipedia site: https://en.wikipedia.org/wiki/Zion_National_Park
 - website: https://www.nps.gov/zion/planyourvisit/hiking-in-zion.htm
 - Angel ' s Landing: https://www.nps.gov/zion/planyourvisit/angels-landing-hiking-permits.htm

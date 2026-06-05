@@ -119,7 +119,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- North Cascades National Park Less than three hours from Seattle, an alpine landscape beckons. Discover communities of life adapted to moisture in the west and recurring fire in the east. Explore jagged peaks crowned by more than 300 glaciers. Listen to cascading waters in forested valleys. Witness a landscape sensitive to the Earth ' s changing climate. Help steward the ecological heart of the Cascades.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fnoca%2Findex.htm&sa=D&sntz=1&usg=AOvVaw11xt9Vx7UpU6LzrjGVwAje
+- North Cascades National Park Less than three hours from Seattle, an alpine landscape beckons. Discover communities of life adapted to moisture in the west and recurring fire in the east. Explore jagged peaks crowned by more than 300 glaciers. Listen to cascading waters in forested valleys. Witness a landscape sensitive to the Earth ' s changing climate. Help steward the ecological heart of the Cascades.: https://www.nps.gov/noca/index.htm
 - page: https://en.wikipedia.org/wiki/North_Cascades_National_Park
 - NPS site: https://www.nps.gov/noca/planyourvisit/maps.htm
 - how to use bear spray: https://www.nps.gov/subjects/bears/safety.htm

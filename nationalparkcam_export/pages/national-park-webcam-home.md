@@ -114,9 +114,9 @@ The Official Charitable Partner of the National Park Service As the official cha
 - Isle Royale National Park: https://en.unesco.org/biosphere/eu-na/isle-royale
 - Rocky Mountain National Park: https://en.unesco.org/biosphere/eu-na/rocky-mountain
 - mailto:npcam012@gmail.com: mailto:npcam012@gmail.com
-- NPS.gov Homepage The National Park Service cares for special places saved by the American people so that all may experience our heritage.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Findex.htm&sa=D&sntz=1&usg=AOvVaw1vKyjvDXLWByNUzNE4vqLK
-- Recreation.gov - Camping, Cabins, RVs, Permits, Passes & More We ' re here to help you dream up your next trip, figure out the details, and reserve experiences at over 3,600 facilities and 103,000 individual sites across the country.: https://www.google.com/url?q=https%3A%2F%2Fwww.recreation.gov%2F&sa=D&sntz=1&usg=AOvVaw3RT-Esypr1mxyjPz11_2r0
-- List of national parks of the United States - Wikipedia: https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_national_parks_of_the_United_States&sa=D&sntz=1&usg=AOvVaw1dd2Viw9yNH8q7MBbybBOq
-- List of national monuments of the United States - Wikipedia: https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_national_monuments_of_the_United_States&sa=D&sntz=1&usg=AOvVaw267oEtuWYFbQktRyAa0KQL
-- The NPS App - Digital: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fsubjects%2Fdigital%2Fnps-apps.htm&sa=D&sntz=1&usg=AOvVaw3oqaL-VVrkoWiiJ4nupx0E
-- The Official Charitable Partner of the National Park Service As the official charitable partner of the National Park Service, we provide resources for the national parks. Support this uniquely American idea.: https://www.google.com/url?q=https%3A%2F%2Fwww.nationalparks.org%2F&sa=D&sntz=1&usg=AOvVaw1ekYZwY5jhVtoJzyLKrDAc
+- NPS.gov Homepage The National Park Service cares for special places saved by the American people so that all may experience our heritage.: https://www.nps.gov/index.htm
+- Recreation.gov - Camping, Cabins, RVs, Permits, Passes & More We ' re here to help you dream up your next trip, figure out the details, and reserve experiences at over 3,600 facilities and 103,000 individual sites across the country.: https://www.recreation.gov/
+- List of national parks of the United States - Wikipedia: https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States
+- List of national monuments of the United States - Wikipedia: https://en.wikipedia.org/wiki/List_of_national_monuments_of_the_United_States
+- The NPS App - Digital: https://www.nps.gov/subjects/digital/nps-apps.htm
+- The Official Charitable Partner of the National Park Service As the official charitable partner of the National Park Service, we provide resources for the national parks. Support this uniquely American idea.: https://www.nationalparks.org/

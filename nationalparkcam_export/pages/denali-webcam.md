@@ -141,7 +141,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Denali National Park & Preserve Denali is six million acres of wild land, bisected by one ribbon of road. Travelers along it see the relatively low-elevation taiga forest give way to high alpine tundra and snowy mountains, culminating in North America ' s tallest peak, 20,310 ' Denali. Wild animals large and small roam un-fenced lands, living as they have for ages. Solitude, tranquility and wilderness await.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fdena%2Findex.htm&sa=D&sntz=1&usg=AOvVaw3SngU8GUiFcoHxGYpZc9o3
+- Denali National Park & Preserve Denali is six million acres of wild land, bisected by one ribbon of road. Travelers along it see the relatively low-elevation taiga forest give way to high alpine tundra and snowy mountains, culminating in North America ' s tallest peak, 20,310 ' Denali. Wild animals large and small roam un-fenced lands, living as they have for ages. Solitude, tranquility and wilderness await.: https://www.nps.gov/dena/index.htm
 - Wikipedia page: https://en.wikipedia.org/wiki/Denali_National_Park_and_Preserve
 - video: https://www.nps.gov/subjects/bears/safety.htm
 - NPS website: https://www.nps.gov/dena/planyourvisit/dayhiking.htm

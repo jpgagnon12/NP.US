@@ -164,7 +164,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Isle Royale National Park Explore a rugged, isolated island far from our connected communities. Isle Royale offers adventures for backpackers, hikers, boaters, paddlers, and divers. Cross Lake Superior and make a commitment: Become a part of this island, and let it become a part of you. Find peace and refuge in island wilderness – because Isle Royale, in turn, finds refuge in us. Help Isle Royale stay wild.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fisro%2Findex.htm&sa=D&sntz=1&usg=AOvVaw0Wq-6i1z2jFEuLSJ58MDMM
+- Isle Royale National Park Explore a rugged, isolated island far from our connected communities. Isle Royale offers adventures for backpackers, hikers, boaters, paddlers, and divers. Cross Lake Superior and make a commitment: Become a part of this island, and let it become a part of you. Find peace and refuge in island wilderness – because Isle Royale, in turn, finds refuge in us. Help Isle Royale stay wild.: https://www.nps.gov/isro/index.htm
 - .: https://americanalpineclub.org/gtcr-lodging
 - UNESCO International Biosphere Reserve: https://www.nps.gov/isro/learn/management/man-and-the-biosphere-program.htm
 - Wikipedia: https://en.wikipedia.org/wiki/Isle_Royale_National_Park

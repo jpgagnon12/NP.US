@@ -33,9 +33,9 @@ The park is an impressive place to hike. The majority of hikes are not difficult
 
 **Anacapa Hiking** has about 2 miles (3.2 km) of trails that offer scenic views of the coast and the last permanent lighthouse built on the west coast. The trails are gentle and meander over gentle slopes to dramatic overlooks. An interpretive trail guide is available on the island to interpret these and other island resources.
 
-**Santa Cruz Island** offers several trails. The majority are out of Scorpion Anchorage. I highly recommend Smugglers Cove and Potato Harbor. Easy trails range from the maintained, relatively flat, signed trails of Scorpion Valley to the unmaintained, rugged, mountainous paths of the Montañon area. Visitors may explore the national park property on Santa Cruz Island, but no hiking is allowed beyond the national park boundary onto The Nature Conservancy property. The boundary is the property line marked by a fence line. The distance of the trails on Santa Cruz Island varies depending on the trail. The Montañon Trail is an unmaintained, rugged, mountainous path that is approximately 8 kilometers or 5 miles long.
+**Santa Cruz Island** offers several trails. The majority are out of Scorpion Anchorage. Smugglers Cove and Potato Harbor are two popular routes to compare with current NPS island guidance. Easy trails range from the maintained, relatively flat, signed trails of Scorpion Valley to the unmaintained, rugged, mountainous paths of the Montañon area. Visitors may explore the national park property on Santa Cruz Island, but no hiking is allowed beyond the national park boundary onto The Nature Conservancy property. The boundary is the property line marked by a fence line. The distance of the trails on Santa Cruz Island varies depending on the trail. The Montañon Trail is an unmaintained, rugged, mountainous path that is approximately 8 kilometers or 5 miles long.
 
-For those of you who want a longer hike, I would recommend the hike from Prisoner's Harbor to Scorpion Anchorage. It is 16 miles, no water till Scorpion campground but the scenery is incredible. you can stay the night at Del Norte Camp if you want to break it up.
+A longer Santa Cruz Island route runs from Prisoners Harbor to Scorpion Anchorage. It is about 16 miles, has limited water availability, and may be split with an overnight at Del Norte Camp when permits and logistics allow.
 
 **Santa Rosa Island** has several trails and roads that traverse its eastern region, providing visitors with spectacular hiking opportunities. These trails and roads range from the maintained, relatively flat, signed trails of Scorpion Valley to the unmaintained, rugged, mountainous paths of the Montañon area. Visitors may explore the national park property on Santa Rosa Island, but no hiking is allowed beyond the national park boundary onto The Nature Conservancy property. The boundary is the property line (marked by a fence line) between Prisoners Harbor and Valley Anchorage. The distance varies depending on the trail. The Scorpion Valley Trail is a relatively flat, signed trail that is approximately 4.8 kilometers or 3 miles long. The Montañon Trail is an unmaintained, rugged, mountainous path that is approximately 8 kilometers or 5 miles long.
 
@@ -43,7 +43,7 @@ For those of you who want a longer hike, I would recommend the hike from Prisone
 
 **Santa Barbara Island** has several trails and roads that traverse its eastern region, providing visitors with spectacular hiking opportunities. Once visitors have scaled the rugged cliffs using the steep trail from the landing cove, they will find a just over 8 kilometers or 5 miles of trails that meander over gentle slopes and low mountain tops to dramatic overlooks and magnificent coastal views.
 
-**Grocery Stores, Hotels and Restaurants** Easy, there are none 😃
+**Grocery Stores, Hotels and Restaurants** There are no grocery stores, hotels, or restaurants on the islands, so visitors should bring required food, water, and supplies.
 
 Transportation
 
@@ -114,7 +114,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Channel Islands National Park Channel Islands National Park encompasses five remarkable islands and their ocean environment, preserving and protecting a wealth of natural and cultural resources. Isolation over thousands of years has created unique animals, plants, and archeological resources found nowhere else on Earth and helped preserve a place where visitors can experience coastal southern California as it once was.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fchis%2Findex.htm&sa=D&sntz=1&usg=AOvVaw1Lm0ewTrExleOfBrYMVD5K
+- Channel Islands National Park Channel Islands National Park encompasses five remarkable islands and their ocean environment, preserving and protecting a wealth of natural and cultural resources. Isolation over thousands of years has created unique animals, plants, and archeological resources found nowhere else on Earth and helped preserve a place where visitors can experience coastal southern California as it once was.: https://www.nps.gov/chis/index.htm
 - Wikipedia site: https://en.wikipedia.org/wiki/Channel_Islands_National_Park
 - NPS website: https://www.nps.gov/chis/planyourvisit/hiking.htm
 - Island Packers Concessionaire: https://islandpackers.com/

@@ -107,7 +107,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Redwood National and State Parks Renowned for the world’s tallest trees, Redwood’s landscapes span from open prairies and oak woodlands to pristine rivers and untamed coastline. This ancient home has supported people for thousands of years. The National Park Service and California State Parks now work to safeguard and rejuvenate these lands for everyone’s enjoyment, learning, and inspiration.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fredw%2Findex.htm&sa=D&sntz=1&usg=AOvVaw2Ort6DkisYwhMh5TBuy9qn
+- Redwood National and State Parks Renowned for the world’s tallest trees, Redwood’s landscapes span from open prairies and oak woodlands to pristine rivers and untamed coastline. This ancient home has supported people for thousands of years. The National Park Service and California State Parks now work to safeguard and rejuvenate these lands for everyone’s enjoyment, learning, and inspiration.: https://www.nps.gov/redw/index.htm
 - Day Hikes: https://www.nps.gov/tripideas/halfday.htm
 - Stout Grove Trail: https://www.nps.gov/thingstodo/stout-grove-trail.htm
 - James Irvine Trail to Fern Canyon: https://www.nps.gov/thingstodo/jamesirvine-ferncanyonloop.htm

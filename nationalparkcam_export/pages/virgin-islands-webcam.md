@@ -98,7 +98,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Virgin Islands National Park: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fviis%2Findex.htm&sa=D&sntz=1&usg=AOvVaw2cmuXmHtQsCEs1pk3YA-fi
+- Virgin Islands National Park: https://www.nps.gov/viis/index.htm
 - wikipedia page: https://en.wikipedia.org/wiki/Virgin_Islands_National_Park
 - map: https://www.nps.gov/viis/planyourvisit/maps.htm
 - NPS site.: https://www.nps.gov/viis/planyourvisit/hiking-in-viis.htm

@@ -14,7 +14,7 @@ The protected area also has a long human story, with archeological evidence and 
 Top Hikes
 
 
-Lake Clark has limited maintained trails, mostly near Port Alsworth, plus extensive route-based wilderness travel. Check NPS guidance and local conditions before hiking.
+Lake Clark has limited maintained trails, mostly near Port Alsworth, plus extensive route-based wilderness travel. Check the NPS hiking guidance and local conditions before hiking.
 
 Tanalian Falls Trail is about 3.4 miles (5.5 km) round trip with roughly 200 feet (61 m) of elevation gain to a waterfall and river views near Port Alsworth.
 
@@ -65,5 +65,6 @@ Use the official NPS page, park map, current alerts, and reservation links below
 - Maps: https://www.nps.gov/lacl/planyourvisit/maps.htm
 - Things To Do: https://www.nps.gov/lacl/planyourvisit/things2do.htm
 - Camping and Backpacking: https://www.nps.gov/lacl/planyourvisit/camping-and-backpacking.htm
+- NPS hiking guidance: https://www.nps.gov/lacl/planyourvisit/camping-and-backpacking.htm
 - Bear Safety: https://www.nps.gov/lacl/planyourvisit/bear-safety.htm
 - Wikipedia: https://en.wikipedia.org/wiki/Lake_Clark_National_Park_and_Preserve

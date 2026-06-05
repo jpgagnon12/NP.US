@@ -33,7 +33,7 @@ Day Hikes
 
 **Taggart and Bradley Lakes**: This trail offers views of two beautiful lakes and the surrounding mountains. The trail is 5.8 miles (9.3 km) long and takes 3 to 4 hours to complete. The total ascent is 1,000 feet (304 m). To reach the trailhead, turn west off Teton Park Road at the North Jenny Lake Junction, located roughly 7.7 miles (12.4 km) north of Moose Junction. From the junction, drive another half-mile (.8 km) to the large parking area for the visitor center and boat dock. The trailhead is located at the northwest end of the parking area.
 
-**Phelps Lake Loop**: This is my favorite day hike. This trail offers stunning views of Phelps Lake and the surrounding mountains. The trail is 7.1 miles (11.4 km) long and takes 4.5 to complete. The total ascent is 1,200 feet (366 m). The Phelps Lake Loop The trailhead is located in the Laurance S. Rockefeller Preserve off Moose-Wilson Road in Grand Teton National Park. To reach the trailhead from Moose Junction, turn left onto Moose-Wilson Road and drive roughly 3.6 miles (6.8 km) south to the turn-off for the Preserve on the left
+**Phelps Lake Loop**: This is a popular day hike. This trail offers stunning views of Phelps Lake and the surrounding mountains. The trail is 7.1 miles (11.4 km) long and takes 4.5 to complete. The total ascent is 1,200 feet (366 m). The Phelps Lake Loop The trailhead is located in the Laurance S. Rockefeller Preserve off Moose-Wilson Road in Grand Teton National Park. To reach the trailhead from Moose Junction, turn left onto Moose-Wilson Road and drive roughly 3.6 miles (6.8 km) south to the turn-off for the Preserve on the left
 
 **Death Canyon to the Patrol Cabin**: This trail offers views of Death Canyon and the surrounding mountains. The trail is 8.4 miles (13.5 km) long and takes 5 to 6 hours to complete. The total ascent is 2,000 feet (609 m). To reach the trailhead from Moose Junction, turn left onto Moose-Wilson Road and drive roughly 3 miles (4.8 km) south to the turn-off for the Death Canyon Trailhead. Turn right and drive another 2 miles (3.2 km) to the end of the road
 
@@ -169,7 +169,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Grand Teton National Park Rising above a scene rich with extraordinary wildlife, pristine lakes, and alpine terrain, the Teton Range stands as a monument to the people who fought to protect it. These are mountains of the imagination. Mountains that led to the creation of Grand Teton National Park where you can explore over two hundred miles of trails, float the Snake River, and enjoy the serenity of this remarkable place.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fgrte%2Findex.htm&sa=D&sntz=1&usg=AOvVaw3ggxIJXrpgWenv-Gxafo1f
+- Grand Teton National Park Rising above a scene rich with extraordinary wildlife, pristine lakes, and alpine terrain, the Teton Range stands as a monument to the people who fought to protect it. These are mountains of the imagination. Mountains that led to the creation of Grand Teton National Park where you can explore over two hundred miles of trails, float the Snake River, and enjoy the serenity of this remarkable place.: https://www.nps.gov/grte/index.htm
 - 2022 , 2.81 million visited the park.: https://en.wikipedia.org/wiki/Grand_Teton_National_Park
 - what to do: https://www.nps.gov/subjects/bears/safety.htm
 - Day Hikes: https://www.nps.gov/grte/planyourvisit/hike.htm

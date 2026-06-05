@@ -144,7 +144,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Acadia National Park Acadia National Park protects the natural beauty of the highest rocky headlands along the Atlantic coastline of the United States, an abundance of habitats, and a rich cultural heritage. At 4 million visits a year, it ' s one of the top 10 most-visited national parks in the United States. Visitors enjoy 27 miles of historic motor roads, 158 miles of hiking trails, and 45 miles of carriage roads.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Facad%2Findex.htm&sa=D&sntz=1&usg=AOvVaw1bXR50kVUOO1mIqIItbx2b
+- Acadia National Park Acadia National Park protects the natural beauty of the highest rocky headlands along the Atlantic coastline of the United States, an abundance of habitats, and a rich cultural heritage. At 4 million visits a year, it ' s one of the top 10 most-visited national parks in the United States. Visitors enjoy 27 miles of historic motor roads, 158 miles of hiking trails, and 45 miles of carriage roads.: https://www.nps.gov/acad/index.htm
 - website: https://en.wikipedia.org/wiki/Acadia_National_Park
 - NPS website: https://www.nps.gov/acad/planyourvisit/hiking.htm
 - areas: https://www.nps.gov/acad/planyourvisit/groupclimbing.htm

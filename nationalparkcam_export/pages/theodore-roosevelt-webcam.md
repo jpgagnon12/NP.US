@@ -118,7 +118,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Theodore Roosevelt National Park When Theodore Roosevelt came to Dakota Territory to hunt bison in 1883, he was a skinny, young, spectacled dude from New York. He could not have imagined how his adventure in this remote and unfamiliar place would forever alter the course of the nation. The rugged landscape and strenuous life that TR experienced here would help shape a conservation policy that we still benefit from today.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fthro%2Findex.htm&sa=D&sntz=1&usg=AOvVaw2DWhozfAyYM9aO_PuHE2nc
+- Theodore Roosevelt National Park When Theodore Roosevelt came to Dakota Territory to hunt bison in 1883, he was a skinny, young, spectacled dude from New York. He could not have imagined how his adventure in this remote and unfamiliar place would forever alter the course of the nation. The rugged landscape and strenuous life that TR experienced here would help shape a conservation policy that we still benefit from today.: https://www.nps.gov/thro/index.htm
 - wikipedia site: https://en.wikipedia.org/wiki/Theodore_Roosevelt_National_Park
 - NPS website: https://www.nps.gov/thro/planyourvisit/maps.htm
 - NPS site: https://www.nps.gov/thro/planyourvisit/hiking-and-trail-information.htm

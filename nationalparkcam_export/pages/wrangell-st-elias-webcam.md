@@ -132,7 +132,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Wrangell - St Elias National Park & Preserve: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fwrst%2Findex.htm&sa=D&sntz=1&usg=AOvVaw30pSKlz-EGEyZ2TzOdFK5d
+- Wrangell - St Elias National Park & Preserve: https://www.nps.gov/wrst/index.htm
 - UNESCO World Heritage Site: https://whc.unesco.org/en/list/72/
 - wikipedia: https://en.wikipedia.org/wiki/Wrangell%E2%80%93St._Elias_National_Park_and_Preserve
 - REI site: https://www.nps.gov/subjects/bears/safety.htm

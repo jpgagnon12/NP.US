@@ -67,9 +67,9 @@ Grand Canyon camping options vary by rim, season, operator, and reservation syst
 
 **North Rim** - Seasonal
 
-**The North Rim Campground** is situated at an altitude of 7,800 feet (2,400 meters). The campground has 90 mixed-use campsites among a beautiful ponderosa pine forest. There are 78 campsites for tents, trailers, and RVs, as well as 12 additional tent-only campsites. The maximum length for RVs or vehicles pulling travel trailers is 30 feet (9.1 meters). The campground offers spectacular views of the canyon, less crowds, and amazing photography opportunities. The campground has several amenities such as a camp store, and pull-through sites. The North Rim Campground is open from mid-May through October.
+**The North Rim Campground** is situated at an altitude of 7,800 feet (2,400 meters). The campground has 90 mixed-use campsites among a beautiful ponderosa pine forest. There are 78 campsites for tents, trailers, and RVs, as well as 12 additional tent-only campsites. The maximum length for RVs or vehicles pulling travel trailers is 30 feet (9.1 meters). The campground offers spectacular views of the canyon, less crowds, and amazing photography opportunities. The campground has several amenities such as a camp store, and pull-through sites. North Rim Campground operations are seasonal and can be affected by weather, road access, and recovery work; check official NPS and reservation information before travel.
 
-**DeMotte Campground** is situated at an altitude of 7,800 feet (2,400 meters). The campground has 38 single family campsites that can accommodate tents, trailers, and small motor homes. Half of the sites are available on a first-come, first-served basis, and the other half are available with reservations. The campground offers spectacular views of the canyon, less crowds, and amazing photography opportunities. The campground has several amenities such as picnic tables, fire pits, flush toilets, and potable water. DeMotte Campground is open from mid-May to mid-October for overnight camping, depending on weather
+**DeMotte Campground** is situated at an altitude of 7,800 feet (2,400 meters). The campground has 38 single family campsites that can accommodate tents, trailers, and small motor homes. Half of the sites are available on a first-come, first-served basis, and the other half are available with reservations. The campground offers spectacular views of the canyon, less crowds, and amazing photography opportunities. The campground has several amenities such as picnic tables, fire pits, flush toilets, and potable water. DeMotte Campground is open from mid-May to mid-October for overnight camping, depending on weather and current operating conditions.
 
 Lodges and Hotels
 
@@ -85,7 +85,7 @@ South Rim
 
 **Thunderbird Lodge** is a contemporary South Rim lodging option near the canyon rim and Grand Canyon Village services. Check the official lodging page for current room types, accessibility, check-in details, and availability.
 
-**The Maswick** is located in Grand Canyon village and.25 mile inland from the historic district. Originally built in 1927 by Fred Harvey Company and the Santa Fe Railroad. The lodge has 280 rooms. Maswick is named for a Hopi Kachina who guards the canyon.
+**The Maswick** is located in Grand Canyon Village and about 0.25 mile inland from the historic district. Originally built in 1927 by Fred Harvey Company and the Santa Fe Railroad. The lodge has 280 rooms. Maswick is named for a Hopi Kachina who guards the canyon.
 
 **Yavapai Lodge** is located on the South Rim away from the canyon rim, near Market Plaza and shuttle service. Reservations and current lodging details are handled by the concessioner.
 

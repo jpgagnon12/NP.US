@@ -119,7 +119,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Glacier Bay National Park & Preserve: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fglba%2Findex.htm&sa=D&sntz=1&usg=AOvVaw0Z-GZ12T1qIH6XG4vuxvu-
+- Glacier Bay National Park & Preserve: https://www.nps.gov/glba/index.htm
 - NPS website: https://www.nps.gov/glba/planyourvisit/hiking.htm
 - Bartlett Cove campground: https://www.nps.gov/glba/planyourvisit/campground.htm
 - The Glacier Bay Lodge: https://www.nps.gov/glba/planyourvisit/glacier-bay-lodge.htm

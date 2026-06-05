@@ -67,7 +67,7 @@ A backcountry permit is required for all overnight stays. They are available at 
 
 Campgrounds
 
-Great Smoky Mountains National Park offers 10 campgrounds in the park. Most are reservable at recreation.gov. Group sites are also available.
+Great Smoky Mountains has developed campgrounds, group sites, and backcountry camping options, but openings, reservation rules, services, and seasonal access can change. Use official NPS campground pages and Recreation.gov before planning an overnight stay.
 
 **Abrams Creek Campground** is a small campground located in a relatively remote area of Great Smoky Mountain National Park. The campground has 16 sites for tents or RVs up to 12 feet in length (3.6 m). The campground does not accept reservations and has an on-site, first-come first-served, self-registration system.
 
@@ -91,9 +91,9 @@ Great Smoky Mountains National Park offers 10 campgrounds in the park. Most are 
 
 Lodging
 
-This is only one place with the park boundries for lodging.
+Lodging inside the park is limited, while gateway communities outside the park offer many additional options.
 
-**LeConte Lodge** is a guest lodge situated on an open glade just below the summit of Mt. LeConte at an elevation of about 6,400 feet (1,951 m). The lodge is accessible only by hiking and is the highest guest lodge in the eastern United States. There are five hiking trails that lead to the lodge ranging in length from 5.0 miles (8 km) up to 9.1 miles (14.6 km). The lodge offers an atmosphere of quiet simplicity where people find relaxation and renewed energy in the cool, majestic solitude at the top of the Smokies. Guests are housed in hand-built rough-hewn log cabins with propane heat, kerosene lanterns, clean linens, and warm Hudson Bay wool blankets. Hearty meals are served family-style in the dining room. he lodge is the only place in the Smoky Mountains where a visitor can sleep overnight in a snug permanent structure. The lodge is open from late March to mid-November.
+**LeConte Lodge** is a guest lodge situated on an open glade just below the summit of Mt. LeConte at an elevation of about 6,400 feet (1,951 m). The lodge is accessible only by hiking and is the highest guest lodge in the eastern United States. There are five hiking trails that lead to the lodge ranging in length from 5.0 miles (8 km) up to 9.1 miles (14.6 km). The lodge offers an atmosphere of quiet simplicity where people find relaxation and renewed energy in the cool, majestic solitude at the top of the Smokies. Guests are housed in hand-built rough-hewn log cabins with propane heat, kerosene lanterns, clean linens, and warm Hudson Bay wool blankets. Hearty meals are served family-style in the dining room. The lodge is the only place in the Smoky Mountains where a visitor can sleep overnight in a snug permanent structure. The lodge is open from late March to mid-November.
 Image: Email
 
 ## Images
@@ -153,7 +153,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Great Smoky Mountains National Park Ridge upon ridge of forest straddles the border between North Carolina and Tennessee in Great Smoky Mountains National Park. World renowned for its diversity of plant and animal life, the beauty of its ancient mountains, and the quality of its remnants of Southern Appalachian mountain culture, this is America ' s most visited national park. Plan your visit today!: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fgrsm%2Findex.htm&sa=D&sntz=1&usg=AOvVaw1Mx4W7mpM1xjIBAmYIJo4E
+- Great Smoky Mountains National Park Ridge upon ridge of forest straddles the border between North Carolina and Tennessee in Great Smoky Mountains National Park. World renowned for its diversity of plant and animal life, the beauty of its ancient mountains, and the quality of its remnants of Southern Appalachian mountain culture, this is America ' s most visited national park. Plan your visit today!: https://www.nps.gov/grsm/index.htm
 - .: https://americanalpineclub.org/gtcr-lodging
 - Wikipedia site: https://en.wikipedia.org/wiki/Great_Smoky_Mountains_National_Park
 - trails: https://www.nps.gov/grsm/planyourvisit/hiking.htm

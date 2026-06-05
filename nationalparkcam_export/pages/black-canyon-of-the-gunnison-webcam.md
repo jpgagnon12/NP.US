@@ -24,7 +24,7 @@ Black Canyon of the Gunnison National Park is a spectacular destination for hiki
 
 Four of the popular trails are:
 
-**Rim Rock Nature Trail**: This is my favorite hike in the park. It is an easy/moderate 2 mile (3.2 km) round-trip trail that offers excellent views of the canyon and the Gunnison River. You can take the trail from the Visitor Center or the South Rim Campground.
+**Rim Rock Nature Trail**: This is a popular hike in the park. It is an easy/moderate 2 mile (3.2 km) round-trip trail that offers excellent views of the canyon and the Gunnison River. You can take the trail from the Visitor Center or the South Rim Campground.
 
 **Oak Flat Loop Trail**: A strenuous 2 mile (3.2 km) round-trip trail that takes you below the rim of the canyon and offers variety for hikers who would like to explore the canyon without taking on the challenge of hiking to the river.
 
@@ -110,7 +110,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Black Canyon Of The Gunnison National Park Big enough to be overwhelming, still intimate enough to feel the pulse of time, Black Canyon of the Gunnison National Park exposes you to some of the steepest cliffs, oldest rock, and craggiest spires in North America. With two million years to work, the Gunnison River, along with the forces of weathering, has sculpted this vertical wilderness of rock, water, and sky.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fblca%2Findex.htm&sa=D&sntz=1&usg=AOvVaw0-KNG8gfLCaeCJe_Xhgq-I
+- Black Canyon Of The Gunnison National Park Big enough to be overwhelming, still intimate enough to feel the pulse of time, Black Canyon of the Gunnison National Park exposes you to some of the steepest cliffs, oldest rock, and craggiest spires in North America. With two million years to work, the Gunnison River, along with the forces of weathering, has sculpted this vertical wilderness of rock, water, and sky.: https://www.nps.gov/blca/index.htm
 - Wikipedia site: https://en.wikipedia.org/wiki/Black_Canyon_of_the_Gunnison_National_Park
 - NPS website: https://www.nps.gov/blca/planyourvisit/hikingtrails.htm
 - NPS website: https://www.nps.gov/blca/planyourvisit/fishing.htm

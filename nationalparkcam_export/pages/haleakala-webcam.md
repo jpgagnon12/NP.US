@@ -122,7 +122,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Haleakalā National Park This special place vibrates with stories of ancient and modern Hawaiian culture and protects the bond between the land and its people. The park also cares for endangered species, some of which exist nowhere else. Come visit this special place - renew your spirit amid stark volcanic landscapes and sub-tropical rain forest with an unforgettable hike through the backcountry.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fhale%2Findex.htm&sa=D&sntz=1&usg=AOvVaw2D-2IMxxR4p3ndZaPR4XP8
+- Haleakalā National Park This special place vibrates with stories of ancient and modern Hawaiian culture and protects the bond between the land and its people. The park also cares for endangered species, some of which exist nowhere else. Come visit this special place - renew your spirit amid stark volcanic landscapes and sub-tropical rain forest with an unforgettable hike through the backcountry.: https://www.nps.gov/hale/index.htm
 - Wikipedia: https://en.wikipedia.org/wiki/Haleakal%C4%81_National_Park
 - NPS website: https://www.nps.gov/hale/planyourvisit/hiking.htm
 - campground: https://www.nps.gov/hale/planyourvisit/camping.htm

@@ -22,9 +22,9 @@ Hiking
 
 Bryce Canyon National Park is a hiker's dream. There are a total of 38 hiking trails ranging from a half mile (.8 km) to 23 miles (37 km). The hikes can be broken down into three categories: Easy, Moderate, and Strenuous. The link to the various categories is below. Most of the easy hikes are along the rim. Remember you will be hiking at a relatively high elevation. The visitor center is at 7,894 feet (2,406 m) and Rainbow Point is 9,115 feet (2,778 m). Shortness of breath is common if you have not acclimated to the altitude.
 
-My personal favorite is leaving from Bryce Point, hiking the Peekaboo trail, and then going up via the Queen's Garden Trail. Great views and since Bryce Point is the highest trailhead, not as much elevation gain.
+One popular route leaves from Bryce Point, follows the Peekaboo Loop, and returns by way of the Queen's Garden Trail. Check current NPS trail guidance before combining routes.
 
-Below are my favorites in each category.
+Below are notable hikes in each category.
 
 **Easy/Flat** The Bryce Canyon National Park offers a variety of easy hikes that are perfect for beginners and families.
 
@@ -42,7 +42,7 @@ Moderate
 
 **Navajo Loop Trail** The Navajo Loop Trail is one of the most popular trails in Bryce Canyon National Park. It is a moderate hike that takes about 1-2 hours to complete and is 1.4 miles (2.25 km) long. The elevation gain is 515 feet (157 m). The trail begins and ends at Sunset Point. The trail is a loop trail that descends into the canyon and then climbs back up to the rim. The trail offers spectacular views of the park's most famous hoodoo, Thor's Hammer, and other unique rock formations such as Wall Street, Two Bridges, and Twin Bridges. The trail is open from April to October and is best hiked in the morning or late afternoon to avoid the midday heat.
 
-**Queen's Navajo Loop** This my favorite moderate hike in the park. It is a moderate hike that takes about 2-3 hours to complete and is 2.9 miles long (4.7 km). The trail begins and ends at Sunrise Point and is a loop trail that descends into the canyon and then climbs back up to the rim. The trail offers spectacular views of the park's most famous hoodoo, Thor's Hammer, and other unique rock formations such as Wall Street, Two Bridges, and Twin Bridges. The elevation gain on the Queen's Navajo Loop Trail is 625 feet (191 m). The trail is open from April to October and is best hiked in the morning or late afternoon to avoid the midday heat in the summer.
+**Queen's Navajo Loop** This is a popular moderate hike in the park. It is a moderate hike that takes about 2-3 hours to complete and is 2.9 miles long (4.7 km). The trail begins and ends at Sunrise Point and is a loop trail that descends into the canyon and then climbs back up to the rim. The trail offers spectacular views of the park's most famous hoodoo, Thor's Hammer, and other unique rock formations such as Wall Street, Two Bridges, and Twin Bridges. The elevation gain on the Queen's Navajo Loop Trail is 625 feet (191 m). The trail is open from April to October and is best hiked in the morning or late afternoon to avoid the midday heat in the summer.
 
 **Tower Bridge** The trail is 3.0 miles (4.8 km) long and takes about 1 hour and 51 minutes to complete. The trail begins and ends at Sunrise Point and is actually part of the Fairyland Loop Trail. The trail offers spectacular views of some of Bryce Canyon National Park’s most iconic hoodoo formations such as the Chinese Wall and Crescent Castles. The real star of the show, the Tower Bridge, waits at the halfway point of this hike. A short 200 yard (182 m) spur trail will take you to the base of this formation that bears a striking resemblance to the defining landmark of London. The trail has a total ascent of 760 feet (232 m).
 
@@ -50,7 +50,7 @@ Strenuous
 
 **Hat Shop** The Hat Shop Trail is a moderately challenging hike that is 4.0 miles (6.4 km) long and takes about 2 hours and 10 minutes to complete. The trail begins and ends at Sunrise Point and is part of the Under-the-Rim Trail. The trail offers spectacular views of some of Bryce Canyon National Park’s most iconic hoodoo formations such as the Chinese Wall and Crescent Castles. The real star of the show, the Tower Bridge, waits at the halfway point of this hike. A short 200 yard (182 m) spur trail will take you to the base of this formation that bears a striking resemblance to the defining landmark of London. The trail has a total ascent of 1,380 feet (421 m).
 
-**Fairyland Loop** This my favorite long hike in the park. The trail is a moderately challenging hike that is 8 miles (13.4 km) long and takes about 3 hours and 15 minutes to complete. The trail begins and ends at Fairyland Point and offers spectacular views of the hoodoos as they loom overhead. It’s a surreal landscape and almost looks like it has been sculpted, but it’s actually the result of thousands of years of erosion. The trail has a total ascent of 1,900 feet (579 m).
+**Fairyland Loop** This is a popular long hike in the park. The trail is a moderately challenging hike that is 8 miles (13.4 km) long and takes about 3 hours and 15 minutes to complete. The trail begins and ends at Fairyland Point and offers spectacular views of the hoodoos as they loom overhead. It’s a surreal landscape and almost looks like it has been sculpted, but it’s actually the result of thousands of years of erosion. The trail has a total ascent of 1,900 feet (579 m).
 
 **Peekaboo Loop** The trail is a 5.5 mile (8.9 km) loop trail located in Bryce Canyon National Park in Utah, United States. The trail has an elevation gain of 1,560 feet (474 m) and takes around 3 hours to hike. The trail is known for its stunning views of the hoodoos from topmost rim points. During the hike, you’ll be weaving between spires, arches, and ridges. There is an incredible variation of landscape and rock formations from peak to valley. The trail is open from April through October
 
@@ -140,7 +140,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Bryce Canyon National Park Hoodoos (irregular columns of rock) exist on every continent, but here is the largest concentration found anywhere on Earth. Situated along a high plateau at the top of the Grand Staircase, the park ' s high elevations include numerous life communities, fantastic dark skies, and geological wonders that defy description.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fbrca%2Findex.htm&sa=D&sntz=1&usg=AOvVaw2SKlZU6Jh7RhaJia0yaaxE
+- Bryce Canyon National Park Hoodoos (irregular columns of rock) exist on every continent, but here is the largest concentration found anywhere on Earth. Situated along a high plateau at the top of the Grand Staircase, the park ' s high elevations include numerous life communities, fantastic dark skies, and geological wonders that defy description.: https://www.nps.gov/brca/index.htm
 - Wikipedia site: https://en.wikipedia.org/wiki/Bryce_Canyon_National_Park
 - Easy: https://www.nps.gov/tripideas/easy-hikes-in-bryce-canyon.htm
 - Moderate: https://www.nps.gov/tripideas/moderate-hikes-in-bryce-canyon.htm

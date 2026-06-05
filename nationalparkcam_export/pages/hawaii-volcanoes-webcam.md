@@ -231,7 +231,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Hawaiʻi Volcanoes National Park Hawai‘i Volcanoes National Park protects some of the most unique geological, biological, and cherished cultural landscapes in the world. Extending from sea level to 13,680 feet, the park encompasses the summits of two of the world ' s most active volcanoes - Kīlauea and Mauna Loa - and is a designated International Biosphere Reserve and UNESCO World Heritage Site.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fhavo%2Findex.htm&sa=D&sntz=1&usg=AOvVaw13QRk8fe7qVnSRtY2uQz7Q
+- Hawaiʻi Volcanoes National Park Hawai‘i Volcanoes National Park protects some of the most unique geological, biological, and cherished cultural landscapes in the world. Extending from sea level to 13,680 feet, the park encompasses the summits of two of the world ' s most active volcanoes - Kīlauea and Mauna Loa - and is a designated International Biosphere Reserve and UNESCO World Heritage Site.: https://www.nps.gov/havo/index.htm
 - #h.90evn1hwhwvg: https://www.nationalparkcam.com#h.90evn1hwhwvg
 - #h.m0vhwi6ibcds: https://www.nationalparkcam.com#h.m0vhwi6ibcds
 - #h.2qrl5gyzlab0: https://www.nationalparkcam.com#h.2qrl5gyzlab0
@@ -257,7 +257,7 @@ Image: Email
 - Permits: https://www.recreation.gov/permits/4675341
 - Summit of Mauna Loa: https://www.nps.gov/havo/planyourvisit/hike_maunaloa.htm
 - Hawaii State Park: https://camping.ehawaii.gov/camping/all,details,31727.html
-- The Nāpau Crater via Napau Trail: https://www.alltrails.com/trail/hawaii/hawaii/napau-crater-via-napau-trail
+- The Nāpau Crater via Napau Trail: https://www.nps.gov/havo/planyourvisit/hike_napau.htm
 - recreation.gov: https://www.recreation.gov/permits/4675341
 - NPS website: https://www.nps.gov/havo/planyourvisit/camp.htm
 - Nāmakanipaio Campground: https://www.nps.gov/havo/planyourvisit/namakanipaio-campground.htm

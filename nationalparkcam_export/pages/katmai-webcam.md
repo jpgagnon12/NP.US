@@ -155,7 +155,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Katmai National Park & Preserve A landscape is alive underneath our feet, filled with creatures that remind us what it is to be wild. < br / > < br / > Katmai was established in 1918 to protect the volcanically devastated region surrounding Novarupta and the Valley of Ten Thousand Smokes. Today, Katmai National Park and Preserve also protects 9,000 years of human history and important habitat for salmon and thousands of brown bears.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fkatm%2Findex.htm&sa=D&sntz=1&usg=AOvVaw23mRZCdfyopPfugZbY75eQ
+- Katmai National Park & Preserve A landscape is alive underneath our feet, filled with creatures that remind us what it is to be wild. < br / > < br / > Katmai was established in 1918 to protect the volcanically devastated region surrounding Novarupta and the Valley of Ten Thousand Smokes. Today, Katmai National Park and Preserve also protects 9,000 years of human history and important habitat for salmon and thousands of brown bears.: https://www.nps.gov/katm/index.htm
 - site: https://en.wikipedia.org/wiki/Katmai_National_Park_and_Preserve
 - Brooks Lodge: https://katmailand.com/the-lodge/
 - site: https://katmailand.com/brooks-lodge-lottery/

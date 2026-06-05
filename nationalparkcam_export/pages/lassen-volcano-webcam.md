@@ -130,7 +130,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Lassen Volcanic National Park Lassen Volcanic National Park is home to steaming fumaroles, meadows freckled with wildflowers, clear mountain lakes, and numerous volcanoes. Jagged peaks tell the story of its eruptive past while hot water continues to shape the land.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Flavo%2Findex.htm&sa=D&sntz=1&usg=AOvVaw3Nh416VbZGtwqf9G7byZ0Z
+- Lassen Volcanic National Park Lassen Volcanic National Park is home to steaming fumaroles, meadows freckled with wildflowers, clear mountain lakes, and numerous volcanoes. Jagged peaks tell the story of its eruptive past while hot water continues to shape the land.: https://www.nps.gov/lavo/index.htm
 - Wikipedia: https://en.wikipedia.org/wiki/Lassen_Volcanic_National_Park
 - top day hikes: https://www.nps.gov/lavo/planyourvisit/hiking_lassen_park.htm
 - The Cinder Cone Trail: https://www.nps.gov/places/cinder_cone.htm

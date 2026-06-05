@@ -41,7 +41,7 @@ The human history of Yellowstone extends back more than 11,000 years. Archeologi
 
 In 1872, President Grant officially established Yellowstone National Park, becoming America's first national park. The arrival of the railroad in 1883 facilitated easier visitor access, allowing people to witness the park's wonders firsthand. The US Army managed the park from 1886 to 1918, and automobiles were permitted within its boundaries in 1915. The creation of the National Park Service in 1916 marked a pivotal moment in Yellowstone's management.
 
-Yellowstone spans an impressive 2.2 million acres of pristine wilderness. The third largest national park after Wrangell-St. Elias and Death Valley National Parks. Within this vast expanse, visitors encounter a diverse landscape that includes geysers, hot springs, canyons, forests, and rivers. The park attracts a large number of visitors each year. In 2021 there were nearly 5 million visitors.
+Yellowstone spans more than 2.2 million acres across Wyoming, Montana, and Idaho. Within this vast landscape, visitors encounter geysers, hot springs, canyons, forests, rivers, lakes, wildlife habitat, and high-elevation backcountry. Visitation changes year to year, so use official NPS statistics and current-condition pages for the latest planning context.
 
 Wildlife is abundant within the park’s boundaries. There are almost 6,000 buffalo, which can almost always be seen in the Hayden Valley during the summer. Grizzly bears, black bears, elk, and iconic bald eagles can be found within the park. Wolves were reintroduced in 1995 and now play a vital role in the ecosystem. A recent census puts the wolf population at 124 wolves.
 
@@ -85,7 +85,7 @@ Yellowstone is the top national park to view wildlife. Animals usually feed earl
 
 Bison, bear jams happen often, especially in the Hayden Valley. Use the numerous pullouts to view the wildlife, never park your car on the road. Also, bison are huge and can be aggressive. Stay at least 25 yards (23 m) away from all wildlife. Bears and wolves are the exception, stay 100 yards (91 m) from them.
 
-Bear attacks can be attributed to many factors. The first is taking them by surprise. Make noise as you hike. The second is getting between a mother bear and her cub. She will defend her baby.
+Reduce bear-conflict risk by making noise on trail, staying alert, carrying bear spray where recommended, storing food properly, hiking in groups when possible, and never getting between a bear and cubs.
 
 Camping and Lodging
 
@@ -172,8 +172,8 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Yellowstone National Park On March 1, 1872, Yellowstone became the first national park for all to enjoy the unique hydrothermal and geologic features. Within Yellowstone ' s 2.2 million acres, visitors have unparalleled opportunities to observe wildlife in an intact ecosystem, explore geothermal areas that contain about half the world’s active geysers, and view geologic wonders like the Grand Canyon of the Yellowstone River.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fyell%2Findex.htm&sa=D&sntz=1&usg=AOvVaw04IwN01HlVd3TEIPXx0qN-
-- Webcams - Yellowstone National Park A variety of webcams provide live views throughout Yellowstone.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fyell%2Flearn%2Fphotosmultimedia%2Fwebcams.htm&sa=D&sntz=1&usg=AOvVaw0EyewtmmY7Oc2ZelxBWeVC
+- Yellowstone National Park On March 1, 1872, Yellowstone became the first national park for all to enjoy the unique hydrothermal and geologic features. Within Yellowstone ' s 2.2 million acres, visitors have unparalleled opportunities to observe wildlife in an intact ecosystem, explore geothermal areas that contain about half the world’s active geysers, and view geologic wonders like the Grand Canyon of the Yellowstone River.: https://www.nps.gov/yell/index.htm
+- Webcams - Yellowstone National Park A variety of webcams provide live views throughout Yellowstone.: https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm
 - Wikipedia: https://en.wikipedia.org/wiki/Yellowstone_National_Park
 - NPS site: https://www.nps.gov/yell/planyourvisit/hiking.htm
 - how to use bear spray: https://www.nps.gov/subjects/bears/safety.htm

@@ -20,6 +20,7 @@ CUSTOM_DOMAIN = "www.national-parks.us"
 NATIONALPARKCAM_SITE_URL = "https://www.nationalparkcam.com"
 GOOGLE_ANALYTICS_ID = "G-Y64NX1DFKX"
 INFO_PAGE_SLUGS = {"about", "contact", "privacy-policy"}
+CONTENT_VERIFIED_DATE = "June 5, 2026"
 ACTIVE_HERO_YOUTUBE_IDS = {
     "OteVW3af3BU",
     "OAJF1Ie1m_Q",
@@ -103,6 +104,37 @@ WEBCAM_PARK_NAMES = {
     "yellowstone-webcam": "Yellowstone National Park",
     "yosemite-webcam": "Yosemite National Park",
     "zion-webcam": "Zion National Park",
+}
+
+WEBCAM_SEO = {
+    "glacier-webcam": {
+        "title": "Glacier National Park Webcams, Trails, Map & Visitor Guide",
+        "description": "View Glacier National Park webcams and plan with trail, lodging, camping, weather, map, current-condition, and official NPS links.",
+    },
+    "grand-canyon-webcam": {
+        "title": "Grand Canyon National Park Webcams, Trails, Map & Visitor Guide",
+        "description": "View Grand Canyon webcams and plan South Rim, North Rim, trails, lodging, camping, weather, maps, and official NPS resources.",
+    },
+    "great-smoky-mountains-webcam": {
+        "title": "Great Smoky Mountains Webcams, Trails, Map & Visitor Guide",
+        "description": "View Great Smoky Mountains webcams and plan hikes, campgrounds, lodging, weather, maps, and official NPS resources.",
+    },
+    "mount-rainier-webcam": {
+        "title": "Mount Rainier National Park Webcams, Trails, Map & Visitor Guide",
+        "description": "View Mount Rainier webcams and plan Paradise, Sunrise, trails, lodging, camping, weather, maps, and official NPS resources.",
+    },
+    "yellowstone-webcam": {
+        "title": "Yellowstone National Park Webcams, Trails, Map & Visitor Guide",
+        "description": "View Yellowstone webcams and plan geysers, wildlife, trails, camping, lodging, weather, maps, and official NPS resources.",
+    },
+    "yosemite-webcam": {
+        "title": "Yosemite National Park Webcams, Trails, Map & Visitor Guide",
+        "description": "View Yosemite webcams and plan Yosemite Valley, Half Dome, hiking, camping, lodging, weather, maps, and official NPS resources.",
+    },
+    "zion-webcam": {
+        "title": "Zion National Park Webcams, Trails, Map & Visitor Guide",
+        "description": "View Zion webcams and plan Angels Landing, The Narrows, backpacking, camping, shuttle access, weather, maps, and NPS links.",
+    },
 }
 
 NO_CAMERA_PARK_NAMES = {
@@ -1382,6 +1414,28 @@ def webcam_description(source, captions):
     return ""
 
 
+def content_verified_note(page_slug):
+    park_name = WEBCAM_PARK_NAMES.get(page_slug) or NO_CAMERA_PARK_NAMES.get(page_slug) or "this park"
+    return f"""
+    <section class="content-verified-note" aria-label="Content verification">
+      <p><strong>Last content verified:</strong> {CONTENT_VERIFIED_DATE}. Check official NPS pages for current road, trail, campground, permit, shuttle, weather, webcam, and seasonal conditions before travel to {html.escape(park_name)}.</p>
+    </section>
+"""
+
+
+def webcam_image_alt(source, page_slug):
+    title = clean_embed_label(source.get("title", "")).strip() or "Webcam"
+    park_name = WEBCAM_PARK_NAMES.get(page_slug, "")
+    description = source.get("description", "").strip()
+    if description and description != source.get("status", "") and park_name:
+        alt = f"{title} webcam view in {park_name}: {description}"
+    elif park_name:
+        alt = f"{title} webcam view in {park_name}"
+    else:
+        alt = f"{title} webcam view"
+    return re.sub(r"\s+", " ", alt).strip()
+
+
 def youtube_video_id(url):
     match = re.search(r"youtube\.com/embed/([^?&#/]+)", html.unescape(url))
     return match.group(1) if match else ""
@@ -1498,11 +1552,12 @@ def render_webcam_source_cards(webcam_sources, captions=None, page_slug=""):
                 """
             )
         else:
+            alt = html.escape(webcam_image_alt(source, page_slug))
             cards.append(
                 f"""
                 <article class="embed-card webcam-image-card">
                   <div class="webcam-image-media" data-full-src="{url}" data-title="{title}" data-nationalparkcam-url="{nationalparkcam_url}">
-                    <img src="{url}" data-refresh-src="{url}" alt="{title}" loading="lazy" onerror="this.closest('.webcam-image-card').classList.add('image-missing'); this.remove();">
+                    <img src="{url}" data-refresh-src="{url}" alt="{alt}" loading="lazy" onerror="this.closest('.webcam-image-card').classList.add('image-missing'); this.remove();">
                   </div>
                   <div class="embed-meta"><span>{provider}</span><strong>{title}</strong><p>{status}</p>{description}{nationalparkcam_link}</div>
                 </article>
@@ -2075,6 +2130,9 @@ def seo_page_title(title, page_slug):
         if len(seo_title) > 70:
             seo_title = f"{short_name(title)} Guide | Weather & Map"
         return seo_title
+    custom = WEBCAM_SEO.get(page_slug, {}).get("title")
+    if custom:
+        return custom
     park_name = WEBCAM_PARK_NAMES.get(page_slug, title.replace(" Webcams", ""))
     seo_title = f"{park_name} Webcams | Live Cams, Weather & Map"
     if len(seo_title) > 70:
@@ -2097,7 +2155,17 @@ def seo_description(title, page_slug, description):
         if len(meta) > 155:
             meta = f"{park_name} guide with weather, map, activities, camping, lodging, NPS links, and park history."
         return meta
-    return description
+    custom = WEBCAM_SEO.get(page_slug, {}).get("description")
+    if custom:
+        return custom
+    park_name = WEBCAM_PARK_NAMES.get(page_slug, title.replace(" Webcams", ""))
+    meta = (
+        f"View {park_name} webcams and plan with weather, maps, hiking, camping, lodging, "
+        "visitor information, and official NPS resources."
+    )
+    if len(meta) <= 155:
+        return meta
+    return f"View {park_name} webcams with weather, maps, trails, camping, lodging, visitor information, and official NPS links."
 
 
 def truncate_meta(text, limit):
@@ -2392,6 +2460,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
     <div class="page-layout">
       <article class="page-content">{text_to_html(article_body, park_inline_link_candidates(page["slug"], links), page["slug"], title, wikipedia_url(links), official_nps_url(links) if no_camera_page else "")}</article>
     </div>
+    {content_verified_note(page["slug"])}
     {render_guide_faq_section(page["slug"], title)}
     {related_guide_links(page, pages)}
     {related_park_links(page, pages)}

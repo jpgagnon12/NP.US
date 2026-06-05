@@ -815,6 +815,20 @@ h3 {
   font-size: 1.03rem;
 }
 
+.content-verified-note {
+  margin: 0 clamp(18px, 5vw, 78px) clamp(24px, 5vw, 54px);
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #f8faf7;
+}
+
+.content-verified-note p {
+  margin: 0;
+  color: #435149;
+  font-size: 0.94rem;
+}
+
 .resource-panel {
   align-self: start;
   display: grid;

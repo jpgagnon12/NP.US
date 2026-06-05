@@ -35,7 +35,7 @@ Yosemite is famous for its natural attractions. Yosemite Falls is one of the tal
 
 Top Hikes
 
-Ninety-five percent of the park is designated wilderness, and there are over 800 miles of trails in Yosemite National Park. The NPS website has more information on all hikes plus a mileage chart. Below are some of the most popular and my favorites.
+Ninety-five percent of the park is designated wilderness, and there are over 800 miles of trails in Yosemite National Park. The NPS website has current trail information and mileage guidance. Below are several popular Yosemite hikes and backpacking destinations to research before visiting.
 
 Day Hikes:
 
@@ -57,7 +57,7 @@ Backpacking in Yosemite is extremely popular. Portable bear canisters are requir
 
 **Little Yosemite Valley and Campground** The hike and campground at Little Yosemite Valley are popular destinations for backpackers and hikers who want to explore the Yosemite Wilderness and Half Dome. The hike is about 4 miles (6.4 km) from Happy Isles Trailhead in Yosemite Valley, passing by Vernal Fall and Nevada Fall along the way. The campground is a minimally developed site with communal bear lockers, fire rings, and a composting toilet. There is no potable water, but the Merced River and Sunrise Creek are nearby for filtering. The campground is first-come, first-served and requires a wilderness permit.
 
-**Clouds Rest** One of my favorite hikes. You have two options. Either way you can do a round trip or hike from one trailhead to another.
+**Clouds Rest** is a high-country route with broad views toward Half Dome and Yosemite Valley. Hikers can plan it as an out-and-back or as part of a longer point-to-point route, depending on trailhead access, permits, snow, and shuttle logistics.
 
 1) From Tioga Road The hike to Clouds Rest is a 13.5 mile (21 km) round-trip trail that starts from the Sunrise Lakes trailhead on Tioga Road near Tenaya Lake. The trail climbs 3,152 feet (961 m) to the summit of Clouds Rest, where you can enjoy breathtaking views of Half Dome, Yosemite Valley, and the High Sierra. The trail is considered hard and takes about 5 hours to complete. You need a permit.
 
@@ -65,7 +65,7 @@ Backpacking in Yosemite is extremely popular. Portable bear canisters are requir
 
 **John Muir Trail (JMT)** The JMT hike from Yosemite National Park is a 211 miles (339 km) trail that follows the John Muir Trail from Yosemite Valley to Mount Whitney, the highest point in the contiguous United States. The hike passes through scenic landscapes, such as waterfalls, granite cliffs, alpine lakes, and mountain peaks. The hike is considered hard and takes about 3 to 4 weeks to complete. You need a wilderness permit to start the hike from Yosemite.
 
-For those of you who want an adventure but not the hassle of carrying a tent, the High Sierra Camps are a great alternative. There are five camps and reservations are made in a lottery.
+High Sierra Camps, when operating, offer a supported high-country lodging option. Availability, lottery rules, opening dates, and services can change, so confirm details with the official concessioner and NPS wilderness information before planning.
 
 Biking
 
@@ -85,7 +85,7 @@ Where to Stay
 
 There are different types of sleeping accommodations in Yosemite Valley, depending on your preferences and budget. You can choose from hotels, motels, cabins, vacation rentals, bed and breakfasts, or campgrounds. Some of these options are located inside the park, while others are nearby in the surrounding communities.
 
-Camping There are 13 campgrounds located within the park. They are reservable through recreation.gov. You have three options in Yosemite Valley. All of them are within shuttle range and bike trails. Food and restaurants are close by.
+Camping in Yosemite is highly competitive and varies by campground, season, road access, and reservation system. Use official NPS campground pages and Recreation.gov for current opening dates, reservation windows, shuttle access, and food-storage rules.
 
 **Upper Pines** has 235 sites, 5 are tent only and 32 are reserved for RVs. The campsite is at an elevation of 4,000 feet (1,219 m). Campsites can accommodate RVs up to 40 feet (10.6 m) in length.
 
@@ -95,7 +95,7 @@ Camping There are 13 campgrounds located within the park. They are reservable th
 
 Hotels
 
-**The Ahwahnee Hotel** The Ahwahnee Hotel is your most expensive option. It was built by the Yosemite Park and Curry Company and opened for business in 1927 The hotel is constructed of steel, stone, concrete, wood, and glass, and is a premier example of National Park Service rustic architecture The hotel has hosted several famous personalities within its walls, including presidents and royalty The hotel offers hotel rooms, suites, parlors, and cottages. The Ahwahnee Dining Room is a must-see. The 34-foot-high beamed ceilings soar above floor to ceiling windows that showcase the beauty of the surroundings The hotel also has a gift shop with a focus on local artisans, a sweet shop, a bar, and a heated outdoor swimming pool on the premises. You can make reservations by visiting the Ahwahnee Hotel website (link below)
+**The Ahwahnee Hotel** The Ahwahnee Hotel is your most expensive option. It was built by the Yosemite Park and Curry Company and opened for business in 1927 The hotel is constructed of steel, stone, concrete, wood, and glass, and is a premier example of National Park Service rustic architecture The hotel has hosted several famous personalities within its walls, including presidents and royalty The hotel offers hotel rooms, suites, parlors, and cottages. The Ahwahnee Dining Room is a must-see. The 34-foot-high beamed ceilings soar above floor to ceiling windows that showcase the beauty of the surroundings The hotel also has a gift shop with a focus on local artisans, a sweet shop, a bar, and a heated outdoor swimming pool on the premises. Use the official lodging links below for current reservations, amenities, dining status, and seasonal operations.
 
 **Yosemite Valley Lodge** The lodge offers 241 recently remodeled traditional rooms with different available bed options, and family rooms The lodge provides a gift shop, multiple dining options, a bar, and an outdoor swimming pool on the premises. The lodge is located in close proximity to Yosemite Falls, making it an ideal base camp for exploring Yosemite National Park 3. The lodge also offers free bikes, a shuttle service, an ATM, and free WiFi. Link to reservations is below.
 
@@ -193,8 +193,8 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Yosemite National Park Not just a great valley, but a shrine to human foresight, the strength of granite, the power of glaciers, the persistence of life, and the tranquility of the High Sierra. < br / > < br / > First protected in 1864, Yosemite National Park is best known for its waterfalls, but within its nearly 1,200 square miles, you can find deep valleys, grand meadows, ancient giant sequoias, a vast wilderness area, and much more.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fyose%2Findex.htm&sa=D&sntz=1&usg=AOvVaw0UEDjJzlkHUAFEo-XQEYlg
-- Webcams - Yosemite National Park: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fyose%2Flearn%2Fphotosmultimedia%2Fwebcams.htm&sa=D&sntz=1&usg=AOvVaw267wR2tkmsDjfpu0um1nUs
+- Yosemite National Park Not just a great valley, but a shrine to human foresight, the strength of granite, the power of glaciers, the persistence of life, and the tranquility of the High Sierra. < br / > < br / > First protected in 1864, Yosemite National Park is best known for its waterfalls, but within its nearly 1,200 square miles, you can find deep valleys, grand meadows, ancient giant sequoias, a vast wilderness area, and much more.: https://www.nps.gov/yose/index.htm
+- Webcams - Yosemite National Park: https://www.nps.gov/yose/learn/photosmultimedia/webcams.htm
 - UNESCO World Heritage Site: https://whc.unesco.org/en/list/308
 - Wikipedia site: https://en.wikipedia.org/wiki/Yosemite_National_Park
 - NPS website: https://www.nps.gov/yose/planyourvisit/trailheads.htm

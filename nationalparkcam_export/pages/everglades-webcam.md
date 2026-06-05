@@ -114,7 +114,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Everglades National Park Everglades National Park protects an unparalleled landscape that provides important habitat for numerous rare and endangered species like the manatee, American crocodile, and the elusive Florida panther. < br / > < br / > An international treasure as well - a World Heritage Site, International Biosphere Reserve, a Wetland of International Importance, and a specially protected area under the Cartagena Treaty.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fever%2Findex.htm&sa=D&sntz=1&usg=AOvVaw3KsYOoRhuhiWnFB_LHGkyX
+- Everglades National Park Everglades National Park protects an unparalleled landscape that provides important habitat for numerous rare and endangered species like the manatee, American crocodile, and the elusive Florida panther. < br / > < br / > An international treasure as well - a World Heritage Site, International Biosphere Reserve, a Wetland of International Importance, and a specially protected area under the Cartagena Treaty.: https://www.nps.gov/ever/index.htm
 - UNESCO World Heritage Site: https://whc.unesco.org/en/list/76/
 - wikipedia: https://en.wikipedia.org/wiki/Everglades_National_Park
 - NPS website: https://www.nps.gov/ever/planyourvisit/hiking-trails.htm

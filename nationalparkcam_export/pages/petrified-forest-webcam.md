@@ -29,7 +29,7 @@ Agate House hike is 2 miles (3.2 km) round trip from the Rainbow Forest Museum p
 
 Painted Desert Rim Trail is 3 miles round trip (4.8 km) with minimal elevation gain. While not as short as the previous trails, the Painted Desert Rim Trail offers breathtaking views of the colorful badlands and the vast Painted Desert. You'll witness the transition from petrified wood to the striking desert landscape.
 
-The Devil's Playground is my favorite. While there's no official trail once you get to the heart of the Playground, exploring its rock features and hoodoos offers a choose-your-own-adventure experience. A free permit is required from the Petrified Forest National Park visitor center. Pick up a map while you are there. The trail is 8.2 miles (13.2 km) with 600 feet (183 m) of elevation gain. The unique rock formations and colors make this hike visually stunning.
+The Devil's Playground is a remote off-trail-style route to research carefully before visiting. While there's no official trail once you get to the heart of the Playground, exploring its rock features and hoodoos offers a choose-your-own-adventure experience. A free permit is required from the Petrified Forest National Park visitor center. Pick up a map while you are there. The trail is 8.2 miles (13.2 km) with 600 feet (183 m) of elevation gain. The unique rock formations and colors make this hike visually stunning.
 
 Backpacking
 
@@ -94,7 +94,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Petrified Forest National Park Park Hours: 8am to 5pm, MST. Don ' t forget that Arizona does not observe Daylight Savings. < br / > < br / > Petrified Forest is best known for its Triassic fossils. It ' s like having two parks in one, an ecosystem over 200 million years old with plants and animals now represented in the surreal landscape of the Painted Desert. There is also a living park with its own denizens adapted to a demanding environment.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fpefo%2Findex.htm&sa=D&sntz=1&usg=AOvVaw0-9gIoKG0UACrUgclarfxe
+- Petrified Forest National Park Park Hours: 8am to 5pm, MST. Don ' t forget that Arizona does not observe Daylight Savings. < br / > < br / > Petrified Forest is best known for its Triassic fossils. It ' s like having two parks in one, an ecosystem over 200 million years old with plants and animals now represented in the surreal landscape of the Painted Desert. There is also a living park with its own denizens adapted to a demanding environment.: https://www.nps.gov/pefo/index.htm
 - page: https://en.wikipedia.org/wiki/Petrified_Forest_National_Park
 - Day Hikes: https://www.nps.gov/pefo/planyourvisit/trails.htm
 - Backpacking: https://www.nps.gov/pefo/planyourvisit/backpacking.htm

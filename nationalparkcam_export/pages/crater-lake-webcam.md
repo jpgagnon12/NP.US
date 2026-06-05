@@ -146,7 +146,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Crater Lake National Park Crater Lake inspires awe. Native Americans witnessed its formation 7,700 years ago, when a violent eruption triggered the collapse of a tall peak. Scientists marvel at its purity—fed by rain and snow, it’s the deepest lake in the USA and one of the most pristine on Earth. Artists, photographers, and sightseers gaze in wonder at its blue water and stunning setting atop the Cascade Mountain Range.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fcrla%2Findex.htm&sa=D&sntz=1&usg=AOvVaw2iU4ei7lQWdfJxJLRooYL4
+- Crater Lake National Park Crater Lake inspires awe. Native Americans witnessed its formation 7,700 years ago, when a violent eruption triggered the collapse of a tall peak. Scientists marvel at its purity—fed by rain and snow, it’s the deepest lake in the USA and one of the most pristine on Earth. Artists, photographers, and sightseers gaze in wonder at its blue water and stunning setting atop the Cascade Mountain Range.: https://www.nps.gov/crla/index.htm
 - Wikipedia Page: https://en.wikipedia.org/wiki/Crater_Lake
 - NPS link: https://www.nps.gov/crla/planyourvisit/hiking.htm
 - website: https://www.nps.gov/crla/planyourvisit/backcountry-faq.htm

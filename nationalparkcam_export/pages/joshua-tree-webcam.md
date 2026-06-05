@@ -138,7 +138,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Joshua Tree National Park Two distinct desert ecosystems, the Mojave and the Colorado, come together in Joshua Tree National Park. A fascinating variety of plants and animals make their homes in a land sculpted by strong winds and occasional torrents of rain. Dark night skies, a rich cultural history, and surreal geologic features add to the wonder of this vast wilderness in southern California. Come explore for yourself!: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fjotr%2Findex.htm&sa=D&sntz=1&usg=AOvVaw1eF6KxeV0w0oCHRKlkkvd1
+- Joshua Tree National Park Two distinct desert ecosystems, the Mojave and the Colorado, come together in Joshua Tree National Park. A fascinating variety of plants and animals make their homes in a land sculpted by strong winds and occasional torrents of rain. Dark night skies, a rich cultural history, and surreal geologic features add to the wonder of this vast wilderness in southern California. Come explore for yourself!: https://www.nps.gov/jotr/index.htm
 - site: https://en.wikipedia.org/wiki/Joshua_Tree_National_Park
 - NPS website: https://www.nps.gov/jotr/planyourvisit/hiking.htm
 - The West Side Loop Trail: https://www.nps.gov/jotr/planyourvisit/black-rock-area-hiking.htm

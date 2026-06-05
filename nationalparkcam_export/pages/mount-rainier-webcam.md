@@ -80,7 +80,7 @@ White River Campground is located in the northeast section of the park, near Sun
 
 Lodging
 
-There are two lodges located in the park. Both are operated by Rainier Guest Services.
+Mount Rainier has in-park lodging options that operate seasonally or year-round depending on the property and conditions. Confirm current lodging, dining, and reservation details with official NPS and concessioner information before travel.
 
 National Park Inn is a historic inn located in the Longmire Historic District of Mount Rainier National Park. It is open year-round and offers 25 guest rooms, a full-service dining room, and a general store. The inn has a cozy and rustic atmosphere, with a fireplace, rocking chairs, and views of Mount Rainier from the front porch. The inn is a great base for exploring the park's attractions, such as the Nisqually River, Narada Falls, Reflection Lakes, and the Paradise area. The inn also provides access to several hiking trails, such as the Wonderland Trail, the Cougar Rock Trail, and the Carter Falls Trail. The elevation of the inn is 3,180 feet (969 m).
 
@@ -88,7 +88,7 @@ The Paradise Inn is a historic inn located in the Paradise area. It opened in 19
 
 Restaurants
 
-There are several restaurants in the park that offer a variety of cuisines and dining experiences. Not all restaurants are open year-round. Here are some of the most popular ones, along with their menu options and locations:
+Dining options in and around Mount Rainier are seasonal and can change by area, concessioner operations, weather, and road access. Use the official NPS restaurants page and concessioner information for current openings before travel.
 
 Summit House Restaurant is the highest elevation (6,872 feet/2,094 m) restaurant in Washington, located at the top of the Crystal Mountain gondola. It offers American cuisine with a panoramic view of Mount Rainier and the Cascade Range. Some of the menu options include burgers, salads, sandwiches, soups, and desserts.
 
@@ -164,7 +164,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Mount Rainier National Park Ascending to 14,410 feet above sea level, Mount Rainier stands as an icon in the Washington landscape. An active volcano, Mount Rainier is the most glaciated peak in the contiguous U.S.A., spawning five major rivers. Subalpine wildflower meadows ring the icy volcano while ancient forest cloaks Mount Rainier’s lower slopes. Wildlife abounds in the park’s ecosystems. A lifetime of discovery awaits.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fmora%2Findex.htm&sa=D&sntz=1&usg=AOvVaw1UOsE3x0D8pJL4zEzuqIEO
+- Mount Rainier National Park Ascending to 14,410 feet above sea level, Mount Rainier stands as an icon in the Washington landscape. An active volcano, Mount Rainier is the most glaciated peak in the contiguous U.S.A., spawning five major rivers. Subalpine wildflower meadows ring the icy volcano while ancient forest cloaks Mount Rainier’s lower slopes. Wildlife abounds in the park’s ecosystems. A lifetime of discovery awaits.: https://www.nps.gov/mora/index.htm
 - reservations: https://www.nps.gov/mora/planyourvisit/timed-entry-reservations.htm
 - wikipedia: https://en.wikipedia.org/wiki/Mount_Rainier_National_Park
 - Day Hikes: https://www.nps.gov/mora/planyourvisit/day-hiking-at-mount-rainier.htm

@@ -63,9 +63,9 @@ Glacier National Park is home to some of the most spectacular hiking trails in t
 
 The NPS has maps and hikes within the park, broken down by area. Click on the links to get more information. Lake McDonald, Many Glacier, North Fork and Goat Haunt, St Mary/Logan Pass and Two Medicine.
 
-Here are some of our favorite hikes.
+Below are several well-known Glacier hikes to compare with official NPS trail conditions before you go.
 
-**Highline Trail**: I personally love this hike. It is 11.6 miles (18.7 km) point-to-point and has a total ascent of 800 feet (244 m) and a total descent of 3000 feet (914 m). The difficulty level is moderate, and the length of time required is 6 to 8 hours. The trail starts at Logan Pass and follows the Garden Wall, offering stunning views of the surrounding mountains and valleys. The trail ends at The Loop, where you can take the free park shuttle back to your car at Logan Pass.
+**Highline Trail** is 11.6 miles (18.7 km) point-to-point with about 800 feet (244 m) of ascent and about 3,000 feet (914 m) of descent. The difficulty level is moderate, and the length of time required is 6 to 8 hours. The trail starts at Logan Pass and follows the Garden Wall, offering stunning views of the surrounding mountains and valleys. The trail ends at The Loop, where you can take the free park shuttle back to your car at Logan Pass.
 
 **Avalanche Lake**: This hike is 5.9 miles (9.5 km) out-and-back and has a total ascent of 500 feet (152 m). The difficulty level is easy to moderate, and the length of time required is 2 to 3 hours. The trail at Lake McDonald starts south of the Avalanche Gorge Footbridge on the Trail of the Cedars and winds its way through old-growth cedars and hemlock forest. The boardwalk meanders along the roaring stream to a beautiful glacial melt lake fed by waterfalls from the surrounding alpine bowl. The trail gradually climbs along Avalanche Creek, featuring spectacular scenery and glimpses of birds and wildlife that inhabit the area. Plant enthusiasts will appreciate the diverse species of flora.
 
@@ -73,9 +73,9 @@ Here are some of our favorite hikes.
 
 Backpacking
 
-Backpacking within the park is incredibly beautiful. Weather can turn ugly, make sure to bring clothing layers. There are around 1,000 bears in the park. Carry bear spray ( how to use bear spray ) and make noise to let them know you are around. Permits are required for any overnight stay. Advanced reservations/lottery can be made at recreation.gov. Make sure to carry a bear resistant food container and a water filter.
+Backpacking in Glacier requires careful planning because weather, snow, wildlife, food storage rules, permits, and campsite availability can change by route and season. Carry bear spray where recommended, make noise on trail, use required food storage, bring a water filter, and check official NPS backcountry and Recreation.gov permit information before planning any overnight trip.
 
-Below are three incredible hikes.
+Below are three notable backcountry routes or destinations to research with official NPS conditions before travel.
 
 **The Siyeh Pass Trail** takes you through gorgeous alpine scenery, with stunning mountain vistas, wildflowers, and abundant wildlife. The trail reaches an impressive elevation of 8,000 feet and provides panoramic views of Mt. Siyeh, Going-to-the-Sun Mountain, Matahpi Peak, and St. Mary Lake. The trailhead is located 2.2 miles east of Logan Pass on the Going-to-the-Sun Road. Roundtrip the trail is 9.4 miles (15.1 km), with an elevation gain of 2,135 feet (650 m). The highest point of the hike is at 8,000 feet (2,438 m).
 
@@ -210,10 +210,10 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Glacier National Park A showcase of melting glaciers, alpine meadows, carved valleys, and spectacular lakes. With over 700 miles of trails, Glacier is a paradise for adventurous visitors seeking wilderness steeped in human history. Relive the days of old through historic chalets, lodges, and the famous Going-to-the-Sun Road.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fglac%2Findex.htm&sa=D&sntz=1&usg=AOvVaw0UkIWs0DyYr-5-Rb9xhmK8
-- https://www.google.com/url?q=https%3A%2F%2Fglaciertourbase.com%2Ftours%2Fglacier-park%2Fboat%2Flake-mcdonald-scenic-boat-tour%3Fref%3Dglacier_webcam&sa=D&sntz=1&usg=AOvVaw1PzdcPYTE5f6S_r5QGb7Po: https://www.google.com/url?q=https%3A%2F%2Fglaciertourbase.com%2Ftours%2Fglacier-park%2Fboat%2Flake-mcdonald-scenic-boat-tour%3Fref%3Dglacier_webcam&sa=D&sntz=1&usg=AOvVaw1PzdcPYTE5f6S_r5QGb7Po
-- https://www.google.com/url?q=https%3A%2F%2Fglaciertourbase.com%2Fexcursion-guides%2Four-ultimate-guide-to-glacier-national-parks-famous-lodges%3Fref%3Dglacier_webcam&sa=D&sntz=1&usg=AOvVaw2t6yfC9J6HEtvnE118vu4r: https://www.google.com/url?q=https%3A%2F%2Fglaciertourbase.com%2Fexcursion-guides%2Four-ultimate-guide-to-glacier-national-parks-famous-lodges%3Fref%3Dglacier_webcam&sa=D&sntz=1&usg=AOvVaw2t6yfC9J6HEtvnE118vu4r
-- https://www.google.com/url?q=https%3A%2F%2Fglaciertourbase.com%2Ftours%3Fref%3Dglacier_webcam&sa=D&sntz=1&usg=AOvVaw04n-sOIwqp9AtXns6Zc1AS: https://www.google.com/url?q=https%3A%2F%2Fglaciertourbase.com%2Ftours%3Fref%3Dglacier_webcam&sa=D&sntz=1&usg=AOvVaw04n-sOIwqp9AtXns6Zc1AS
+- Glacier National Park A showcase of melting glaciers, alpine meadows, carved valleys, and spectacular lakes. With over 700 miles of trails, Glacier is a paradise for adventurous visitors seeking wilderness steeped in human history. Relive the days of old through historic chalets, lodges, and the famous Going-to-the-Sun Road.: https://www.nps.gov/glac/index.htm
+- https://glaciertourbase.com/tours/glacier-park/boat/lake-mcdonald-scenic-boat-tour?ref=glacier_webcam: https://glaciertourbase.com/tours/glacier-park/boat/lake-mcdonald-scenic-boat-tour?ref=glacier_webcam
+- https://glaciertourbase.com/excursion-guides/our-ultimate-guide-to-glacier-national-parks-famous-lodges?ref=glacier_webcam: https://glaciertourbase.com/excursion-guides/our-ultimate-guide-to-glacier-national-parks-famous-lodges?ref=glacier_webcam
+- https://glaciertourbase.com/tours?ref=glacier_webcam: https://glaciertourbase.com/tours?ref=glacier_webcam
 - Wikipedia: https://en.wikipedia.org/wiki/Glacier_National_Park_%28U.S.%29
 - Glacier National Park Conservancy: https://glacier.org/
 - Going-to-the-Sun Road: https://www.nps.gov/glac/planyourvisit/gtsrinfo.htm

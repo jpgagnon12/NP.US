@@ -119,7 +119,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- Mammoth Cave National Park Rolling hills, deep river valleys, and the world ' s longest known cave system. Mammoth Cave National Park is home to thousands of years of human history and a rich diversity of plant and animal life, earning it the title of UNESCO World Heritage Site and International Biosphere Reserve.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fmaca%2Findex.htm&sa=D&sntz=1&usg=AOvVaw1rLa8a5L7E91FIJ9gL75X4
+- Mammoth Cave National Park Rolling hills, deep river valleys, and the world ' s longest known cave system. Mammoth Cave National Park is home to thousands of years of human history and a rich diversity of plant and animal life, earning it the title of UNESCO World Heritage Site and International Biosphere Reserve.: https://www.nps.gov/maca/index.htm
 - World Heritage Site: https://whc.unesco.org/en/list/150/
 - Biosphere Reserve: https://www.unesco.org/en/mab/mammoth-cave-area
 - Wikipedia site: https://en.wikipedia.org/wiki/Mammoth_Cave_National_Park

@@ -136,7 +136,7 @@ Image: Email
 - Yellowstone Webcam: https://www.nationalparkcam.com/yellowstone-webcam
 - Yosemite Webcam: https://www.nationalparkcam.com/yosemite-webcam
 - Zion Webcam: https://www.nationalparkcam.com/zion-webcam
-- New River Gorge National Park & Preserve A rugged, whitewater river flowing northward through deep canyons, the New River is among the oldest rivers on the continent. The park encompasses over 70,000 acres of land along the New River, is rich in cultural and natural history, and offers an abundance of scenic and recreational opportunities.: https://www.google.com/url?q=https%3A%2F%2Fwww.nps.gov%2Fneri%2Findex.htm&sa=D&sntz=1&usg=AOvVaw3hEK-p2tVTqN4JF6CKeyaS
+- New River Gorge National Park & Preserve A rugged, whitewater river flowing northward through deep canyons, the New River is among the oldest rivers on the continent. The park encompasses over 70,000 acres of land along the New River, is rich in cultural and natural history, and offers an abundance of scenic and recreational opportunities.: https://www.nps.gov/neri/index.htm
 - Wikipedia: https://en.wikipedia.org/wiki/New_River_Gorge_National_Park_and_Preserve
 - Day Hiking: https://www.nps.gov/neri/planyourvisit/hiking.htm
 - Endless Wall Trail: https://www.nps.gov/places/endless-wall-trail.htm
