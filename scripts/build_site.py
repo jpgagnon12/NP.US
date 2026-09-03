@@ -2465,6 +2465,10 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
     <section class="weather-section" {weather_attrs}>
       <div class="section-heading">
         <div><h2>{html.escape(park_name)} Weather</h2>{f'<p class="section-note">{html.escape(weather_note)}</p>' if weather_note else ''}</div>
+        <div class="weather-unit-toggle" role="group" aria-label="Temperature units">
+          <button type="button" class="active" data-weather-unit="F" aria-pressed="true">F</button>
+          <button type="button" data-weather-unit="C" aria-pressed="false">C</button>
+        </div>
       </div>
       <div class="weather-layout">
         <article class="weather-card">

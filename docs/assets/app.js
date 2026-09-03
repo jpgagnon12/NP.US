@@ -456,6 +456,16 @@ const formatTemp = (value, unit) => {
   return `${Math.round(value)}°${unit === "F" ? "F" : unit}`;
 };
 
+const fahrenheitToCelsius = (value) => (value - 32) * 5 / 9;
+
+const displayTemp = (valueF, unit) => {
+  const numericValue = Number(valueF);
+  if (!Number.isFinite(numericValue)) return "";
+  return formatTemp(unit === "C" ? fahrenheitToCelsius(numericValue) : numericValue, unit);
+};
+
+let currentWeatherUnit = localStorage.getItem("temperatureUnit") === "C" ? "C" : "F";
+
 const renderWeatherError = (message) => {
   document.querySelectorAll("[data-weather-hourly], [data-weather-daily]").forEach((el) => {
     el.textContent = message;
@@ -507,7 +517,7 @@ const renderOpenMeteoWeather = (lat, lng, hourlyEl, dailyEl) => {
             item.className = "hourly-item";
             const time = new Date(timeValue);
             const code = hourlyCodes[index];
-            item.innerHTML = `<span>${time.toLocaleTimeString([], { hour: "numeric" })}</span><strong>${formatTemp(hourlyTemps[index], "F")}</strong><small>${weatherCodeText[code] || "Forecast"}</small>`;
+            item.innerHTML = `<span>${time.toLocaleTimeString([], { hour: "numeric" })}</span><strong data-temp-f="${hourlyTemps[index]}">${displayTemp(hourlyTemps[index], currentWeatherUnit)}</strong><small>${weatherCodeText[code] || "Forecast"}</small>`;
             return item;
           })
         );
@@ -520,7 +530,7 @@ const renderOpenMeteoWeather = (lat, lng, hourlyEl, dailyEl) => {
             item.className = "daily-item";
             const day = new Date(`${dateValue}T12:00:00`);
             const code = dailyCodes[index];
-            item.innerHTML = `<strong>${day.toLocaleDateString([], { weekday: "long" })}</strong><span>${formatTemp(dailyTemps[index], "F")}</span><p>${weatherCodeText[code] || "Forecast"}</p>`;
+            item.innerHTML = `<strong>${day.toLocaleDateString([], { weekday: "long" })}</strong><span data-temp-f="${dailyTemps[index]}">${displayTemp(dailyTemps[index], currentWeatherUnit)}</span><p>${weatherCodeText[code] || "Forecast"}</p>`;
             return item;
           })
         );
@@ -533,6 +543,26 @@ if (weatherSection) {
   const lng = weatherSection.dataset.lng;
   const hourlyEl = weatherSection.querySelector("[data-weather-hourly]");
   const dailyEl = weatherSection.querySelector("[data-weather-daily]");
+  const unitButtons = Array.from(weatherSection.querySelectorAll("[data-weather-unit]"));
+
+  const applyWeatherUnit = (unit) => {
+    currentWeatherUnit = unit;
+    localStorage.setItem("temperatureUnit", unit);
+    for (const button of unitButtons) {
+      const isActive = button.dataset.weatherUnit === unit;
+      button.classList.toggle("active", isActive);
+      button.setAttribute("aria-pressed", String(isActive));
+    }
+    weatherSection.querySelectorAll("[data-temp-f]").forEach((el) => {
+      el.textContent = displayTemp(el.dataset.tempF, unit);
+    });
+  };
+
+  for (const button of unitButtons) {
+    button.addEventListener("click", () => applyWeatherUnit(button.dataset.weatherUnit || "F"));
+  }
+
+  applyWeatherUnit(currentWeatherUnit);
 
   fetch(`https://api.weather.gov/points/${lat},${lng}`)
     .then((response) => {
@@ -555,7 +585,7 @@ if (weatherSection) {
             const item = document.createElement("div");
             item.className = "hourly-item";
             const time = new Date(period.startTime);
-            item.innerHTML = `<span>${time.toLocaleTimeString([], { hour: "numeric" })}</span><strong>${formatTemp(period.temperature, period.temperatureUnit)}</strong><small>${period.shortForecast}</small>`;
+            item.innerHTML = `<span>${time.toLocaleTimeString([], { hour: "numeric" })}</span><strong data-temp-f="${period.temperature}">${displayTemp(period.temperature, currentWeatherUnit)}</strong><small>${period.shortForecast}</small>`;
             return item;
           })
         );
@@ -566,7 +596,7 @@ if (weatherSection) {
           ...dailyItems.map((period) => {
             const item = document.createElement("div");
             item.className = "daily-item";
-            item.innerHTML = `<strong>${period.name}</strong><span>${formatTemp(period.temperature, period.temperatureUnit)}</span><p>${period.shortForecast}</p>`;
+            item.innerHTML = `<strong>${period.name}</strong><span data-temp-f="${period.temperature}">${displayTemp(period.temperature, currentWeatherUnit)}</span><p>${period.shortForecast}</p>`;
             return item;
           })
         );

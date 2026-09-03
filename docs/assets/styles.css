@@ -1093,6 +1093,38 @@ h3 {
   gap: 18px;
 }
 
+.weather-unit-toggle {
+  display: inline-grid;
+  grid-template-columns: repeat(2, 40px);
+  gap: 3px;
+  align-self: end;
+  padding: 4px;
+  background: #e8efe9;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.weather-unit-toggle button {
+  min-height: 34px;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  font: inherit;
+  font-weight: 900;
+}
+
+.weather-unit-toggle button.active {
+  background: var(--forest);
+  color: #fff;
+}
+
+.weather-unit-toggle button:focus-visible {
+  outline: 3px solid rgba(42, 109, 155, 0.35);
+  outline-offset: 2px;
+}
+
 .weather-card {
   background: #f4f8f5;
   border: 1px solid var(--line);
