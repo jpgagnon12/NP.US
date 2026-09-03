@@ -62,32 +62,17 @@
       <div class="hero-streams" aria-label="Popular live streams">
         
         <div class="hero-video-player" data-random-hero-video>
-          <script type="application/json" id="hero-video-data">[{"park": "Yellowstone", "label": "Old Faithful &amp; Upper Geyser Basin Livestream", "url": "https://cs7.pixelcaster.com/nps/faithful.stream/playlist_dvr.m3u8", "href": "https://www.nationalparkcam.com/parks/yellowstone-webcam", "kind": "hls"}, {"park": "Acadia", "label": "Bar Harbor, Maine - West View - Bar Harbor Inn", "url": "https://www.youtube.com/embed/OteVW3af3BU", "href": "https://www.nationalparkcam.com/parks/acadia-webcam", "kind": "youtube"}, {"park": "Channel Islands", "label": "Anacapa Ocean - Channel Islands National Park Cams powered by EXPLORE.org", "url": "https://www.youtube.com/embed/OAJF1Ie1m_Q", "href": "https://www.nationalparkcam.com/parks/channel-islands-webcam", "kind": "youtube"}, {"park": "Channel Islands", "label": "Mount Diablo Cam powered by EXPLORE.org", "url": "https://www.youtube.com/embed/f5Rjm5tiEkU", "href": "https://www.nationalparkcam.com/parks/channel-islands-webcam", "kind": "youtube"}, {"park": "Channel Islands", "label": "NPS San Miguel Island Ranger Station", "url": "https://www.youtube.com/embed/OtbWimuJQ_A", "href": "https://www.nationalparkcam.com/parks/channel-islands-webcam", "kind": "youtube"}, {"park": "Channel Islands", "label": "Sauces Bald Eagle - Channel Islands National Park Cams powered by EXPLORE.org", "url": "https://www.youtube.com/embed/rnTsOesC6hE", "href": "https://www.nationalparkcam.com/parks/channel-islands-webcam", "kind": "youtube"}, {"park": "Grand Teton", "label": "Live from Grand Teton National Park", "url": "https://www.youtube.com/embed/XhBUrjhJm1A", "href": "https://www.nationalparkcam.com/parks/grand-tetons-webcam", "kind": "youtube"}, {"park": "Grand Teton", "label": "Dornan's in Grand Teton National Park - SeeJH.com", "url": "https://www.youtube.com/embed/o4fKtgPVpoU", "href": "https://www.nationalparkcam.com/parks/grand-tetons-webcam", "kind": "youtube"}, {"park": "Hawaii Volcanoes", "label": "\ud83d\udd34 Live Now: 24/7 Kilauea Volcano Livestream in Hawaii (Cam B)", "url": "https://www.youtube.com/embed/6IaMqotNF_s", "href": "https://www.nationalparkcam.com/parks/hawaii-volcanoes-webcam", "kind": "youtube"}, {"park": "Hawaii Volcanoes", "label": "[V2cam] K\u012blauea volcano, Hawaii (east Halema\u02bbuma\u02bbu crater)", "url": "https://www.youtube.com/embed/Tz5tPqRRv1Y", "href": "https://www.nationalparkcam.com/parks/hawaii-volcanoes-webcam", "kind": "youtube"}, {"park": "Hawaii Volcanoes", "label": "\ud83d\udd34 Live Now: 24/7 Kilauea Volcano Watch in Hawaii (Multi-cams)", "url": "https://www.youtube.com/embed/FVdmnpJ2kM0", "href": "https://www.nationalparkcam.com/parks/hawaii-volcanoes-webcam", "kind": "youtube"}, {"park": "Hawaii Volcanoes", "label": "[V3cam] K\u012blauea volcano, Hawaii (south Halema\u02bbuma\u02bbu crater)", "url": "https://www.youtube.com/embed/gXKuUyKt8mc", "href": "https://www.nationalparkcam.com/parks/hawaii-volcanoes-webcam", "kind": "youtube"}, {"park": "Virgin Islands", "label": "Windswept Point live Webcam on Cinnamon, Maho, and Francis Bays USVI National Park", "url": "https://www.youtube.com/embed/C0e8bpZ-5WY", "href": "https://www.nationalparkcam.com/parks/virgin-islands-webcam", "kind": "youtube"}]</script>
+          <script type="application/json" id="hero-video-data">[{"park": "Yellowstone", "label": "Old Faithful &amp; Upper Geyser Basin Livestream", "url": "https://www.youtube.com/embed/04u95OdC9HU", "href": "https://www.nationalparkcam.com/parks/yellowstone-webcam", "kind": "youtube"}]</script>
           <div class="hero-video-frame">
             
-                  <div class="embed-frame">
-                    <video id="hero-live-video" class="webcam-hls-video" autoplay muted playsinline controls aria-label="Old Faithful &amp; Upper Geyser Basin Livestream">
-                      <source src="https://cs7.pixelcaster.com/nps/faithful.stream/playlist_dvr.m3u8" type="application/x-mpegURL">
-                    </video>
-                  </div>
-                  <script src="https://cdn.jsdelivr.net/npm/hls.js@1" defer></script>
-                  <script>
-                    window.addEventListener("load", function () {
-                      var video = document.getElementById("hero-live-video");
-                      var src = "https://cs7.pixelcaster.com/nps/faithful.stream/playlist_dvr.m3u8";
-                      if (!video) return;
-                      if (video.canPlayType("application/vnd.apple.mpegurl")) {
-                        video.src = src;
-                      } else if (window.Hls && window.Hls.isSupported()) {
-                        var hls = new Hls();
-                        hls.loadSource(src);
-                        hls.attachMedia(video);
-                      }
-                      video.muted = true;
-                      video.play().catch(function () {});
-                    });
-                  </script>
-    
+            <iframe
+              id="hero-video-iframe"
+              src="https://www.youtube.com/embed/04u95OdC9HU?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0"
+              title="Old Faithful &amp; Upper Geyser Basin Livestream"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen></iframe>
+        
           </div>
           <div class="hero-video-meta">
             <span id="hero-video-park">Yellowstone</span>

@@ -39,6 +39,15 @@ BLOCKED_YOUTUBE_IDS = {
     "5LFLhZ_h91A",
     "BWnloy8r0qU",
 }
+HOME_HERO_STREAMS = [
+    {
+        "park": "Yellowstone",
+        "label": "Old Faithful & Upper Geyser Basin Livestream",
+        "url": "https://www.youtube.com/embed/04u95OdC9HU",
+        "href": f"{NATIONALPARKCAM_SITE_URL}/parks/yellowstone-webcam",
+        "kind": "youtube",
+    }
+]
 
 
 SECTION_TITLES = {
@@ -1647,22 +1656,33 @@ def popular_streams(resources_by_url, pages, webcam_sources_by_slug=None):
     streams = []
     yellowstone = next((page for page in pages if page["slug"] == "yellowstone-webcam"), None)
     if yellowstone:
-        yellowstone_hls = next(
+        yellowstone_video = next(
             (
                 source
                 for source in webcam_sources_by_slug.get("yellowstone-webcam", [])
-                if source.get("kind") == "hls"
+                if source.get("kind") == "iframe" and "youtube.com/embed/" in source.get("url", "")
             ),
             None,
         )
-        if yellowstone_hls:
+        yellowstone_video_kind = "youtube"
+        if not yellowstone_video:
+            yellowstone_video = next(
+                (
+                    source
+                    for source in webcam_sources_by_slug.get("yellowstone-webcam", [])
+                    if source.get("kind") == "hls"
+                ),
+                None,
+            )
+            yellowstone_video_kind = "hls"
+        if yellowstone_video:
             streams.append(
                 {
                     "park": short_name(yellowstone["title"]),
-                    "label": yellowstone_hls["title"],
-                    "url": yellowstone_hls["url"],
+                    "label": yellowstone_video["title"],
+                    "url": yellowstone_video["url"],
                     "href": nationalparkcam_park_url(yellowstone["slug"]),
-                    "kind": "hls",
+                    "kind": yellowstone_video_kind,
                 }
             )
     for page in pages:
@@ -2306,7 +2326,7 @@ def build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug):
     hero_image = first_image(resources_by_url[hero_source["url"]]) or first_image(resources_by_url[home["url"]])
     description = intro_from_body(home_body)
     page_urls = {p["url"].rstrip("/") for p in pages}
-    hero_streams = popular_streams(resources_by_url, park_pages, webcam_sources_by_slug)
+    hero_streams = HOME_HERO_STREAMS
     map_points = []
     for page in park_pages:
         links, embeds, _ = resource_groups(resources_by_url[page["url"]], page_urls)
