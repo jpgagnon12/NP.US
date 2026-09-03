@@ -80,20 +80,31 @@
                 
 
                 <article class="embed-card video-card">
-                  <div class="embed-frame"><iframe src="https://www.youtube.com/embed/04u95OdC9HU" srcdoc="
-        &lt;style&gt;
-          body { margin: 0; }
-          a { display: grid; place-items: center; position: relative; height: 100vh; overflow: hidden; background: #111; color: white; text-decoration: none; }
-          img { width: 100%; height: 100%; object-fit: cover; }
-          span { position: absolute; display: grid; place-items: center; width: 68px; height: 48px; border-radius: 8px; background: rgba(0,0,0,.74); }
-          span::before { content: &quot;&quot;; width: 0; height: 0; margin-left: 4px; border-top: 11px solid transparent; border-bottom: 11px solid transparent; border-left: 18px solid white; }
-        &lt;/style&gt;
-        &lt;a href=&quot;https://www.youtube.com/embed/04u95OdC9HU&quot; aria-label=&quot;Play Old Faithful &amp; Upper Geyser Basin Livestream&quot;&gt;
-          &lt;img src=&quot;https://i.ytimg.com/vi/04u95OdC9HU/hqdefault.jpg&quot; alt=&quot;Old Faithful &amp;amp; Upper Geyser Basin Livestream video thumbnail&quot;&gt;
-          &lt;span&gt;&lt;/span&gt;
-        &lt;/a&gt;
-        " title="Old Faithful &amp; Upper Geyser Basin Livestream" loading="lazy" allowfullscreen></iframe></div>
-                  <div class="embed-meta"><span>YouTube</span><strong>Old Faithful &amp; Upper Geyser Basin Livestream</strong><p>Active live YouTube stream</p><p>Replacement Yellowstone livestream provided September 3 2026.</p><a class="source-link" href="https://www.nationalparkcam.com/parks/yellowstone-webcam" target="_blank" rel="noopener">View this webcam on NationalParkCam.com</a></div>
+                  
+                  <div class="embed-frame">
+                    <video id="hls-old-faithful-upper-geyser-basin-livestream" class="webcam-hls-video" autoplay muted playsinline controls aria-label="Old Faithful &amp; Upper Geyser Basin Livestream">
+                      <source src="https://cs7.pixelcaster.com/nps/faithful.stream/playlist_dvr.m3u8" type="application/x-mpegURL">
+                    </video>
+                  </div>
+                  <script src="https://cdn.jsdelivr.net/npm/hls.js@1" defer></script>
+                  <script>
+                    window.addEventListener("load", function () {
+                      var video = document.getElementById("hls-old-faithful-upper-geyser-basin-livestream");
+                      var src = "https://cs7.pixelcaster.com/nps/faithful.stream/playlist_dvr.m3u8";
+                      if (!video) return;
+                      if (video.canPlayType("application/vnd.apple.mpegurl")) {
+                        video.src = src;
+                      } else if (window.Hls && window.Hls.isSupported()) {
+                        var hls = new Hls();
+                        hls.loadSource(src);
+                        hls.attachMedia(video);
+                      }
+                      video.muted = true;
+                      video.play().catch(function () {});
+                    });
+                  </script>
+    
+                  <div class="embed-meta"><span>National Park Service</span><strong>Old Faithful &amp; Upper Geyser Basin Livestream</strong><p>Official NPS livestream</p><p>Official NPS livestream of Old Faithful and the Upper Geyser Basin, made possible by Canon USA with support from Yellowstone Forever.</p><a class="source-link" href="https://www.nationalparkcam.com/parks/yellowstone-webcam" target="_blank" rel="noopener">View this webcam on NationalParkCam.com</a></div>
                 </article>
                 
 

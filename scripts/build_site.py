@@ -41,10 +41,10 @@ BLOCKED_YOUTUBE_IDS = {
 }
 HOME_HERO_STREAMS = [
     {
-        "park": "Yellowstone",
-        "label": "Old Faithful & Upper Geyser Basin Livestream",
+        "park": "Yosemite",
+        "label": "Yosemite Conservancy Live Webcam",
         "url": "https://www.youtube.com/embed/04u95OdC9HU",
-        "href": f"{NATIONALPARKCAM_SITE_URL}/parks/yellowstone-webcam",
+        "href": f"{NATIONALPARKCAM_SITE_URL}/parks/yosemite-webcam",
         "kind": "youtube",
     }
 ]
