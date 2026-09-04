@@ -495,6 +495,102 @@ const weatherCodeText = {
   95: "Thunderstorms",
 };
 
+const conditionsDashboards = Array.from(document.querySelectorAll("[data-conditions-dashboard]"));
+
+const setConditionCard = (card, status, message, className = "") => {
+  if (!card) return;
+  const statusEl = card.querySelector("strong");
+  const messageEl = card.querySelector("p");
+  card.classList.remove("condition-good", "condition-watch", "condition-alert");
+  if (className) card.classList.add(className);
+  if (statusEl) statusEl.textContent = status;
+  if (messageEl) messageEl.textContent = message;
+};
+
+const aqiLabel = (aqi) => {
+  if (aqi <= 50) return ["Good", "condition-good"];
+  if (aqi <= 100) return ["Moderate", "condition-watch"];
+  if (aqi <= 150) return ["Unhealthy for sensitive groups", "condition-watch"];
+  if (aqi <= 200) return ["Unhealthy", "condition-alert"];
+  if (aqi <= 300) return ["Very unhealthy", "condition-alert"];
+  return ["Hazardous", "condition-alert"];
+};
+
+const initConditionsDashboard = (dashboard) => {
+  const parkCode = dashboard.dataset.parkCode;
+  const parkName = dashboard.dataset.parkName || "this park";
+  const lat = dashboard.dataset.lat;
+  const lng = dashboard.dataset.lng;
+  const roadUrl = dashboard.dataset.roadUrl;
+  const officialUrl = dashboard.dataset.officialUrl;
+  const alertsCard = dashboard.querySelector("[data-condition-alerts]");
+  const airCard = dashboard.querySelector("[data-condition-air]");
+  const roadsCard = dashboard.querySelector("[data-condition-roads]");
+
+  if (parkCode && alertsCard) {
+    fetch(`https://developer.nps.gov/api/v1/alerts?parkCode=${encodeURIComponent(parkCode)}&api_key=DEMO_KEY`)
+      .then((response) => {
+        if (!response.ok) throw new Error("Alerts unavailable");
+        return response.json();
+      })
+      .then((payload) => {
+        const alerts = Array.isArray(payload.data) ? payload.data : [];
+        if (!alerts.length) {
+          setConditionCard(alertsCard, "No active alerts", `NPS currently lists no active ${parkName} alerts.`, "condition-good");
+          return;
+        }
+        const firstAlert = alerts[0]?.title ? `Latest: ${alerts[0].title}` : "Open NPS for current alert details.";
+        setConditionCard(alertsCard, `${alerts.length} active alert${alerts.length === 1 ? "" : "s"}`, firstAlert, "condition-alert");
+      })
+      .catch(() => {
+        setConditionCard(alertsCard, "Check NPS", "Alerts are temporarily unavailable here. Open the official park conditions page.", "condition-watch");
+      });
+  } else if (alertsCard) {
+    setConditionCard(alertsCard, "Official Updates", "Use the official park site for current notices, advisories, and closures.", "condition-watch");
+    const link = alertsCard.querySelector("a");
+    if (link && officialUrl) link.href = officialUrl;
+  }
+
+  if (lat && lng && airCard) {
+    fetch(
+      `https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${encodeURIComponent(lat)}&longitude=${encodeURIComponent(lng)}&hourly=us_aqi,pm2_5,ozone&timezone=auto&forecast_days=1`
+    )
+      .then((response) => {
+        if (!response.ok) throw new Error("Air quality unavailable");
+        return response.json();
+      })
+      .then((payload) => {
+        const times = payload.hourly?.time || [];
+        const aqiValues = payload.hourly?.us_aqi || [];
+        const pm25Values = payload.hourly?.pm2_5 || [];
+        const now = Date.now();
+        const closestIndex = times.reduce((bestIndex, timeValue, index) => {
+          const bestDiff = Math.abs(new Date(times[bestIndex] || 0).getTime() - now);
+          const nextDiff = Math.abs(new Date(timeValue).getTime() - now);
+          return nextDiff < bestDiff ? index : bestIndex;
+        }, 0);
+        const aqi = Math.round(Number(aqiValues[closestIndex]));
+        if (!Number.isFinite(aqi)) throw new Error("Air quality unavailable");
+        const [label, className] = aqiLabel(aqi);
+        const pm25 = Number(pm25Values[closestIndex]);
+        const pmText = Number.isFinite(pm25) ? ` PM2.5 ${pm25.toFixed(1)} micrograms per cubic meter.` : "";
+        setConditionCard(airCard, `AQI ${aqi}: ${label}`, `Open-Meteo air quality near this park.${pmText}`, className);
+      })
+      .catch(() => {
+        setConditionCard(airCard, "Check air quality", "Air quality is temporarily unavailable here. Open the air quality source.", "condition-watch");
+      });
+  }
+
+  if (roadsCard && roadUrl) {
+    const link = roadsCard.querySelector("a");
+    if (link) link.href = roadUrl;
+  }
+};
+
+for (const dashboard of conditionsDashboards) {
+  initConditionsDashboard(dashboard);
+}
+
 const renderOpenMeteoWeather = (lat, lng, hourlyEl, dailyEl) => {
   const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lng}&temperature_unit=fahrenheit&hourly=temperature_2m,weather_code&daily=temperature_2m_max,weather_code&forecast_days=7&timezone=auto`;
   return fetch(url)

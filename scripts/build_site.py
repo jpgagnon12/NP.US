@@ -1107,6 +1107,44 @@ def official_nps_url(links):
     return ""
 
 
+def nps_park_code(official_url):
+    parsed = urlparse(official_url)
+    if not parsed.netloc.endswith("nps.gov"):
+        return ""
+    parts = [part for part in parsed.path.split("/") if part]
+    return parts[0] if parts else ""
+
+
+def nps_conditions_url(links):
+    for link in links:
+        parsed = urlparse(link["url"])
+        label = clean_title(link["label"]).lower()
+        path = parsed.path.lower()
+        if parsed.netloc.endswith("nps.gov") and (
+            "condition" in label
+            or "current" in label
+            or path.endswith("/conditions.htm")
+            or "/conditions" in path
+        ):
+            return link["url"]
+    official = official_nps_url(links)
+    code = nps_park_code(official)
+    return f"https://www.nps.gov/{code}/planyourvisit/conditions.htm" if code else official
+
+
+def recreation_visits_from_body(body):
+    text = " ".join(body)
+    patterns = [
+        r"(?:park recorded|recorded|with)\s+([0-9,]+)\s+recreation visits(?:\s+recorded)?\s+in 2025",
+        r"NPS Stats 2025 recorded\s+([0-9,]+)\s+recreation visits",
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, text, flags=re.IGNORECASE)
+        if match:
+            return match.group(1)
+    return ""
+
+
 def wikipedia_url(links):
     for link in links:
         if "wikipedia.org" in link["url"]:
@@ -1970,6 +2008,14 @@ def guide_faqs(page_slug, title):
             ),
         },
         {
+            "question": f"Where are pets allowed in {park_name}?",
+            "answer": f"Pet rules vary by trail, road, campground, building, shuttle, and season. Before visiting with a pet, confirm current rules with the official {park_name} pet guidance.",
+        },
+        {
+            "question": "What time are the visitor centers open?",
+            "answer": f"Visitor center hours at {park_name} can change by season, staffing, holidays, weather, and closures. Check the official operating hours or visitor center information before you go.",
+        },
+        {
             "question": f"Are there live webcams in {park_name}?",
             "answer": f"This guide page does not host a current webcam page for {park_name}. For live views from other national parks, use NationalParkCam.com and compare active park camera pages.",
         },
@@ -2003,6 +2049,82 @@ def render_guide_faq_section(page_slug, title):
         </div>
       </div>
       <div class="faq-grid">{''.join(items)}</div>
+    </section>
+"""
+
+
+def render_current_conditions_section(page_slug, park_name, links, coords, body):
+    if not is_no_camera_page(page_slug):
+        return ""
+    official_url = official_nps_url(links)
+    conditions_url = nps_conditions_url(links)
+    park_code = nps_park_code(official_url)
+    lat, lng = coords if coords else ("", "")
+    attrs = [
+        "data-conditions-dashboard",
+        f'data-park-name="{html.escape(park_name)}"',
+        f'data-official-url="{html.escape(official_url)}"',
+        f'data-road-url="{html.escape(conditions_url)}"',
+    ]
+    if park_code:
+        attrs.append(f'data-park-code="{html.escape(park_code)}"')
+    if lat != "" and lng != "":
+        attrs.extend([f'data-lat="{html.escape(str(lat))}"', f'data-lng="{html.escape(str(lng))}"'])
+    traffic_card = ""
+    if lat != "" and lng != "":
+        traffic_url = (
+            "https://www.google.com/maps/@?api=1&map_action=map"
+            f"&center={lat},{lng}&zoom=9&basemap=roadmap&layer=traffic"
+        )
+        traffic_card = f"""
+        <article class="condition-card condition-card-traffic">
+          <span class="condition-label">Traffic</span>
+          <strong>Live Traffic Map</strong>
+          <p>Open Google Maps with the traffic layer centered near the park to compare approach roads, entrances, and nearby congestion.</p>
+          <a href="{html.escape(traffic_url)}" target="_blank" rel="noopener">View live traffic</a>
+        </article>
+"""
+    visits = recreation_visits_from_body(body)
+    visits_card = ""
+    if visits:
+        visits_card = f"""
+        <article class="condition-card condition-card-stat">
+          <span class="condition-label">Recreation Visits</span>
+          <strong>{html.escape(visits)} <span>2025</span></strong>
+          <p>NPS Stats 2025 annual recreation visits.</p>
+          <a href="https://irma.nps.gov/Stats/" target="_blank" rel="noopener">Open NPS Stats</a>
+        </article>
+"""
+    return f"""
+    <section class="conditions-section" {' '.join(attrs)}>
+      <div class="section-heading">
+        <div>
+          <h2>Current Conditions</h2>
+          <p class="section-note">Live alerts where available, air quality, road status, traffic, and planning links for {html.escape(park_name)}.</p>
+        </div>
+      </div>
+      <div class="conditions-grid">
+        <article class="condition-card" data-condition-alerts>
+          <span class="condition-label">Alerts</span>
+          <strong>Loading...</strong>
+          <p>Checking official NPS alerts.</p>
+          <a href="{html.escape(conditions_url or official_url)}" target="_blank" rel="noopener">Open NPS conditions</a>
+        </article>
+        <article class="condition-card" data-condition-air>
+          <span class="condition-label">Air Quality</span>
+          <strong>Loading...</strong>
+          <p>Checking current AQI near the park.</p>
+          <a href="https://air-quality-api.open-meteo.com/" target="_blank" rel="noopener">Open air quality source</a>
+        </article>
+        <article class="condition-card" data-condition-roads>
+          <span class="condition-label">Roads</span>
+          <strong>Official Status</strong>
+          <p>Use the official park site for road closures, seasonal access, and local travel notices.</p>
+          <a href="{html.escape(conditions_url or official_url)}" target="_blank" rel="noopener">Open road conditions</a>
+        </article>
+        {traffic_card}
+        {visits_card}
+      </div>
     </section>
 """
 
@@ -2462,6 +2584,7 @@ def build_park_page(page, pages, content, resources, page_urls, webcam_sources):
       </div>
     </section>
     {live_section}
+    {render_current_conditions_section(page["slug"], park_name, links, weather_coords, body)}
     <section class="weather-section" {weather_attrs}>
       <div class="section-heading">
         <div><h2>{html.escape(park_name)} Weather</h2>{f'<p class="section-note">{html.escape(weather_note)}</p>' if weather_note else ''}</div>

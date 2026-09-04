@@ -1081,6 +1081,72 @@ h3 {
   margin-top: 18px;
 }
 
+.conditions-section {
+  padding: clamp(30px, 5vw, 64px) clamp(18px, 5vw, 78px);
+  background: #fff;
+  border-bottom: 1px solid var(--line);
+}
+
+.conditions-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.condition-card {
+  background: #f7faf8;
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--water);
+  border-radius: 8px;
+  display: grid;
+  gap: 8px;
+  min-height: 172px;
+  padding: 16px;
+}
+
+.condition-label {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+.condition-card strong {
+  color: var(--forest);
+  font-size: 1.15rem;
+  line-height: 1.2;
+}
+
+.condition-card strong span {
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.condition-card p {
+  color: var(--muted);
+  line-height: 1.45;
+  margin: 0;
+}
+
+.condition-card a {
+  align-self: end;
+  color: var(--water);
+  font-weight: 850;
+  margin-top: 4px;
+}
+
+.condition-good {
+  border-left-color: #2f7d4b;
+}
+
+.condition-watch {
+  border-left-color: #b7791f;
+}
+
+.condition-alert {
+  border-left-color: #b23b3b;
+}
+
 .weather-section {
   padding: clamp(34px, 6vw, 78px) clamp(18px, 5vw, 78px);
   background: var(--surface);
@@ -1367,6 +1433,7 @@ h3 {
   .nps-card,
   .page-layout,
   .map-explorer,
+  .conditions-grid,
   .weather-layout {
     grid-template-columns: 1fr;
   }
@@ -1489,6 +1556,7 @@ h3 {
 
   .park-browser,
   .resource-section,
+  .conditions-section,
   .weather-section,
   .page-layout,
   .related-parks-section {
