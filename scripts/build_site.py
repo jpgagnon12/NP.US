@@ -43,7 +43,7 @@ HOME_HERO_STREAMS = [
     {
         "park": "Yosemite",
         "label": "Yosemite Conservancy Live Webcam",
-        "url": "https://www.youtube.com/embed/tr2rngEzovQ",
+        "url": "https://www.youtube.com/embed/bTQLX4Nvq4c",
         "href": f"{NATIONALPARKCAM_SITE_URL}/parks/yosemite-webcam",
         "kind": "youtube",
     }
