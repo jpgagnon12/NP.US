@@ -1,6 +1,6 @@
-# Cuyahoga Valley National Park Guide
+# Cuyahoga Valley National Park Live Webcams
 
-Source: https://www.national-parks.us/cuyahoga-valley-national-park
+Source: https://www.nationalparkcam.com/parks/cuyahoga-valley-webcam
 
 Introduction
 

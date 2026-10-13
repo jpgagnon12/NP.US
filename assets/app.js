@@ -24,7 +24,6 @@ const noCameraParkSlugs = new Set([
   "capitol-reef-national-park",
   "carlsbad-caverns-national-park",
   "congaree-national-park",
-  "cuyahoga-valley-national-park",
   "death-valley-national-park",
   "dry-tortugas-national-park",
   "gates-of-the-arctic-national-park",
