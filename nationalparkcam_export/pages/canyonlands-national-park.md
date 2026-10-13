@@ -1,6 +1,6 @@
-# Canyonlands National Park Guide
+# Canyonlands National Park Live Webcams
 
-Source: https://www.national-parks.us/canyonlands-national-park
+Source: https://www.nationalparkcam.com/parks/canyonlands-webcam
 
 Introduction
 

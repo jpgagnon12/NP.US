@@ -21,7 +21,6 @@ const nationalParkCamBaseUrl = "https://www.nationalparkcam.com";
 const noCameraParkSlugs = new Set([
   "badlands-national-park",
   "biscayne-national-park",
-  "canyonlands-national-park",
   "capitol-reef-national-park",
   "carlsbad-caverns-national-park",
   "congaree-national-park",
