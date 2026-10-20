@@ -2752,6 +2752,10 @@ def main():
     shutil.copy(ROOT / "assets" / "npsLogo.png", ASSETS_OUT / "npsLogo.png")
     shutil.copy(ROOT / "assets" / "favicon-32x32.png", ASSETS_OUT / "favicon-32x32.png")
     shutil.copy(ROOT / "assets" / "apple-touch-icon.png", ASSETS_OUT / "apple-touch-icon.png")
+    # Unlisted review pages are deliberately excluded from navigation and sitemaps.
+    preview_source = ROOT / "previews"
+    if preview_source.exists():
+        shutil.copytree(preview_source, DIST / "previews")
 
     (DIST / "index.html").write_text(build_home(pages, content_by_url, resources_by_url, webcam_sources_by_slug), encoding="utf-8")
     info = info_pages()
