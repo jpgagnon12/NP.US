@@ -23,6 +23,7 @@ const noCameraParkSlugs = new Set([
   "biscayne-national-park",
   "capitol-reef-national-park",
   "carlsbad-caverns-national-park",
+  "chiricahua-national-park",
   "congaree-national-park",
   "death-valley-national-park",
   "dry-tortugas-national-park",

@@ -21,6 +21,7 @@ NATIONALPARKCAM_SITE_URL = "https://www.nationalparkcam.com"
 GOOGLE_ANALYTICS_ID = "G-Y64NX1DFKX"
 INFO_PAGE_SLUGS = {"about", "contact", "privacy-policy"}
 CONTENT_VERIFIED_DATE = "June 5, 2026"
+CONTENT_VERIFIED_DATES = {"chiricahua-national-park": "October 21, 2026"}
 ACTIVE_HERO_YOUTUBE_IDS = {
     "OteVW3af3BU",
     "OAJF1Ie1m_Q",
@@ -153,6 +154,7 @@ NO_CAMERA_PARK_NAMES = {
     "biscayne-national-park": "Biscayne National Park",
     "capitol-reef-national-park": "Capitol Reef National Park",
     "carlsbad-caverns-national-park": "Carlsbad Caverns National Park",
+    "chiricahua-national-park": "Chiricahua National Park",
     "congaree-national-park": "Congaree National Park",
     "death-valley-national-park": "Death Valley National Park",
     "dry-tortugas-national-park": "Dry Tortugas National Park",
@@ -230,6 +232,7 @@ PARK_COORDS = {
     "biscayne-national-park": [25.4824, -80.2083],
     "capitol-reef-national-park": [38.0877, -111.1355],
     "carlsbad-caverns-national-park": [32.1479, -104.5567],
+    "chiricahua-national-park": [32.0054, -109.3564],
     "congaree-national-park": [33.7919, -80.7487],
     "death-valley-national-park": [36.5323, -116.9325],
     "dry-tortugas-national-park": [24.6285, -82.8732],
@@ -320,6 +323,10 @@ WEATHER_LOCATION_LABELS = {
 }
 
 GUIDE_SEO = {
+    "chiricahua-national-park": {
+        "title": "Chiricahua National Park Guide | Hiking, Map & Weather",
+        "description": "Explore the newly designated Chiricahua National Park in Arizona with hiking, Massai Point, Bonita Canyon camping, maps, weather, and official NPS links.",
+    },
     "badlands-national-park": {
         "title": "Badlands National Park Guide | Hiking, Map & Weather",
         "description": "Plan Badlands National Park with hiking trails, Badlands Loop Road stops, camping notes, weather, map links, wildlife viewing, and official NPS resources.",
@@ -423,6 +430,7 @@ GUIDE_SEO = {
 }
 
 GUIDE_TOPICS = {
+    "chiricahua-national-park": {"hiking", "scenic-drives", "camping", "stargazing", "history", "wildlife"},
     "badlands-national-park": {"hiking", "desert", "wildlife", "scenic-drives", "camping"},
     "biscayne-national-park": {"water", "beaches", "paddling", "fishing", "camping"},
     "canyonlands-national-park": {"hiking", "desert", "scenic-drives", "backpacking", "paddling", "camping"},
@@ -479,6 +487,7 @@ TOPIC_LABELS = {
 }
 
 GUIDE_FAQ_ACTIVITIES = {
+    "chiricahua-national-park": "Drive to Massai Point, walk among the rock formations on Echo Canyon Loop, hike Sugarloaf or Heart of the Rocks, explore Faraway Ranch, watch birds, and enjoy the dark night skies.",
     "badlands-national-park": "Drive Badlands Loop Road, hike Door, Window, Notch, Castle, and Saddle Pass trails, watch sunrise or sunset along the Wall, and look for prairie wildlife.",
     "biscayne-national-park": "Boat tours, snorkeling, diving, paddling, fishing, island walks, and visits to Boca Chita Key, Elliott Key, Jones Lagoon, and the Maritime Heritage Trail are the main activities.",
     "canyonlands-national-park": "Top activities include Mesa Arch, Grand View Point, Upheaval Dome, Chesler Park, Elephant Hill, White Rim Road, backcountry hiking, and river trips.",
@@ -507,6 +516,7 @@ GUIDE_FAQ_ACTIVITIES = {
 }
 
 GUIDE_FAQ_CAMPING = {
+    "chiricahua-national-park": "Yes. Bonita Canyon Campground offers reservable campsites for tents and smaller vehicles. Check Recreation.gov for availability, driveway lengths, vehicle limits, and current restrictions before booking.",
     "badlands-national-park": "Yes. Cedar Pass Campground and Sage Creek Campground are the main in-park options, and backcountry camping is possible with careful planning.",
     "biscayne-national-park": "Yes, but camping is boat-access only on Boca Chita Key and Elliott Key. Campers need to bring water, food, and weather-ready supplies.",
     "canyonlands-national-park": "Yes. Island in the Sky and The Needles have frontcountry campgrounds, and many backcountry trips require permits and advanced planning.",
@@ -535,6 +545,10 @@ GUIDE_FAQ_CAMPING = {
 }
 
 GUIDE_IMAGES = {
+    "chiricahua-national-park": {
+        "url": "https://www.nps.gov/common/uploads/structured_data/391E0C41-F660-DF55-E2CD9A1ACFBC63C2.jpg?maxHeight=800&maxWidth=1200&quality=90",
+        "alt": "Rhyolite rock pinnacles and mountain views from Massai Point in Chiricahua National Park",
+    },
     "badlands-national-park": {
         "url": "https://www.nps.gov/common/uploads/banner_image/mwr/homepage/C4524107-A9DF-29E3-80B8554266867C06.jpg",
         "alt": "Badlands formations and prairie landscape in Badlands National Park",
@@ -1463,9 +1477,10 @@ def webcam_description(source, captions):
 
 def content_verified_note(page_slug):
     park_name = WEBCAM_PARK_NAMES.get(page_slug) or NO_CAMERA_PARK_NAMES.get(page_slug) or "this park"
+    verified_date = CONTENT_VERIFIED_DATES.get(page_slug, CONTENT_VERIFIED_DATE)
     return f"""
     <section class="content-verified-note" aria-label="Content verification">
-      <p><strong>Last content verified:</strong> {CONTENT_VERIFIED_DATE}. Check official NPS pages for current road, trail, campground, permit, shuttle, weather, webcam, and seasonal conditions before travel to {html.escape(park_name)}.</p>
+      <p><strong>Last content verified:</strong> {verified_date}. Check official NPS pages for current road, trail, campground, permit, shuttle, weather, webcam, and seasonal conditions before travel to {html.escape(park_name)}.</p>
     </section>
 """
 
