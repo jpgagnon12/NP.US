@@ -42,10 +42,10 @@ BLOCKED_YOUTUBE_IDS = {
 }
 HOME_HERO_STREAMS = [
     {
-        "park": "Yosemite",
-        "label": "Yosemite Conservancy Live Webcam",
-        "url": "https://www.youtube.com/embed/bTQLX4Nvq4c",
-        "href": f"{NATIONALPARKCAM_SITE_URL}/parks/yosemite-webcam",
+        "park": "Grand Teton",
+        "label": "Grand Teton Foundation Live Webcam",
+        "url": "https://www.youtube.com/embed/XhBUrjhJm1A",
+        "href": f"{NATIONALPARKCAM_SITE_URL}/parks/grand-tetons-webcam",
         "kind": "youtube",
     }
 ]
