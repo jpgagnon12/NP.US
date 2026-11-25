@@ -6,6 +6,16 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/parks/carlsbad-caverns-national-park",
+      "destination": "https://www.nps.gov/media/webcam/view.htm?id=ECD2475F-95A4-43C7-9E78-DED990F833F9",
+      "permanent": true
+    },
+    {
+      "source": "/parks/carlsbad-caverns-national-park.html",
+      "destination": "https://www.nps.gov/media/webcam/view.htm?id=ECD2475F-95A4-43C7-9E78-DED990F833F9",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [
         {
